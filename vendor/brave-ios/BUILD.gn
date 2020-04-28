@@ -4,6 +4,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 import("//build/config/ios/rules.gni")
+import("components/headers.gni")
 
 config("internal_config") {
   visibility = [
@@ -29,6 +30,7 @@ config("internal_config") {
     "Ledger/Data/Model",
     "Ledger/Models",
     "Shared",
+    "components",
     "objc-gen",
     "$target_gen_dir",
   ]
@@ -70,6 +72,7 @@ ios_framework_bundle("brave_rewards_ios_framework") {
     "//brave/vendor/bat-native-ledger",
     "//brave/vendor/bat-native-ads",
     "//url",
+    "components",
     ":rewards_db",
     ":resources",
     ":coredata",
@@ -161,6 +164,8 @@ ios_framework_bundle("brave_rewards_ios_framework") {
     "Ads/BATAdNotification.h",
     "$target_gen_dir/ledger.mojom.objc.h",
   ]
+
+  public_headers += brave_components_public_headers
 
   libs = [
     "Foundation.framework",
