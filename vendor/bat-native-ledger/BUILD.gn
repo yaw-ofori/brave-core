@@ -239,6 +239,8 @@ source_set("ledger") {
     "src/bat/ledger/internal/publisher/publisher.h",
     "src/bat/ledger/internal/publisher/publisher_server_list.cc",
     "src/bat/ledger/internal/publisher/publisher_server_list.h",
+    "src/bat/ledger/internal/publisher/publisher_youtube.cc",
+    "src/bat/ledger/internal/publisher/publisher_youtube.h",
     "src/bat/ledger/internal/report/report.cc",
     "src/bat/ledger/internal/report/report.h",
     "src/bat/ledger/internal/request/request_attestation.cc",

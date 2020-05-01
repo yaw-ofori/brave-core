@@ -41,6 +41,7 @@ namespace braveledger_publisher {
 
 Publisher::Publisher(bat_ledger::LedgerImpl* ledger):
   ledger_(ledger),
+  publisher_youtube_(new braveledger_publisher::YouTube(ledger)),
   state_(new ledger::PublisherSettingsProperties),
   server_list_(std::make_unique<PublisherServerList>(ledger)) {
   calcScoreConsts(state_->min_page_time_before_logging_a_visit);
@@ -954,6 +955,48 @@ bool Publisher::WasPublisherAlreadyProcessed(
     const std::string& publisher_key) const {
   const std::vector<std::string> list = state_->processed_pending_publishers;
   return std::find(list.begin(), list.end(), publisher_key) != list.end();
+}
+
+void Publisher::UpdateMediaDuration(
+    const std::string& media_type,
+    const std::string& media_id,
+    const std::string& media_key,
+    const std::string& url,
+    uint64_t duration) {
+  if (media_type == "youtube") {
+    publisher_youtube_->UpdateMediaDuration(media_id, media_key, url, duration);
+  }
+}
+
+void Publisher::SaveMediaVisitYoutubeChannel(
+    const std::string& url,
+    const std::string& channel_id,
+    const std::string& publisher_key,
+    const std::string& favicon_url,
+    const std::string& title) {
+  publisher_youtube_->SaveMediaVisitYoutubeChannel(
+      url,
+      channel_id,
+      publisher_key,
+      favicon_url,
+      title);
+}
+
+void Publisher::SaveMediaVisitYoutubeUser(
+    const std::string& url,
+    const std::string& channel_id,
+    const std::string& publisher_key,
+    const std::string& media_key) {
+  publisher_youtube_->SaveMediaVisitYoutubeUser(
+      url,
+      channel_id,
+      publisher_key,
+      media_key);
+}
+
+void Publisher::SaveMediaVisitYoutubeWatch(
+    const std::string& url) {
+  publisher_youtube_->SaveMediaVisitYoutubeWatch(url);
 }
 
 }  // namespace braveledger_publisher

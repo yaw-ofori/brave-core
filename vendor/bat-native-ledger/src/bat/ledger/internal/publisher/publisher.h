@@ -13,6 +13,7 @@
 
 #include "base/gtest_prod_util.h"
 #include "bat/ledger/internal/properties/publisher_settings_properties.h"
+#include "bat/ledger/internal/publisher/publisher_youtube.h"
 #include "bat/ledger/ledger.h"
 
 namespace bat_ledger {
@@ -132,6 +133,29 @@ class Publisher {
 
   bool IsConnectedOrVerified(const ledger::PublisherStatus status);
 
+  void UpdateMediaDuration(
+      const std::string& media_type,
+      const std::string& media_id,
+      const std::string& media_key,
+      const std::string& url,
+      uint64_t duration);
+
+  void SaveMediaVisitYoutubeChannel(
+      const std::string& url,
+      const std::string& channel_id,
+      const std::string& publisher_key,
+      const std::string& favicon_url,
+      const std::string& title);
+
+  void SaveMediaVisitYoutubeUser(
+      const std::string& url,
+      const std::string& channel_id,
+      const std::string& publisher_key,
+      const std::string& media_key);
+
+  void SaveMediaVisitYoutubeWatch(
+      const std::string& url);
+
  private:
   void OnRefreshPublisher(
     const ledger::Result result,
@@ -236,6 +260,7 @@ class Publisher {
   ledger::PublisherStatus ParsePublisherStatus(const std::string& status);
 
   bat_ledger::LedgerImpl* ledger_;  // NOT OWNED
+  std::unique_ptr<braveledger_publisher::YouTube> publisher_youtube_;
   std::unique_ptr<ledger::PublisherSettingsProperties> state_;
   std::unique_ptr<PublisherServerList> server_list_;
 
