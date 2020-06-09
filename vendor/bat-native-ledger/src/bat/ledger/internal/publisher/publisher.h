@@ -28,9 +28,6 @@ class Publisher {
 
   ~Publisher();
 
-  // Called when timer is triggered
-  void OnTimer(uint32_t timer_id);
-
   void RefreshPublisher(
       const std::string& publisher_key,
       ledger::OnRefreshPublisherCallback callback);

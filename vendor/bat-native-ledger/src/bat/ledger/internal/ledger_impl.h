@@ -316,8 +316,6 @@ class LedgerImpl : public ledger::Ledger {
       const ledger::PublisherInfoList* list,
       uint32_t /* next_record */);
 
-  void SetTimer(uint64_t time_offset, uint32_t* timer_id) const;
-
   void HasSufficientBalanceToReconcile(
       ledger::HasSufficientBalanceToReconcileCallback callback) override;
 
@@ -770,8 +768,6 @@ class LedgerImpl : public ledger::Ledger {
       const std::string& referrer,
       const std::string& post_data,
       ledger::VisitDataPtr visit_data) override;
-
-  void OnTimer(uint32_t timer_id) override;
 
   void saveVisitCallback(const std::string& publisher,
                          uint64_t verifiedTimestamp);

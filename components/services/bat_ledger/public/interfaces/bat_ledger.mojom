@@ -63,7 +63,7 @@ interface BatLedger {
   AttestPromotion(string promotion_id, string solution) => (ledger.mojom.Result result, ledger.mojom.Promotion? promotion);
   GetWalletPassphrase() => (string wallet_passphrase);
   RecoverWallet(string passPhrase) => (ledger.mojom.Result result, double balance);
-  
+
   SetRewardsMainEnabled(bool enabled);
   SetPublisherMinVisitTime(int32 duration_in_seconds);
   SetPublisherMinVisits(int32 visits);
@@ -72,8 +72,6 @@ interface BatLedger {
   SetAutoContributionAmount(double amount);
   SetAutoContributeEnabled(bool enabled);
   UpdateAdsRewards();
-
-  OnTimer(uint32 timer_id);
 
   GetBalanceReport(ledger.mojom.ActivityMonth month, int32 year) =>
       (ledger.mojom.Result result, ledger.mojom.BalanceReportInfo report);
@@ -177,9 +175,6 @@ interface BatLedgerClient {
   LoadURL(string url, array<string> headers, string content,
       string content_type, ledger.mojom.UrlMethod method) => (ledger.mojom.UrlResponse response);
 
-  [Sync]
-  SetTimer(uint64 time_offset) => (uint32 timer_id);
-  KillTimer(uint32 timer_id);
   [Sync]
   URIEncode(string value) => (string encoded_value);
 

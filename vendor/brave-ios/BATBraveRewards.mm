@@ -6,6 +6,11 @@
 #import "DataController.h"
 #import "RewardsLogging.h"
 
+#include "base/message_loop/message_loop_current.h"
+#include "base/task/single_thread_task_executor.h"
+
+base::SingleThreadTaskExecutor* g_task_executor = nullptr;
+
 @implementation BATBraveRewardsConfiguration
 
 + (BATBraveRewardsConfiguration *)defaultConfiguration
@@ -87,7 +92,11 @@
 {
   if ((self = [super init])) {
     rewards::set_rewards_client_for_logging(self);
-    
+
+    if (!base::MessageLoopCurrent::Get()) {
+      g_task_executor = new base::SingleThreadTaskExecutor(base::MessagePumpType::UI);
+    }
+
     self.configuration = configuration;
     self.delegate = delegate;
     self.ledgerClass = ledgerClass ?: BATBraveLedger.class;
@@ -101,7 +110,7 @@
     BATBraveLedger.testing = configuration.testing;
     BATBraveLedger.useShortRetries = configuration.useShortRetries;
     BATBraveLedger.reconcileInterval = configuration.overridenNumberOfSecondsBetweenReconcile;
-    
+
     [self setupLedgerAndAds];
   }
   return self;
@@ -160,7 +169,7 @@
 {
   // Check for private mode should be done on client side.
   if (!self.ledger.walletCreated || !self.ledger.isEnabled) { return; }
-  
+
   // New publisher database entry will be created if the pub doesn't exist.
   [self.ledger fetchPublisherActivityFromURL:url faviconURL:faviconURL publisherBlob:html tabId:tabId];
 }

@@ -31,10 +31,6 @@ Publisher::Publisher(bat_ledger::LedgerImpl* ledger):
 Publisher::~Publisher() {
 }
 
-void Publisher::OnTimer(uint32_t timer_id) {
-  server_list_->OnTimer(timer_id);
-}
-
 void Publisher::RefreshPublisher(
       const std::string& publisher_key,
       ledger::OnRefreshPublisherCallback callback) {

@@ -102,13 +102,9 @@ void Uphold::ContributionCompleted(
     const std::string& publisher_key,
     ledger::ResultCallback callback) {
   if (result == ledger::Result::LEDGER_OK) {
-    const auto current_time_seconds =
-        braveledger_time_util::GetCurrentTimeStamp();
     auto transfer_fee = ledger::TransferFee::New();
     transfer_fee->id = contribution_id;
     transfer_fee->amount = fee;
-    transfer_fee->execution_timestamp =
-        current_time_seconds + brave_base::random::Geometric(60);
     SaveTransferFee(std::move(transfer_fee));
 
     if (!publisher_key.empty()) {
@@ -304,9 +300,16 @@ void Uphold::SaveTransferFee(ledger::TransferFeePtr transfer_fee) {
     return;
   }
 
-  auto timer_id = 0u;
-  SetTimer(&timer_id);
-  transfer_fee->execution_id = timer_id;
+  base::TimeDelta delay = braveledger_time_util::GetRandomizedDelay(
+      base::TimeDelta::FromSeconds(45));
+
+  BLOG(1, "Uphold transfer fee timer set for " << delay);
+
+  transfer_fee_timers_[transfer_fee->id].Start(FROM_HERE, delay,
+      base::BindOnce(&Uphold::OnTransferFeeTimerElapsed,
+          base::Unretained(this),
+          transfer_fee->id));
+
   ledger_->SetTransferFee(ledger::kWalletUphold, std::move(transfer_fee));
 }
 
@@ -345,12 +348,14 @@ void Uphold::TransferFee(
   transfer_->Start(transaction, std::move(wallet), callback);
 }
 
-void Uphold::TransferFeeOnTimer(const uint32_t timer_id) {
+void Uphold::OnTransferFeeTimerElapsed(const std::string& id) {
+  transfer_fee_timers_.erase(id);
+
   const auto fees = ledger_->GetTransferFees(ledger::kWalletUphold);
 
   for (auto const& value : fees) {
     const auto fee = *value.second;
-    if (fee.execution_id == timer_id) {
+    if (fee.id == id) {
       auto callback = std::bind(&Uphold::TransferFee,
           this,
           _1,
@@ -361,20 +366,6 @@ void Uphold::TransferFeeOnTimer(const uint32_t timer_id) {
       return;
     }
   }
-}
-
-void Uphold::OnTimer(uint32_t timer_id) {
-  TransferFeeOnTimer(timer_id);
-}
-
-void Uphold::SetTimer(uint32_t* timer_id, uint64_t start_timer_in) {
-  if (start_timer_in == 0) {
-    start_timer_in = brave_base::random::Geometric(45);
-  }
-
-  BLOG(1, "Starts Uphold timer in " << start_timer_in);
-
-  ledger_->SetTimer(start_timer_in, timer_id);
 }
 
 }  // namespace braveledger_uphold

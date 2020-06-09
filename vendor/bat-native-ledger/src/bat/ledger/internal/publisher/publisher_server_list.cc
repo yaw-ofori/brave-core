@@ -35,18 +35,10 @@ const int kHardLimit = 100;
 namespace braveledger_publisher {
 
 PublisherServerList::PublisherServerList(bat_ledger::LedgerImpl* ledger) :
-    ledger_(ledger),
-    server_list_timer_id_(0ull) {
+    ledger_(ledger) {
 }
 
 PublisherServerList::~PublisherServerList() {
-}
-
-void PublisherServerList::OnTimer(uint32_t timer_id) {
-  if (timer_id == server_list_timer_id_) {
-    server_list_timer_id_ = 0;
-    Start([](const ledger::Result _){});
-  }
 }
 
 void PublisherServerList::Start(ledger::ResultCallback callback) {
@@ -145,7 +137,7 @@ void PublisherServerList::OnParsePublisherList(
 void PublisherServerList::SetTimer(bool retry_after_error) {
   auto start_timer_in = 0ull;
 
-  if (server_list_timer_id_ != 0) {
+  if (server_list_timer_.IsRunning()) {
     // timer in progress
     return;
   }
@@ -156,12 +148,16 @@ void PublisherServerList::SetTimer(bool retry_after_error) {
 
   // Start downloading right away
   if (start_timer_in == 0ull) {
-    OnTimer(server_list_timer_id_);
+    OnTimerElapsed();
     return;
   }
 
   // start timer
-  ledger_->SetTimer(start_timer_in, &server_list_timer_id_);
+  server_list_timer_.Start(
+      FROM_HERE,
+      base::TimeDelta::FromSeconds(start_timer_in),
+      base::BindOnce(&PublisherServerList::OnTimerElapsed,
+          base::Unretained(this)));
 }
 
 uint64_t PublisherServerList::GetTimerTime(
@@ -201,6 +197,10 @@ uint64_t PublisherServerList::GetTimerTime(
   }
 
   return start_timer_in;
+}
+
+void PublisherServerList::OnTimerElapsed() {
+  Start([](const ledger::Result _){});
 }
 
 ledger::PublisherStatus PublisherServerList::ParsePublisherStatus(
@@ -404,7 +404,7 @@ void PublisherServerList::BannerSaved(
 }
 
 void PublisherServerList::ClearTimer() {
-  server_list_timer_id_ = 0;
+  server_list_timer_.Stop();
 }
 
 }  // namespace braveledger_publisher

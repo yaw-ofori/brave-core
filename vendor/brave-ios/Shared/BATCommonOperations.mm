@@ -55,33 +55,6 @@
   return std::string([NSUUID UUID].UUIDString.UTF8String);
 }
 
-- (uint32_t)createTimerWithOffset:(uint64_t)offset timerFired:(void (^)(uint32_t))timerFired
-{
-  self.currentTimerID++;
-  const auto timerID = self.currentTimerID;
-
-  auto const __weak weakSelf = self;
-    
-  dispatch_async(dispatch_get_main_queue(), ^{
-      self.timers[[NSNumber numberWithUnsignedInt:timerID]] =
-      [NSTimer scheduledTimerWithTimeInterval:offset repeats:false block:^(NSTimer * _Nonnull timer) {
-          if (!weakSelf) { return; }
-          timerFired(timerID);
-      }];
-  });
-    
-  
-  return timerID;
-}
-
-- (void)removeTimerWithID:(uint32_t)timerID
-{
-  const auto key = [NSNumber numberWithUnsignedInt:timerID];
-  const auto timer = self.timers[key];
-  [timer invalidate];
-  [self.timers removeObjectForKey:key];
-}
-
 - (void)loadURLRequest:(const std::string &)url headers:(const std::vector<std::string> &)headers content:(const std::string &)content content_type:(const std::string &)content_type method:(const std::string &)method callback:(BATNetworkCompletionBlock)callback
 {
   const auto session = NSURLSession.sharedSession;
@@ -97,7 +70,7 @@
       [request setValue:value forHTTPHeaderField:name];
     }
   }
-  
+
   if (self.customUserAgent != nil &&
       self.customUserAgent.length > 0) {
     [request setValue:self.customUserAgent forHTTPHeaderField:@"User-Agent"];

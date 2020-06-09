@@ -12,6 +12,7 @@
 #include <map>
 #include <memory>
 
+#include "base/timer/timer.h"
 #include "bat/ledger/ledger.h"
 #include "bat/ledger/internal/uphold/uphold_user.h"
 
@@ -89,8 +90,6 @@ class Uphold {
       ledger::ExternalWalletPtr wallet,
       CreateAnonAddressCallback callback);
 
-  void OnTimer(uint32_t timer_id);
-
  private:
   void ContributionCompleted(
       const ledger::Result result,
@@ -125,9 +124,7 @@ class Uphold {
     ledger::ExternalWalletPtr wallet,
     const ledger::TransferFee& transfer_fee);
 
-  void TransferFeeOnTimer(const uint32_t timer_id);
-
-  void SetTimer(uint32_t* timer_id, uint64_t start_timer_in = 0);
+  void OnTransferFeeTimerElapsed(const std::string& id);
 
   std::unique_ptr<UpholdTransfer> transfer_;
   std::unique_ptr<UpholdCard> card_;
@@ -135,6 +132,7 @@ class Uphold {
   std::unique_ptr<UpholdAuthorization> authorization_;
   std::unique_ptr<UpholdWallet> wallet_;
   bat_ledger::LedgerImpl* ledger_;  // NOT OWNED
+  std::map<std::string, base::OneShotTimer> transfer_fee_timers_;
 };
 
 }  // namespace braveledger_uphold

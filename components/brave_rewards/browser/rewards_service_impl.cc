@@ -1781,14 +1781,6 @@ uint64_t RewardsServiceImpl::GetUint64Option(const std::string& name) const {
   return kUInt64Options.at(name);
 }
 
-void RewardsServiceImpl::KillTimer(uint32_t timer_id) {
-  if (timers_.find(timer_id) == timers_.end())
-    return;
-
-  timers_[timer_id]->Stop();
-  timers_.erase(timer_id);
-}
-
 void RewardsServiceImpl::OnResetState(
   ledger::ResultCallback callback, bool success) {
   if (!Connected()) {
@@ -1910,31 +1902,6 @@ void RewardsServiceImpl::TriggerOnRewardsMainEnabled(
     bool rewards_main_enabled) {
   for (auto& observer : observers_)
     observer.OnRewardsMainEnabled(this, rewards_main_enabled);
-}
-
-void RewardsServiceImpl::SetTimer(uint64_t time_offset,
-                                  uint32_t* timer_id) {
-  if (next_timer_id_ == std::numeric_limits<uint32_t>::max())
-    next_timer_id_ = 1;
-  else
-    ++next_timer_id_;
-
-  *timer_id = next_timer_id_;
-
-  timers_[next_timer_id_] = std::make_unique<base::OneShotTimer>();
-  timers_[next_timer_id_]->Start(FROM_HERE,
-      base::TimeDelta::FromSeconds(time_offset),
-      base::BindOnce(
-          &RewardsServiceImpl::OnTimer, AsWeakPtr(), next_timer_id_));
-}
-
-void RewardsServiceImpl::OnTimer(uint32_t timer_id) {
-  if (!Connected()) {
-    return;
-  }
-
-  timers_.erase(timer_id);
-  bat_ledger_->OnTimer(timer_id);
 }
 
 void LedgerToServiceBalanceReport(
@@ -3375,8 +3342,6 @@ void RewardsServiceImpl::SetTransferFee(
   base::Value fee(base::Value::Type::DICTIONARY);
   fee.SetStringKey("id", transfer_fee->id);
   fee.SetDoubleKey("amount", transfer_fee->amount);
-  fee.SetIntKey("execution_timestamp", transfer_fee->execution_timestamp);
-  fee.SetIntKey("execution_id", transfer_fee->execution_id);
 
   auto* external_wallets =
       profile_->GetPrefs()->GetDictionary(prefs::kRewardsExternalWallets);
@@ -3443,18 +3408,6 @@ ledger::TransferFeeList RewardsServiceImpl::GetTransferFees(
       continue;
     }
     fee->amount = amount->GetDouble();
-
-    auto* timestamp = fee_dict->FindKey("execution_timestamp");
-    if (!timestamp || !timestamp->is_int()) {
-      continue;
-    }
-    fee->execution_timestamp = timestamp->GetInt();
-
-    auto* execution_id = fee_dict->FindKey("execution_id");
-    if (!execution_id || !execution_id->is_int()) {
-      continue;
-    }
-    fee->execution_id = execution_id->GetInt();
 
     fees.insert(std::make_pair(fee->id, std::move(fee)));
   }

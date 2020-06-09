@@ -13,6 +13,7 @@
 #include <string>
 #include <vector>
 
+#include "base/timer/timer.h"
 #include "base/values.h"
 #include "bat/ledger/ledger.h"
 #include "bat/ledger/internal/publisher/publisher.h"
@@ -35,9 +36,6 @@ class PublisherServerList {
 
   void Start(ledger::ResultCallback callback);
 
-  // Called when timer is triggered
-  void OnTimer(uint32_t timer_id);
-
   void SetTimer(bool retry_after_error);
 
   void ClearTimer();
@@ -56,6 +54,8 @@ class PublisherServerList {
   uint64_t GetTimerTime(
       bool retry_after_error,
       const uint64_t last_download);
+
+  void OnTimerElapsed();
 
   ledger::PublisherStatus ParsePublisherStatus(const std::string& status);
 
@@ -83,7 +83,7 @@ class PublisherServerList {
       ledger::ResultCallback callback);
 
   bat_ledger::LedgerImpl* ledger_;  // NOT OWNED
-  uint32_t server_list_timer_id_;
+  base::OneShotTimer server_list_timer_;
   bool in_progress_ = false;
   uint32_t current_page_ = 1;
 };
