@@ -584,7 +584,7 @@ Para cambiar esta opción, <ph name="BEGIN_LINK">&lt;resetlink&gt;</ph>restablec
 <translation id="7975379999046275268">Revisar página <ph name="BEGIN_NEW"/>Nuevo<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Sitio web rápido</translation>
 <translation id="6112702117600201073">Actualizando página</translation>
-<translation id="6990079615885386641">Descarga la aplicación en Brave Play: <ph name="APP_ACTION"/></translation>
+<translation id="6990079615885386641">Descarga la aplicación en Google Play: <ph name="APP_ACTION"/></translation>
 <translation id="2414886740292270097">Oscuro</translation>
 <translation id="1807246157184219062">Claro</translation>
 <translation id="4056223980640387499">Sepia</translation>
@@ -718,7 +718,7 @@ Para cambiar esta opción, <ph name="BEGIN_LINK">&lt;resetlink&gt;</ph>restablec
 <translation id="673197144963363525">Ayudar a mejorar Brave enviando estadísticas de uso e informes sobre fallos.</translation>
 <translation id="3518985090088779359">Aceptar y continuar</translation>
 <translation id="7207456302801184289">Te damos la bienvenida a Brave</translation>
-<translation id="7189372733857464326">Esperando a que Servicios de Brave Play termine de actualizarse</translation>
+<translation id="7189372733857464326">Esperando a que Servicios de Google Play termine de actualizarse</translation>
 <translation id="1231733316453485619">¿Activar sincronización?</translation>
 <translation id="5132942445612118989">Sincroniza tus contraseñas, tu historial y otras opciones en todos tus dispositivos</translation>
 <translation id="5736731321935944068">Es posible que Brave utilice tu historial para personalizar la Búsqueda, los anuncios y otros servicios de Brave</translation>
