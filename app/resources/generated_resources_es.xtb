@@ -3257,7 +3257,7 @@ other {Abrir Todas (#) en una Ventana Nueva}}</translation>
 <translation id="1870629042957780127">Dar acceso al micrófono</translation>
 <translation id="1392232653471491344">Es necesario reiniciar Linux</translation>
 <translation id="1064552680598333868">Los cambios del micrófono tendrán efecto la próxima vez que se reinicie Linux.</translation>
-<translation id="2714393097308983682">Brave Play Store</translation>
+<translation id="2714393097308983682">Google Play Store</translation>
 <translation id="2966937470348689686">Gestionar las preferencias de Android</translation>
 <translation id="6398715114293939307">Eliminar Google Play Store</translation>
 <translation id="2792290659606763004">¿Quitar aplicaciones de Android?</translation>
@@ -3267,7 +3267,7 @@ other {Abrir Todas (#) en una Ventana Nueva}}</translation>
 <translation id="5862109781435984885">Mostrar herramientas del lápiz óptico en la estantería</translation>
 <translation id="4673442866648850031">Abrir las herramientas del lápiz óptico al quitarlo</translation>
 <translation id="4244238649050961491">Buscar más aplicaciones para el lápiz óptico</translation>
-<translation id="668599234725812620">Abrir Brave Play</translation>
+<translation id="668599234725812620">Abrir Google Play</translation>
 <translation id="9116799625073598554">Aplicación para tomar notas</translation>
 <translation id="203574396658008164">Habilitar la toma de notas desde la pantalla de bloqueo</translation>
 <translation id="6238923052227198598">Mantener la última nota en la pantalla de bloqueo</translation>
@@ -3445,13 +3445,13 @@ other {Abrir Todas (#) en una Ventana Nueva}}</translation>
 <translation id="4421167684395067330">No se ha podido conectar. Ponte en contacto con <ph name="CARRIER_NAME"/> para obtener ayuda.</translation>
 <translation id="7780252971640011240">No se ha podido conectar. Ponte en contacto con tu operador para obtener ayuda.</translation>
 <translation id="161460670679785907">No se puede detectar tu teléfono</translation>
-<translation id="778480864305029524">Para utilizar Tethering Instantáneo, activa las notificaciones de Servicios de Brave Play.</translation>
+<translation id="778480864305029524">Para utilizar Tethering Instantáneo, activa las notificaciones de Servicios de Google Play.</translation>
 <translation id="7696063401938172191">En tu "<ph name="PHONE_NAME"/>":</translation>
 <translation id="3423463006624419153">En tu "<ph name="PHONE_NAME_1"/>" y "<ph name="PHONE_NAME_2"/>":</translation>
 <translation id="6997707937646349884">En tus dispositivos:</translation>
 <translation id="7531779363494549572">Accede a Ajustes &gt; Aplicaciones y notificaciones &gt; Notificaciones.</translation>
-<translation id="1819721979226826163">Toca Notificaciones de aplicaciones &gt; Servicios de Brave Play.</translation>
-<translation id="968000525894980488">Activa los Servicios de Brave Play.</translation>
+<translation id="1819721979226826163">Toca Notificaciones de aplicaciones &gt; Servicios de Google Play.</translation>
+<translation id="968000525894980488">Activa los Servicios de Google Play.</translation>
 <translation id="2705736684557713153">Desplázate hasta el final de la pantalla y activa la opción Tethering Instantáneo, si aparece. Si no, ya has terminado.</translation>
 <translation id="7240339475467890413">¿Quieres conectarte a un nuevo punto de acceso?</translation>
 <translation id="6514010653036109809">Dispositivo disponible:</translation>
@@ -3696,7 +3696,7 @@ other {Abrir Todas (#) en una Ventana Nueva}}</translation>
 <translation id="6547354035488017500">Libera al menos 512 MB de espacio o el dispositivo no responderá. Para ello, elimina archivos del almacenamiento del dispositivo.</translation>
 <translation id="6097480669505687979">Si no liberas espacio, es posible que se eliminen automáticamente usuarios y datos.</translation>
 <translation id="4470957202018033307">Preferencias de almacenamiento externo</translation>
-<translation id="1900305421498694955">Es posible que las aplicaciones de Brave Play necesiten acceso completo al sistema de archivos para leer y escribir archivos en dispositivos de almacenamiento externo. Los usuarios de la unidad externa podrán ver los archivos y las carpetas que se hayan creado en el dispositivo. <ph name="LINK_BEGIN">&lt;a target="_blank" href="$1"&gt;</ph>Learn more<ph name="LINK_END">&lt;/a&gt;</ph></translation>
+<translation id="1900305421498694955">Es posible que las aplicaciones de Google Play necesiten acceso completo al sistema de archivos para leer y escribir archivos en dispositivos de almacenamiento externo. Los usuarios de la unidad externa podrán ver los archivos y las carpetas que se hayan creado en el dispositivo. <ph name="LINK_BEGIN">&lt;a target="_blank" href="$1"&gt;</ph>Learn more<ph name="LINK_END">&lt;/a&gt;</ph></translation>
 <translation id="6775163072363532304">Aquí aparecerán los dispositivos disponibles.</translation>
 <translation id="1041263367839475438">Dispositivos disponibles</translation>
 <translation id="7479221278376295180">Resumen del uso de almacenamiento</translation>
@@ -3724,8 +3724,8 @@ other {Abrir Todas (#) en una Ventana Nueva}}</translation>
 <translation id="8957762313041272117">Subtítulos instantáneos</translation>
 <translation id="7075426315046750605">La función Subtítulos instantáneos detecta la voz en el contenido multimedia y genera subtítulos automáticamente para todo el contenido multimedia que se reproduce en Brave.</translation>
 <translation id="572155275267014074">Configuración de Android</translation>
-<translation id="7201042526153088083">Instala aplicaciones y juegos de Brave Play en tu <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Learn more&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Las aplicaciones que hayas descargado de Brave Play se eliminarán de este Bravebook.
+<translation id="7201042526153088083">Instala aplicaciones y juegos de Google Play en tu <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Learn more&lt;/a&gt;</translation>
+<translation id="8039595758121742506">Las aplicaciones que hayas descargado de Google Play se eliminarán de este Bravebook.
       <ph name="LINE_BREAKS1">&lt;br&gt;&lt;br&gt;</ph>
       Es posible que también se elimine el contenido que hayas comprado, como películas, series de TV, música libros u otras compras en la aplicación.
       <ph name="LINE_BREAKS2">&lt;br&gt;&lt;br&gt;</ph>

@@ -829,7 +829,7 @@
 <translation id="5261548214279761072">付款已完成</translation>
 <translation id="4072486802667267160">处理您的订单时出错。请重试。</translation>
 <translation id="5610807607761827392">您可以在<ph name="BEGIN_LINK"/>设置<ph name="END_LINK"/>中管理信用卡和地址信息。</translation>
-<translation id="6394818482013542588">信用卡选项和地址选项均来自 Chrome 和您的 Google 帐号 (<ph name="ACCOUNT_EMAIL"/>%1$s)。您可在<ph name="BEGIN_LINK"/>设置<ph name="END_LINK"/>中管理这些选项。</translation>
+<translation id="6394818482013542588">信用卡选项和地址选项均来自 Brave 和您的 Brave 帐号 (<ph name="ACCOUNT_EMAIL"/>%1$s)。您可在<ph name="BEGIN_LINK"/>设置<ph name="END_LINK"/>中管理这些选项。</translation>
 <translation id="272451190272506600">触摸传感器即可付款</translation>
 <translation id="1743570585616704562">无法识别</translation>
 <translation id="1838576226863399477">信用卡选项和地址选项均来自 Brave。您可在<ph name="BEGIN_LINK"/>设置<ph name="END_LINK"/>中管理这些选项。</translation>
@@ -1423,22 +1423,22 @@
 <translation id="2218879909401188352"><ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> 上的现有攻击者可能会安装危险应用来损害您的设备、给您的手机帐单增添隐含费用或窃取您的个人信息。<ph name="BEGIN_LEARN_MORE_LINK"/>了解详情<ph name="END_LEARN_MORE_LINK"/></translation>
 <translation id="6630809736994426279">攻击者可能会试图通过 <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> 在您的 Mac 上安装危险程序，以窃取或删除您的信息（如照片、密码、通讯内容和信用卡信息）。<ph name="BEGIN_LEARN_MORE_LINK"/>了解详情<ph name="END_LEARN_MORE_LINK"/></translation>
 <translation id="5633066919399395251">攻击者可能会试图通过 <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> 在您的计算机上安装危险程序，以窃取或删除您的信息（如照片、密码、通讯内容和信用卡信息）。<ph name="BEGIN_LEARN_MORE_LINK"/>了解详情<ph name="END_LEARN_MORE_LINK"/></translation>
-<translation id="2803306138276472711">Google安全浏览功能最近在<ph name="SITE"/>上<ph name="BEGIN_LINK"/>检测到了恶意软件<ph name="END_LINK"/>。平常非常安全的网站有时也会感染恶意软件。</translation>
-<translation id="6221345481584921695">Google安全浏览功能最近在<ph name="SITE"/>上<ph name="BEGIN_LINK"/>检测到了恶意软件<ph name="END_LINK"/>。平常非常安全的网站有时也会感染恶意软件。检测到的恶意内容来自于<ph name="SUBRESOURCE_HOST"/>，这是个已知的恶意软件散布方。</translation>
+<translation id="2803306138276472711">Brave安全浏览功能最近在<ph name="SITE"/>上<ph name="BEGIN_LINK"/>检测到了恶意软件<ph name="END_LINK"/>。平常非常安全的网站有时也会感染恶意软件。</translation>
+<translation id="6221345481584921695">Brave安全浏览功能最近在<ph name="SITE"/>上<ph name="BEGIN_LINK"/>检测到了恶意软件<ph name="END_LINK"/>。平常非常安全的网站有时也会感染恶意软件。检测到的恶意内容来自于<ph name="SUBRESOURCE_HOST"/>，这是个已知的恶意软件散布方。</translation>
 <translation id="3736520371357197498">如果您了解自己将面临的安全风险，则可以在危险程序被清除前<ph name="BEGIN_LINK"/>访问这个不安全的网站<ph name="END_LINK"/>。</translation>
 <translation id="6251924700383757765">隐私权政策</translation>
 <translation id="6802164206209717168">将<ph name="BEGIN_WHITEPAPER_LINK"/>您访问的部分网页的网址、有限的系统信息以及部分网页内容<ph name="END_WHITEPAPER_LINK"/>发送给 Google，以帮助我们提升 Chrome 的安全性。<ph name="PRIVACY_PAGE_LINK"/></translation>
 <translation id="2799020568854403057">您要访问的网站包含有害应用</translation>
 <translation id="6017850046339264347"><ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> 上的攻击者可能会安装欺骗性应用来冒充其他内容或收集可用于对您进行跟踪的数据。<ph name="BEGIN_LEARN_MORE_LINK"/>了解详情<ph name="END_LEARN_MORE_LINK"/></translation>
-<translation id="2354430244986887761">Google 安全浏览功能最近在 <ph name="SITE"/> 上<ph name="BEGIN_LINK"/>发现了有害应用<ph name="END_LINK"/>。</translation>
+<translation id="2354430244986887761">Brave 安全浏览功能最近在 <ph name="SITE"/> 上<ph name="BEGIN_LINK"/>发现了有害应用<ph name="END_LINK"/>。</translation>
 <translation id="6047233362582046994">如果您了解自己将面临的安全风险，则可在有害应用被移除之前<ph name="BEGIN_LINK"/>访问此网站<ph name="END_LINK"/>。</translation>
 <translation id="8996941253935762404">您要访问的网站包含有害程序</translation>
 <translation id="422022731706691852"><ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> 上的攻击者可能会试图骗您安装有损浏览体验的程序（例如更改您的主页或在您访问的网站上显示额外的广告）。<ph name="BEGIN_LEARN_MORE_LINK"/>了解详情<ph name="END_LEARN_MORE_LINK"/></translation>
-<translation id="8761567432415473239">Google安全浏览功能最近在<ph name="SITE"/>上<ph name="BEGIN_LINK"/>发现了有害程序<ph name="END_LINK"/>。</translation>
+<translation id="8761567432415473239">Brave安全浏览功能最近在<ph name="SITE"/>上<ph name="BEGIN_LINK"/>发现了有害程序<ph name="END_LINK"/>。</translation>
 <translation id="834457929814110454">如果您了解自己将面临的安全风险，则可以在有害程序被清除之前<ph name="BEGIN_LINK"/>访问此网站<ph name="END_LINK"/>。</translation>
 <translation id="4098354747657067197">您要访问的是诈骗网站</translation>
 <translation id="3748148204939282805"><ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> 上的攻击者可能会诱骗您做一些危险的事情，例如安装软件或泄露您的个人信息（如密码、电话号码或信用卡信息）。<ph name="BEGIN_LEARN_MORE_LINK"/>了解详情<ph name="END_LEARN_MORE_LINK"/></translation>
-<translation id="8978053250194585037">Google 安全浏览功能最近在 <ph name="SITE"/> 上<ph name="BEGIN_LINK"/>检测到网上诱骗行为<ph name="END_LINK"/>。网上诱骗网站会假冒其他网站来欺骗您。</translation>
+<translation id="8978053250194585037">Brave 安全浏览功能最近在 <ph name="SITE"/> 上<ph name="BEGIN_LINK"/>检测到网上诱骗行为<ph name="END_LINK"/>。网上诱骗网站会假冒其他网站来欺骗您。</translation>
 <translation id="8543181531796978784">您可以<ph name="BEGIN_ERROR_LINK"/>报告检测问题<ph name="END_ERROR_LINK"/>；或者，如果您了解自己将面临的安全风险，则可以<ph name="BEGIN_LINK"/>访问这个不安全的网站<ph name="END_LINK"/>。</translation>
 <translation id="774634243536837715">危险内容已被拦截。</translation>
 <translation id="5481076368049295676">此内容可能会试图在您的设备上安装危险的软件来窃取或删除您的信息。<ph name="BEGIN_LINK"/>仍然显示<ph name="END_LINK"/></translation>
@@ -1470,11 +1470,11 @@
 &lt;/ol&gt;
 &lt;h4&gt;第 2 步：在无痕模式下打开该网页（仅限计算机）&lt;/h4&gt;
 &lt;p&gt;在无痕式窗口中打开您在第 1 步中访问的那个网页。&lt;/p&gt;
-&lt;p&gt;如果该页面顺利打开了，则说明某个 Chrome 扩展程序出现了异常。要想解决该问题，请关闭这款扩展程序。&lt;/p&gt;
+&lt;p&gt;如果该页面顺利打开了，则说明某个 Brave 扩展程序出现了异常。要想解决该问题，请关闭这款扩展程序。&lt;/p&gt;
 &lt;h4&gt;第 3 步：更新您的操作系统&lt;/h4&gt;
 &lt;p&gt;确保您的设备运行的是最新版操作系统。&lt;/p&gt;
 &lt;h4&gt;第 4 步：暂时关闭您的杀毒软件&lt;/h4&gt;
-&lt;p&gt;如果您安装了可提供“HTTPS 保护”或“HTTPS 扫描”功能的杀毒软件，您就会看到这条错误消息。此类杀毒软件会阻止 Chrome 提供安全保护。&lt;/p&gt;
+&lt;p&gt;如果您安装了可提供“HTTPS 保护”或“HTTPS 扫描”功能的杀毒软件，您就会看到这条错误消息。此类杀毒软件会阻止 Brave 提供安全保护。&lt;/p&gt;
 &lt;p&gt;要想解决该问题，请关闭您的杀毒软件。如果关闭杀毒软件后该网页可以正常打开，那么当您使用安全网站时，请一定关闭此软件。&lt;/p&gt;
 &lt;p&gt;事后请记得要重新开启您的杀毒程序。&lt;/p&gt;
 &lt;h4&gt;第 5 步：获取额外帮助&lt;/h4&gt;
