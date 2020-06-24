@@ -25,7 +25,7 @@
 
 #import "RewardsLogging.h"
 
-base::SingleThreadTaskExecutor* g_task_executor = nullptr;
+//base::SingleThreadTaskExecutor* g_task_executor = nullptr;
 
 #define BATClassAdsBridge(__type, __objc_getter, __objc_setter, __cpp_var) \
   + (__type)__objc_getter { return ads::__cpp_var; } \
@@ -66,9 +66,9 @@ static NSString * const kAutomaticallyDetectedAdsSubdivisionTargetingCodePrefKey
 {
   if ((self = [super init])) {
     // TODO(brave): Added task executor to ledger when ledger uses Timer/RetryTimer
-    if (!base::MessageLoopCurrent::Get()) {
-      g_task_executor = new base::SingleThreadTaskExecutor(base::MessagePumpType::UI);
-    }
+//    if (!base::MessageLoopCurrent::Get()) {
+//      g_task_executor = new base::SingleThreadTaskExecutor(base::MessagePumpType::UI);
+//    }
 
     self.storagePath = path;
     self.commonOps = [[BATCommonOperations alloc] initWithStoragePath:path];
