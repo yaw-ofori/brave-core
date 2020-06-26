@@ -3,10 +3,10 @@
 <translationbundle lang="pl">
 <translation id="7307834434086582547">Włącz/wyłącz tarcze Brave</translation>
 <translation id="6303294677342628402">Tarcze</translation>
-<translation id="6132506775968708399">Blokuj pliki cookie stron trzecich</translation>
-<translation id="7835726359440951858">Blokuj reklamy i skrypty śledzące</translation>
+<translation id="6132506775968708399">Zablokuj pliki cookie stron trzecich</translation>
+<translation id="7835726359440951858">Zablokuj reklamy i skrypty śledzące</translation>
 <translation id="3570081523466826008">Aktualizacje HTTPS</translation>
-<translation id="94154759592465111">Blokuj skrypty</translation>
+<translation id="94154759592465111">Zablokuj skrypty</translation>
 <translation id="7458422973722236530">Ochrona przed rozpoznawaniem urządzenia</translation>
 <translation id="5709627087332022422">Zablokuj skrypty śledzące</translation>
 <translation id="6754976710186182237">Metody rozpoznawania urządzenia</translation>
@@ -27,7 +27,7 @@
 <translation id="7459000603787995422">Zamknij karty przy wyjściu</translation>
 <translation id="1680858055899097121">Nie utrzymuj kart między sesjami przeglądania</translation>
 <translation id="4339730410920731698">Zablokowane reklamy i skrypty śledzące</translation>
-<translation id="6761596877474675418">Zaoszczędzonych danych</translation>
+<translation id="6761596877474675418">Zaoszczędzony transfer danych</translation>
 <translation id="3034562645284925177">Szacowany zaoszczędzony czas</translation>
 <translation id="6572660632052512096">Wersja na komputer</translation>
 <translation id="1340503115760585811">Włącz wersję na komputer dla nowych kart</translation>
@@ -191,7 +191,7 @@ przez kolejne 90 dni lub do momentu zarejestrowania się twórców.</translation
 <translation id="3149880132460839085">Synchronizacja Brave</translation>
 <translation id="3680755684186855422">Brave Sync umożliwia prywatną synchronizację danych zakładek między przeglądarkami Brave na różnych urządzeniach.</translation>
 <translation id="3735228155296883311">Po prostu zeskanuj kod z łańcucha synchronizacji utworzonego na Twoim innym urządzeniu. Albo rozpocznij nowy łańcuch synchronizacji.</translation>
-<translation id="4690880825349994619">Korzystając z istniejącego zsynchronizowanego urządzenia, otwórz ustawienia Brave i wejdź w Ustawienia &gt; Synchronizacja. Wybierz Dodaj urządzenie i zeskanuj kod QR wyświetlony na ekranie.</translation>
+<translation id="4690880825349994619">Korzystając z istniejącego zsynchronizowanego urządzenia, otwórz ustawienia Brave i wejdź w Ustawienia &amp;gt; Synchronizacja. Wybierz Dodaj urządzenie i zeskanuj kod QR wyświetlony na ekranie.</translation>
 <translation id="5241263629636958324">Skopiowane do schowka</translation>
 <translation id="5817918615728894473">Sparuj</translation>
 <translation id="9154490620151093733">Wysłano żądanie usunięcia. Urządzenie zostanie wkrótce usunięte.</translation>
@@ -201,9 +201,9 @@ przez kolejne 90 dni lub do momentu zarejestrowania się twórców.</translation
 <translation id="1602067095281698985">Rozpocznij nowy łańcuch synchronizacji</translation>
 <translation id="1475223680121592371">Dodaj urządzenie przenośne</translation>
 <translation id="2965377893636908578">Dodaj komputer</translation>
-<translation id="6604289897677913048">Korzystając z drugiego telefonu lub tabletu, wejdź w Ustawienia Brave &gt; Synchronizacja &gt; Skanowanie.</translation>
+<translation id="6604289897677913048">Korzystając z drugiego telefonu lub tabletu, wejdź w Ustawienia Brave &amp;gt; Synchronizacja &amp;gt; Skanowanie.</translation>
 <translation id="8508856434435157945">Na swoim urządzeniu przenośnym przejdź do synchronizacji Brave w panelu ustawień i kliknij przycisk Zeskanuj kod synchronizacji. Użyj aparatu, aby zeskanować kod QR poniżej.</translation>
-<translation id="2590683710114839102">Na swoim komputerze wejdź w Ustawienia Brave &gt; Synchronizacja. Wybierz Wprowadź kod łańcuchowy synchronizacji.</translation>
+<translation id="2590683710114839102">Na swoim komputerze wejdź w Ustawienia Brave &amp;gt; Synchronizacja. Wybierz Wprowadź kod łańcuchowy synchronizacji.</translation>
 <translation id="65315202420929965">Zeskanuj ten kod synchronizacji</translation>
 <translation id="6764016175302339802">Traktuj ten kod jak hasło. Jeśli ktoś go przechwyci, będzie mógł odczytać i zmodyfikować Twoje zsynchronizowane dane.</translation>
 <translation id="544873101641618162">Wczytywanie danych...</translation>
@@ -217,7 +217,7 @@ przez kolejne 90 dni lub do momentu zarejestrowania się twórców.</translation
 <translation id="6776430845975754238">Zmiana ustawień będzie miała wpływ tylko na dane, które to urządzenie udostępnia innym.</translation>
 <translation id="6450924769151530465">Dodaj inne urządzenie</translation>
 <translation id="7539985410310934287">Wprowadź słowa kodu</translation>
-<translation id="6270614677029463366">Korzystając z istniejącego zsynchronizowanego urządzenia, otwórz ustawienia Brave i wejdź w Ustawienia &gt; Synchronizacja. Wybierz Dodaj urządzenie, a następnie Zamiast tego wyświetl słowa kodu.</translation>
+<translation id="6270614677029463366">Korzystając z istniejącego zsynchronizowanego urządzenia, otwórz ustawienia Brave i wejdź w Ustawienia &amp;gt; Synchronizacja. Wybierz Dodaj urządzenie, a następnie Zamiast tego wyświetl słowa kodu.</translation>
 <translation id="8131740175452115882">Potwierdź</translation>
 <translation id="4973653569293835178">Użyję mojego aparatu...</translation>
 <translation id="3998827900918661986">Urządzenie z systemem Android</translation>
@@ -315,13 +315,13 @@ przez kolejne 90 dni lub do momentu zarejestrowania się twórców.</translation
 <translation id="7952665812649667034">Mogę już Zarabiać i dawać</translation>
 <translation id="7877201489035217175">Dowiedz się więcej o sponsorowanych obrazach</translation>
 <translation id="828092975561478703">Za każdy sponsorowany obraz, który oglądasz, otrzymujesz 70% przychodu w tokenach. Dzięki Brave Ads zawsze masz kontrolę nad reklamami, które widzisz.</translation>
-<translation id="4941539331405513605">Blokuj pliki cookies między witrynami</translation>
+<translation id="4941539331405513605">Zablokuj pliki cookies między witrynami</translation>
 <translation id="3763681089644577874">Zablokuj pliki cookies</translation>
 <translation id="614747795780742163">Uniemożliwia stronom internetowym przechowywanie danych o wcześniejszych wizytach</translation>
-<translation id="6883611015375728278">Blokuj wszystkie pliki cookie</translation>
-<translation id="5657156137487675418">Zezwól na wszystkie pliki cookie</translation>
+<translation id="6883611015375728278">Zablokuj wszystkie pliki cookie</translation>
+<translation id="5657156137487675418">Zezwalaj na wszystkie pliki cookie</translation>
 <translation id="5963670684159057574">Zablokuj rozpoznawanie urządzenia przez strony trzecie</translation>
-<translation id="3895527457258986253">Blokuj zdejmowanie odcisków palca</translation>
+<translation id="3895527457258986253">Zablokuj rozpoznawanie urządzenia</translation>
 <translation id="184568144098869637">Uniemożliwia przeglądarce rozpoznanie Twojego urządzenia</translation>
 <translation id="4540198958192073185">Zablokuj rozpoznawanie urządzenia</translation>
 <translation id="769702552748212954">Zezwalaj na rozpoznawanie urządzenia</translation>
@@ -339,4 +339,6 @@ przez kolejne 90 dni lub do momentu zarejestrowania się twórców.</translation
 <translation id="76550953340008122">Dziękujemy za poinformowanie deweloperów Brave, że coś jest nie tak z tą witryną. Dołożymy wszelkich starań, aby ją naprawić!</translation>
 <translation id="650318023204990401">Zaawansowane sterowanie</translation>
 <translation id="7182293319417450928">Do weryfikacji wymagane jest minimalne saldo w wysokości 25 BAT.</translation>
+<translation id="1275664486910646411">Pokaż popularne strony w autouzupełnieniu</translation>
+<translation id="5516010970279932133">Pokaż sugestie stron w autouzupełnieniu</translation>
 </translationbundle>
