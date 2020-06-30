@@ -13,9 +13,6 @@
 
 #include "base/task/post_task.h"
 #include "base/task/thread_pool/thread_pool_instance.h"
-#include "bat/ads/issuers_info.h"
-#include "bat/ads/ad_notification_info.h"
-#include "bat/confirmations/confirmations.h"
 #include "bat/ledger/internal/api/api.h"
 #include "bat/ledger/internal/media/media.h"
 #include "bat/ledger/internal/common/time_util.h"
@@ -123,7 +120,6 @@ void LedgerImpl::StartServices() {
   bat_contribution_->Initialize();
   bat_promotion_->Initialize();
   bat_api_->Initialize();
-  SetConfirmationsWalletInfo();
   braveledger_recovery::Check(this);
 }
 
@@ -182,89 +178,7 @@ void LedgerImpl::OnStateInitialized(
     return;
   }
 
-  MaybeInitializeConfirmations(callback);
-}
-
-void LedgerImpl::MaybeInitializeConfirmations(
-    ledger::ResultCallback callback) {
-  confirmations::_environment = ledger::_environment;
-  confirmations::_is_debug = ledger::is_debug;
-
-  const bool is_enabled = GetBooleanState(ledger::kStateEnabled);
-
-  if (is_enabled) {
-    InitializeConfirmations(callback);
-    return;
-  }
-
   callback(ledger::Result::LEDGER_OK);
-}
-
-void LedgerImpl::InitializeConfirmations(
-    ledger::ResultCallback callback) {
-  bat_confirmations_.reset(
-      confirmations::Confirmations::CreateInstance(ledger_client_));
-
-  auto initialized_callback = std::bind(&LedgerImpl::OnConfirmationsInitialized,
-      this,
-      _1,
-      callback);
-  bat_confirmations_->Initialize(initialized_callback);
-}
-
-void LedgerImpl::OnConfirmationsInitialized(
-    const bool success,
-    ledger::ResultCallback callback) {
-  if (!success) {
-    // If confirmations fail, we should fall-through and continue initializing
-    // ledger
-    BLOG(0, "Failed to initialize confirmations");
-  }
-
-  callback(ledger::Result::LEDGER_OK);
-}
-
-void LedgerImpl::StartConfirmations() {
-  if (IsConfirmationsRunning()) {
-    return;
-  }
-
-  bat_confirmations_.reset(
-      confirmations::Confirmations::CreateInstance(ledger_client_));
-
-  const auto callback = std::bind(&LedgerImpl::OnConfirmationsStarted,
-      this,
-      _1);
-  bat_confirmations_->Initialize(callback);
-}
-
-void LedgerImpl::OnConfirmationsStarted(
-    const bool success) {
-  if (!success) {
-    BLOG(0, "Failed to start confirmations");
-    return;
-  }
-
-  BLOG(1, "Successfully started confirmations");
-
-  SetConfirmationsWalletInfo();
-}
-
-void LedgerImpl::ShutdownConfirmations() {
-  if (!IsConfirmationsRunning()) {
-    return;
-  }
-
-  BLOG(1, "Successfully shutdown confirmations");
-  bat_confirmations_.release();
-}
-
-bool LedgerImpl::IsConfirmationsRunning() {
-  if (!bat_confirmations_ || !initialized_) {
-    return false;
-  }
-
-  return true;
 }
 
 void LedgerImpl::CreateWallet(ledger::ResultCallback callback) {
@@ -419,36 +333,6 @@ void LedgerImpl::OnPostData(
 
 void LedgerImpl::LoadLedgerState(ledger::OnLoadCallback callback) {
   ledger_client_->LoadLedgerState(std::move(callback));
-}
-
-void LedgerImpl::SetConfirmationsWalletInfo() {
-  if (!IsConfirmationsRunning()) {
-    return;
-  }
-
-  const auto recovery_seed = braveledger_state::GetRecoverySeed(this);
-  const std::vector<uint8_t> seed =
-      braveledger_bat_helper::getHKDF(recovery_seed);
-  std::vector<uint8_t> public_key;
-  std::vector<uint8_t> secret_key;
-
-  if (!braveledger_bat_helper::getPublicKeyFromSeed(seed, &public_key,
-      &secret_key)) {
-    BLOG(0, "Failed to initialize confirmations due to invalid wallet");
-    return;
-  }
-
-  confirmations::WalletInfo wallet_info;
-  wallet_info.payment_id = GetPaymentId();
-  wallet_info.private_key = braveledger_bat_helper::uint8ToHex(secret_key);
-
-  if (!wallet_info.IsValid()) {
-    BLOG(0, "Failed to initialize confirmations due to invalid wallet");
-    return;
-  }
-
-  bat_confirmations_->SetWalletInfo(
-      std::make_unique<confirmations::WalletInfo>(wallet_info));
 }
 
 void LedgerImpl::LoadPublisherState(ledger::OnLoadCallback callback) {
@@ -614,12 +498,6 @@ void LedgerImpl::GetExcludedList(ledger::PublisherInfoListCallback callback) {
 void LedgerImpl::SetRewardsMainEnabled(bool enabled) {
   braveledger_state::SetRewardsMainEnabled(this, enabled);
   bat_publisher_->SetPublisherServerListTimer(enabled);
-
-  if (enabled) {
-    StartConfirmations();
-  } else {
-    ShutdownConfirmations();
-  }
 }
 
 void LedgerImpl::SetPublisherMinVisitTime(int duration) {
@@ -885,14 +763,6 @@ ledger::ActivityInfoFilterPtr LedgerImpl::CreateActivityFilter(
                                                min_visits);
 }
 
-void LedgerImpl::UpdateAdsRewards(const bool should_refresh) {
-  if (!IsConfirmationsRunning()) {
-    return;
-  }
-
-  bat_confirmations_->UpdateAdsRewards(should_refresh);
-}
-
 void LedgerImpl::ResetReconcileStamp() {
   braveledger_state::SetReconcileStamp(this, ledger::reconcile_interval);
   ledger_client_->ReconcileStampReset();
@@ -970,71 +840,6 @@ void LedgerImpl::SaveNormalizedPublisherList(ledger::PublisherInfoList list) {
       std::move(save_list),
       [](const ledger::Result){});
   ledger_client_->PublisherListNormalized(std::move(list));
-}
-
-void LedgerImpl::SetCatalogIssuers(const std::string& info) {
-  if (!IsConfirmationsRunning()) {
-    return;
-  }
-
-  ads::IssuersInfo issuers_info_ads;
-  if (issuers_info_ads.FromJson(info) != ads::Result::SUCCESS)
-    return;
-
-  auto issuers_info = std::make_unique<confirmations::IssuersInfo>();
-  issuers_info->public_key = issuers_info_ads.public_key;
-  for (ads::IssuerInfo issuer_info_ad : issuers_info_ads.issuers) {
-    confirmations::IssuerInfo issuer_info;
-    issuer_info.name = issuer_info_ad.name;
-    issuer_info.public_key = issuer_info_ad.public_key;
-    issuers_info->issuers.push_back(issuer_info);
-  }
-
-  bat_confirmations_->SetCatalogIssuers(std::move(issuers_info));
-}
-
-void LedgerImpl::ConfirmAd(
-    const std::string& json,
-    const std::string& confirmation_type) {
-  if (!IsConfirmationsRunning()) {
-    return;
-  }
-
-  ads::AdInfo ad_info;
-  if (ad_info.FromJson(json) != ads::Result::SUCCESS) {
-    return;
-  }
-
-  confirmations::AdInfo confirmations_ad_info;
-  confirmations_ad_info.creative_instance_id = ad_info.creative_instance_id;
-  confirmations_ad_info.creative_set_id = ad_info.creative_set_id;
-  confirmations_ad_info.category = ad_info.category;
-  confirmations_ad_info.target_url = ad_info.target_url;
-  confirmations_ad_info.geo_target = ad_info.geo_target;
-
-  bat_confirmations_->ConfirmAd(confirmations_ad_info,
-      confirmations::ConfirmationType(confirmation_type));
-}
-
-void LedgerImpl::ConfirmAction(
-    const std::string& creative_instance_id,
-    const std::string& creative_set_id,
-    const std::string& confirmation_type) {
-  if (!IsConfirmationsRunning()) {
-    return;
-  }
-
-  bat_confirmations_->ConfirmAction(creative_instance_id, creative_set_id,
-      confirmations::ConfirmationType(confirmation_type));
-}
-
-void LedgerImpl::GetTransactionHistory(
-    ledger::GetTransactionHistoryCallback callback) {
-  if (!IsConfirmationsRunning()) {
-    return;
-  }
-
-  bat_confirmations_->GetTransactionHistory(callback);
 }
 
 void LedgerImpl::RefreshPublisher(

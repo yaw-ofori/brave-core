@@ -29,8 +29,6 @@ interface BatAdsClient {
   [Sync]
   IsNetworkConnectionAvailable() => (bool available);
   [Sync]
-  GetClientInfo(string client_info) => (string client_info);
-  [Sync]
   GetUserModelLanguages() => (array<string> languages);
   [Sync]
   IsForeground() => (bool is_foreground);
@@ -54,10 +52,7 @@ interface BatAdsClient {
   LoadUserModelForLanguage(string language) => (int32 result, string value);
   ShowNotification(string notification_info);
   CloseNotification(string uuid);
-  SetCatalogIssuers(string issuers_info);
-  ConfirmAd(string json, string confirmation_type);
-  ConfirmAction(string creative_instance_id, string creative_set_id, string confirmation_type);
-  URLRequest(string url, array<string> headers, string content, string content_type, int32 method) => (int32 status_code, string content, map<string, string> headers);
+  UrlRequest(ads.mojom.UrlRequest request) => (ads.mojom.UrlResponse response);
   Save(string name, string value) => (int32 result);
   Load(string name) => (int32 result, string value);
   Reset(string name) => (int32 result);
@@ -68,7 +63,6 @@ interface BatAdsClient {
 interface BatAds {
   Initialize() => (int32 result);
   Shutdown() => (int32 result);
-  SetConfirmationsIsReady(bool is_ready);
   ChangeLocale(string locale);
   OnAdsSubdivisionTargetingCodeHasChanged();
   OnPageLoaded(string url, string html);

@@ -108,10 +108,6 @@ class LedgerClientMojoBridge :
       const std::string& name,
       GetUint64OptionCallback callback) override;
 
-  void SetConfirmationsIsReady(const bool is_ready) override;
-
-  void ConfirmationsTransactionHistoryDidChange() override;
-
   void OnContributeUnverifiedPublishers(
       const ledger::Result result,
       const std::string& publisher_key,

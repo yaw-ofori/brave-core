@@ -13,7 +13,6 @@
 #include "base/files/file_util.h"
 #include "base/files/scoped_temp_dir.h"
 #include "base/test/task_environment.h"
-#include "base/time/time.h"
 #include "brave/components/l10n/browser/locale_helper_mock.h"
 #include "net/http/http_status_code.h"
 #include "testing/gmock/include/gmock/gmock.h"
@@ -21,8 +20,9 @@
 #include "bat/ads/internal/ads_client_mock.h"
 #include "bat/ads/internal/ads_impl.h"
 #include "bat/ads/internal/container_util.h"
-#include "bat/ads/internal/creative_ad_notification_info.h"
+#include "bat/ads/internal/bundle/creative_ad_notification_info.h"
 #include "bat/ads/internal/database/database_initialize.h"
+#include "bat/ads/internal/time_util.h"
 #include "bat/ads/internal/unittest_utils.h"
 
 // npm run test -- brave_unit_tests --filter=BatAds*
@@ -800,7 +800,7 @@ TEST_F(BatAdsCreativeAdNotificationsDatabaseTableTest,
     }
   };
 
-  MockURLRequest(ads_client_mock_, endpoints);
+  MockUrlRequest(ads_client_mock_, endpoints);
 
   Initialize(ads_);
 

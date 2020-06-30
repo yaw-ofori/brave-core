@@ -7,11 +7,12 @@
 #define BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_KEYWORDS_H_
 
 #include <stdint.h>
+
 #include <string>
 #include <vector>
 
-#include "bat/ads/internal/classification/purchase_intent_classifier/segment_keyword_info.h"
 #include "bat/ads/internal/classification/purchase_intent_classifier/funnel_keyword_info.h"
+#include "bat/ads/internal/classification/purchase_intent_classifier/segment_keyword_info.h"
 
 namespace ads {
 namespace classification {
@@ -1925,4 +1926,4 @@ class Keywords {
 }  // namespace classification
 }  // namespace ads
 
-#endif  // BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_KEYWORDS_H_  // NOLINT
+#endif  // BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_KEYWORDS_H_

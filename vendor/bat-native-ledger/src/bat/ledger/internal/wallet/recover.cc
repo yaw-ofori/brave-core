@@ -258,7 +258,6 @@ void Recover::RecoverWalletCallback(
   braveledger_state::SetAnonymousCardId(ledger_, card_id);
   braveledger_state::SetFetchOldBalanceEnabled(ledger_, true);
   ledger_->SetUint64State(ledger::kStatePromotionLastFetchStamp, 0);
-  ledger_->SetConfirmationsWalletInfo();
 
   callback(ledger::Result::LEDGER_OK, balance);
 }

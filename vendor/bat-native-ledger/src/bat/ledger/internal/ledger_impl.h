@@ -14,7 +14,6 @@
 #include <vector>
 
 #include "base/memory/scoped_refptr.h"
-#include "bat/confirmations/confirmations_client.h"
 #include "bat/ledger/internal/contribution/contribution.h"
 #include "bat/ledger/internal/database/database.h"
 #include "bat/ledger/internal/logging.h"
@@ -68,10 +67,6 @@ class State;
 }
 namespace braveledger_api {
 class API;
-}
-
-namespace confirmations {
-class Confirmations;
 }
 
 namespace bat_ledger {
@@ -147,8 +142,6 @@ class LedgerImpl : public ledger::Ledger {
 
   void SetAutoContributeEnabled(bool enabled) override;
 
-  void UpdateAdsRewards(const bool should_refresh) override;
-
   void SavePendingContribution(
       ledger::PendingContributionList list,
       ledger::ResultCallback callback);
@@ -182,8 +175,6 @@ class LedgerImpl : public ledger::Ledger {
   ledger::AutoContributePropertiesPtr GetAutoContributeProperties() override;
 
   void LoadNicewareList(ledger::GetNicewareListCallback callback);
-
-  void SetConfirmationsWalletInfo();
 
   void LoadLedgerState(ledger::OnLoadCallback callback);
 
@@ -319,20 +310,6 @@ class LedgerImpl : public ledger::Ledger {
       ledger::HasSufficientBalanceToReconcileCallback callback) override;
 
   void SaveNormalizedPublisherList(ledger::PublisherInfoList list);
-
-  void SetCatalogIssuers(
-      const std::string& info) override;
-
-  void ConfirmAd(
-      const std::string& json,
-      const std::string& confirmation_type) override;
-  void ConfirmAction(
-      const std::string& creative_instance_id,
-      const std::string& creative_set_id,
-      const std::string& confirmation_type) override;
-
-  void GetTransactionHistory(
-      ledger::GetTransactionHistoryCallback callback) override;
 
   scoped_refptr<base::SequencedTaskRunner> GetTaskRunner();
   void GetRewardsInternalsInfo(
@@ -729,26 +706,9 @@ class LedgerImpl : public ledger::Ledger {
       const ledger::Result result,
       ledger::ResultCallback callback);
 
-  void MaybeInitializeConfirmations(ledger::ResultCallback callback);
-
-  void InitializeConfirmations(ledger::ResultCallback callback);
-
-  void OnConfirmationsInitialized(
-      const bool success,
-      ledger::ResultCallback callback);
-
   void InitializeDatabase(
       const bool execute_create_script,
       ledger::ResultCallback callback);
-
-  void StartConfirmations();
-
-  void OnConfirmationsStarted(
-      const bool success);
-
-  void ShutdownConfirmations();
-
-  bool IsConfirmationsRunning();
 
   void OnCreateWallet(
       const ledger::Result result,
@@ -822,7 +782,6 @@ class LedgerImpl : public ledger::Ledger {
   std::unique_ptr<braveledger_contribution::Contribution> bat_contribution_;
   std::unique_ptr<braveledger_wallet::Wallet> bat_wallet_;
   std::unique_ptr<braveledger_database::Database> bat_database_;
-  std::unique_ptr<confirmations::Confirmations> bat_confirmations_;
   std::unique_ptr<braveledger_report::Report> bat_report_;
   std::unique_ptr<braveledger_sku::SKU> bat_sku_;
   std::unique_ptr<braveledger_state::State> bat_state_;

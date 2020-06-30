@@ -67,7 +67,6 @@ static NSString * const kAutomaticallyDetectedAdsSubdivisionTargetingCodePrefKey
 - (instancetype)initWithStateStoragePath:(NSString *)path
 {
   if ((self = [super init])) {
-    // TODO(brave): Added task executor to ledger when ledger uses Timer/RetryTimer
     if (!base::MessageLoopCurrent::Get()) {
       g_task_executor = new base::SingleThreadTaskExecutor(base::MessagePumpType::UI);
     }
@@ -314,14 +313,6 @@ BATClassAdsBridge(BOOL, isDebug, setDebug, _is_debug)
 {
   if (![self isAdsServiceRunning]) { return; }
   ads->RemoveAllHistory(completion);
-}
-
-#pragma mark - Confirmations
-
-- (void)setConfirmationsIsReady:(BOOL)isReady
-{
-  if (![self isAdsServiceRunning]) { return; }
-  ads->SetConfirmationsIsReady(isReady);
 }
 
 #pragma mark - Observers

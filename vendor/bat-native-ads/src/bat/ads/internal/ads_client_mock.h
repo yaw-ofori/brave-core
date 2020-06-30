@@ -75,25 +75,9 @@ class AdsClientMock : public AdsClient {
   MOCK_METHOD1(CloseNotification, void(
       const std::string& uuid));
 
-  MOCK_METHOD1(SetCatalogIssuers, void(
-      std::unique_ptr<IssuersInfo> info));
-
-  MOCK_METHOD2(ConfirmAd, void(
-      const AdInfo& info,
-      const ConfirmationType confirmation_type));
-
-  MOCK_METHOD3(ConfirmAction, void(
-      const std::string& creative_instance_id,
-      const std::string& creative_set_id,
-      const ConfirmationType confirmation_type));
-
-  MOCK_METHOD6(URLRequest, void(
-      const std::string& url,
-      const std::vector<std::string>& headers,
-      const std::string& content,
-      const std::string& content_type,
-      const URLRequestMethod method,
-      URLRequestCallback callback));
+  MOCK_METHOD6(UrlRequest, void(
+      const UrlRequest& request,
+      UrlRequestCallback callback));
 
   MOCK_METHOD3(Save, void(
       const std::string& name,

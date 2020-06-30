@@ -7,12 +7,12 @@
 
 #include <algorithm>
 
-#include "base/logging.h"
 #include "brave/components/l10n/browser/locale_helper.h"
 #include "brave/components/l10n/common/locale_util.h"
 #include "bat/ads/internal/ads_impl.h"
 #include "bat/ads/internal/classification/classification_util.h"
 #include "bat/ads/internal/classification/page_classifier/page_classifier_util.h"
+#include "bat/ads/internal/logging.h"
 
 namespace ads {
 namespace classification {

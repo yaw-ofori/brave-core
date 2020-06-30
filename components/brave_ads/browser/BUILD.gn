@@ -128,16 +128,6 @@ source_set("testutil") {
     "//testing/gtest",
   ]
 
-  if (brave_rewards_enabled) {
-    deps += [
-      "//brave/vendor/bat-native-ledger:headers",
-    ]
-
-    configs += [
-      "//brave/vendor/bat-native-ledger:internal_config"
-    ]
-  }
-
   if (brave_ads_enabled) {
     deps += [
       "//brave/vendor/bat-native-ads",

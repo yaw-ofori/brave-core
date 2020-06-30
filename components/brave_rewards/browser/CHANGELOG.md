@@ -2,6 +2,12 @@
 
 ---
 
+### Changed API (1st July 2020)
+##### Related issue
+[https://github.com/brave/brave-browser/issues/9870](https://github.com/brave/brave-browser/issues/9870)
+##### Description
+With this issue we removed bat-native-confirmations from ledger
+
 ### Changed API (5th June 2020)
 ##### Related PR
 [https://github.com/brave/brave-core/pull/5748](https://github.com/brave/brave-core/pull/5748)

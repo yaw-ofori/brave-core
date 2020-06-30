@@ -5,13 +5,9 @@
 
 #include "bat/ads/internal/frequency_capping/permission_rules/ads_per_hour_frequency_cap.h"
 
-#include "bat/ads/ad_history.h"
-#include "bat/ads/ads_client.h"
 #include "bat/ads/internal/ads_impl.h"
-#include "bat/ads/internal/client.h"
 #include "bat/ads/internal/frequency_capping/frequency_capping_utils.h"
-
-#include "base/time/time.h"
+#include "bat/ads/internal/time_util.h"
 
 namespace ads {
 

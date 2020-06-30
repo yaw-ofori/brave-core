@@ -5,16 +5,14 @@
 
 #include "bat/ads/internal/frequency_capping/exclusion_rules/subdivision_targeting_frequency_cap.h"
 
-#include <algorithm>
 #include <vector>
 
 #include "base/strings/string_split.h"
 #include "base/strings/stringprintf.h"
 #include "brave/components/l10n/browser/locale_helper.h"
 #include "bat/ads/internal/ads_impl.h"
-#include "bat/ads/internal/creative_ad_info.h"
 #include "bat/ads/internal/logging.h"
-#include "bat/ads/internal/subdivision_targeting.h"
+#include "bat/ads/internal/subdivision_targeting/subdivision_targeting.h"
 
 namespace ads {
 

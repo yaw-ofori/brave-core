@@ -77,9 +77,6 @@ class AdsService : public KeyedService {
   virtual void SetAutomaticallyDetectedAdsSubdivisionTargetingCode(
       const std::string& subdivision_targeting_code) = 0;
 
-  virtual void SetConfirmationsIsReady(
-      const bool is_ready) = 0;
-
   virtual void ChangeLocale(
       const std::string& locale) = 0;
 

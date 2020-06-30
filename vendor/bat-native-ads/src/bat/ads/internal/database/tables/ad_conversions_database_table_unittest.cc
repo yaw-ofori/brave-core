@@ -324,7 +324,7 @@ TEST_F(BatAdsAdConversionsDatabaseTableTest,
     }
   };
 
-  MockURLRequest(ads_client_mock_, endpoints);
+  MockUrlRequest(ads_client_mock_, endpoints);
 
   Initialize(ads_);
 

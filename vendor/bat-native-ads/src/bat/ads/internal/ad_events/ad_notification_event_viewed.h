@@ -8,10 +8,11 @@
 
 #include "bat/ads/internal/ad_events/ad_event.h"
 
+#include "bat/ads/ad_notification_info.h"
+
 namespace ads {
 
 class AdsImpl;
-struct AdNotificationInfo;
 
 class AdNotificationEventViewed : public AdEvent<AdNotificationInfo> {
  public:

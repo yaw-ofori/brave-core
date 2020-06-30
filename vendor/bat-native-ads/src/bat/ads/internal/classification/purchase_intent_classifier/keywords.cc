@@ -3,19 +3,20 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
-#include <stdint.h>
+#include "bat/ads/internal/classification/purchase_intent_classifier/keywords.h"
+
 #include <algorithm>
 #include <sstream>
 
 #include "base/strings/string_util.h"
-#include "url/gurl.h"
 #include "third_party/re2/src/re2/re2.h"
-#include "bat/ads/internal/classification/purchase_intent_classifier/keywords.h"
+#include "url/gurl.h"
 
 namespace ads {
 namespace classification {
 
 Keywords::Keywords() = default;
+
 Keywords::~Keywords() = default;
 
 PurchaseIntentSegmentList Keywords::GetSegments(

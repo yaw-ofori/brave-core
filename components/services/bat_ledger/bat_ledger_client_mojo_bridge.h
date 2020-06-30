@@ -92,10 +92,6 @@ class BatLedgerClientMojoBridge :
   int64_t GetInt64Option(const std::string& name) const override;
   uint64_t GetUint64Option(const std::string& name) const override;
 
-  void SetConfirmationsIsReady(const bool is_ready) override;
-
-  void ConfirmationsTransactionHistoryDidChange() override;
-
   void OnContributeUnverifiedPublishers(
       ledger::Result result,
       const std::string& publisher_key,

@@ -6,8 +6,6 @@
 #include "bat/ads/internal/frequency_capping/exclusion_rules/subdivision_targeting_frequency_cap.h"
 
 #include <memory>
-#include <string>
-#include <vector>
 
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"
@@ -18,7 +16,7 @@
 #include "testing/gtest/include/gtest/gtest.h"
 #include "bat/ads/internal/ads_client_mock.h"
 #include "bat/ads/internal/ads_impl.h"
-#include "bat/ads/internal/creative_ad_info.h"
+#include "bat/ads/internal/bundle/creative_ad_info.h"
 #include "bat/ads/internal/frequency_capping/frequency_capping_unittest_utils.h"
 #include "bat/ads/internal/unittest_utils.h"
 

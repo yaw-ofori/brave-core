@@ -8,7 +8,6 @@
 
 #include <string>
 
-#include "bat/ads/confirmation_type.h"
 #include "bat/ads/export.h"
 #include "bat/ads/result.h"
 
@@ -22,8 +21,7 @@ struct ADS_EXPORT AdInfo {
 
   std::string ToJson() const;
   Result FromJson(
-      const std::string& json,
-      std::string* error_description = nullptr);
+      const std::string& json);
 
   std::string creative_instance_id;
   std::string creative_set_id;

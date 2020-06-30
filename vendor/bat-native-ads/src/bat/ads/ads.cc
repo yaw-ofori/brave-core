@@ -3,10 +3,10 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
+#include "bat/ads/ads.h"
+
 #include <algorithm>
 #include <set>
-
-#include "bat/ads/ads.h"
 
 #include "bat/ads/internal/ads_impl.h"
 #include "bat/ads/internal/supported_regions.h"
@@ -20,6 +20,7 @@ Environment _environment = Environment::DEVELOPMENT;
 const char _catalog_schema_resource_name[] = "catalog-schema.json";
 const char _catalog_resource_name[] = "catalog.json";
 const char _client_resource_name[] = "client.json";
+const char _confirmations_resource_name[] = "confirmations.json";
 
 bool IsSupportedLocale(
     const std::string& locale) {

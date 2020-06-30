@@ -18,14 +18,13 @@
 
 using std::placeholders::_1;
 using std::placeholders::_2;
-using std::placeholders::_3;
 
 namespace bat_ads {
 
 namespace {
 
-ads::URLRequestMethod ToAdsURLRequestMethod(int32_t method) {
-  return (ads::URLRequestMethod)method;
+ads::UrlRequestMethod ToAdsURLRequestMethod(int32_t method) {
+  return (ads::UrlRequestMethod)method;
 }
 
 base::flat_map<std::string, std::string> ToFlatMap(
@@ -235,26 +234,6 @@ void AdsClientMojoBridge::SetIdleThreshold(
   ads_client_->SetIdleThreshold(threshold);
 }
 
-bool AdsClientMojoBridge::GetClientInfo(
-    const std::string& client_info,
-    std::string* out_client_info) {
-  DCHECK(out_client_info);
-  ads::ClientInfo info;
-  info.FromJson(client_info);
-  ads_client_->GetClientInfo(&info);
-  *out_client_info = info.ToJson();
-  return true;
-}
-
-void AdsClientMojoBridge::GetClientInfo(
-    const std::string& client_info,
-    GetClientInfoCallback callback) {
-  ads::ClientInfo info;
-  info.FromJson(client_info);
-  ads_client_->GetClientInfo(&info);
-  std::move(callback).Run(info.ToJson());
-}
-
 void AdsClientMojoBridge::Log(
     const std::string& file,
     const int32_t line,
@@ -360,34 +339,25 @@ void AdsClientMojoBridge::LoadUserModelForLanguage(
 
 // static
 void AdsClientMojoBridge::OnURLRequest(
-    CallbackHolder<URLRequestCallback>* holder,
-    const int response_status_code,
-    const std::string& content,
-    const std::map<std::string, std::string>& headers) {
+    CallbackHolder<UrlRequestCallback>* holder,
+    const ads::UrlResponse& response) {
   DCHECK(holder);
 
   if (holder->is_valid()) {
-    std::move(holder->get()).Run(response_status_code, content,
-        ToFlatMap(headers));
+    std::move(holder->get()).Run(ads::UrlResponse::New(response));
   }
 
   delete holder;
 }
 
-void AdsClientMojoBridge::URLRequest(
-    const std::string& url,
-    const std::vector<std::string>& headers,
-    const std::string& content,
-    const std::string& content_type,
-    const int32_t method,
-    URLRequestCallback callback) {
+void AdsClientMojoBridge::UrlRequest(
+    const ads::UrlRequest& request,
+    UrlRequestCallback callback) {
   // this gets deleted in OnURLRequest
   auto* holder =
-      new CallbackHolder<URLRequestCallback>(AsWeakPtr(), std::move(callback));
-  ads_client_->URLRequest(url, headers, content, content_type,
-      ToAdsURLRequestMethod(method),
-          std::bind(AdsClientMojoBridge::OnURLRequest,
-              holder, _1, _2, _3));
+      new CallbackHolder<UrlRequestCallback>(AsWeakPtr(), std::move(callback));
+  ads_client_->UrlRequest(request,
+      std::bind(AdsClientMojoBridge::OnURLRequest, holder, _1));
 }
 
 // static
@@ -404,35 +374,6 @@ void AdsClientMojoBridge::ShowNotification(
 void AdsClientMojoBridge::CloseNotification(
     const std::string& uuid) {
   ads_client_->CloseNotification(uuid);
-}
-
-void AdsClientMojoBridge::SetCatalogIssuers(
-    const std::string& issuers_info) {
-  auto info = std::make_unique<ads::IssuersInfo>();
-  if (info->FromJson(issuers_info) != ads::Result::SUCCESS) {
-    return;
-  }
-
-  ads_client_->SetCatalogIssuers(std::move(info));
-}
-
-void AdsClientMojoBridge::ConfirmAd(
-    const std::string& json,
-    const std::string& confirmation_type) {
-  ads::AdInfo info;
-  if (info.FromJson(json) != ads::Result::SUCCESS) {
-    return;
-  }
-
-  ads_client_->ConfirmAd(info, ads::ConfirmationType(confirmation_type));
-}
-
-void AdsClientMojoBridge::ConfirmAction(
-    const std::string& creative_instance_id,
-    const std::string& creative_set_id,
-    const std::string& confirmation_type) {
-  ads_client_->ConfirmAction(creative_instance_id, creative_set_id,
-      ads::ConfirmationType(confirmation_type));
 }
 
 // static

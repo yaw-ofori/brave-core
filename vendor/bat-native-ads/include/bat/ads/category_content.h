@@ -26,8 +26,7 @@ struct ADS_EXPORT CategoryContent {
 
   std::string ToJson() const;
   Result FromJson(
-      const std::string& json,
-      std::string* error_description = nullptr);
+      const std::string& json);
 
   enum class OptAction {
     kNone = 0,

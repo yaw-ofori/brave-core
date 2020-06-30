@@ -17,8 +17,8 @@ const std::map<int, std::set<std::string>> kSupportedRegions = {
   // |kSupportedRegionsSchemaVersionNumber| to match the new version
 
   // |kLargeAnonymityCountryCodes| and |kOtherCountryCodes| in
-  // |bat-native-confirmations/src/bat/confirmations/internal/country_codes.h|
-  // must be updated to reflect newly supported regions
+  // |bat-native-ads/src/bat/ads/internal/country_codes.h| must be updated to
+  // reflect newly supported regions
 
   //   Format: { schema_version : { region... } }
   {

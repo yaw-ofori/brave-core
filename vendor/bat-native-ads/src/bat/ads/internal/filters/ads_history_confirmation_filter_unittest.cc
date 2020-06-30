@@ -6,7 +6,6 @@
 #include "bat/ads/internal/filters/ads_history_confirmation_filter.h"
 
 #include <deque>
-#include <memory>
 
 #include "testing/gtest/include/gtest/gtest.h"
 #include "bat/ads/ad_history.h"

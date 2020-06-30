@@ -1478,20 +1478,6 @@ BATLedgerBridge(BOOL,
   });
 }
 
-- (void)setConfirmationsIsReady:(const bool)is_ready
-{
-   [self.ads setConfirmationsIsReady:is_ready];
-}
-
-- (void)confirmationsTransactionHistoryDidChange
-{
-  for (BATBraveLedgerObserver *observer in [self.observers copy]) {
-    if (observer.confirmationsTransactionHistoryDidChange) {
-      observer.confirmationsTransactionHistoryDidChange();
-    }
-  }
-}
-
 #pragma mark - Notifications
 
 - (NSArray<BATRewardsNotification *> *)notifications

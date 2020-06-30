@@ -124,17 +124,17 @@ int GetUserModelResourceId(
 }
 
 std::string URLMethodToRequestType(
-    ads::URLRequestMethod method) {
+    ads::UrlRequestMethod method) {
   switch (method) {
-    case ads::URLRequestMethod::GET: {
+    case ads::UrlRequestMethod::GET: {
       return "GET";
     }
 
-    case ads::URLRequestMethod::POST: {
+    case ads::UrlRequestMethod::POST: {
       return "POST";
     }
 
-    case ads::URLRequestMethod::PUT: {
+    case ads::UrlRequestMethod::PUT: {
       return "PUT";
     }
   }
@@ -319,15 +319,6 @@ void AdsServiceImpl::SetAutomaticallyDetectedAdsSubdivisionTargetingCode(
     const std::string& subdivision_targeting_code) {
   SetStringPref(prefs::kAutomaticallyDetectedAdsSubdivisionTargetingCode,
       subdivision_targeting_code);
-}
-
-void AdsServiceImpl::SetConfirmationsIsReady(
-    const bool is_ready) {
-  if (!connected()) {
-    return;
-  }
-
-  bat_ads_->SetConfirmationsIsReady(is_ready);
 }
 
 void AdsServiceImpl::ChangeLocale(
@@ -900,7 +891,7 @@ void AdsServiceImpl::OnURLRequestStarted(
 
 void AdsServiceImpl::OnURLRequestComplete(
     network::SimpleURLLoader* url_loader,
-    ads::URLRequestCallback callback,
+    ads::UrlRequestCallback callback,
     const std::unique_ptr<std::string> response_body) {
   DCHECK(url_loaders_.find(url_loader) != url_loaders_.end());
   url_loaders_.erase(url_loader);
@@ -935,7 +926,13 @@ void AdsServiceImpl::OnURLRequestComplete(
     }
   }
 
-  callback(response_code, response_body ? *response_body : "", headers);
+  ads::UrlResponse response;
+  response.url = url_loader->GetFinalURL().spec();
+  response.status_code = response_code;
+  response.body = response_body ? *response_body : "";
+  response.headers = headers;
+
+  callback(response);
 }
 
 bool AdsServiceImpl::CanShowBackgroundNotifications() const {
@@ -1781,21 +1778,6 @@ bool AdsServiceImpl::connected() {
 
 ///////////////////////////////////////////////////////////////////////////////
 
-void AdsServiceImpl::GetClientInfo(ads::ClientInfo* client_info) const {
-#if defined(OS_MACOSX)
-  client_info->platform = ads::ClientInfoPlatformType::MACOS;
-#elif defined(OS_WIN)
-  client_info->platform = ads::ClientInfoPlatformType::WINDOWS;
-#elif defined(OS_LINUX)
-  client_info->platform = ads::ClientInfoPlatformType::LINUX;
-#elif defined(OS_ANDROID)
-  client_info->platform = ads::ClientInfoPlatformType::ANDROID_OS;
-#else
-  NOTREACHED();
-  client_info->platform = ads::ClientInfoPlatformType::UNKNOWN;
-#endif
-}
-
 bool AdsServiceImpl::IsNetworkConnectionAvailable() const {
   return !net::NetworkChangeNotifier::IsOffline();
 }
@@ -1905,37 +1887,14 @@ void AdsServiceImpl::CloseNotification(
   display_service_->Close(NotificationHandler::Type::BRAVE_ADS, uuid);
 }
 
-void AdsServiceImpl::SetCatalogIssuers(
-    const std::unique_ptr<ads::IssuersInfo> info) {
-  rewards_service_->SetCatalogIssuers(info->ToJson());
-}
-
-void AdsServiceImpl::ConfirmAd(
-    const ads::AdInfo& info,
-    const ads::ConfirmationType confirmation_type) {
-  rewards_service_->ConfirmAd(info.ToJson(), confirmation_type);
-}
-
-void AdsServiceImpl::ConfirmAction(
-    const std::string& creative_instance_id,
-    const std::string& creative_set_id,
-    const ads::ConfirmationType confirmation_type) {
-  rewards_service_->ConfirmAction(creative_instance_id, creative_set_id,
-      confirmation_type);
-}
-
-void AdsServiceImpl::URLRequest(
-      const std::string& url,
-      const std::vector<std::string>& headers,
-      const std::string& content,
-      const std::string& content_type,
-      const ads::URLRequestMethod method,
-      ads::URLRequestCallback callback) {
+void AdsServiceImpl::UrlRequest(
+      const ads::UrlRequest& request,
+      ads::UrlRequestCallback callback) {
   auto resource_request = std::make_unique<network::ResourceRequest>();
-  resource_request->url = GURL(url);
-  resource_request->method = URLMethodToRequestType(method);
+  resource_request->url = GURL(request.url);
+  resource_request->method = URLMethodToRequestType(request.method);
   resource_request->credentials_mode = network::mojom::CredentialsMode::kOmit;
-  for (const auto& header : headers) {
+  for (const auto& header : request.headers) {
     resource_request->headers.AddHeaderFromString(header);
   }
 
@@ -1944,7 +1903,7 @@ void AdsServiceImpl::URLRequest(
           GetNetworkTrafficAnnotationTag()).release();
 
   if (!content.empty()) {
-    url_loader->AttachStringForUpload(content, content_type);
+    url_loader->AttachStringForUpload(request.content, request.content_type);
   }
 
   url_loader->SetOnResponseStartedCallback(base::BindOnce(

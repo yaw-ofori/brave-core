@@ -3,13 +3,14 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
-#ifndef BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_PURCHASE_INTENT_SIGNAL_HISTORY_H_  // NOLINT
-#define BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_PURCHASE_INTENT_SIGNAL_HISTORY_H_  // NOLINT
+#ifndef BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_PURCHASE_INTENT_SIGNAL_HISTORY_H_
+#define BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_PURCHASE_INTENT_SIGNAL_HISTORY_H_
 
 #include <stdint.h>
-#include <string>
-#include <map>
+
 #include <deque>
+#include <map>
+#include <string>
 
 #include "bat/ads/export.h"
 #include "bat/ads/result.h"
@@ -29,8 +30,7 @@ struct ADS_EXPORT PurchaseIntentSignalHistory {
 
   std::string ToJson() const;
   Result FromJson(
-      const std::string& json,
-      std::string* error_description = nullptr);
+      const std::string& json);
 
   uint64_t timestamp_in_seconds;
   uint16_t weight = 0;
@@ -43,4 +43,4 @@ using PurchaseIntentSignalSegmentHistoryMap =
 
 }  // namespace ads
 
-#endif  // BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_PURCHASE_INTENT_SIGNAL_HISTORY_H_  // NOLINT
+#endif  // BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_PURCHASE_INTENT_SIGNAL_HISTORY_H_

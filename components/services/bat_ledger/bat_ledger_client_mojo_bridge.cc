@@ -371,20 +371,6 @@ uint64_t BatLedgerClientMojoBridge::GetUint64Option(
   return value;
 }
 
-void BatLedgerClientMojoBridge::SetConfirmationsIsReady(const bool is_ready) {
-  if (!Connected())
-    return;
-
-  bat_ledger_client_->SetConfirmationsIsReady(is_ready);
-}
-
-void BatLedgerClientMojoBridge::ConfirmationsTransactionHistoryDidChange() {
-  if (!Connected())
-    return;
-
-  bat_ledger_client_->ConfirmationsTransactionHistoryDidChange();
-}
-
 bool BatLedgerClientMojoBridge::Connected() const {
   return bat_ledger_client_.is_bound();
 }

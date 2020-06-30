@@ -11,15 +11,15 @@
 #include "base/files/file_util.h"
 #include "base/files/scoped_temp_dir.h"
 #include "base/test/task_environment.h"
-#include "base/time/time.h"
 #include "brave/components/l10n/browser/locale_helper_mock.h"
 #include "testing/gmock/include/gmock/gmock.h"
 #include "testing/gtest/include/gtest/gtest.h"
 #include "bat/ads/ad_content.h"
 #include "bat/ads/internal/ads_client_mock.h"
 #include "bat/ads/internal/ads_impl.h"
-#include "bat/ads/internal/creative_ad_info.h"
+#include "bat/ads/internal/bundle/creative_ad_info.h"
 #include "bat/ads/internal/frequency_capping/frequency_capping_unittest_utils.h"
+#include "bat/ads/internal/time_util.h"
 #include "bat/ads/internal/unittest_utils.h"
 
 // npm run test -- brave_unit_tests --filter=BatAds*

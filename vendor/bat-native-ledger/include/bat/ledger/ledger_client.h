@@ -145,10 +145,6 @@ class LEDGER_EXPORT LedgerClient {
   virtual int64_t GetInt64Option(const std::string& name) const = 0;
   virtual uint64_t GetUint64Option(const std::string& name) const = 0;
 
-  virtual void SetConfirmationsIsReady(const bool is_ready) = 0;
-
-  virtual void ConfirmationsTransactionHistoryDidChange() = 0;
-
   virtual void OnContributeUnverifiedPublishers(
       Result result,
       const std::string& publisher_key,

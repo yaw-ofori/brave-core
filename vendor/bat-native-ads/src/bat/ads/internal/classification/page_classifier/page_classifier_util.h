@@ -17,4 +17,4 @@ std::string StripHtmlTagsAndNonAlphaCharacters(
 }  // namespace classification
 }  // namespace ads
 
-#endif  // BAT_ADS_INTERNAL_CLASSIFICATION_PAGE_CLASSIFIER_PAGE_CLASSIFIER_UTIL_H_  // NOLINT
+#endif  // BAT_ADS_INTERNAL_CLASSIFICATION_PAGE_CLASSIFIER_PAGE_CLASSIFIER_UTIL_H_

@@ -6,14 +6,13 @@
 #ifndef BAT_ADS_INTERNAL_FILTERS_ADS_HISTORY_CONVERSION_FILTER_H_
 #define BAT_ADS_INTERNAL_FILTERS_ADS_HISTORY_CONVERSION_FILTER_H_
 
-#include <deque>
-
 #include "bat/ads/internal/filters/ads_history_filter.h"
 
-namespace ads {
+#include <deque>
 
-struct AdsHistory;
-class ConfirmationType;
+#include "bat/ads/confirmation_type.h"
+
+namespace ads {
 
 class AdsHistoryConversionFilter : public AdsHistoryFilter {
  public:
@@ -25,7 +24,7 @@ class AdsHistoryConversionFilter : public AdsHistoryFilter {
 
  private:
   bool ShouldFilterConfirmationType(
-    const ConfirmationType& type) const;
+      const ConfirmationType& type) const;
 };
 
 }  // namespace ads

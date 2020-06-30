@@ -201,7 +201,6 @@ class RewardsService : public KeyedService {
   virtual void GetAutoContributeEnabled(
       GetAutoContributeEnabledCallback callback) = 0;
   virtual void SetAutoContributeEnabled(bool enabled) = 0;
-  virtual void UpdateAdsRewards() const = 0;
   virtual void SetTimer(uint64_t time_offset, uint32_t* timer_id) = 0;
   virtual void GetBalanceReport(
       const uint32_t month,
@@ -243,25 +242,12 @@ class RewardsService : public KeyedService {
     const GetPendingContributionsTotalCallback& callback) = 0;
   virtual void GetRewardsMainEnabled(
     const GetRewardsMainEnabledCallback& callback) const = 0;
-  // TODO(Terry Mancey): remove this hack when ads is moved to the same process
-  // as ledger
-  virtual void SetCatalogIssuers(
-      const std::string& json) = 0;
-  virtual void ConfirmAd(
-      const std::string& json,
-      const std::string& confirmation_type) = 0;
-  virtual void ConfirmAction(
-      const std::string& creative_instance_id,
-      const std::string& creative_set_id,
-      const std::string& confirmation_type) = 0;
   virtual void GetRewardsInternalsInfo(
       GetRewardsInternalsInfoCallback callback) = 0;
   virtual void AddPrivateObserver(
       RewardsServicePrivateObserver* observer) = 0;
   virtual void RemovePrivateObserver(
       RewardsServicePrivateObserver* observer) = 0;
-  virtual void GetTransactionHistory(
-      GetTransactionHistoryCallback callback) = 0;
   virtual void OnAdsEnabled(bool ads_enabled) = 0;
 
   virtual void RefreshPublisher(

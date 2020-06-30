@@ -3,14 +3,15 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
-#ifndef BAT_ADS_INTERNAL_FREQUENCY_CAPPING_EXCLUSION_RULES_PER_HOUR_FREQUENCY_CAP_H_  // NOLINT
-#define BAT_ADS_INTERNAL_FREQUENCY_CAPPING_EXCLUSION_RULES_PER_HOUR_FREQUENCY_CAP_H_  // NOLINT
+#ifndef BAT_ADS_INTERNAL_FREQUENCY_CAPPING_EXCLUSION_RULES_PER_HOUR_FREQUENCY_CAP_H_
+#define BAT_ADS_INTERNAL_FREQUENCY_CAPPING_EXCLUSION_RULES_PER_HOUR_FREQUENCY_CAP_H_
 
 #include <stdint.h>
 
 #include <deque>
 #include <string>
 
+#include "bat/ads/internal/bundle/creative_ad_info.h"
 #include "bat/ads/internal/frequency_capping/exclusion_rules/exclusion_rule.h"
 
 namespace ads {
@@ -50,4 +51,4 @@ class PerHourFrequencyCap : public ExclusionRule {
 
 }  // namespace ads
 
-#endif  // BAT_ADS_INTERNAL_FREQUENCY_CAPPING_EXCLUSION_RULES_PER_HOUR_FREQUENCY_CAP_H_  // NOLINT
+#endif  // BAT_ADS_INTERNAL_FREQUENCY_CAPPING_EXCLUSION_RULES_PER_HOUR_FREQUENCY_CAP_H_

@@ -6,8 +6,8 @@ module ads.mojom;
 
 enum Environment {
   STAGING = 0,
-  PRODUCTION = 1,
-  DEVELOPMENT = 2
+  PRODUCTION,
+  DEVELOPMENT
 };
 
 enum AdNotificationEventType {
@@ -15,4 +15,25 @@ enum AdNotificationEventType {
   kClicked,
   kDismissed,
   kTimedOut
+};
+
+enum UrlRequestMethod {
+  GET = 0,
+  PUT,
+  POST
+};
+
+struct UrlRequest {
+  string url;
+  array<string> headers;
+  string content;
+  string content_type;
+  UrlRequestMethod method;
+};
+
+struct UrlResponse {
+  string url;
+  int32 status_code;
+  string body;
+  map<string, string> headers;
 };

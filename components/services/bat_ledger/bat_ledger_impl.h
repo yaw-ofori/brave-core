@@ -96,7 +96,6 @@ class BatLedgerImpl :
   void SetPublisherAllowVideos(bool allow) override;
   void SetAutoContributionAmount(double amount) override;
   void SetAutoContributeEnabled(bool enabled) override;
-  void UpdateAdsRewards() override;
 
   void OnTimer(uint32_t timer_id) override;
 
@@ -129,8 +128,6 @@ class BatLedgerImpl :
   void HasSufficientBalanceToReconcile(
       HasSufficientBalanceToReconcileCallback callback) override;
 
-  void GetTransactionHistory(
-      GetTransactionHistoryCallback callback) override;
   void GetRewardsInternalsInfo(
       GetRewardsInternalsInfoCallback callback) override;
   void RefreshPublisher(
@@ -230,17 +227,6 @@ class BatLedgerImpl :
   void Shutdown(ShutdownCallback callback) override;
 
  private:
-  void SetCatalogIssuers(
-      const std::string& info) override;
-
-  void ConfirmAd(
-      const std::string& json,
-      const std::string& confirmation_type) override;
-  void ConfirmAction(
-      const std::string& creative_instance_id,
-      const std::string& creative_set_id,
-      const std::string& confirmation_type) override;
-
   // workaround to pass base::OnceCallback into std::bind
   template <typename Callback>
     class CallbackHolder {
@@ -309,10 +295,6 @@ class BatLedgerImpl :
   static void OnOneTimeTip(
       CallbackHolder<OneTimeTipCallback>* holder,
       const ledger::Result result);
-
-  static void OnGetTransactionHistory(
-      CallbackHolder<GetTransactionHistoryCallback>* holder,
-      std::unique_ptr<ledger::TransactionsInfo> history);
 
   static void OnGetRewardsInternalsInfo(
       CallbackHolder<GetRewardsInternalsInfoCallback>* holder,

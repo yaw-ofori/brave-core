@@ -71,7 +71,6 @@ interface BatLedger {
   SetPublisherAllowVideos(bool allow);
   SetAutoContributionAmount(double amount);
   SetAutoContributeEnabled(bool enabled);
-  UpdateAdsRewards();
 
   OnTimer(uint32 timer_id);
 
@@ -95,10 +94,6 @@ interface BatLedger {
 
   HasSufficientBalanceToReconcile() => (bool sufficient);
 
-  SetCatalogIssuers(string json);
-  ConfirmAd(string json, string confirmation_type);
-  ConfirmAction(string creative_instance_id, string creative_set_id, string confirmation_type);
-  GetTransactionHistory() => (string json);
   GetRewardsInternalsInfo() => (ledger.mojom.RewardsInternalsInfo info);
 
   SaveRecurringTip(ledger.mojom.RecurringTip info) => (ledger.mojom.Result result);
@@ -221,9 +216,6 @@ interface BatLedgerClient {
   GetInt64Option(string name) => (int64 value);
   [Sync]
   GetUint64Option(string name) => (uint64 value);
-
-  SetConfirmationsIsReady(bool is_ready);
-  ConfirmationsTransactionHistoryDidChange();
 
   OnContributeUnverifiedPublishers(ledger.mojom.Result result, string publisher_key,
       string publisher_name);

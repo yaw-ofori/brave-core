@@ -6,26 +6,17 @@
 #ifndef BAT_ADS_INTERNAL_LOGGING_UTIL_H_
 #define BAT_ADS_INTERNAL_LOGGING_UTIL_H_
 
-#include <map>
 #include <string>
-#include <vector>
 
-#include "bat/ads/ads_client.h"
+#include "bat/ads/mojom.h"
 
 namespace ads {
 
 std::string UrlRequestToString(
-    const std::string& url,
-    const std::vector<std::string>& headers,
-    const std::string& content,
-    const std::string& content_type,
-    const URLRequestMethod method);
+    const UrlRequest& request);
 
 std::string UrlResponseToString(
-    const std::string& url,
-    const int response_status_code,
-    const std::string& response,
-    const std::map<std::string, std::string>& headers);
+    const UrlResponse& response);
 
 }  // namespace ads
 

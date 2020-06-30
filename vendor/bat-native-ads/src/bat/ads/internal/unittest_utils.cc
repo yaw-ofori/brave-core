@@ -5,8 +5,7 @@
 
 #include "bat/ads/internal/unittest_utils.h"
 
-#include <limits>
-#include <vector>
+#include <stdint.h>
 
 #include "base/base_paths.h"
 #include "base/files/file_util.h"
@@ -17,12 +16,12 @@
 #include "base/strings/string16.h"
 #include "base/strings/stringprintf.h"
 #include "base/strings/utf_string_conversions.h"
-#include "base/time/time.h"
 #include "net/http/http_status_code.h"
 #include "testing/gmock/include/gmock/gmock.h"
 #include "third_party/re2/src/re2/re2.h"
 #include "url/gurl.h"
 #include "bat/ads/internal/ads_client_mock.h"
+#include "bat/ads/internal/time_util.h"
 #include "bat/ads/internal/url_util.h"
 
 using ::testing::_;
@@ -270,23 +269,19 @@ void MockLoadJsonSchema(
       }));
 }
 
-void MockURLRequest(
+void MockUrlRequest(
     const std::unique_ptr<AdsClientMock>& mock,
     const URLEndpoints& endpoints) {
-  ON_CALL(*mock, URLRequest(_, _, _, _, _, _))
+  ON_CALL(*mock, UrlRequest(_))
       .WillByDefault(Invoke([&endpoints](
-          const std::string& url,
-          const std::vector<std::string>& headers,
-          const std::string& content,
-          const std::string& content_type,
-          const URLRequestMethod method,
-          URLRequestCallback callback) {
+          const UrlRequest& request,
+          UrlRequestCallback callback) {
         int status_code = -1;
 
         std::string body;
 
         const std::map<std::string, std::string> mapped_headers =
-            NormalizeHeaders(headers);
+            HeadersToMap(headers);
 
         URLResponse response;
         if (!GetNextResponse(url, endpoints, &response)) {
@@ -333,15 +328,6 @@ void MockRunDBTransaction(
 
         callback(std::move(response));
       }));
-}
-
-void MockGetClientInfo(
-    const std::unique_ptr<AdsClientMock>& mock,
-    const ClientInfoPlatformType platform_type) {
-  ClientInfo client_info;
-  client_info.platform = platform_type;
-  ON_CALL(*mock, GetClientInfo(_))
-      .WillByDefault(SetArgPointee<0>(client_info));
 }
 
 int64_t DistantPast() {

@@ -4,7 +4,9 @@
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 #include "bat/ads/ad_info.h"
+
 #include "bat/ads/internal/json_helper.h"
+#include "bat/ads/internal/logging.h"
 
 namespace ads {
 
@@ -22,16 +24,12 @@ std::string AdInfo::ToJson() const {
 }
 
 Result AdInfo::FromJson(
-    const std::string& json,
-    std::string* error_description) {
+    const std::string& json) {
   rapidjson::Document document;
   document.Parse(json.c_str());
 
   if (document.HasParseError()) {
-    if (error_description != nullptr) {
-      *error_description = helper::JSON::GetLastError(&document);
-    }
-
+    BLOG(1, helper::JSON::GetLastError(&document));
     return FAILED;
   }
 

@@ -63,11 +63,6 @@ void BatAdsImpl::Shutdown(
   ads_->Shutdown(shutdown_callback);
 }
 
-void BatAdsImpl::SetConfirmationsIsReady(
-    const bool is_ready) {
-  ads_->SetConfirmationsIsReady(is_ready);
-}
-
 void BatAdsImpl::ChangeLocale(
     const std::string& locale) {
   ads_->ChangeLocale(locale);

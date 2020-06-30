@@ -15,7 +15,6 @@ public:
 private:
   __unsafe_unretained id<NativeLedgerClientBridge> bridge_;
 
-  void ConfirmationsTransactionHistoryDidChange() override;
   void FetchFavIcon(const std::string & url, const std::string & favicon_key, ledger::FetchIconCallback callback) override;
   void KillTimer(const uint32_t timer_id) override;
   void LoadLedgerState(ledger::OnLoadCallback callback) override;
@@ -29,7 +28,6 @@ private:
   void ResetState(const std::string & name, ledger::ResultCallback callback) override;
   void PublisherListNormalized(ledger::PublisherInfoList list) override;
   void SaveState(const std::string & name, const std::string & value, ledger::ResultCallback callback) override;
-  void SetConfirmationsIsReady(const bool is_ready) override;
   void SetTimer(uint64_t time_offset, uint32_t * timer_id) override;
   std::string URIEncode(const std::string & value) override;
   void OnContributeUnverifiedPublishers(ledger::Result result, const std::string& publisher_key, const std::string& publisher_name) override;

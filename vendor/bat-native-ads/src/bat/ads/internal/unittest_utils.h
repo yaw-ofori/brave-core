@@ -6,8 +6,6 @@
 #ifndef BAT_ADS_INTERNAL_UNITTEST_UTILS_H_
 #define BAT_ADS_INTERNAL_UNITTEST_UTILS_H_
 
-#include <stdint.h>
-
 #include <map>
 #include <memory>
 #include <string>
@@ -16,7 +14,6 @@
 
 #include "base/files/file_path.h"
 #include "testing/gtest/include/gtest/gtest.h"
-#include "bat/ads/client_info_platform_type.h"
 #include "bat/ads/database.h"
 #include "bat/ads/result.h"
 
@@ -93,17 +90,13 @@ void MockLoadUserModelForLanguage(
 void MockLoadJsonSchema(
     const std::unique_ptr<AdsClientMock>& mock);
 
-void MockURLRequest(
+void MockUrlRequest(
     const std::unique_ptr<AdsClientMock>& mock,
     const URLEndpoints& endpoints);
 
 void MockRunDBTransaction(
     const std::unique_ptr<AdsClientMock>& mock,
     const std::unique_ptr<Database>& database);
-
-void MockGetClientInfo(
-    const std::unique_ptr<AdsClientMock>& mock,
-    const ClientInfoPlatformType platform_type);
 
 int64_t DistantPast();
 

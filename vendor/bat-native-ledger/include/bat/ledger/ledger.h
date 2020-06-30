@@ -16,7 +16,6 @@
 #include "bat/ledger/export.h"
 #include "bat/ledger/mojom_structs.h"
 #include "bat/ledger/ledger_client.h"
-#include "bat/ledger/transactions_info.h"
 
 namespace ledger {
 
@@ -28,8 +27,6 @@ extern bool short_retries;
 
 using PublisherBannerCallback =
     std::function<void(ledger::PublisherBannerPtr banner)>;
-using GetTransactionHistoryCallback =
-    std::function<void(std::unique_ptr<ledger::TransactionsInfo> info)>;
 using GetRewardsParametersCallback =
     std::function<void(ledger::RewardsParametersPtr)>;
 using OnRefreshPublisherCallback =
@@ -149,8 +146,6 @@ class LEDGER_EXPORT Ledger {
 
   virtual void SetAutoContributeEnabled(bool enabled) = 0;
 
-  virtual void UpdateAdsRewards(const bool should_refresh) = 0;
-
   virtual uint64_t GetReconcileStamp() = 0;
 
   virtual bool GetRewardsMainEnabled() = 0;
@@ -249,21 +244,6 @@ class LEDGER_EXPORT Ledger {
 
   virtual void HasSufficientBalanceToReconcile(
       HasSufficientBalanceToReconcileCallback callback) = 0;
-
-  virtual void SetCatalogIssuers(
-      const std::string& info) = 0;
-
-  virtual void ConfirmAd(
-      const std::string& json,
-      const std::string& confirmation_type) = 0;
-
-  virtual void ConfirmAction(
-      const std::string& creative_instance_id,
-      const std::string& creative_set_id,
-      const std::string& confirmation_type) = 0;
-
-  virtual void GetTransactionHistory(
-      GetTransactionHistoryCallback callback) = 0;
 
   virtual void GetRewardsInternalsInfo(
       ledger::RewardsInternalsInfoCallback callback) = 0;

@@ -152,11 +152,6 @@ class MockLedgerClient : public LedgerClient {
   MOCK_CONST_METHOD1(GetUint64Option, uint64_t(
       const std::string& name));
 
-  MOCK_METHOD1(SetConfirmationsIsReady, void(
-      const bool is_ready));
-
-  MOCK_METHOD0(ConfirmationsTransactionHistoryDidChange, void());
-
   MOCK_METHOD3(OnContributeUnverifiedPublishers, void(
       ledger::Result result,
       const std::string& publisher_key,

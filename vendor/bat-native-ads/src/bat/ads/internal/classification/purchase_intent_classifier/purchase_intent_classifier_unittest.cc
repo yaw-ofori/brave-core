@@ -7,15 +7,14 @@
 
 #include <stdint.h>
 
-#include <deque>
-#include <map>
 #include <memory>
+#include <string>
 #include <vector>
 
-#include "base/time/time.h"
 #include "testing/gtest/include/gtest/gtest.h"
 #include "bat/ads/internal/classification/purchase_intent_classifier/funnel_sites.h"
 #include "bat/ads/internal/static_values.h"
+#include "bat/ads/internal/time_util.h"
 
 // npm run test -- brave_unit_tests --filter=BatAds*
 

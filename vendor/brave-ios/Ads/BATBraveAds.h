@@ -97,9 +97,6 @@ NS_SWIFT_NAME(BraveAds)
 
 #pragma mark - Confirmations
 
-// Should be called to inform Ads if Confirmations is ready
-- (void)setConfirmationsIsReady:(BOOL)isReady;
-
 #pragma mark - Notificiations
 
 - (nullable BATAdNotification *)adsNotificationForIdentifier:(NSString *)identifier;

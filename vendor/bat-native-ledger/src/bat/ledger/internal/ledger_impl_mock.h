@@ -81,8 +81,6 @@ class MockLedgerImpl : public LedgerImpl {
 
   MOCK_METHOD1(SetAutoContributeEnabled, void(bool));
 
-  MOCK_METHOD1(UpdateAdsRewards, void(const bool));
-
   MOCK_METHOD2(SavePendingContribution,
       void(ledger::PendingContributionList,
           ledger::ResultCallback));
@@ -115,9 +113,6 @@ class MockLedgerImpl : public LedgerImpl {
       ledger::AutoContributePropertiesPtr());
 
   MOCK_METHOD1(LoadNicewareList, void(ledger::GetNicewareListCallback));
-
-  MOCK_METHOD1(SetConfirmationsWalletInfo,
-      void(const ledger::WalletInfoProperties&));
 
   MOCK_METHOD1(LoadLedgerState, void(ledger::OnLoadCallback));
 

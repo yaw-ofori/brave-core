@@ -3,69 +3,57 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
-#include <algorithm>
-#include <fstream>
-#include <functional>
-#include <map>
-#include <set>
-#include <utility>
-#include <vector>
-
-#include "bat/ads/ad_history.h"
-#include "bat/ads/ads_client.h"
-#include "bat/ads/ads_history.h"
-#include "bat/ads/confirmation_type.h"
-#include "bat/ads/ad_notification_info.h"
-#include "bat/ads/internal/ads_impl.h"
-#include "bat/ads/internal/classification/purchase_intent_classifier/purchase_intent_signal_history.h"
-#include "bat/ads/internal/logging.h"
-#include "bat/ads/internal/search_providers.h"
-#include "bat/ads/internal/reports.h"
-#include "bat/ads/internal/static_values.h"
-#include "bat/ads/internal/time_util.h"
-#include "bat/ads/internal/ad_events/ad_notification_event_factory.h"
-#include "bat/ads/internal/database/tables/creative_ad_notifications_database_table.h"
-#include "bat/ads/internal/event_type_blur_info.h"
-#include "bat/ads/internal/event_type_destroy_info.h"
-#include "bat/ads/internal/event_type_focus_info.h"
-#include "bat/ads/internal/event_type_load_info.h"
-#include "bat/ads/internal/eligible_ads/eligible_ads_filter_factory.h"
-#include "bat/ads/internal/filters/ads_history_filter_factory.h"
-#include "bat/ads/internal/filters/ads_history_date_range_filter.h"
-#include "bat/ads/internal/frequency_capping/exclusion_rules/exclusion_rule.h"
-#include "bat/ads/internal/frequency_capping/exclusion_rules/per_hour_frequency_cap.h"
-#include "bat/ads/internal/frequency_capping/exclusion_rules/per_day_frequency_cap.h"
-#include "bat/ads/internal/frequency_capping/exclusion_rules/conversion_frequency_cap.h"
-#include "bat/ads/internal/frequency_capping/exclusion_rules/subdivision_targeting_frequency_cap.h"
-#include "bat/ads/internal/frequency_capping/exclusion_rules/daily_cap_frequency_cap.h"
-#include "bat/ads/internal/frequency_capping/exclusion_rules/marked_as_inappropriate_frequency_cap.h"
-#include "bat/ads/internal/frequency_capping/exclusion_rules/marked_to_no_longer_receive_frequency_cap.h"
-#include "bat/ads/internal/frequency_capping/exclusion_rules/total_max_frequency_cap.h"
-#include "bat/ads/internal/frequency_capping/permission_rules/minimum_wait_time_frequency_cap.h"
-#include "bat/ads/internal/frequency_capping/permission_rules/ads_per_day_frequency_cap.h"
-#include "bat/ads/internal/frequency_capping/permission_rules/ads_per_hour_frequency_cap.h"
-#include "bat/ads/internal/sorts/ads_history_sort_factory.h"
-#include "bat/ads/internal/classification/purchase_intent_classifier/purchase_intent_signal_info.h"
-#include "bat/ads/internal/classification/purchase_intent_classifier/purchase_intent_classifier.h"
-#include "bat/ads/internal/subdivision_targeting.h"
-#include "bat/ads/internal/url_util.h"
-
 #include "base/guid.h"
+#include "base/json/json_reader.h"
+#include "base/json/json_writer.h"
 #include "base/rand_util.h"
 #include "base/strings/string_number_conversions.h"
 #include "base/strings/string_util.h"
 #include "base/strings/stringprintf.h"
 #include "base/strings/utf_string_conversions.h"
-#include "base/time/time.h"
-
-#if defined(OS_ANDROID)
-#include "base/system/sys_info.h"
-#include "base/android/build_info.h"
-#endif
-
 #include "brave/components/l10n/browser/locale_helper.h"
 #include "brave/components/l10n/common/locale_util.h"
+#include "third_party/re2/src/re2/re2.h"
 #include "url/gurl.h"
+#include "bat/ads/ad_history.h"
+#include "bat/ads/ads_client.h"
+#include "bat/ads/internal/ad_conversions/ad_conversions.h"
+#include "bat/ads/internal/ad_events/ad_notification_event_factory.h"
+#include "bat/ads/internal/ads_impl.h"
+#include "bat/ads/internal/bundle/bundle.h"
+#include "bat/ads/internal/classification/purchase_intent_classifier/purchase_intent_signal_history.h"
+#include "bat/ads/internal/eligible_ads/eligible_ads_filter_factory.h"
+#include "bat/ads/internal/event_type_blur_info.h"
+#include "bat/ads/internal/event_type_destroy_info.h"
+#include "bat/ads/internal/event_type_focus_info.h"
+#include "bat/ads/internal/event_type_load_info.h"
+#include "bat/ads/internal/filters/ads_history_date_range_filter.h"
+#include "bat/ads/internal/filters/ads_history_filter_factory.h"
+#include "bat/ads/internal/frequency_capping/exclusion_rules/conversion_frequency_cap.h"
+#include "bat/ads/internal/frequency_capping/exclusion_rules/daily_cap_frequency_cap.h"
+#include "bat/ads/internal/frequency_capping/exclusion_rules/exclusion_rule.h"
+#include "bat/ads/internal/frequency_capping/exclusion_rules/marked_as_inappropriate_frequency_cap.h"
+#include "bat/ads/internal/frequency_capping/exclusion_rules/marked_to_no_longer_receive_frequency_cap.h"
+#include "bat/ads/internal/frequency_capping/exclusion_rules/per_day_frequency_cap.h"
+#include "bat/ads/internal/frequency_capping/exclusion_rules/per_hour_frequency_cap.h"
+#include "bat/ads/internal/frequency_capping/exclusion_rules/subdivision_targeting_frequency_cap.h"
+#include "bat/ads/internal/frequency_capping/exclusion_rules/total_max_frequency_cap.h"
+#include "bat/ads/internal/frequency_capping/permission_rules/ads_per_day_frequency_cap.h"
+#include "bat/ads/internal/frequency_capping/permission_rules/ads_per_hour_frequency_cap.h"
+#include "bat/ads/internal/frequency_capping/permission_rules/minimum_wait_time_frequency_cap.h"
+#include "bat/ads/internal/logging.h"
+#include "bat/ads/internal/reports.h"
+#include "bat/ads/internal/search_engine/search_providers.h"
+#include "bat/ads/internal/sorts/ads_history_sort_factory.h"
+#include "bat/ads/internal/static_values.h"
+#include "bat/ads/internal/subdivision_targeting/subdivision_targeting.h"
+#include "bat/ads/internal/time_util.h"
+#include "bat/ads/internal/url_util.h"
+
+#if defined(OS_ANDROID)
+#include "base/android/build_info.h"
+#include "base/system/sys_info.h"
+#endif
 
 using std::placeholders::_1;
 using std::placeholders::_2;
@@ -93,7 +81,7 @@ AdsImpl::AdsImpl(AdsClient* ads_client)
       next_easter_egg_timestamp_in_seconds_(0),
       client_(std::make_unique<Client>(this)),
       bundle_(std::make_unique<Bundle>(this)),
-      ads_serve_(std::make_unique<AdsServe>(this, bundle_.get())),
+      get_catalog_(std::make_unique<GetCatalog>(this)),
       subdivision_targeting_(std::make_unique<SubdivisionTargeting>(this)),
       ad_conversions_(std::make_unique<AdConversions>(this)),
       database_(std::make_unique<database::Initialize>(this)),
@@ -103,10 +91,26 @@ AdsImpl::AdsImpl(AdsClient* ads_client)
               kPurchaseIntentClassificationThreshold,
                   kPurchaseIntentSignalDecayTimeWindow)),
       is_initialized_(false),
-      is_confirmations_ready_(false),
       ad_notifications_(std::make_unique<AdNotifications>(this)),
-      ads_client_(ads_client) {
+      ads_client_(ads_client),
+      unblinded_tokens_(std::make_unique<privacy::UnblindedTokens>(this)),
+      unblinded_payment_tokens_(
+          std::make_unique<privacy::UnblindedTokens>(this)),
+      estimated_pending_rewards_(0.0),
+      next_payment_date_in_seconds_(0),
+      ad_rewards_(std::make_unique<AdRewards>(this)),
+      refill_unblinded_tokens_(std::make_unique<RefillUnblindedTokens>(this,
+          unblinded_tokens_.get())),
+      redeem_unblinded_token_(std::make_unique<RedeemUnblindedToken>(this,
+          unblinded_tokens_.get(), unblinded_payment_tokens_.get())),
+      redeem_unblinded_payment_tokens_(std::make_unique<
+          RedeemUnblindedPaymentTokens>(this, unblinded_payment_tokens_.get())),
+      state_has_loaded_(false)) {
   set_ads_client_for_logging(ads_client_);
+
+  redeem_unblinded_token_->set_delegate(this);
+  redeem_unblinded_payment_tokens_->set_delegate(this);
+  refill_unblinded_tokens_->set_delegate(this);
 }
 
 AdsImpl::~AdsImpl() = default;
@@ -129,6 +133,18 @@ SubdivisionTargeting* AdsImpl::get_subdivision_targeting() const {
 
 classification::PageClassifier* AdsImpl::get_page_classifier() const {
   return page_classifier_.get();
+}
+
+privacy::UnblindedTokens* AdsImpl::get_unblinded_tokens() const {
+  return unblinded_tokens_.get();
+}
+
+privacy::UnblindedTokens* AdsImpl::get_unblinded_payment_tokens() const {
+  return unblinded_payment_tokens_.get();
+}
+
+Bundle* AdsImpl::get_bundle() const {
+  return bundle_.get();
 }
 
 AdConversions* AdsImpl::get_ad_conversions() const {
@@ -242,7 +258,7 @@ void AdsImpl::InitializeStep6(
     }
   }
 
-  ads_serve_->DownloadCatalog();
+  get_catalog_->DownloadCatalog();
 }
 
 #if defined(OS_ANDROID)
@@ -533,11 +549,6 @@ void AdsImpl::RemoveAllHistory(
   callback(SUCCESS);
 }
 
-void AdsImpl::SetConfirmationsIsReady(
-    const bool is_ready) {
-  is_confirmations_ready_ = is_ready;
-}
-
 AdsHistory AdsImpl::GetAdsHistory(
     const AdsHistory::FilterType filter_type,
     const AdsHistory::SortType sort_type,
@@ -666,7 +677,7 @@ void AdsImpl::OnPageLoaded(
     return;
   }
 
-  const bool is_supported_url = IsSupportedUrl(url);
+  const bool is_supported_url = GURL(url).is_valid();
 
   if (is_supported_url) {
     ad_conversions_->Check(url);
@@ -794,8 +805,7 @@ AdsImpl::GetWinningPurchaseIntentCategories() {
   return winning_categories;
 }
 
-void AdsImpl::ServeAdNotificationIfReady(
-    const bool should_force) {
+void AdsImpl::ServeAdNotificationIfReady() {
   if (!IsInitialized()) {
     FailedToServeAdNotification("Not initialized");
     return;
@@ -806,31 +816,24 @@ void AdsImpl::ServeAdNotificationIfReady(
     return;
   }
 
-  if (!should_force) {
-    if (!is_confirmations_ready_) {
-      FailedToServeAdNotification("Confirmations not ready");
-      return;
-    }
+  if (!IsAndroid() && !IsForeground()) {
+    FailedToServeAdNotification("Not in foreground");
+    return;
+  }
 
-    if (!IsAndroid() && !IsForeground()) {
-      FailedToServeAdNotification("Not in foreground");
-      return;
-    }
+  if (IsMediaPlaying()) {
+    FailedToServeAdNotification("Media playing in browser");
+    return;
+  }
 
-    if (IsMediaPlaying()) {
-      FailedToServeAdNotification("Media playing in browser");
-      return;
-    }
+  if (ShouldNotDisturb()) {
+    FailedToServeAdNotification("Should not disturb");
+    return;
+  }
 
-    if (ShouldNotDisturb()) {
-      FailedToServeAdNotification("Should not disturb");
-      return;
-    }
-
-    if (!IsAllowedToServeAdNotifications()) {
-      FailedToServeAdNotification("Not allowed based on history");
-      return;
-    }
+  if (!IsAllowedToServeAdNotifications()) {
+    FailedToServeAdNotification("Not allowed based on history");
+    return;
   }
 
   classification::CategoryList categories = GetCategoriesToServeAd();
@@ -1367,7 +1370,7 @@ void AdsImpl::MaybeServeAdNotification(
     return;
   }
 
-  ServeAdNotificationIfReady(false);
+  ServeAdNotificationIfReady();
 }
 
 const AdNotificationInfo& AdsImpl::get_last_shown_ad_notification() const {
@@ -1453,11 +1456,1143 @@ void AdsImpl::AppendAdNotificationToHistory(
   client_->AppendAdHistoryToAdsHistory(ad_history);
 }
 
-bool AdsImpl::IsSupportedUrl(
-    const std::string& url) const {
-  DCHECK(!url.empty()) << "Invalid URL";
+//////////////////////////////////////////////////////////////////////////////
 
-  return GURL(url).SchemeIsHTTPOrHTTPS();
+std::string AdsImpl::ToJSON() const {
+  DCHECK(state_has_loaded_);
+
+  base::Value dictionary(base::Value::Type::DICTIONARY);
+
+  // Catalog issuers
+  auto catalog_issuers =
+      GetCatalogIssuersAsDictionary(public_key_, catalog_issuers_);
+  dictionary.SetKey("catalog_issuers", base::Value(std::move(catalog_issuers)));
+
+  // Next token redemption date
+  auto token_redemption_timestamp_in_seconds =
+      GetNextTokenRedemptionDateInSeconds();
+  dictionary.SetKey("next_token_redemption_date_in_seconds", base::Value(
+      std::to_string(token_redemption_timestamp_in_seconds)));
+
+  // Confirmations
+  auto confirmations = GetConfirmationsAsDictionary(confirmations_);
+  dictionary.SetKey("confirmations", base::Value(std::move(confirmations)));
+
+  // Ads rewards
+  auto ads_rewards = ad_rewards_->GetAsDictionary();
+  dictionary.SetKey("ads_rewards", base::Value(std::move(ads_rewards)));
+
+  // Transaction history
+  auto transaction_history =
+      GetTransactionHistoryAsDictionary(transaction_history_);
+  dictionary.SetKey("transaction_history", base::Value(
+      std::move(transaction_history)));
+
+  // Unblinded tokens
+  auto unblinded_tokens = unblinded_tokens_->GetTokensAsList();
+  dictionary.SetKey("unblinded_tokens", base::Value(
+      std::move(unblinded_tokens)));
+
+  // Unblinded payment tokens
+  auto unblinded_payment_tokens = unblinded_payment_tokens_->GetTokensAsList();
+  dictionary.SetKey("unblinded_payment_tokens", base::Value(
+      std::move(unblinded_payment_tokens)));
+
+  // Write to JSON
+  std::string json;
+  base::JSONWriter::Write(dictionary, &json);
+
+  return json;
+}
+
+base::Value AdsImpl::GetCatalogIssuersAsDictionary(
+    const std::string& public_key,
+    const std::map<std::string, std::string>& issuers) const {
+  base::Value dictionary(base::Value::Type::DICTIONARY);
+  dictionary.SetKey("public_key", base::Value(public_key));
+
+  base::Value list(base::Value::Type::LIST);
+  for (const auto& issuer : issuers) {
+    base::Value issuer_dictionary(base::Value::Type::DICTIONARY);
+
+    issuer_dictionary.SetKey("name", base::Value(issuer.second));
+    issuer_dictionary.SetKey("public_key", base::Value(issuer.first));
+
+    list.Append(std::move(issuer_dictionary));
+  }
+
+  dictionary.SetKey("issuers", base::Value(std::move(list)));
+
+  return dictionary;
+}
+
+base::Value AdsImpl::GetConfirmationsAsDictionary(
+    const ConfirmationList& confirmations) const {
+  base::Value dictionary(base::Value::Type::DICTIONARY);
+
+  base::Value list(base::Value::Type::LIST);
+  for (const auto& confirmation : confirmations) {
+    base::Value confirmation_dictionary(base::Value::Type::DICTIONARY);
+
+    confirmation_dictionary.SetKey("id", base::Value(confirmation.id));
+
+    confirmation_dictionary.SetKey("creative_instance_id",
+        base::Value(confirmation.creative_instance_id));
+
+    std::string type = std::string(confirmation.type);
+    confirmation_dictionary.SetKey("type", base::Value(type));
+
+    base::Value token_info_dictionary(base::Value::Type::DICTIONARY);
+    auto unblinded_token_base64 =
+        confirmation.token_info.unblinded_token.encode_base64();
+    token_info_dictionary.SetKey("unblinded_token",
+        base::Value(unblinded_token_base64));
+    auto public_key = confirmation.token_info.public_key;
+    token_info_dictionary.SetKey("public_key", base::Value(public_key));
+    confirmation_dictionary.SetKey("token_info",
+        base::Value(std::move(token_info_dictionary)));
+
+    auto payment_token_base64 = confirmation.payment_token.encode_base64();
+    confirmation_dictionary.SetKey("payment_token",
+        base::Value(payment_token_base64));
+
+    auto blinded_payment_token_base64 =
+        confirmation.blinded_payment_token.encode_base64();
+    confirmation_dictionary.SetKey("blinded_payment_token",
+        base::Value(blinded_payment_token_base64));
+
+    confirmation_dictionary.SetKey("credential",
+        base::Value(confirmation.credential));
+
+    confirmation_dictionary.SetKey("timestamp_in_seconds",
+        base::Value(std::to_string(confirmation.timestamp_in_seconds)));
+
+    confirmation_dictionary.SetKey("created",
+        base::Value(confirmation.created));
+
+    list.Append(std::move(confirmation_dictionary));
+  }
+
+  dictionary.SetKey("failed_confirmations", base::Value(std::move(list)));
+
+  return dictionary;
+}
+
+base::Value AdsImpl::GetTransactionHistoryAsDictionary(
+    const TransactionList& transaction_history) const {
+  base::Value dictionary(base::Value::Type::DICTIONARY);
+
+  base::Value list(base::Value::Type::LIST);
+  for (const auto& transaction : transaction_history) {
+    base::Value transaction_dictionary(base::Value::Type::DICTIONARY);
+
+    transaction_dictionary.SetKey("timestamp_in_seconds",
+        base::Value(std::to_string(transaction.timestamp_in_seconds)));
+
+    transaction_dictionary.SetKey("estimated_redemption_value",
+        base::Value(transaction.estimated_redemption_value));
+
+    transaction_dictionary.SetKey("confirmation_type",
+        base::Value(transaction.confirmation_type));
+
+    list.Append(std::move(transaction_dictionary));
+  }
+
+  dictionary.SetKey("transactions", base::Value(std::move(list)));
+
+  return dictionary;
+}
+
+bool AdsImpl::FromJSON(const std::string& json) {
+  DCHECK(state_has_loaded_);
+
+  base::Optional<base::Value> value = base::JSONReader::Read(json);
+  if (!value || !value->is_dict()) {
+    return false;
+  }
+
+  base::DictionaryValue* dictionary = nullptr;
+  if (!value->GetAsDictionary(&dictionary)) {
+    return false;
+  }
+
+  if (!ParseCatalogIssuersFromJSON(dictionary)) {
+    BLOG(0, "Failed to parse catalog issuers");
+  }
+
+  if (!ParseNextTokenRedemptionDateInSecondsFromJSON(dictionary)) {
+    BLOG(0, "Failed to parse next token redemption date in seconds");
+  }
+
+  if (!ParseConfirmationsFromJSON(dictionary)) {
+    BLOG(0, "Failed to parse confirmations");
+  }
+
+  if (!ad_rewards_->SetFromDictionary(dictionary)) {
+    BLOG(0, "Failed to parse ads rewards");
+  }
+
+  if (!ParseTransactionHistoryFromJSON(dictionary)) {
+    BLOG(0, "Failed to parse transaction history");
+  }
+
+  if (!ParseUnblindedTokensFromJSON(dictionary)) {
+    BLOG(0, "Failed to parse unblinded tokens");
+  }
+
+  if (!ParseUnblindedPaymentTokensFromJSON(dictionary)) {
+    BLOG(0, "Failed to parse unblinded payment tokens");
+  }
+
+  return true;
+}
+
+bool AdsImpl::ParseCatalogIssuersFromJSON(
+    base::DictionaryValue* dictionary) {
+  DCHECK(dictionary);
+  if (!dictionary) {
+    return false;
+  }
+
+  auto* catalog_issuers_value = dictionary->FindKey("catalog_issuers");
+  if (!catalog_issuers_value) {
+    return false;
+  }
+
+  base::DictionaryValue* catalog_issuers_dictionary;
+  if (!catalog_issuers_value->GetAsDictionary(&catalog_issuers_dictionary)) {
+    return false;
+  }
+
+  std::string public_key;
+  std::map<std::string, std::string> catalog_issuers;
+  if (!GetCatalogIssuersFromDictionary(catalog_issuers_dictionary, &public_key,
+      &catalog_issuers)) {
+    return false;
+  }
+
+  public_key_ = public_key;
+  catalog_issuers_ = catalog_issuers;
+
+  return true;
+}
+
+bool AdsImpl::GetCatalogIssuersFromDictionary(
+    base::DictionaryValue* dictionary,
+    std::string* public_key,
+    std::map<std::string, std::string>* issuers) const {
+  DCHECK(dictionary);
+  if (!dictionary) {
+    return false;
+  }
+
+  DCHECK(public_key);
+  if (!public_key) {
+    return false;
+  }
+
+  DCHECK(issuers);
+  if (!issuers) {
+    return false;
+  }
+
+  // Public key
+  auto* public_key_value = dictionary->FindKey("public_key");
+  if (!public_key_value) {
+    return false;
+  }
+  *public_key = public_key_value->GetString();
+
+  // Issuers
+  auto* issuers_value = dictionary->FindKey("issuers");
+  if (!issuers_value) {
+    return false;
+  }
+
+  issuers->clear();
+  base::ListValue issuers_list_value(issuers_value->GetList());
+  for (auto& issuer_value : issuers_list_value) {
+    base::DictionaryValue* issuer_dictionary;
+    if (!issuer_value.GetAsDictionary(&issuer_dictionary)) {
+      return false;
+    }
+
+    // Public key
+    auto* public_key_value = issuer_dictionary->FindKey("public_key");
+    if (!public_key_value) {
+      return false;
+    }
+    auto public_key = public_key_value->GetString();
+
+    // Name
+    auto* name_value = issuer_dictionary->FindKey("name");
+    if (!name_value) {
+      return false;
+    }
+    auto name = name_value->GetString();
+
+    issuers->insert({public_key, name});
+  }
+
+  return true;
+}
+
+bool AdsImpl::ParseNextTokenRedemptionDateInSecondsFromJSON(
+    base::DictionaryValue* dictionary) {
+  DCHECK(dictionary);
+  if (!dictionary) {
+    return false;
+  }
+
+  auto* next_token_redemption_date_in_seconds_value =
+      dictionary->FindKey("next_token_redemption_date_in_seconds");
+  if (!next_token_redemption_date_in_seconds_value) {
+    return false;
+  }
+
+  uint64_t next_token_redemption_date_in_seconds;
+  if (!base::StringToUint64(
+      next_token_redemption_date_in_seconds_value->GetString(),
+          &next_token_redemption_date_in_seconds)) {
+    return false;
+  }
+
+  redeem_unblinded_payment_tokens_->set_token_redemption_timestamp(
+      MigrateTimestampToDoubleT(next_token_redemption_date_in_seconds));
+
+  return true;
+}
+
+bool AdsImpl::ParseConfirmationsFromJSON(
+    base::DictionaryValue* dictionary) {
+  DCHECK(dictionary);
+  if (!dictionary) {
+    return false;
+  }
+
+  auto* confirmations_value = dictionary->FindKey("confirmations");
+  if (!confirmations_value) {
+    return false;
+  }
+
+  base::DictionaryValue* confirmations_dictionary;
+  if (!confirmations_value->GetAsDictionary(
+        &confirmations_dictionary)) {
+    return false;
+  }
+
+  ConfirmationList confirmations;
+  if (!GetConfirmationsFromDictionary(confirmations_dictionary,
+      &confirmations)) {
+    return false;
+  }
+
+  confirmations_ = confirmations;
+
+  return true;
+}
+
+bool AdsImpl::GetConfirmationsFromDictionary(
+    base::DictionaryValue* dictionary,
+    ConfirmationList* confirmations) {
+  DCHECK(dictionary);
+  if (!dictionary) {
+    return false;
+  }
+
+  DCHECK(confirmations);
+  if (!confirmations) {
+    return false;
+  }
+
+  // Confirmations
+  auto* confirmations_value = dictionary->FindKey("failed_confirmations");
+  if (!confirmations_value) {
+    DCHECK(false) << "Confirmations dictionary missing confirmations";
+    return false;
+  }
+
+  confirmations->clear();
+  base::ListValue confirmations_list_value(confirmations_value->GetList());
+  for (auto& confirmation_value : confirmations_list_value) {
+    base::DictionaryValue* confirmation_dictionary;
+    if (!confirmation_value.GetAsDictionary(&confirmation_dictionary)) {
+      DCHECK(false) << "Confirmation should be a dictionary";
+      continue;
+    }
+
+    ConfirmationInfo confirmation_info;
+
+    // Id
+    auto* id_value = confirmation_dictionary->FindKey("id");
+    if (id_value) {
+      confirmation_info.id = id_value->GetString();
+    } else {
+      // Id missing, skip confirmation
+      DCHECK(false) << "Confirmation missing id";
+      continue;
+    }
+
+    // Creative instance id
+    auto* creative_instance_id_value =
+        confirmation_dictionary->FindKey("creative_instance_id");
+    if (creative_instance_id_value) {
+      confirmation_info.creative_instance_id =
+          creative_instance_id_value->GetString();
+    } else {
+      // Creative instance id missing, skip confirmation
+      DCHECK(false) << "Confirmation missing creative_instance_id";
+      continue;
+    }
+
+    // Type
+    auto* type_value = confirmation_dictionary->FindKey("type");
+    if (type_value) {
+      ConfirmationType type(type_value->GetString());
+      confirmation_info.type = type;
+    } else {
+      // Type missing, skip confirmation
+      DCHECK(false) << "Confirmation missing type";
+      continue;
+    }
+
+    // Token info
+    auto* token_info_value = confirmation_dictionary->FindKey("token_info");
+    if (!token_info_value) {
+      DCHECK(false) << "Confirmation missing token_info";
+      continue;
+    }
+
+    base::DictionaryValue* token_info_dictionary;
+    if (!token_info_value->GetAsDictionary(&token_info_dictionary)) {
+      DCHECK(false) << "Token info should be a dictionary";
+      continue;
+    }
+
+    auto* unblinded_token_value =
+        token_info_dictionary->FindKey("unblinded_token");
+    if (unblinded_token_value) {
+      auto unblinded_token_base64 = unblinded_token_value->GetString();
+      confirmation_info.token_info.unblinded_token =
+          UnblindedToken::decode_base64(unblinded_token_base64);
+    } else {
+      // Unblinded token missing, skip confirmation
+      DCHECK(false) << "Token info missing unblinded_token";
+      continue;
+    }
+
+    auto* public_key_value = token_info_dictionary->FindKey("public_key");
+    if (public_key_value) {
+      confirmation_info.token_info.public_key = public_key_value->GetString();
+    } else {
+      // Public key missing, skip confirmation
+      DCHECK(false) << "Token info missing public_key";
+      continue;
+    }
+
+    // Payment token
+    auto* payment_token_value =
+        confirmation_dictionary->FindKey("payment_token");
+    if (payment_token_value) {
+      auto payment_token_base64 = payment_token_value->GetString();
+      confirmation_info.payment_token =
+          Token::decode_base64(payment_token_base64);
+    } else {
+      // Payment token missing, skip confirmation
+      DCHECK(false) << "Confirmation missing payment_token";
+      continue;
+    }
+
+    // Blinded payment token
+    auto* blinded_payment_token_value =
+        confirmation_dictionary->FindKey("blinded_payment_token");
+    if (blinded_payment_token_value) {
+      auto blinded_payment_token_base64 =
+          blinded_payment_token_value->GetString();
+      confirmation_info.blinded_payment_token =
+          BlindedToken::decode_base64(blinded_payment_token_base64);
+    } else {
+      // Blinded payment token missing, skip confirmation
+      DCHECK(false) << "Confirmation missing blinded_payment_token";
+      continue;
+    }
+
+    // Credential
+    auto* credential_value = confirmation_dictionary->FindKey("credential");
+    if (credential_value) {
+      confirmation_info.credential = credential_value->GetString();
+    } else {
+      // Credential missing, skip confirmation
+      DCHECK(false) << "Confirmation missing credential";
+      continue;
+    }
+
+    // Timestamp
+    auto* timestamp_in_seconds_value =
+        confirmation_dictionary->FindKey("timestamp_in_seconds");
+    if (timestamp_in_seconds_value) {
+      uint64_t timestamp_in_seconds;
+      if (!base::StringToUint64(timestamp_in_seconds_value->GetString(),
+          &timestamp_in_seconds)) {
+        continue;
+      }
+
+      confirmation_info.timestamp_in_seconds = timestamp_in_seconds;
+    }
+
+    // Created
+    auto* created_value = confirmation_dictionary->FindKey("created");
+    if (created_value) {
+      confirmation_info.created = created_value->GetBool();
+    } else {
+      confirmation_info.created = true;
+    }
+
+    confirmations->push_back(confirmation_info);
+  }
+
+  return true;
+}
+
+bool AdsImpl::ParseTransactionHistoryFromJSON(
+    base::DictionaryValue* dictionary) {
+  DCHECK(dictionary);
+  if (!dictionary) {
+    return false;
+  }
+
+  auto* transaction_history_value = dictionary->FindKey("transaction_history");
+  if (!transaction_history_value) {
+    return false;
+  }
+
+  base::DictionaryValue* transaction_history_dictionary;
+  if (!transaction_history_value->GetAsDictionary(
+        &transaction_history_dictionary)) {
+    return false;
+  }
+
+  TransactionList transaction_history;
+  if (!GetTransactionHistoryFromDictionary(transaction_history_dictionary,
+      &transaction_history)) {
+    return false;
+  }
+
+  transaction_history_ = transaction_history;
+
+  return true;
+}
+
+bool AdsImpl::GetTransactionHistoryFromDictionary(
+    base::DictionaryValue* dictionary,
+    TransactionList* transaction_history) {
+  DCHECK(dictionary);
+  if (!dictionary) {
+    return false;
+  }
+
+  DCHECK(transaction_history);
+  if (!transaction_history) {
+    return false;
+  }
+
+  // Transaction
+  auto* transactions_value = dictionary->FindKey("transactions");
+  if (!transactions_value) {
+    DCHECK(false) << "Transactions history dictionary missing transactions";
+    return false;
+  }
+
+  transaction_history->clear();
+  base::ListValue transactions_list_value(transactions_value->GetList());
+  for (auto& transaction_value : transactions_list_value) {
+    base::DictionaryValue* transaction_dictionary;
+    if (!transaction_value.GetAsDictionary(&transaction_dictionary)) {
+      DCHECK(false) << "Transaction should be a dictionary";
+      continue;
+    }
+
+    TransactionInfo info;
+
+    // Timestamp
+    auto* timestamp_in_seconds_value =
+        transaction_dictionary->FindKey("timestamp_in_seconds");
+    if (timestamp_in_seconds_value) {
+      uint64_t timestamp_in_seconds;
+      if (!base::StringToUint64(timestamp_in_seconds_value->GetString(),
+          &timestamp_in_seconds)) {
+        continue;
+      }
+
+      info.timestamp_in_seconds =
+          MigrateTimestampToDoubleT(timestamp_in_seconds);
+    } else {
+      // timestamp missing, fallback to default
+      info.timestamp_in_seconds =
+          static_cast<uint64_t>(base::Time::Now().ToDoubleT());
+    }
+
+    // Estimated redemption value
+    auto* estimated_redemption_value_value =
+        transaction_dictionary->FindKey("estimated_redemption_value");
+    if (estimated_redemption_value_value) {
+      info.estimated_redemption_value =
+          estimated_redemption_value_value->GetDouble();
+    } else {
+      // estimated redemption value missing, fallback to default
+      info.estimated_redemption_value = 0.0;
+    }
+
+    // Confirmation type (>= 0.63.8)
+    auto* confirmation_type_value =
+        transaction_dictionary->FindKey("confirmation_type");
+    if (confirmation_type_value) {
+      info.confirmation_type = confirmation_type_value->GetString();
+    } else {
+      // confirmation type missing, fallback to default
+      ConfirmationType type(ConfirmationType::kViewed);
+      info.confirmation_type = std::string(type);
+    }
+
+    transaction_history->push_back(info);
+  }
+
+  return true;
+}
+
+bool AdsImpl::ParseUnblindedTokensFromJSON(
+    base::DictionaryValue* dictionary) {
+  DCHECK(dictionary);
+  if (!dictionary) {
+    return false;
+  }
+
+  auto* unblinded_tokens_value = dictionary->FindKey("unblinded_tokens");
+  if (!unblinded_tokens_value) {
+    return false;
+  }
+
+  base::ListValue unblinded_token_values(unblinded_tokens_value->GetList());
+
+  unblinded_tokens_->SetTokensFromList(unblinded_token_values);
+
+  return true;
+}
+
+bool AdsImpl::ParseUnblindedPaymentTokensFromJSON(
+    base::DictionaryValue* dictionary) {
+  DCHECK(dictionary);
+  if (!dictionary) {
+    return false;
+  }
+
+  auto* unblinded_payment_tokens_value =
+      dictionary->FindKey("unblinded_payment_tokens");
+  if (!unblinded_payment_tokens_value) {
+    return false;
+  }
+
+  base::ListValue unblinded_payment_token_values(
+      unblinded_payment_tokens_value->GetList());
+
+  unblinded_payment_tokens_->SetTokensFromList(
+      unblinded_payment_token_values);
+
+  return true;
+}
+
+void AdsImpl::SaveState() {
+  if (!state_has_loaded_) {
+    NOTREACHED();
+    return;
+  }
+
+  BLOG(3, "Saving confirmations state");
+
+  std::string json = ToJSON();
+  auto callback = std::bind(&AdsImpl::OnStateSaved, this, _1);
+  ads_client_->Save(_confirmations_resource_name, json, callback);
+}
+
+void AdsImpl::OnStateSaved(const Result result) {
+  if (result != SUCCESS) {
+    BLOG(0, "Failed to save confirmations state");
+    return;
+  }
+
+  BLOG(3, "Successfully saved confirmations state");
+}
+
+void AdsImpl::LoadState() {
+  BLOG(3, "Loading confirmations state");
+
+  auto callback = std::bind(&AdsImpl::OnStateLoaded, this, _1, _2);
+  ads_client__->Load(_confirmations_resource_name, callback);
+}
+
+void AdsImpl::OnStateLoaded(
+    Result result,
+    const std::string& json) {
+  state_has_loaded_ = true;
+
+  auto confirmations_json = json;
+
+  if (result != SUCCESS) {
+    BLOG(3, "Confirmations state does not exist, creating default state");
+
+    confirmations_json = ToJSON();
+  } else {
+    BLOG(3, "Successfully loaded confirmations state");
+  }
+
+  if (!FromJSON(confirmations_json)) {
+    state_has_loaded_ = false;
+
+    BLOG(0, "Failed to parse confirmations state: " << confirmations_json);
+
+    ads_client_->ConfirmationsTransactionHistoryDidChange();
+
+    initialize_callback_(false);
+
+    return;
+  }
+
+  initialize_callback_(true);
+}
+
+void AdsImpl::SetWalletInfo(std::unique_ptr<WalletInfo> info) {
+  if (!state_has_loaded_) {
+    return;
+  }
+
+  if (!info->IsValid()) {
+    BLOG(0, "Failed to initialize Confirmations due to invalid wallet");
+    return;
+  }
+
+  if (*info == wallet_info_) {
+    return;
+  }
+
+  wallet_info_ = WalletInfo(*info);
+
+  BLOG(1, "SetWalletInfo:\n"
+      << "  Payment id: " << wallet_info_.payment_id << "\n"
+      << "  Private key: ********");
+
+  UpdateAdsRewards(true);
+
+  MaybeStart();
+}
+
+void AdsImpl::SetCatalogIssuers(std::unique_ptr<IssuersInfo> info) {
+  DCHECK(state_has_loaded_);
+  if (!state_has_loaded_) {
+    BLOG(0, "Failed to set catalog issuers as not initialized");
+    return;
+  }
+
+  BLOG(1, "SetCatalogIssuers:");
+  BLOG(1, "  Public key: " << info->public_key);
+  BLOG(1, "  Issuers:");
+
+  for (const auto& issuer : info->issuers) {
+    BLOG(1, "    Name: " << issuer.name);
+    BLOG(1, "    Public key: " << issuer.public_key);
+  }
+
+  const bool public_key_was_rotated =
+      !public_key_.empty() && public_key_ != info->public_key;
+
+  public_key_ = info->public_key;
+
+  catalog_issuers_.clear();
+  for (const auto& issuer : info->issuers) {
+    catalog_issuers_.insert({issuer.public_key, issuer.name});
+  }
+
+  if (public_key_was_rotated) {
+    unblinded_tokens_->RemoveAllTokens();
+    if (is_initialized_) {
+      RefillUnblindedTokensIfNecessary();
+    }
+  }
+
+  MaybeStart();
+}
+
+std::map<std::string, std::string> AdsImpl::GetCatalogIssuers()
+    const {
+  DCHECK(state_has_loaded_);
+
+  return catalog_issuers_;
+}
+
+bool AdsImpl::IsValidPublicKeyForCatalogIssuers(
+    const std::string& public_key) const {
+  DCHECK(state_has_loaded_);
+
+  auto it = catalog_issuers_.find(public_key);
+  if (it == catalog_issuers_.end()) {
+    return false;
+  }
+
+  return true;
+}
+
+void AdsImpl::AppendConfirmationToQueue(
+    const ConfirmationInfo& confirmation_info) {
+  DCHECK(state_has_loaded_);
+
+  confirmations_.push_back(confirmation_info);
+
+  SaveState();
+
+  BLOG(1, "Added confirmation id " << confirmation_info.id
+      << ", creative instance id " << confirmation_info.creative_instance_id
+          << " and " << std::string(confirmation_info.type)
+              << " to the confirmations queue");
+
+  StartRetryingFailedConfirmations();
+}
+
+void AdsImpl::RemoveConfirmationFromQueue(
+    const ConfirmationInfo& confirmation_info) {
+  DCHECK(state_has_loaded_);
+
+  auto it = std::find_if(confirmations_.begin(), confirmations_.end(),
+      [=](const ConfirmationInfo& info) {
+        return (info.id == confirmation_info.id);
+      });
+
+  if (it == confirmations_.end()) {
+    BLOG(0, "Failed to remove confirmation id " << confirmation_info.id
+        << ", creative instance id " << confirmation_info.creative_instance_id
+            << " and " << std::string(confirmation_info.type) << " from "
+                "the confirmations queue");
+
+    return;
+  }
+
+  BLOG(1, "Removed confirmation id " << confirmation_info.id
+      << ", creative instance id " << confirmation_info.creative_instance_id
+          << " and " << std::string(confirmation_info.type) << " from the "
+              "confirmations queue");
+
+  confirmations_.erase(it);
+
+  SaveState();
+}
+
+void AdsImpl::UpdateAdsRewards(const bool should_refresh) {
+  DCHECK(state_has_loaded_);
+  if (!state_has_loaded_) {
+    BLOG(0, "Failed to update ads rewards as not initialized");
+    return;
+  }
+
+  ad_rewards_->Update(wallet_info_, should_refresh);
+}
+
+void AdsImpl::UpdateAdsRewards(
+    const double estimated_pending_rewards,
+    const uint64_t next_payment_date_in_seconds) {
+  DCHECK(state_has_loaded_);
+
+  estimated_pending_rewards_ = estimated_pending_rewards;
+  next_payment_date_in_seconds_ = next_payment_date_in_seconds;
+
+  SaveState();
+
+  ads_client_->ConfirmationsTransactionHistoryDidChange();
+}
+
+void AdsImpl::GetTransactionHistory(
+    OnGetTransactionHistoryCallback callback) {
+  DCHECK(state_has_loaded_);
+  if (!state_has_loaded_) {
+    BLOG(0, "Failed to get transaction history as not initialized");
+    return;
+  }
+
+  auto unredeemed_transactions = GetUnredeemedTransactions();
+  double unredeemed_estimated_pending_rewards =
+      GetEstimatedPendingRewardsForTransactions(unredeemed_transactions);
+
+  auto all_transactions = GetTransactions();
+  uint64_t ad_notifications_received_this_month =
+      GetAdNotificationsReceivedThisMonthForTransactions(all_transactions);
+
+  auto transactions_info = std::make_unique<TransactionsInfo>();
+
+  transactions_info->estimated_pending_rewards =
+      estimated_pending_rewards_ + unredeemed_estimated_pending_rewards;
+
+  transactions_info->next_payment_date_in_seconds =
+      next_payment_date_in_seconds_;
+
+  transactions_info->ad_notifications_received_this_month =
+      ad_notifications_received_this_month;
+
+  auto to_timestamp_in_seconds =
+      static_cast<uint64_t>(base::Time::Now().ToDoubleT());
+  auto transactions = GetTransactionHistory(0, to_timestamp_in_seconds);
+  transactions_info->transactions = transactions;
+
+  callback(std::move(transactions_info));
+}
+
+void AdsImpl::AddUnredeemedTransactionsToPendingRewards() {
+  auto unredeemed_transactions = GetUnredeemedTransactions();
+  AddTransactionsToPendingRewards(unredeemed_transactions);
+}
+
+void AdsImpl::AddTransactionsToPendingRewards(
+    const TransactionList& transactions) {
+  estimated_pending_rewards_ +=
+      GetEstimatedPendingRewardsForTransactions(transactions);
+
+  ads_client_->ConfirmationsTransactionHistoryDidChange();
+}
+
+double AdsImpl::GetEstimatedPendingRewardsForTransactions(
+    const TransactionList& transactions) const {
+  double estimated_pending_rewards = 0.0;
+
+  for (const auto& transaction : transactions) {
+    auto estimated_redemption_value = transaction.estimated_redemption_value;
+    if (estimated_redemption_value > 0.0) {
+      estimated_pending_rewards += estimated_redemption_value;
+    }
+  }
+
+  return estimated_pending_rewards;
+}
+
+uint64_t AdsImpl::GetAdNotificationsReceivedThisMonthForTransactions(
+    const TransactionList& transactions) const {
+  uint64_t ad_notifications_received_this_month = 0;
+
+  auto now = base::Time::Now();
+  base::Time::Exploded now_exploded;
+  now.UTCExplode(&now_exploded);
+
+  for (const auto& transaction : transactions) {
+    if (transaction.timestamp_in_seconds == 0) {
+      // Workaround for Windows crash when passing 0 to UTCExplode
+      continue;
+    }
+
+    auto transaction_timestamp =
+        base::Time::FromDoubleT(transaction.timestamp_in_seconds);
+
+    base::Time::Exploded transaction_timestamp_exploded;
+    transaction_timestamp.UTCExplode(&transaction_timestamp_exploded);
+
+    if (transaction_timestamp_exploded.year == now_exploded.year &&
+        transaction_timestamp_exploded.month == now_exploded.month &&
+        transaction.estimated_redemption_value > 0.0 &&
+        ConfirmationType(transaction.confirmation_type) ==
+            ConfirmationType::kViewed) {
+      ad_notifications_received_this_month++;
+    }
+  }
+
+  return ad_notifications_received_this_month;
+}
+
+TransactionList AdsImpl::GetTransactionHistory(
+    const uint64_t from_timestamp_in_seconds,
+    const uint64_t to_timestamp_in_seconds) {
+  DCHECK(state_has_loaded_);
+
+  TransactionList transactions(transaction_history_.size());
+
+  auto it = std::copy_if(transaction_history_.begin(),
+      transaction_history_.end(), transactions.begin(),
+      [=](TransactionInfo& info) {
+        return info.timestamp_in_seconds >= from_timestamp_in_seconds &&
+            info.timestamp_in_seconds <= to_timestamp_in_seconds;
+      });
+
+  transactions.resize(std::distance(transactions.begin(), it));
+
+  return transactions;
+}
+
+TransactionList AdsImpl::GetTransactions() const {
+  DCHECK(state_has_loaded_);
+
+  return transaction_history_;
+}
+
+TransactionList AdsImpl::GetUnredeemedTransactions() {
+  DCHECK(state_has_loaded_);
+
+  auto count = unblinded_payment_tokens_->Count();
+  if (count == 0) {
+    // There are no outstanding unblinded payment tokens to redeem
+    return {};
+  }
+
+  // Unredeemed transactions are always at the end of the transaction history
+  TransactionList transactions(transaction_history_.end() - count,
+      transaction_history_.end());
+
+  return transactions;
+}
+
+double AdsImpl::GetEstimatedRedemptionValue(
+    const std::string& public_key) const {
+  DCHECK(state_has_loaded_);
+
+  double estimated_redemption_value = 0.0;
+
+  auto it = catalog_issuers_.find(public_key);
+  if (it != catalog_issuers_.end()) {
+    auto name = it->second;
+    if (!re2::RE2::Replace(&name, "BAT", "")) {
+      BLOG(1, "Failed to estimate redemption value due to invalid catalog "
+          "issuer name");
+    }
+
+    estimated_redemption_value = stod(name);
+  }
+
+  return estimated_redemption_value;
+}
+
+void AdsImpl::AppendTransactionToHistory(
+    const double estimated_redemption_value,
+    const ConfirmationType confirmation_type) {
+  DCHECK(state_has_loaded_);
+
+  TransactionInfo info;
+  info.timestamp_in_seconds =
+      static_cast<uint64_t>(base::Time::Now().ToDoubleT());
+  info.estimated_redemption_value = estimated_redemption_value;
+  info.confirmation_type = std::string(confirmation_type);
+
+  transaction_history_.push_back(info);
+
+  SaveState();
+
+  ads_client_->ConfirmationsTransactionHistoryDidChange();
+}
+
+void AdsImpl::ConfirmAd(
+    const AdInfo& info,
+    const ConfirmationType confirmation_type) {
+  if (!state_has_loaded_) {
+    BLOG(0, "Failed to confirm ad as not initialized");
+    return;
+  }
+
+  BLOG(1, "Confirm ad:\n"
+      << "  creativeInstanceId: " << info.creative_instance_id << "\n"
+      << "  creativeSetId: " << info.creative_set_id << "\n"
+      << "  category: " << info.category << "\n"
+      << "  targetUrl: " << info.target_url << "\n"
+      << "  geoTarget: " << info.geo_target << "\n"
+      << "  confirmationType: " << std::string(confirmation_type));
+
+  redeem_unblinded_token_->Redeem(info, confirmation_type);
+}
+
+void AdsImpl::ConfirmAction(
+    const std::string& creative_instance_id,
+    const std::string& creative_set_id,
+    const ConfirmationType confirmation_type) {
+  DCHECK(state_has_loaded_);
+  if (!state_has_loaded_) {
+    BLOG(0, "Failed to confirm action as not initialized");
+    return;
+  }
+
+  BLOG(1, "Confirm action:\n"
+      << "  creativeInstanceId: " << creative_instance_id << "\n"
+      << "  creativeSetId: " << creative_set_id << "\n"
+      << "  confirmationType: " << std::string(confirmation_type));
+
+  redeem_unblinded_token_->Redeem(creative_instance_id, creative_set_id,
+      confirmation_type);
+}
+
+void AdsImpl::RefillUnblindedTokensIfNecessary() const {
+  DCHECK(wallet_info_.IsValid());
+
+  refill_unblinded_tokens_->Refill(wallet_info_, public_key_);
+}
+
+uint64_t AdsImpl::GetNextTokenRedemptionDateInSeconds() const {
+  return redeem_unblinded_payment_tokens_->get_token_redemption_timestamp();
+}
+
+void AdsImpl::StartRetryingFailedConfirmations() {
+  if (failed_confirmations_timer_.IsRunning()) {
+    return;
+  }
+
+  const base::Time time = failed_confirmations_timer_.StartWithPrivacy(
+      kRetryFailedConfirmationsAfterSeconds,
+          base::BindOnce(&AdsImpl::RetryFailedConfirmations,
+              base::Unretained(this)));
+
+  BLOG(1, "Retry failed confirmations " << FriendlyDateAndTime(time));
+}
+
+void AdsImpl::RetryFailedConfirmations() {
+  if (confirmations_.empty()) {
+    BLOG(1, "No failed confirmations to retry");
+    return;
+  }
+
+  ConfirmationInfo confirmation_info(confirmations_.front());
+  RemoveConfirmationFromQueue(confirmation_info);
+
+  redeem_unblinded_token_->Redeem(confirmation_info);
+
+  StartRetryingFailedConfirmations();
+}
+
+void AdsImpl::OnDidRedeemUnblindedToken(
+    const ConfirmationInfo& confirmation) {
+  BLOG(1, "Successfully redeemed unblinded token with confirmation id "
+      << confirmation.id << ", creative instance id "
+          << confirmation.creative_instance_id << " and "
+              << std::string(confirmation.type));
+}
+
+void AdsImpl::OnFailedToRedeemUnblindedToken(
+    const ConfirmationInfo& confirmation) {
+  BLOG(1, "Failed to redeem unblinded token with confirmation id "
+      << confirmation.id << ", creative instance id "
+          <<  confirmation.creative_instance_id << " and "
+              << std::string(confirmation.type));
+}
+
+void AdsImpl::OnDidRedeemUnblindedPaymentTokens() {
+  BLOG(1, "Successfully redeemed unblinded payment tokens");
+}
+
+void AdsImpl::OnFailedToRedeemUnblindedPaymentTokens() {
+  BLOG(1, "Failed to redeem unblinded payment tokens");
+}
+
+void AdsImpl::OnDidRetryRedeemingUnblindedPaymentTokens() {
+  BLOG(1, "Retry redeeming unblinded payment tokens");
+}
+
+void AdsImpl::OnDidRefillUnblindedTokens() {
+  BLOG(1, "Successfully refilled unblinded tokens");
+}
+
+void AdsImpl::OnFailedToRefillUnblindedTokens() {
+  BLOG(1, "Failed to refill unblinded tokens");
+}
+
+void AdsImpl::OnDidRetryRefillingUnblindedTokens() {
+  BLOG(1, "Retry refilling unblinded tokens");
 }
 
 }  // namespace ads

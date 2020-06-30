@@ -82,9 +82,6 @@ class AdsServiceImpl : public AdsService,
   void SetAdsPerHour(
       const uint64_t ads_per_hour) override;
 
-  void SetConfirmationsIsReady(
-      const bool is_ready) override;
-
   void ChangeLocale(
       const std::string& locale) override;
 
@@ -235,7 +232,7 @@ class AdsServiceImpl : public AdsService,
 
   void OnURLRequestComplete(
       network::SimpleURLLoader* loader,
-      ads::URLRequestCallback callback,
+      ads::UrlRequestCallback callback,
       const std::unique_ptr<std::string> response_body);
 
   void OnGetAdsHistory(
@@ -366,9 +363,6 @@ class AdsServiceImpl : public AdsService,
   bool connected();
 
   // AdsClient implementation
-  void GetClientInfo(
-      ads::ClientInfo* info) const override;
-
   bool IsNetworkConnectionAvailable() const override;
 
   void SetIdleThreshold(
@@ -391,27 +385,11 @@ class AdsServiceImpl : public AdsService,
   void CloseNotification(
       const std::string& uuid) override;
 
-  void SetCatalogIssuers(
-      std::unique_ptr<ads::IssuersInfo> info) override;
-
-  void ConfirmAd(
-      const ads::AdInfo& info,
-      const ads::ConfirmationType confirmation_type) override;
-
-  void ConfirmAction(
-      const std::string& creative_instance_id,
-      const std::string& creative_set_id,
-      const ads::ConfirmationType confirmation_type) override;
-
   bool CanShowBackgroundNotifications() const override;
 
-  void URLRequest(
-      const std::string& url,
-      const std::vector<std::string>& headers,
-      const std::string& content,
-      const std::string& content_type,
-      const ads::URLRequestMethod method,
-      ads::URLRequestCallback callback) override;
+  void UrlRequest(
+      const ads::UrlRequest& request,
+      ads::UrlRequestCallback callback) override;
 
   void Save(
       const std::string& name,

@@ -7,20 +7,10 @@
 #define BAT_ADS_INTERNAL_STATIC_VALUES_H_
 
 #include <stdint.h>
-#include <string>
-#include <map>
-#include <set>
 
 #include "base/time/time.h"
 
 namespace ads {
-
-#define PRODUCTION_SERVER "https://ads-serve.brave.com"
-#define STAGING_SERVER "https://ads-serve.bravesoftware.com"
-#define DEVELOPMENT_SERVER "https://ads-serve.brave.software"
-
-#define CATALOG_PATH "/v2/catalog"
-#define GETSTATE_PATH "/v5/getstate"
 
 const int kIdleThresholdInSeconds = 15;
 
@@ -34,8 +24,6 @@ const uint64_t kMaximumEntriesInAdsShownHistory = 7 * (20 * 4);
 const uint64_t kMaximumEntriesPerSegmentInPurchaseIntentSignalHistory = 100;
 
 const uint64_t kDebugOneHourInSeconds = 10 * base::Time::kSecondsPerMinute;
-
-const char kShoppingStateUrl[] = "https://amazon.com";
 
 const uint64_t kSustainAdNotificationInteractionAfterSeconds = 10;
 
@@ -67,6 +55,27 @@ const uint64_t kRetryDownloadingCatalogAfterSeconds =
     1 * base::Time::kSecondsPerMinute;
 const uint64_t kRetryFetchSubdivisionTargetingAfterSeconds =
     1 * base::Time::kSecondsPerMinute;
+
+const int kNextPaymentDay = 5;
+
+const int kMinimumUnblindedTokens = 20;
+const int kMaximumUnblindedTokens = 50;
+
+const uint64_t kNextTokenRedemptionAfterSeconds =
+    24 * base::Time::kSecondsPerHour;
+const uint64_t kDebugNextTokenRedemptionAfterSeconds =
+    25 * base::Time::kSecondsPerMinute;
+
+const uint64_t kRetryRefillUnblindedTokensAfterSeconds = 15;
+
+const uint64_t kRetryRedeemUnblindedPaymentTokensAfterSeconds =
+    1 * base::Time::kSecondsPerMinute;
+
+const uint64_t kRetryAdRewardsAfterSeconds =
+    1 * base::Time::kSecondsPerMinute;
+
+const uint64_t kRetryFailedConfirmationsAfterSeconds =
+    5 * base::Time::kSecondsPerMinute;
 
 const char kUntargetedPageClassification[] = "untargeted";
 

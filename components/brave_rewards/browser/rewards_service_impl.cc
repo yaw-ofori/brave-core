@@ -34,7 +34,6 @@
 #include "bat/ledger/global_constants.h"
 #include "bat/ledger/ledger.h"
 #include "bat/ledger/mojom_structs.h"
-#include "bat/ledger/transactions_info.h"
 #include "brave/base/containers/utils.h"
 #include "brave/browser/brave_rewards/rewards_service_factory.h"
 #include "brave/browser/ui/webui/brave_rewards_source.h"
@@ -1522,68 +1521,6 @@ void RewardsServiceImpl::GetRewardsMainEnabled(
   bat_ledger_->GetRewardsMainEnabled(callback);
 }
 
-void RewardsServiceImpl::SetCatalogIssuers(const std::string& json) {
-  if (!Connected()) {
-    return;
-  }
-
-  bat_ledger_->SetCatalogIssuers(json);
-}
-
-void RewardsServiceImpl::ConfirmAd(
-    const std::string& json,
-    const std::string& confirmation_type) {
-  if (!Connected()) {
-    return;
-  }
-
-  bat_ledger_->ConfirmAd(json, confirmation_type);
-}
-
-void RewardsServiceImpl::ConfirmAction(
-    const std::string& creative_instance_id,
-    const std::string& creative_set_id,
-    const std::string& confirmation_type) {
-  if (!Connected()) {
-    return;
-  }
-
-  bat_ledger_->ConfirmAction(creative_instance_id, creative_set_id,
-      confirmation_type);
-}
-
-void RewardsServiceImpl::SetConfirmationsIsReady(const bool is_ready) {
-  auto* ads_service = brave_ads::AdsServiceFactory::GetForProfile(profile_);
-  if (ads_service)
-    ads_service->SetConfirmationsIsReady(is_ready);
-}
-
-void RewardsServiceImpl::ConfirmationsTransactionHistoryDidChange() {
-    for (auto& observer : observers_)
-    observer.OnTransactionHistoryChanged(this);
-}
-
-void RewardsServiceImpl::GetTransactionHistory(
-    GetTransactionHistoryCallback callback) {
-  if (!Connected()) {
-    return;
-  }
-  bat_ledger_->GetTransactionHistory(
-      base::BindOnce(&RewardsServiceImpl::OnGetTransactionHistory,
-          AsWeakPtr(), std::move(callback)));
-}
-
-void RewardsServiceImpl::OnGetTransactionHistory(
-    GetTransactionHistoryCallback callback,
-    const std::string& json) {
-  ledger::TransactionsInfo info;
-  info.FromJson(json);
-
-  std::move(callback).Run(info.estimated_pending_rewards,
-      info.next_payment_date_in_seconds,
-      info.ad_notifications_received_this_month);
-}
-
 void RewardsServiceImpl::SaveState(const std::string& name,
                                    const std::string& value,
                                    ledger::ResultCallback callback) {
@@ -2293,14 +2230,6 @@ void RewardsServiceImpl::RemoveRecurringTip(
     publisher_key,
     base::Bind(&RewardsServiceImpl::OnRecurringTip,
                AsWeakPtr()));
-}
-
-void RewardsServiceImpl::UpdateAdsRewards() const {
-  if (!Connected()) {
-    return;
-  }
-
-  bat_ledger_->UpdateAdsRewards();
 }
 
 void RewardsServiceImpl::OnSetPublisherExclude(

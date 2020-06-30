@@ -4,11 +4,13 @@
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 #include "bat/ads/ad_notification_info.h"
-#include "bat/ads/confirmation_type.h"
+
 #include "bat/ads/internal/json_helper.h"
 #include "bat/ads/internal/logging.h"
 
 namespace ads {
+
+struct ConfirmationType;
 
 AdNotificationInfo::AdNotificationInfo() = default;
 
@@ -24,16 +26,12 @@ std::string AdNotificationInfo::ToJson() const {
 }
 
 Result AdNotificationInfo::FromJson(
-    const std::string& json,
-    std::string* error_description) {
+    const std::string& json) {
   rapidjson::Document document;
   document.Parse(json.c_str());
 
   if (document.HasParseError()) {
-    if (error_description != nullptr) {
-      *error_description = helper::JSON::GetLastError(&document);
-    }
-
+    BLOG(1, helper::JSON::GetLastError(&document));
     return FAILED;
   }
 

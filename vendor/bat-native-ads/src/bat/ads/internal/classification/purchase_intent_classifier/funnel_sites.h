@@ -3,13 +3,13 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
-#ifndef BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_FUNNEL_SITES_H_  // NOLINT
-#define BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_FUNNEL_SITES_H_  // NOLINT
+#ifndef BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_FUNNEL_SITES_H_
+#define BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_FUNNEL_SITES_H_
+
+#include "bat/ads/internal/classification/purchase_intent_classifier/funnel_site_info.h"
 
 #include <string>
 #include <vector>
-
-#include "bat/ads/internal/classification/purchase_intent_classifier/funnel_site_info.h"
 
 namespace ads {
 namespace classification {
@@ -1827,4 +1827,4 @@ class FunnelSites {
 }  // namespace classification
 }  // namespace ads
 
-#endif  // BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_FUNNEL_SITES_H_  // NOLINT
+#endif  // BAT_ADS_INTERNAL_CLASSIFICATION_PURCHASE_INTENT_CLASSIFIER_FUNNEL_SITES_H_

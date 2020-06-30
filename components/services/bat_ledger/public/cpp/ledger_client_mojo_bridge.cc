@@ -335,14 +335,6 @@ void LedgerClientMojoBridge::GetUint64Option(
   std::move(callback).Run(ledger_client_->GetUint64Option(name));
 }
 
-void LedgerClientMojoBridge::SetConfirmationsIsReady(const bool is_ready) {
-  ledger_client_->SetConfirmationsIsReady(is_ready);
-}
-
-void LedgerClientMojoBridge::ConfirmationsTransactionHistoryDidChange() {
-  ledger_client_->ConfirmationsTransactionHistoryDidChange();
-}
-
 void LedgerClientMojoBridge::OnContributeUnverifiedPublishers(
       const ledger::Result result,
       const std::string& publisher_key,

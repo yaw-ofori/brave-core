@@ -6,10 +6,9 @@
 #include "bat/ads/internal/frequency_capping/frequency_capping_unittest_utils.h"
 
 #include "base/guid.h"
-#include "base/time/time.h"
 #include "bat/ads/ad_history.h"
 #include "bat/ads/internal/ads_impl.h"
-#include "bat/ads/internal/classification/purchase_intent_classifier/purchase_intent_signal_history.h"
+#include "bat/ads/internal/time_util.h"
 
 namespace ads {
 

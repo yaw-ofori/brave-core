@@ -501,21 +501,6 @@ class RewardsServiceImpl : public RewardsService,
   void SetPublisherMinVisits(int visits) const override;
   void SetPublisherAllowNonVerified(bool allow) const override;
   void SetPublisherAllowVideos(bool allow) const override;
-  void UpdateAdsRewards() const override;
-  void SetCatalogIssuers(
-      const std::string& json) override;
-  void ConfirmAd(
-      const std::string& json,
-      const std::string& confirmation_type) override;
-  void ConfirmAction(
-      const std::string& creative_instance_id,
-      const std::string& creative_set_id,
-      const std::string& confirmation_type) override;
-  void SetConfirmationsIsReady(const bool is_ready) override;
-  void GetTransactionHistory(
-      GetTransactionHistoryCallback callback) override;
-  void ConfirmationsTransactionHistoryDidChange() override;
-
   void OnPanelPublisherInfo(const ledger::Result result,
                             ledger::PublisherInfoPtr info,
                             uint64_t window_id) override;

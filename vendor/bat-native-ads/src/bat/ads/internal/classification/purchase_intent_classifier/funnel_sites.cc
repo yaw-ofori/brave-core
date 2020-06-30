@@ -4,14 +4,15 @@
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 #include "bat/ads/internal/classification/purchase_intent_classifier/funnel_sites.h"
-#include "net/base/registry_controlled_domains/registry_controlled_domain.h"
 
+#include "net/base/registry_controlled_domains/registry_controlled_domain.h"
 #include "url/gurl.h"
 
 namespace ads {
 namespace classification {
 
 FunnelSites::FunnelSites() = default;
+
 FunnelSites::~FunnelSites() = default;
 
 FunnelSiteInfo FunnelSites::GetFunnelSite(
