@@ -11,10 +11,8 @@
 <translation id="7419046106786626209">A Chrome OS nem tudta szinkronizálni az adatait, mert a szinkronizálás nem érhető el az Ön domainjénél.</translation>
 <translation id="5147525139567260139">Brave-lap megosztása</translation>
 <translation id="1530633922026945685">A Bravenak engedélyre van szüksége a kamerájához való hozzáféréshez annak érdekében, hogy 3D-s térképet készíthessen az Ön környezetéről.</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{A rendszergazda előírta, hogy újra kell indítania a Braveot a frissítés alkalmazásához.}=1{A rendszergazda előírta, hogy újra kell indítania a Braveot a frissítés alkalmazásához. Az inkognitóablak nem fog újra megnyílni.}other{A rendszergazda előírta, hogy újra kell indítania a Braveot a frissítés alkalmazásához. A(z) # inkognitóablak nem fog újra megnyílni.}}</translation>
 <translation id="5616153642055197778">Elérhető a Brave új, biztonságosabb verziója.</translation>
 <translation id="6797402139308059782">A Brave fusson a háttérben</translation>
-<translation id="1448049584457347995">A Brave biztonságosabbá tétele érdekében kikapcsoltunk néhány bővítményt, amelyek nem a(z) <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> szolgáltatásból származnak, és előfordulhat, hogy az Ön tudta nélkül lettek telepítve.</translation>
 <translation id="5875673934455379806">A Brave újratelepítése</translation>
 <translation id="650055380213106997">Kezelt fiókkal jelentkezik be, és annak adminisztrátora számára hozzáférést biztosít Brave-profiljához. Brave-adatait – például alkalmazásait, könyvjelzőit, előzményeit, jelszavait és más beállításait – a rendszer véglegesen társítja a(z) <ph name="USER_NAME"/> fiókhoz. Ezen adatokat a Brave-fiók Irányítópultján törölheti, de más fiókhoz nem társíthatja őket. Létrehozhat egy új profilt is meglévő Brave-adatainak elkülönített tárolásához. <ph name="LEARN_MORE"/></translation>
 <translation id="1649714546770135458">A beállítás kikapcsolásával anélkül jelentkezhet be a Brave-webhelyekre (pl. Gmail), hogy a Braveba is bejelentkezne</translation>
@@ -49,7 +47,6 @@
 <translation id="7365690458036015383">Nem sikerült a telepítőnek kibontani a tömörített állományt. Kérjük, töltse le újra a Brave böngészőt.</translation>
 <translation id="8919461291440820124">A Brave használja a mikrofont.</translation>
 <translation id="4805806622840861220">A Brave újraindítása</translation>
-<translation id="6554952862405000915">Link megnyitása Brave-inko&amp;gnitóablakban</translation>
 <translation id="1477146545787277177">Ó! A Brave összeomlott. Újraindítja most?</translation>
 <translation id="7503098128120083822">A Brave exportálni szeretné a jelszavakat.</translation>
 <translation id="2585240446624043880">A Brave nem tudja olvasni és írni az adatkönyvtárát:
@@ -64,10 +61,7 @@
 <translation id="8703492925273919597">Zárjon be minden Brave-ablakot, és próbálkozzon újra.</translation>
 <translation id="1384923383737428730">A számítógépen kártékony szoftver található. A Brave képes a kártékony szoftver eltávolítására, a beállítások visszaállítására és a bővítmények letiltására, hogy a böngésző újra a szokásos módon működhessen.</translation>
 <translation id="4847979153841887006">Brave embléma</translation>
-<translation id="669092380621816981">A személy böngészési adatai törlődnek az eszközről. Az adatok visszaállításához jelentkezzen be a Braveba a következő felhasználóként: <ph name="USER_EMAIL"/>.</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{Új Brave-frissítés jelent meg, amely az újraindítás után azonnal érvénybe lép.}=1{Új Brave-frissítés jelent meg, amely az újraindítás után azonnal érvénybe lép. Az inkognitóablak nem fog újra megnyílni.}other{Új Brave-frissítés jelent meg, amely az újraindítás után azonnal érvénybe lép. A(z) # inkognitóablak nem fog újra megnyílni.}}</translation>
 <translation id="4304059894777924102">A Brave nem tudja ellenőrizni a jelszavakat. Ellenőrizze az internetkapcsolatot.</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{Rendszergazdája arra kéri, hogy indítsa újra a Braveot a frissítés alkalmazásához.}=1{Rendszergazdája arra kéri, hogy indítsa újra a Braveot a frissítés alkalmazásához. Az inkognitóablak nem fog újra megnyílni.}other{Rendszergazdája arra kéri, hogy indítsa újra a Braveot a frissítés alkalmazásához. A(z) # inkognitóablak nem fog újra megnyílni.}}</translation>
 <translation id="1807774211756215222">Link megnyi&amp;tása új Brave-lapon</translation>
 <translation id="7453070689008684791">A Brave hozzáfér Drive-jához, hogy javaslatokat nyújthasson a címsávon.</translation>
 <translation id="2106568569080763501">A Brave egyetlen kattintással lehetővé teszi a weboldalakon található telefonszámok felhívását Skype-on!</translation>
@@ -161,7 +155,6 @@
 <translation id="7830723774663008396">Brave – <ph name="PAGE_TITLE"/></translation>
 <translation id="5253815230176279256">Brave Pay (a Braveba másolva)</translation>
 <translation id="2301993384336631869">A Brave frissítése megtörtént, de nem használta a böngészőt legalább 30 napja.</translation>
-<translation id="4624945300945265642">Link megnyitása Brave-inko&amp;gnitóablakban</translation>
 <translation id="3335606533094650083">A Bravenak engedélyre van szüksége ahhoz, hogy hozzáférjen a mikrofonhoz ennél a webhelynél</translation>
 <translation id="1785833016412082453">A Brave nem tudja ellenőrizni a bővítményeket. Próbálkozzon később.</translation>
 <translation id="1705567146636171298">A Brave frissítése</translation>
@@ -195,7 +188,6 @@ A Brave nem tudja visszaállítani a beállításait.</translation>
 <translation id="5419189641394808652">A Brave nem tudta szinkronizálni az adatait, mert a szinkronizálás nem érhető el az Ön domainjénél.</translation>
 <translation id="4784414698887946907">Ezzel az eszközön lévő összes böngészési adat törlődik. Az adatok későbbi lekéréséhez jelentkezzen be a Braveba a következő e-mail-címmel: <ph name="USER_EMAIL"/>.</translation>
 <translation id="7747138024166251722">A telepítőnek nem sikerült létrehoznia az ideiglenes könyvtárat. Kérjük ellenőrizze, hogy van-e elegendő hely a lemezen, és rendelkezik-e engedéllyel a szoftvertelepítésre.</translation>
-<translation id="6134859571175647580">Figyelmeztetés: a Brave nem tudja megakadályozni, hogy a bővítmények rögzítsék a böngészési előzményeit. A bővítmény inkognitómódban való használatának letiltásához törölje a lehetőség bejelölését.</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> – Brave Canary</translation>
 <translation id="38898988211673781">A cookie-k és webhelyadatok törlése a Brave bezárásakor</translation>
 <translation id="7963515534397191222">Nem sikerült a Brave frissítése a legújabb verzióra, így Ön lemarad az új funkciókról és biztonsági javításokról.</translation>
@@ -231,7 +223,6 @@ A Brave nem tudja visszaállítani a beállításait.</translation>
 <translation id="8285294305439559616">A Brave megkísérli megjeleníteni a jelszavakat. Ennek engedélyezéséhez írja be Windows-jelszavát.</translation>
 <translation id="6389268239133412586">Nem sikerült a Brave frissítése</translation>
 <translation id="6368958679917195344">A Chrome OS létrejöttéhez további <ph name="BEGIN_LINK_CROS_OSS"/>nyílt forráskódú szoftverek<ph name="END_LINK_CROS_OSS"/> is hozzájárultak.</translation>
-<translation id="8848045066928358658">A Brave biztonságosabbá tétele érdekében kikapcsoltuk a következő bővítményt, amely nem a(z) <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> szolgáltatásból származik, és előfordulhat, hogy az Ön tudta nélkül lett telepítve.</translation>
 <translation id="5173820533850252773">A Brave elavult</translation>
 <translation id="310518206836658214">{0,plural, =1{A Brave 1 órán belül újraindul}other{A Brave # órán belül újraindul}}</translation>
 <translation id="7863882214613921971">Link megnyi&amp;tása új Brave-lapon</translation>
@@ -241,4 +232,13 @@ A Brave nem tudja visszaállítani a beállításait.</translation>
 <translation id="7977787072794666032">Előfordulhat, hogy a Brave nem működik majd megfelelően, mert a továbbiakban már nem támogatja a következő rendszereket: Windows XP és Windows Vista</translation>
 <translation id="2398566204186296120">A(z) <ph name="DOMAIN"/> megköveteli, hogy olvassa, majd fogadja el a következő Általános Szerződési Feltételeket, mielőtt használná ezt az eszközt. Ezek a feltételek nem bővítik, módosítják vagy korlátozzák a Chrome OS feltételeit.</translation>
 <translation id="8992261409816268381">A Brave szerzői</translation>
+<translation id="6134859571175647580">Figyelmeztetés: a Brave nem tudja megakadályozni, hogy a bővítmények rögzítsék a böngészési előzményeit. A bővítmény inkognitómódban való használatának letiltásához törölje a lehetőség bejelölését.</translation>
+<translation id="1448049584457347995">A Brave biztonságosabbá tétele érdekében kikapcsoltunk néhány bővítményt, amelyek nem a(z) <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> szolgáltatásból származnak, és előfordulhat, hogy az Ön tudta nélkül lettek telepítve.</translation>
+<translation id="8848045066928358658">A Brave biztonságosabbá tétele érdekében kikapcsoltuk a következő bővítményt, amely nem a(z) <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> szolgáltatásból származik, és előfordulhat, hogy az Ön tudta nélkül lett telepítve.</translation>
+<translation id="669092380621816981">A személy böngészési adatai törlődnek az eszközről. Az adatok visszaállításához jelentkezzen be a Braveba a következő felhasználóként: <ph name="USER_EMAIL"/>.</translation>
+<translation id="4624945300945265642">Link megnyitása Brave-inko&amp;gnitóablakban</translation>
+<translation id="6554952862405000915">Link megnyitása Brave-inko&amp;gnitóablakban</translation>
+<translation id="8274659559228306809">{COUNT,plural, =0{Új Brave-frissítés jelent meg, amely az újraindítás után azonnal érvénybe lép.}=1{Új Brave-frissítés jelent meg, amely az újraindítás után azonnal érvénybe lép. Az inkognitóablak nem fog újra megnyílni.}other{Új Brave-frissítés jelent meg, amely az újraindítás után azonnal érvénybe lép. A(z) # inkognitóablak nem fog újra megnyílni.}}</translation>
+<translation id="3829358914761176693">{COUNT,plural, =0{Rendszergazdája arra kéri, hogy indítsa újra a Braveot a frissítés alkalmazásához.}=1{Rendszergazdája arra kéri, hogy indítsa újra a Braveot a frissítés alkalmazásához. Az inkognitóablak nem fog újra megnyílni.}other{Rendszergazdája arra kéri, hogy indítsa újra a Braveot a frissítés alkalmazásához. A(z) # inkognitóablak nem fog újra megnyílni.}}</translation>
+<translation id="552349673358711446">{COUNT,plural, =0{A rendszergazda előírta, hogy újra kell indítania a Braveot a frissítés alkalmazásához.}=1{A rendszergazda előírta, hogy újra kell indítania a Braveot a frissítés alkalmazásához. Az inkognitóablak nem fog újra megnyílni.}other{A rendszergazda előírta, hogy újra kell indítania a Braveot a frissítés alkalmazásához. A(z) # inkognitóablak nem fog újra megnyílni.}}</translation>
 </translationbundle>

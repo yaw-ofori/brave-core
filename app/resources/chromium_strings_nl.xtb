@@ -13,10 +13,8 @@ Sommige functies zijn wellicht niet beschikbaar en wijzigingen in voorkeuren wor
 <translation id="7419046106786626209">Chrome OS kan je gegevens niet synchroniseren omdat synchronisatie niet beschikbaar is voor je domein.</translation>
 <translation id="5147525139567260139">Een Brave-tabblad delen</translation>
 <translation id="1530633922026945685">Brave heeft toegangsrechten voor de camera nodig om een 3D-kaart van je omgeving te maken</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{Je beheerder vereist dat je Brave opnieuw start om een update uit te voeren.}=1{Je beheerder vereist dat je Brave opnieuw start om een update uit te voeren. Je incognitovenster kan niet opnieuw worden geopend.}other{Je beheerder vereist dat je Brave opnieuw start om een update uit te voeren. Je # incognitovensters kunnen niet opnieuw worden geopend.}}</translation>
 <translation id="5616153642055197778">Er is een nieuwe, veiligere versie van Brave beschikbaar.</translation>
 <translation id="6797402139308059782">Brave laten uitvoeren op de achtergrond</translation>
-<translation id="1448049584457347995">Om Brave veiliger te maken, hebben we een aantal extensies uitgeschakeld die niet worden vermeld in de <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> en mogelijk zonder je medeweten zijn geïnstalleerd.</translation>
 <translation id="5875673934455379806">Brave opnieuw installeren</translation>
 <translation id="650055380213106997">Je logt in op een beheerd account waarmee de eigenaar van dat account beheer krijgt over je Brave-profiel. Je Brave-gegevens zoals je apps, bookmarks, geschiedenis, wachtwoorden en andere instellingen worden permanent gekoppeld aan <ph name="USER_NAME"/>. Je kunt deze gegevens verwijderen via het Brave Accounts Dashboard, maar je kunt deze gegevens niet koppelen aan een ander account. Je kunt een nieuw profiel maken om je bestaande Brave-gegevens apart te houden. <ph name="LEARN_MORE"/></translation>
 <translation id="1649714546770135458">Als je dit uitschakelt, kun je inloggen bij Brave-sites zoals Gmail zonder in te loggen bij Brave</translation>
@@ -51,7 +49,6 @@ Sommige functies zijn wellicht niet beschikbaar en wijzigingen in voorkeuren wor
 <translation id="7365690458036015383">Het installatieprogramma kan het archief niet uitpakken. Download Brave opnieuw.</translation>
 <translation id="8919461291440820124">Brave gebruikt je microfoon.</translation>
 <translation id="4805806622840861220">Brave opnieuw starten</translation>
-<translation id="6554952862405000915">Link openen in een Brave-inco&amp;gnitovenster</translation>
 <translation id="1477146545787277177">Brave is gecrasht. Nu opnieuw starten?</translation>
 <translation id="7503098128120083822">Brave wil je wachtwoorden exporteren.</translation>
 <translation id="2585240446624043880">Brave kan niet lezen van en schrijven naar de eigen gegevensdirectory :
@@ -66,10 +63,7 @@ Sommige functies zijn wellicht niet beschikbaar en wijzigingen in voorkeuren wor
 <translation id="8703492925273919597">Sluit alle Brave-vensters en probeer het opnieuw.</translation>
 <translation id="1384923383737428730">Er staat schadelijke software op je computer. Brave kan deze verwijderen, je instellingen herstellen en extensies uitschakelen, zodat je browser weer normaal werkt.</translation>
 <translation id="4847979153841887006">Brave-logo</translation>
-<translation id="669092380621816981">De browsergegevens van deze persoon worden verwijderd van dit apparaat. Als je de gegevens wilt herstellen, log je in bij Brave als <ph name="USER_EMAIL"/>.</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{Er is een nieuwe update voor Brave beschikbaar die wordt uitgevoerd zodra je het programma opnieuw start.}=1{Er is een nieuwe update voor Brave beschikbaar die wordt uitgevoerd zodra je het programma opnieuw start. Je incognitovenster kan niet opnieuw worden geopend.}other{Er is een nieuwe update voor Brave beschikbaar die wordt uitgevoerd zodra je het programma opnieuw start. Je # incognitovensters kunnen niet opnieuw worden geopend.}}</translation>
 <translation id="4304059894777924102">Brave kan je wachtwoorden niet checken. Check de internetverbinding.</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{Je beheerder vraagt je Brave opnieuw te starten om deze update uit te voeren.}=1{Je beheerder vraagt je Brave opnieuw te starten om deze update uit te voeren. Je incognitovenster kan niet opnieuw worden geopend.}other{Je beheerder vraagt je Brave opnieuw te starten om deze update uit te voeren. Je # incognitovensters kunnen niet opnieuw worden geopend.}}</translation>
 <translation id="1807774211756215222">Link openen op een nieuw Brave-&amp;tabblad</translation>
 <translation id="7453070689008684791">Brave gebruikt de toegang tot je Drive om suggesties te doen in de adresbalk</translation>
 <translation id="2106568569080763501">Met Brave kun je klikken op een telefoonnummer op internet om dit via Skype te bellen!</translation>
@@ -165,7 +159,6 @@ Sommige functies zijn mogelijk niet beschikbaar. Geef een andere profieldirector
 <translation id="7830723774663008396">Brave - <ph name="PAGE_TITLE"/></translation>
 <translation id="5253815230176279256">Brave Pay (gekopieerd naar Brave)</translation>
 <translation id="2301993384336631869">Brave is bijgewerkt, maar je hebt het programma minstens 30 dagen niet gebruikt.</translation>
-<translation id="4624945300945265642">Link openen in een Brave-inco&amp;gnitovenster</translation>
 <translation id="3335606533094650083">Brave heeft toegangsrechten voor je microfoon nodig voor deze site</translation>
 <translation id="1785833016412082453">Brave kan je extensies niet checken. Probeer het later opnieuw.</translation>
 <translation id="1705567146636171298">Brave updaten</translation>
@@ -199,7 +192,6 @@ Brave kan je instellingen niet herstellen.</translation>
 <translation id="5419189641394808652">Brave kan je gegevens niet synchroniseren, omdat synchronisatie niet beschikbaar is voor je domein.</translation>
 <translation id="4784414698887946907">Hiermee worden je browsergegevens verwijderd van dit apparaat. Als je je gegevens later wilt terughalen, log je in bij Brave als <ph name="USER_EMAIL"/>.</translation>
 <translation id="7747138024166251722">Het installatieprogramma kan geen tijdelijke directory maken. Controleer of je nog schijfruimte hebt en of je toestemming hebt om software te installeren.</translation>
-<translation id="6134859571175647580">Waarschuwing: Brave kan niet voorkomen dat extensies je browsergeschiedenis vastleggen. Als je deze extensie in de incognitomodus wilt uitschakelen, verwijder je het vinkje bij deze optie.</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> - Brave Canary</translation>
 <translation id="38898988211673781">Cookies en sitegegevens wissen wanneer je Brave sluit</translation>
 <translation id="7963515534397191222">Brave kan niet worden geüpdatet naar de nieuwste versie, dus je loopt nieuwe functies en beveiligingsoplossingen mis.</translation>
@@ -235,7 +227,6 @@ Brave kan je instellingen niet herstellen.</translation>
 <translation id="8285294305439559616">Brave probeert wachtwoorden weer te geven. Geef je Windows-wachtwoord op om dit toe te staan.</translation>
 <translation id="6389268239133412586">Kan Brave niet updaten</translation>
 <translation id="6368958679917195344">Chrome OS wordt mogelijk gemaakt door aanvullende <ph name="BEGIN_LINK_CROS_OSS"/>opensource-software<ph name="END_LINK_CROS_OSS"/>.</translation>
-<translation id="8848045066928358658">We hebben de volgende extensie uitgeschakeld die niet wordt vermeld in de <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> en mogelijk zonder je medeweten is toegevoegd. We doen dit om Brave veiliger te maken.</translation>
 <translation id="5173820533850252773">Brave is verouderd</translation>
 <translation id="310518206836658214">{0,plural, =1{Brave wordt over een uur opnieuw gestart}other{Brave wordt over # uur opnieuw gestart}}</translation>
 <translation id="7863882214613921971">Link openen op een nieuw Brave-&amp;tabblad</translation>
@@ -245,4 +236,13 @@ Brave kan je instellingen niet herstellen.</translation>
 <translation id="7977787072794666032">Brave werkt mogelijk niet naar behoren omdat dit niet langer wordt ondersteund op Windows XP en Windows Vista</translation>
 <translation id="2398566204186296120"><ph name="DOMAIN"/> vereist dat je de volgende Servicevoorwaarden leest en accepteert voordat je dit apparaat gebruikt. Deze voorwaarden zijn geen uitbreiding, aanpassing of beperking van de Voorwaarden van Chrome OS.</translation>
 <translation id="8992261409816268381">De auteurs van Brave</translation>
+<translation id="6134859571175647580">Waarschuwing: Brave kan niet voorkomen dat extensies je browsergeschiedenis vastleggen. Als je deze extensie in de incognitomodus wilt uitschakelen, verwijder je het vinkje bij deze optie.</translation>
+<translation id="1448049584457347995">Om Brave veiliger te maken, hebben we een aantal extensies uitgeschakeld die niet worden vermeld in de <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> en mogelijk zonder je medeweten zijn geïnstalleerd.</translation>
+<translation id="8848045066928358658">We hebben de volgende extensie uitgeschakeld die niet wordt vermeld in de <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> en mogelijk zonder je medeweten is toegevoegd. We doen dit om Brave veiliger te maken.</translation>
+<translation id="669092380621816981">De browsergegevens van deze persoon worden verwijderd van dit apparaat. Als je de gegevens wilt herstellen, log je in bij Brave als <ph name="USER_EMAIL"/>.</translation>
+<translation id="4624945300945265642">Link openen in een Brave-inco&amp;gnitovenster</translation>
+<translation id="6554952862405000915">Link openen in een Brave-inco&amp;gnitovenster</translation>
+<translation id="8274659559228306809">{COUNT,plural, =0{Er is een nieuwe update voor Brave beschikbaar die wordt uitgevoerd zodra je het programma opnieuw start.}=1{Er is een nieuwe update voor Brave beschikbaar die wordt uitgevoerd zodra je het programma opnieuw start. Je incognitovenster kan niet opnieuw worden geopend.}other{Er is een nieuwe update voor Brave beschikbaar die wordt uitgevoerd zodra je het programma opnieuw start. Je # incognitovensters kunnen niet opnieuw worden geopend.}}</translation>
+<translation id="3829358914761176693">{COUNT,plural, =0{Je beheerder vraagt je Brave opnieuw te starten om deze update uit te voeren.}=1{Je beheerder vraagt je Brave opnieuw te starten om deze update uit te voeren. Je incognitovenster kan niet opnieuw worden geopend.}other{Je beheerder vraagt je Brave opnieuw te starten om deze update uit te voeren. Je # incognitovensters kunnen niet opnieuw worden geopend.}}</translation>
+<translation id="552349673358711446">{COUNT,plural, =0{Je beheerder vereist dat je Brave opnieuw start om een update uit te voeren.}=1{Je beheerder vereist dat je Brave opnieuw start om een update uit te voeren. Je incognitovenster kan niet opnieuw worden geopend.}other{Je beheerder vereist dat je Brave opnieuw start om een update uit te voeren. Je # incognitovensters kunnen niet opnieuw worden geopend.}}</translation>
 </translationbundle>

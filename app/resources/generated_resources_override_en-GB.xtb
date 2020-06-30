@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="en-GB">
+<translation id="658539216370629794">Open link in &amp;private window</translation>
+<translation id="1432267168815937878">Open Link in &amp;Private Window</translation>
+<translation id="6516243500644829484">New &amp;private window</translation>
+<translation id="7973394300052703468">New &amp;Private Window</translation>
+<translation id="6395403722585816044">Downloaded in Private</translation>
+<translation id="203837651858678035">Exit private mode anyway?</translation>
+<translation id="7376221878517288144">Quit private mode anyway?</translation>
+<translation id="871606814707918245">Most people block notifications from this site</translation>
+<translation id="5053701565089446556">Private Extension: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Private App: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Private Tab: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Private Subframe: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Incognito portal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Web store</translation>
+<translation id="8261378640211443080">This extension is not listed in the <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> and may have been added without your knowledge.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Private)</translation>
+<translation id="4369414322596874629">You can browse privately using a private window</translation>
+<translation id="3772947852642271642">Use the web without saving your browsing history with a private window</translation>
+<translation id="3871738366246972820">Using a shared computer? Try opening a private window.</translation>
+<translation id="5808622652939943719">To browse privately, click the dots icon menu to open a private window</translation>
+<translation id="9079153198295609735">Automatically send usage statistics and crash reports to Brave Software</translation>
+<translation id="8839398440242019256">Not from web store.</translation>
+<translation id="6945695820322143954">This extension violates the web store policy.</translation>
+<translation id="1676595396635191120">New Private Window</translation>
+<translation id="5094764494104066239">Always Show Bookmarks Bar</translation>
+<translation id="4471385409549756595">New private window</translation>
+<translation id="4540437243849625078">This site is about to share information with an app outside of private mode.</translation>
+<translation id="1227836882233136433">Leave private mode?</translation>
+<translation id="7618452966706304788">Do you want to use Touch ID with <ph name="APP_NAME"/> in Private mode?</translation>
+<translation id="3098826269712097986">Sign-in data will be stored in Brave after you exit Private mode. This will let you use Touch ID with this website again later.</translation>
+<translation id="5186185447130319458">Private</translation>
+<translation id="2579188629646253712">Exit Private</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Open All in &amp;incognito Window}=1{Open in &amp;incognito Window}other{Open All (#) in &amp;incognito Window}}</translation>
+<translation id="1985165269306590797">Open in &amp;Incognito Window</translation>
+<translation id="642436385689435488">Open all in incognito window</translation>
+<translation id="5463021359602611602">Open in incognito window</translation>
+<translation id="5070556616376997776">You're incognito</translation>
+<translation id="5832813618714645810">Profiles</translation>
+<translation id="6921634551681321094">Add person</translation>
+<translation id="6315812488257290136">Profiles</translation>
+<translation id="5840822070878669614">Open Brave Web Store</translation>
+<translation id="8648684608605749476">Block third-party cookies in Incognito</translation>
+<translation id="1281501490173223206">Current incognito session only</translation>
+<translation id="9063160602596686558">Automatically sends usage statistics and crash reports to Brave Software</translation>
+<translation id="3860292630623580294">(Incognito)</translation>
+<translation id="4854477725773269949">Allow in incognito</translation>
+<translation id="6436164536244065364">View in Web Store</translation>
+<translation id="38046578254905003">Find extensions and themes in the <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">New Private tab</translation>
+<translation id="6610147964972079463">Close Private tabs</translation>
+</translationbundle>

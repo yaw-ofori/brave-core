@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">アンインストールは保留中です</translation>
 <translation id="175772926354468439">テーマを有効にする</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Brave ウェブストアのページに移動</translation>
 <translation id="176193854664720708">指紋認証センサーは電源ボタンに搭載されています。いずれかの指で軽く触れてください。</translation>
 <translation id="1763046204212875858">アプリケーションのショートカットを作成</translation>
 <translation id="1763108912552529023">さらに確認</translation>
@@ -1326,7 +1325,6 @@
 <translation id="2660779039299703961">イベント</translation>
 <translation id="4052689580269971502">プリンタに接続できません。プリンタの電源が入っていて、Wi-Fi または USB 経由で Bravebook に接続されていることを確認してください。</translation>
 <translation id="2661714428027871023">ライトモードを使えば高速ブラウジングでデータ使用量も抑えることができます。クリックして詳細を見る。</translation>
-<translation id="8808478386290700967">Brave Web Store</translation>
 <translation id="2663302507110284145">言語</translation>
 <translation id="2665394472441560184">新しい単語を追加</translation>
 <translation id="2665647207431876759">期限切れ</translation>
@@ -2211,7 +2209,6 @@
 <translation id="3771294271822695279">動画ファイル</translation>
 <translation id="3775432569830822555">SSL サーバー証明書</translation>
 <translation id="3775705724665058594">お使いのデバイスに送信</translation>
-<translation id="6945695820322143954">この拡張機能は Brave ウェブストアのポリシーに違反しています。</translation>
 <translation id="3777483481409781352">モバイル デバイスを有効化できませんでした</translation>
 <translation id="3777806571986431400">有効化された拡張機能</translation>
 <translation id="3778152852029592020">ダウンロードがキャンセルされました。</translation>
@@ -3026,7 +3023,6 @@
 <translation id="48704129375571883">その他の機能を追加</translation>
 <translation id="4870758487381879312">設定情報を取得するには管理者から提供されたパスワードを入力してください</translation>
 <translation id="4870903493621965035">ペア設定されたデバイスはありません</translation>
-<translation id="8839398440242019256">Brave ウェブストア以外の場所からインストールされました。</translation>
 <translation id="4871322859485617074">PIN に無効な文字が含まれています</translation>
 <translation id="4871370605780490696">ブックマークを追加</translation>
 <translation id="4871568871368204250">同期の無効化</translation>
@@ -3622,7 +3618,6 @@
 <translation id="563535393368633106">アクセスする前に確認する（推奨）</translation>
 <translation id="5636996382092289526"><ph name="NETWORK_ID"/> を使用するには、最初に<ph name="LINK_START"/>ネットワークのログイン ページにアクセス<ph name="LINK_END"/>する必要がある場合があります。その場合は、数秒でログイン ページが自動的に開きます。ログイン ページが自動的に開かない場合、そのネットワークは使用できません。</translation>
 <translation id="5637476008227280525">モバイルデータの有効化</translation>
-<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Brave ウェブストア<ph name="END_LINK"/>で拡張機能やテーマを探すことができます</translation>
 <translation id="5639549361331209298">このページを再読み込みするには、詳細オプションが表示されるまで押し続けます</translation>
 <translation id="5640133431808313291">セキュリティ キーの管理</translation>
 <translation id="5642508497713047">CRL の署名者</translation>
@@ -3794,7 +3789,6 @@
 <translation id="5864754048328252126">充電時のアイドル操作</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> はまもなく一時的に利用できなくなります</translation>
 <translation id="586567932979200359"><ph name="PRODUCT_NAME"/> はディスク イメージから実行されています。パソコンにインストールすると、ディスク イメージなしで実行できるようになり、常に最新の状態に維持できます。</translation>
-<translation id="9063160602596686558">使用統計情報や障害レポートを Brave に自動送信します</translation>
 <translation id="5866557323934807206">これらの設定を消去して次回以降に適用しない</translation>
 <translation id="5866840822086176774">非常に強い</translation>
 <translation id="5867841422488265304">検索語句またはウェブアドレスを入力</translation>
@@ -4236,7 +4230,6 @@
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> は、このコンピュータのすべてのユーザーに対して自動更新を設定します。</translation>
 <translation id="6434309073475700221">破棄</translation>
 <translation id="6434325376267409267"><ph name="APP_NAME"/> を使用するには、先にデバイスを更新する必要があります。</translation>
-<translation id="6436164536244065364">ウェブストアで見る</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> - オーディオ再生中です</translation>
 <translation id="6442187272350399447">ビックリ</translation>
 <translation id="6444070574980481588">日時の設定</translation>
@@ -4952,7 +4945,6 @@
 <translation id="7375235221357833624">{0,plural, =1{1 時間以内にデバイスを更新してください}other{# 時間以内にデバイスを更新してください}}</translation>
 <translation id="7376553024552204454">移動時にマウスカーソルを強調表示する</translation>
 <translation id="7377451353532943397">センサーへのアクセスを引き続きブロックする</translation>
-<translation id="5840822070878669614">Brave ウェブストアを開きます</translation>
 <translation id="7378812711085314936">データ接続を行う</translation>
 <translation id="7378962964415201590">新しいスマートフォンのペア設定</translation>
 <translation id="7380768571499464492">更新: <ph name="PRINTER_NAME"/></translation>
@@ -5174,7 +5166,6 @@
 <translation id="7672520070349703697"><ph name="PAGE_TITLE"/> 内の <ph name="HUNG_IFRAME_URL"/> が停止しています。</translation>
 <translation id="7674416868315480713">Linux で転送中のポートをすべて無効にする</translation>
 <translation id="1800308196794859773">テキスト欄で音声入力できるように Brave に音声を送信します。</translation>
-<translation id="3098826269712097986">ログインデータはシークレット モードの終了後に Brave に保存されます。そのため、このウェブサイトでは後でもう一度 Touch ID を使用する必要があります。</translation>
 <translation id="7681095912841365527">サイトに Bluetooth の使用が許可されています</translation>
 <translation id="7683373461016844951">利用を続けるには、[OK]、[ユーザーを追加] の順にクリックして、<ph name="DOMAIN"/> のメールアドレス用の新しいプロフィールを作成してください。</translation>
 <translation id="7684212569183643648">管理者によりインストールされています</translation>
@@ -5658,7 +5649,6 @@
 <translation id="8259239505248583312">続行</translation>
 <translation id="8260126382462817229">もう一度ログインしてみてください</translation>
 <translation id="8260864402787962391">マウス</translation>
-<translation id="8261378640211443080">この拡張機能は <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>で提供されていません。知らないうちに追加された可能性があります。</translation>
 <translation id="8261506727792406068">削除</translation>
 <translation id="8263336784344783289">このグループに名前を付ける</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> でマウスカーソルが無効になりました。</translation>
@@ -6079,7 +6069,6 @@
 <translation id="8805140816472474147">同期を開始するには同期設定を確認してください。</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> で、誤って閉じたタブを再度開くことができます</translation>
 <translation id="8807632654848257479">Stable</translation>
-<translation id="8808478386290700967">ウェブストア</translation>
 <translation id="8808686172382650546">ネコ</translation>
 <translation id="1510515462062582289">このページには、Brave にインストールされているすべての拡張機能が表示されます。</translation>
 <translation id="8809147117840417135">明るい青緑</translation>
@@ -6231,7 +6220,6 @@
 <translation id="8983632908660087688"><ph name="ORIGIN"/> は「<ph name="FILENAME"/>」を編集できます</translation>
 <translation id="8985264973231822211">最終同期: <ph name="DEVICE_LAST_ACTIVATED_TIME"/> 日前</translation>
 <translation id="8986362086234534611">削除</translation>
-<translation id="9079153198295609735">使用統計データと障害レポートを Brave に自動送信します</translation>
 <translation id="8987927404178983737">月</translation>
 <translation id="8991520179165052608">サイトにマイクの使用が許可されています</translation>
 <translation id="899384117894244799">制限付きユーザーの削除</translation>
@@ -6462,4 +6450,54 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">安全な接続を確立しています...</translation>
 <translation id="998747458861718449">検証(&amp;I)</translation>
+<translation id="658539216370629794">&amp;プライベートウィンドウでリンクを開く</translation>
+<translation id="1432267168815937878">&amp;プライベートウィンドウでリンクを開く</translation>
+<translation id="6516243500644829484">新しい&amp;プライベートウィンドウ</translation>
+<translation id="7973394300052703468">新しい&amp;プライベートウィンドウ</translation>
+<translation id="6395403722585816044">プライベートモードでダウンロード</translation>
+<translation id="203837651858678035">とにかくプライベートモードを終了しますか？</translation>
+<translation id="7376221878517288144">とにかくプライベートモードを終了しますか？</translation>
+<translation id="871606814707918245">ほとんどのユーザーがこのサイトの通知をブロックしています</translation>
+<translation id="5053701565089446556">プライベート拡張機能: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">プライベートアプリ: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">プライベートタブ: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">プライベートサブフレーム: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">シークレット ポータル: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">ウェブストア</translation>
+<translation id="8261378640211443080">この拡張機能は <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>で提供されていません。知らないうちに追加された可能性があります。</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (プライベート)</translation>
+<translation id="4369414322596874629">プライベートウィンドウを使用してプライベートに閲覧できます</translation>
+<translation id="3772947852642271642">プライベートウィンドウで、閲覧履歴を保存せずにウェブを使用</translation>
+<translation id="3871738366246972820">共有コンピューターを使用していますか？ プライベートウィンドウを開いてみてください。</translation>
+<translation id="5808622652939943719">プライベートに閲覧するには、ドットアイコンメニューをクリックしてプライベートウィンドウを開いてください</translation>
+<translation id="9079153198295609735">使用統計データと障害レポートを Brave Software に自動送信します</translation>
+<translation id="8839398440242019256">ウェブストアからではありません。</translation>
+<translation id="6945695820322143954">この拡張機能は、ウェブストアのポリシーに違反しています。</translation>
+<translation id="1676595396635191120">新しいプライベートウィンドウ</translation>
+<translation id="5094764494104066239">ブックマーク バーを常に表示</translation>
+<translation id="4471385409549756595">新しいプライベートウィンドウ</translation>
+<translation id="4540437243849625078">このサイトは、プライベートモードの外部のアプリと情報を共有しようとしています。</translation>
+<translation id="1227836882233136433">プライベートモードを離れますか？</translation>
+<translation id="7618452966706304788">プライベートモードで<ph name="APP_NAME"/>でTouch IDを使いますか？</translation>
+<translation id="3098826269712097986">プライベートモードを終了すると、サインインデータはBraveに保存されます。 これにより、後でこのウェブサイトでTouch IDを使用できるようになります。</translation>
+<translation id="5186185447130319458">プライベート</translation>
+<translation id="2579188629646253712">プライベートモードを離れる</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{すべてをシークレット ウィンドウで開く(&amp;I)}=1{シークレット ウィンドウで開く(&amp;I)}other{すべて（# 件）をシークレット ウィンドウで開く(&amp;I)}}</translation>
+<translation id="1985165269306590797">シークレット ウィンドウで開く(&amp;I)</translation>
+<translation id="642436385689435488">すべてをシークレット ウィンドウで開く</translation>
+<translation id="5463021359602611602">シークレット ウィンドウで開く</translation>
+<translation id="5070556616376997776">シークレット モード使用中</translation>
+<translation id="5832813618714645810">プロフィール</translation>
+<translation id="6921634551681321094">ユーザーを追加</translation>
+<translation id="6315812488257290136">プロフィール</translation>
+<translation id="5840822070878669614">Brave ウェブストアを開く</translation>
+<translation id="8648684608605749476">シークレット モードでサードパーティの Cookie をブロックします</translation>
+<translation id="1281501490173223206">現在のシークレット モード セッションのみ</translation>
+<translation id="9063160602596686558">使用統計情報や障害レポートを Brave Software に自動送信します</translation>
+<translation id="3860292630623580294">（シークレット モード）</translation>
+<translation id="4854477725773269949">シークレット モードでの実行を許可する</translation>
+<translation id="6436164536244065364">ウェブストアで見る</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Brave ウェブストア<ph name="END_LINK"/>で拡張機能やテーマを探すことができます</translation>
+<translation id="6336451774241870485">新しいプライベートタブ</translation>
+<translation id="6610147964972079463">プライベートタブを閉じます</translation>
 </translationbundle>

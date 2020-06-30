@@ -1827,7 +1827,6 @@ Detalles adicionales:
 <translation id="8800988563907321413">Las sugerencias de la sección Cercanas aparecen aquí</translation>
 <translation id="8805819170075074995">Entrada de lista "<ph name="LANGUAGE_ID"/>": Se ignorará la entrada porque también se incluye en la política SpellcheckLanguage.</translation>
 <translation id="8807160976559152894">Cortar después de cada página</translation>
-<translation id="8820817407110198400">Favoritos</translation>
 <translation id="883848425547221593">Otros favoritos</translation>
 <translation id="884264119367021077">Dirección de envío</translation>
 <translation id="884923133447025588">No se ha encontrado ningún mecanismo de revocación.</translation>
@@ -1947,4 +1946,5 @@ Detalles adicionales:
 <translation id="994346157028146140">JIS B1</translation>
 <translation id="6771143571626203666">De Brave Pay</translation>
 <translation id="3489858312836205593">Abre una nueva ventana de incógnito de Brave</translation>
+<translation id="8820817407110198400">Favoritos</translation>
 </translationbundle>

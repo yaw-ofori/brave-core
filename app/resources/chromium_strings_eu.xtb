@@ -13,10 +13,8 @@ Eginbide batzuk agian dira erabilgarri egongo eta hobespenei egindako aldaketak 
 <translation id="7419046106786626209">Chrome OS sistema eragileak ezin izan ditu sinkronizatu zure datuak sinkronizazioa ez dagoelako erabilgarri zure domeinuan.</translation>
 <translation id="5147525139567260139">Partekatu Brave-eko fitxa bat</translation>
 <translation id="1530633922026945685">Brave-ek kamera atzitzeko baimena behar du, ingurunearen hiru dimentsioko mapa bat sortzeko</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{Brave berrabiaraz dezazun behar du administratzaileak, eguneratzea aplikatzeko}=1{Brave berrabiaraz dezazun behar du administratzaileak, eguneratzea aplikatzeko. Ezkutuko moduko leihoa ez da berriro irekiko.}other{Brave berrabiaraz dezazun behar du administratzaileak, eguneratzea aplikatzeko. Ezkutuko moduko # leihoak ez dira berriro irekiko.}}</translation>
 <translation id="5616153642055197778">Brave-en bertsio berriagoa eta seguruagoa erabilgarri dago.</translation>
 <translation id="6797402139308059782">Onartu Brave atzeko planoan abiaraztea</translation>
-<translation id="1448049584457347995">Brave seguruagoa izan dadin, zuk jakin gabe gehitu izan dituzten eta <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dendan zerrendatu gabe dauden luzapen batzuk desgaitu ditugu.</translation>
 <translation id="5875673934455379806">Instalatu berriro Brave</translation>
 <translation id="650055380213106997">Kontu kudeatu batekin hasten ari zara saioa eta kontuaren administratzaileari zure Brave profila kontrolatzeko ahalmena ematera zoaz. Brave aplikazioan dituzun datuak, esaterako, aplikazioak, laster-markak, historia, pasahitzak eta beste ezarpen batzuk betiko lotuko zaizkio <ph name="USER_NAME"/> erabiltzaileari. Brave kontuetako Panelaren bidez ezabatu ahalko dituzu datu horiek, baina ezingo dituzu beste kontu batekin lotu. <ph name="LEARN_MORE"/></translation>
 <translation id="1649714546770135458">Aukera hau desaktibatzen baduzu, Brave-ren webguneetan saioa hasi ahalko duzu (adibidez, Gmail-en) Brave-en saioa hasi beharrik gabe</translation>
@@ -51,7 +49,6 @@ Eginbide batzuk agian dira erabilgarri egongo eta hobespenei egindako aldaketak 
 <translation id="7365690458036015383">Instalatzaileak ezin izan du artxiboa deskonprimitu. Deskargatu berriro Brave.</translation>
 <translation id="8919461291440820124">Brave zure mikrofonoa erabiltzen ari da.</translation>
 <translation id="4805806622840861220">Berrabiarazi Brave</translation>
-<translation id="6554952862405000915">Ireki esteka Brave-eko &amp;ezkutuko moduko leiho batean</translation>
 <translation id="1477146545787277177">Brave-ek huts egin du. Berriro abiarazi nahi duzu?</translation>
 <translation id="7503098128120083822">Brave-ek pasahitzak esportatu nahi ditu.</translation>
 <translation id="2585240446624043880">Brave-ek ezin du irakurri bere datu-direktorioa eta ezin du idatzi bertan:
@@ -66,10 +63,7 @@ Eginbide batzuk agian dira erabilgarri egongo eta hobespenei egindako aldaketak 
 <translation id="8703492925273919597">Itxi Brave leiho guztiak eta saiatu berriro.</translation>
 <translation id="1384923383737428730">Software kaltegarria duzu ordenagailuan. Brave-ek hura kendu, ezarpenak leheneratu eta luzapenak desgai ditzake, arakatzaileak ohiko moduan funtziona dezan berriro.</translation>
 <translation id="4847979153841887006">Brave logotipoa</translation>
-<translation id="669092380621816981">Pertsona honen arakatze-datuak gailutik ezabatuko dira. Datuak berreskuratzeko, hasi saioa Brave-en <ph name="USER_EMAIL"/> gisa.</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{Brave-en eguneratze bat erabilgarri dago eta sistema eragilea berrabiarazten duzunean aplikatuko da.}=1{Brave-en eguneratze bat erabilgarri dago eta sistema eragilea berrabiarazten duzunean aplikatuko da. Ezkutuko moduko leihoa ez da berriro irekiko.}other{Brave-en eguneratze bat erabilgarri dago eta sistema eragilea berrabiarazten duzunean aplikatuko da. Ezkutuko moduko # leihoak ez dira berriro irekiko.}}</translation>
 <translation id="4304059894777924102">Brave-ek ezin ditu egiaztatu pasahitzak. Egiaztatu Internetera konektatuta zaudela.</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{Brave berrabiarazteko eskatu dizu administratzaileak, eguneratzea aplikatzeko}=1{Brave berrabiarazteko eskatu dizu administratzaileak, eguneratzea aplikatzeko. Ezkutuko moduko leihoa ez da berriro irekiko.}other{Brave berrabiarazteko eskatu dizu administratzaileak, eguneratzea aplikatzeko. Ezkutuko moduko # leihoak ez dira berriro irekiko.}}</translation>
 <translation id="1807774211756215222">Ireki esteka Brave-eko beste &amp;fitxa batean</translation>
 <translation id="7453070689008684791">Brave-ek zure Drive unitatea atzituko du helbide-barran iradokizunak egiteko</translation>
 <translation id="2106568569080763501">Brave-ekin, telefono-zenbakietan klik egin dezakezu Skype bidez deitzeko!</translation>
@@ -165,7 +159,6 @@ Baliteke eginbide batzuk erabilgarri ez egotea. Adierazi beste profil-direktorio
 <translation id="7830723774663008396">Brave - <ph name="PAGE_TITLE"/></translation>
 <translation id="5253815230176279256">Brave Pay (Brave-en kopiatu da)</translation>
 <translation id="2301993384336631869">Brave eguneratu da baina ez duzu erabili 30 egunetan gutxienez.</translation>
-<translation id="4624945300945265642">Ireki esteka Brave-eko &amp;ezkutuko moduko leiho batean</translation>
 <translation id="3335606533094650083">Brave-ek webgune honen izenean mikrofonoa atzitzeko baimena behar du</translation>
 <translation id="1785833016412082453">Brave-ek ezin ditu egiaztatu luzapenak. Saiatu geroago.</translation>
 <translation id="1705567146636171298">Eguneratu Brave</translation>
@@ -200,7 +193,6 @@ Brave-ek ezin ditu ezarpenak berreskuratu.</translation>
 <translation id="5419189641394808652">Brave-ek ezin izan dizkizu sinkronizatu datuak sinkronizazioa ez dagoelako erabilgarri zure domeinuan.</translation>
 <translation id="4784414698887946907">Gailuko arakatze-datuak ezabatuko dira. Geroago datuak eskuratu nahi izanez gero, hasi saioa Brave-en <ph name="USER_EMAIL"/> gisa.</translation>
 <translation id="7747138024166251722">Instalatzaileak ezin izan du sortu behin behineko direktoriorik. Softwarea instalatzeko, egiaztatu diskoan duzun espazio librea eta baimena.</translation>
-<translation id="6134859571175647580">Abisua: Brave-ek ezin die eragotzi luzapenei arakatze-historia erregistratzea. Ezkutuko moduan luzapen hau desgaitzeko, desautatu aukera.</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> - Brave Canary</translation>
 <translation id="38898988211673781">Garbitu cookieak eta webguneen datuak Brave-etik irteten zarenean</translation>
 <translation id="7963515534397191222">Ezin izan da eguneratu Brave azken bertsiora; beraz, ez dituzu erabilgarri eginbide berriak eta segurtasun-konponketak.</translation>
@@ -237,7 +229,6 @@ Brave-ek ezin ditu ezarpenak berreskuratu.</translation>
 <translation id="8285294305439559616">Brave pasahitzak erakusten saiatzen ari da. Hori baimentzeko, idatzi Windows pasahitza.</translation>
 <translation id="6389268239133412586">Ezin da eguneratu Brave</translation>
 <translation id="6368958679917195344">Chrome OS sistemak <ph name="BEGIN_LINK_CROS_OSS"/>kode irekiko software<ph name="END_LINK_CROS_OSS"/> gehigarria behar du existitu ahal izateko.</translation>
-<translation id="8848045066928358658">Brave seguruagoa izan dadin, zuk jakin gabe gehitu den eta <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dendan zerrendatu gabe dagoen luzapena desgaitu dugu.</translation>
 <translation id="5173820533850252773">Brave zaharkituta dago</translation>
 <translation id="310518206836658214">{0,plural, =1{Ordubete barru berrabiaraziko da Brave}other{# ordu barru berrabiaraziko da Brave}}</translation>
 <translation id="7863882214613921971">Ireki esteka Brave-eko beste &amp;fitxa batean</translation>
@@ -247,4 +238,13 @@ Brave-ek ezin ditu ezarpenak berreskuratu.</translation>
 <translation id="7977787072794666032">Brave-ek agian ez du behar bezala funtzionatuko, jada ez baita bateragarria Windows XP eta Windows Vista-rekin</translation>
 <translation id="2398566204186296120">Gailua erabili aurretik, <ph name="DOMAIN"/> domeinuak jarraian azalduko diren Zerbitzu-baldintza irakurtzeko eta onartzeko eskatzen dizu. Baldintzok ez dituzte Chrome OS Baldintzak hedatuko, aldatuko edo mugatuko.</translation>
 <translation id="8992261409816268381">Brave egileak</translation>
+<translation id="6134859571175647580">Abisua: Brave-ek ezin die eragotzi luzapenei arakatze-historia erregistratzea. Ezkutuko moduan luzapen hau desgaitzeko, desautatu aukera.</translation>
+<translation id="1448049584457347995">Brave seguruagoa izan dadin, zuk jakin gabe gehitu izan dituzten eta <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dendan zerrendatu gabe dauden luzapen batzuk desgaitu ditugu.</translation>
+<translation id="8848045066928358658">Brave seguruagoa izan dadin, zuk jakin gabe gehitu den eta <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dendan zerrendatu gabe dagoen luzapena desgaitu dugu.</translation>
+<translation id="669092380621816981">Pertsona honen arakatze-datuak gailutik ezabatuko dira. Datuak berreskuratzeko, hasi saioa Brave-en <ph name="USER_EMAIL"/> gisa.</translation>
+<translation id="4624945300945265642">Ireki esteka Brave-eko &amp;ezkutuko moduko leiho batean</translation>
+<translation id="6554952862405000915">Ireki esteka Brave-eko &amp;ezkutuko moduko leiho batean</translation>
+<translation id="8274659559228306809">{COUNT,plural, =0{Brave-en eguneratze bat erabilgarri dago eta sistema eragilea berrabiarazten duzunean aplikatuko da.}=1{Brave-en eguneratze bat erabilgarri dago eta sistema eragilea berrabiarazten duzunean aplikatuko da. Ezkutuko moduko leihoa ez da berriro irekiko.}other{Brave-en eguneratze bat erabilgarri dago eta sistema eragilea berrabiarazten duzunean aplikatuko da. Ezkutuko moduko # leihoak ez dira berriro irekiko.}}</translation>
+<translation id="3829358914761176693">{COUNT,plural, =0{Brave berrabiarazteko eskatu dizu administratzaileak, eguneratzea aplikatzeko}=1{Brave berrabiarazteko eskatu dizu administratzaileak, eguneratzea aplikatzeko. Ezkutuko moduko leihoa ez da berriro irekiko.}other{Brave berrabiarazteko eskatu dizu administratzaileak, eguneratzea aplikatzeko. Ezkutuko moduko # leihoak ez dira berriro irekiko.}}</translation>
+<translation id="552349673358711446">{COUNT,plural, =0{Brave berrabiaraz dezazun behar du administratzaileak, eguneratzea aplikatzeko}=1{Brave berrabiaraz dezazun behar du administratzaileak, eguneratzea aplikatzeko. Ezkutuko moduko leihoa ez da berriro irekiko.}other{Brave berrabiaraz dezazun behar du administratzaileak, eguneratzea aplikatzeko. Ezkutuko moduko # leihoak ez dira berriro irekiko.}}</translation>
 </translationbundle>

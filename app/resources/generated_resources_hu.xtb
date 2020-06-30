@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">Az eltávolítás függőben van</translation>
 <translation id="175772926354468439">Téma engedélyezése</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Megtekintés a Brave Internetes áruházban</translation>
 <translation id="176193854664720708">Az ujjlenyomat-érzékelő a bekapcsológombban található. Érintse meg finoman valamelyik ujjával.</translation>
 <translation id="1763046204212875858">Parancsikon létrehozása az alkalmazáshoz</translation>
 <translation id="1763108912552529023">A felfedezés folytatása</translation>
@@ -1326,7 +1325,6 @@ Ha kezelni szeretné a fiók beállításait, telepítse eszközére a Family Li
 <translation id="2660779039299703961">Esemény</translation>
 <translation id="4052689580269971502">Nem sikerült csatlakozni a nyomtatóhoz. Ellenőrizze, hogy be van-e kapcsolva a nyomtató, és hogy csatlakozik-e a Bravebookhoz Wi-Fi-n vagy USB-n keresztül.</translation>
 <translation id="2661714428027871023">Gyorsabb böngészés és csökkentett adatforgalom az Egyszerűsített móddal. További információért kattintson ide.</translation>
-<translation id="8808478386290700967">Brave Web Store</translation>
 <translation id="2663302507110284145">Nyelv</translation>
 <translation id="2665394472441560184">Új szó hozzáadása</translation>
 <translation id="2665647207431876759">Lejárt</translation>
@@ -2211,7 +2209,6 @@ Ha kezelni szeretné a fiók beállításait, telepítse eszközére a Family Li
 <translation id="3771294271822695279">Videofájlok</translation>
 <translation id="3775432569830822555">SSL-szerver tanúsítvány</translation>
 <translation id="3775705724665058594">Küldés a saját eszközökre</translation>
-<translation id="6945695820322143954">A bővítmény sérti a Brave Internetes áruház irányelvét.</translation>
 <translation id="3777483481409781352">Nem sikerült a mobileszköz aktiválása</translation>
 <translation id="3777806571986431400">Bővítmény engedélyezve</translation>
 <translation id="3778152852029592020">Letöltés megszakítva.</translation>
@@ -3025,7 +3022,6 @@ Elindítja a következőt: <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="48704129375571883">További funkciók hozzáadása</translation>
 <translation id="4870758487381879312">A konfigurációs információkhoz adja meg a rendszergazdától kapott jelszót</translation>
 <translation id="4870903493621965035">Nincsenek párosított eszközök</translation>
-<translation id="8839398440242019256">Nem a Brave Internetes áruházból származik.</translation>
 <translation id="4871322859485617074">A PIN-kód érvénytelen karaktereket tartalmaz</translation>
 <translation id="4871370605780490696">Könyvjelzõ hozzáadása</translation>
 <translation id="4871568871368204250">A szinkronizálás kikapcsolása</translation>
@@ -3623,7 +3619,6 @@ Győződjön meg arról, hogy nem ad ki bizalmas adatokat.</translation>
 <translation id="563535393368633106">Kérdezzen rá hozzáférés előtt (ajánlott)</translation>
 <translation id="5636996382092289526">A(z) <ph name="NETWORK_ID"/> használatához először <ph name="LINK_START"/>fel kell keresnie a hálózat bejelentkezési oldalát<ph name="LINK_END"/>, amely automatikusan megnyílik néhány másodpercen belül. Ha ez nem történik meg, akkor a hálózat nem használható.</translation>
 <translation id="5637476008227280525">Mobiladatok bekapcsolása</translation>
-<translation id="38046578254905003">Bővítményeket és témákat a <ph name="BEGIN_LINK"/>Brave Internetes áruházban<ph name="END_LINK"/> kereshet</translation>
 <translation id="5639549361331209298">Az oldal újratöltése – további lehetőségek megtekintéséhez tartsa lenyomva.</translation>
 <translation id="5640133431808313291">Biztonsági hardverkulcsok kezelése</translation>
 <translation id="5642508497713047">Tanúsítvány-visszavonási lista aláírója</translation>
@@ -3795,7 +3790,6 @@ Győződjön meg arról, hogy nem ad ki bizalmas adatokat.</translation>
 <translation id="5864754048328252126">Tétlenségi művelet töltés közben</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> hamarosan szünetelni fog</translation>
 <translation id="586567932979200359">A <ph name="PRODUCT_NAME"/> alkalmazást jelenleg a lemezképéről futtatja. Ha telepíti a számítógépére, akkor futtathatja a lemezkép nélkül is, emellett biztosan naprakészen tartja.</translation>
-<translation id="9063160602596686558">Automatikusan elküldi a használati statisztikákat és hibajelentéseket a Brave-nak</translation>
 <translation id="5866557323934807206">Beállítások törlése a jövőbeni látogatások miatt</translation>
 <translation id="5866840822086176774">Nagyon erős</translation>
 <translation id="5867841422488265304">Keressen, vagy írjon be internetcímet</translation>
@@ -4237,7 +4231,6 @@ Győződjön meg arról, hogy nem ad ki bizalmas adatokat.</translation>
 <translation id="6431347207794742960">A <ph name="PRODUCT_NAME"/> jelen számítógép összes felhasználója számára beállítja az automatikus frissítéseket.</translation>
 <translation id="6434309073475700221">Elvetés</translation>
 <translation id="6434325376267409267">A(z) <ph name="APP_NAME"/> használatához frissítenie kell eszközét.</translation>
-<translation id="6436164536244065364">Megtekintés az Internetes áruházban</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> – Hanglejátszás</translation>
 <translation id="6442187272350399447">Remek!</translation>
 <translation id="6444070574980481588">Dátum és idő beállítása</translation>
@@ -4953,7 +4946,6 @@ Győződjön meg arról, hogy nem ad ki bizalmas adatokat.</translation>
 <translation id="7375235221357833624">{0,plural, =1{Egy órán belül frissítse az eszközt}other{# órán belül frissítse az eszközt}}</translation>
 <translation id="7376553024552204454">Az egérmutató kiemelése mozgás közben</translation>
 <translation id="7377451353532943397">Érzékelő-hozzáférés tiltásának fenntartása</translation>
-<translation id="5840822070878669614">A Brave Internetes áruház megnyitása</translation>
 <translation id="7378812711085314936">Adatkapcsolat kérése</translation>
 <translation id="7378962964415201590">Új telefon párosítása</translation>
 <translation id="7380768571499464492">Frissítve: <ph name="PRINTER_NAME"/></translation>
@@ -5175,7 +5167,6 @@ Győződjön meg arról, hogy nem ad ki bizalmas adatokat.</translation>
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, itt: <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">A Linux alatt átirányított portok mindegyikének deaktiválása</translation>
 <translation id="1800308196794859773">A hangjának elküldése a Brave számára, hogy bármely szövegmezőbe diktálhasson.</translation>
-<translation id="3098826269712097986">A Brave az inkognitómód elhagyása után tárolja a bejelentkezési adatokat. Így később ismét használhatja a Touch ID funkciót ezen a webhelyen.</translation>
 <translation id="7681095912841365527">A webhely használhat Bluetooth-t</translation>
 <translation id="7683373461016844951">A folytatáshoz kattintson az OK gombra, majd a Személy hozzáadása lehetőségre. Ekkor létrehozhatja az e-mail-címéhez (<ph name="DOMAIN"/>) tartozó új profilt.</translation>
 <translation id="7684212569183643648">A rendszergazda telepítette</translation>
@@ -5659,7 +5650,6 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="8259239505248583312">Kezdjük</translation>
 <translation id="8260126382462817229">Próbáljon meg újra bejelentkezni</translation>
 <translation id="8260864402787962391">Egér</translation>
-<translation id="8261378640211443080">A bővítmény nem a(z) <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> szolgáltatásból származik, és előfordulhat, hogy az Ön tudta nélkül lett telepítve.</translation>
 <translation id="8261506727792406068">Törlés</translation>
 <translation id="8263336784344783289">Nevezze el a csoportot</translation>
 <translation id="8263744495942430914">A(z) <ph name="FULLSCREEN_ORIGIN"/> letiltotta az egérmutatót.</translation>
@@ -6080,7 +6070,6 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="8805140816472474147">A szinkronizálás megkezdéséhez meg kell erősítenie a szinkronizálási beállításokat.</translation>
 <translation id="8806680466228877631">A <ph name="SHORTCUT"/> billentyűparanccsal újra megnyithatja a véletlenül bezárt lapokat</translation>
 <translation id="8807632654848257479">Stabil</translation>
-<translation id="8808478386290700967">Brave internetes áruház</translation>
 <translation id="8808686172382650546">Macska</translation>
 <translation id="1510515462062582289">Ezen az oldalon található a Brave böngészőbe telepített összes bővítmény.</translation>
 <translation id="8809147117840417135">Világos pávakék</translation>
@@ -6232,7 +6221,6 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="8983632908660087688">A(z) <ph name="ORIGIN"/> szerkesztheti a(z) <ph name="FILENAME"/> fájlt</translation>
 <translation id="8985264973231822211">Aktív <ph name="DEVICE_LAST_ACTIVATED_TIME"/> nappal ezelőtt</translation>
 <translation id="8986362086234534611">Elfelejt</translation>
-<translation id="9079153198295609735">Használati statisztikák és hibajelentések automatikus küldése a Brave-nak</translation>
 <translation id="8987927404178983737">hónap</translation>
 <translation id="8991520179165052608">A webhely használhatja a mikrofonját</translation>
 <translation id="899384117894244799">Korlátozott felhasználó eltávolítása</translation>
@@ -6463,4 +6451,54 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Biztonságos kapcsolat létesítése...</translation>
 <translation id="998747458861718449">&amp;Vizsgálat</translation>
+<translation id="658539216370629794">Hivatkozás megnyitása privát ablakban</translation>
+<translation id="1432267168815937878">Hivatkozás megnyitása &amp; privát ablakban</translation>
+<translation id="6516243500644829484">Új &amp;privát ablak</translation>
+<translation id="7973394300052703468">Új &amp; Privát ablak</translation>
+<translation id="6395403722585816044">Letöltés privát ablakban</translation>
+<translation id="203837651858678035">Mindenképp kilépsz a privát módból?</translation>
+<translation id="7376221878517288144">Mindenképp kilépsz a webáruházból?</translation>
+<translation id="871606814707918245">A legtöbb felhasználó letiltja az értesítéseket ezen a webhelyen</translation>
+<translation id="5053701565089446556">Privát bővítmény: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Privát alkalmazás: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Privát fül: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Privát Subframe: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portál inkognitómódban: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Webáruház</translation>
+<translation id="8261378640211443080">A bővítmény nem a(z) <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> szolgáltatásból származik, és előfordulhat, hogy az Ön tudta nélkül lett telepítve.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privát)</translation>
+<translation id="4369414322596874629">Egy privát ablakban privát böngészést végezhetsz</translation>
+<translation id="3772947852642271642">Használd a webet böngészési előzményeid mentése nélkül egy privát ablakkal</translation>
+<translation id="3871738366246972820">Közös számítógépet használsz? Próbálj indítani egy privát ablakot.</translation>
+<translation id="5808622652939943719">Privát böngészéshez kattints a pontot ábrázoló ikon menüre hogy megnyiss egy privát ablakot</translation>
+<translation id="9079153198295609735">Használati statisztikák és hibajelentések automatikus küldése a Brave Software-nak</translation>
+<translation id="8839398440242019256">Nem a webáruházból.</translation>
+<translation id="6945695820322143954">Ez a bővítmény megszegi a webáruház szabályzatát</translation>
+<translation id="1676595396635191120">Új privát ablak</translation>
+<translation id="5094764494104066239">A könyvjelzők eszköztára mindig látható</translation>
+<translation id="4471385409549756595">Új privát ablak</translation>
+<translation id="4540437243849625078">Ez a webhely információkat akar megosztani egy alkalmazással a privát módon kívül.</translation>
+<translation id="1227836882233136433">Kilépsz a privát módból?</translation>
+<translation id="7618452966706304788">Szeretnél privát módban Touch ID-t használni ehhez: <ph name="APP_NAME"/>?</translation>
+<translation id="3098826269712097986">A belépési adatok a Brave-ben lesznek tárolva a privát módból való kilépés után. Így később újra használhatod a Touch ID-t ezzel a webhellyel.</translation>
+<translation id="5186185447130319458">Privát</translation>
+<translation id="2579188629646253712">Kilépés privátból</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Összes megnyitása &amp;inkognitóablakban}=1{Megnyitás &amp;inkognitóablakban}other{Összes (#) megnyitása &amp;inkognitóablakban}}</translation>
+<translation id="1985165269306590797">Megnyitás &amp;inkognitóablakban</translation>
+<translation id="642436385689435488">Összes megnyitása inkognitóablakban</translation>
+<translation id="5463021359602611602">Megnyitás inkognitóablakban</translation>
+<translation id="5070556616376997776">Inkognitómódban van</translation>
+<translation id="5832813618714645810">Profilok</translation>
+<translation id="6921634551681321094">Személy hozzáadása</translation>
+<translation id="6315812488257290136">Profilok</translation>
+<translation id="5840822070878669614">A Brave Internetes áruház megnyitása</translation>
+<translation id="8648684608605749476">Harmadik felektől származó cookie-k letiltása Inkognitómódban</translation>
+<translation id="1281501490173223206">Csak a jelenlegi inkognitó munkamenet</translation>
+<translation id="9063160602596686558">Automatikusan elküldi a használati statisztikákat és hibajelentéseket a Brave Software-nak</translation>
+<translation id="3860292630623580294">(Inkognitómód)</translation>
+<translation id="4854477725773269949">Engedélyezés inkognitó módban</translation>
+<translation id="6436164536244065364">Megtekintés az Internetes áruházban</translation>
+<translation id="38046578254905003">Bővítményeket és témákat a <ph name="BEGIN_LINK"/>Brave Internetes áruházban<ph name="END_LINK"/> kereshet</translation>
+<translation id="6336451774241870485">Új privát ablak</translation>
+<translation id="6610147964972079463">Privát fülek bezárása</translation>
 </translationbundle>

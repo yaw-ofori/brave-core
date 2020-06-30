@@ -1827,7 +1827,6 @@ Dodatne podrobnosti:
 <translation id="8800988563907321413">Tu so prikazani predlogi v bližini</translation>
 <translation id="8805819170075074995">Vnos na seznamu »<ph name="LANGUAGE_ID"/>«: vnos je prezrt, ker je vključen tudi v pravilnik SpellcheckLanguage.</translation>
 <translation id="8807160976559152894">Obrezovanje po vsaki strani</translation>
-<translation id="8820817407110198400">Zaznamki</translation>
 <translation id="883848425547221593">Drugi zaznamki</translation>
 <translation id="884264119367021077">Naslov za pošiljanje</translation>
 <translation id="884923133447025588">Najden ni bil noben mehanizem za preklic.</translation>
@@ -1947,4 +1946,5 @@ Dodatne podrobnosti:
 <translation id="994346157028146140">JIS B1</translation>
 <translation id="997986563973421916">Iz Googla Pay</translation>
 <translation id="998893882640184078">Odprite novo okno brez beleženja zgodovine v Chromu</translation>
+<translation id="8820817407110198400">Zaznamki</translation>
 </translationbundle>

@@ -11,7 +11,6 @@
 <translation id="151962892725702025">Ma’lumotlarni sinxronlab bo‘lmadi, chunki domeningizda Sync xizmati mavjud emas.</translation>
 <translation id="5147525139567260139">Brave sahifasini namoyish qilish</translation>
 <translation id="1530633922026945685">Brave atrofingiz 3D xaritasini yaratishi uchun unga kamera ruxsati zarur</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{Administrator yangilishlarni oʻrnatish uchun Brave brauzerini qayta ishga tushirishni talab qilmoqda}=1{Administrator yangilishlarni oʻrnatish uchun Brave brauzerini qayta ishga tushirishni talab qilmoqda Inkognito oynalar qayta ochilmaydi.}other{Administrator yangilishlarni oʻrnatish uchun Brave brauzerini qayta ishga tushirishni talab qilmoqda # ta inkognito oyna qayta ochilmaydi.}}</translation>
 <translation id="5616153642055197778">Brave brauzerining yangi, yanada xavfsiz versiyasi chiqdi.</translation>
 <translation id="6797402139308059782">Brave fonda ishlashiga ruxsat</translation>
 <translation id="1779356040007214683">Ma’lumotlaringiz xavfsizligini ta’minlash maqsadida ayrim kengaytmalarni o‘chirib qo‘ydik, chunki <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>‘da ular haqida hech qanday ma’lumot yo‘q (ya’ni, ular sizning ruxsatingizsiz o‘rnatilgan bo‘lishi mumkin).</translation>
@@ -49,7 +48,6 @@
 <translation id="7365690458036015383">O‘rnatish dasturi arxivni ajrata olmadi. Brave’ni qayta yuklab oling.</translation>
 <translation id="8919461291440820124">Brave mikrofondan foydalanmoqda.</translation>
 <translation id="4805806622840861220">Brave’ni qayta ishga tushiring</translation>
-<translation id="6554952862405000915">Havolani Brave &amp;inkognito oynasida ochish</translation>
 <translation id="1477146545787277177">Voy! Brave ishdan chiqdi. Qaytadan ishga tushirilsinmi?</translation>
 <translation id="7503098128120083822">Brave parollaringizni eksport qilmoqchi.</translation>
 <translation id="2585240446624043880">Brave o‘z jildidan ma’lumotlarni o‘qib yoki yozib ololmadi: <ph name="USER_DATA_DIRECTORY"/></translation>
@@ -63,9 +61,7 @@
 <translation id="1384923383737428730">Kompyuteringizda zararli dasturlar topildi. Brave uni tozalab, sozlamalarni qayta tiklashi, kengaytmalarni oʻchirib qoʻyishi mumkin.</translation>
 <translation id="4847979153841887006">Brave logotipi</translation>
 <translation id="3639635944603682591">Bu foydalanuvchi brauzerining tarixi ushbu qurilmadan butunlay tozalanadi. Axborotlarni tiklash uchun brauzerga <ph name="USER_EMAIL"/> sifatida kiring.</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{Brave uchun yangilanish mavjud va brauzer qayta ishga tushirilganda oʻrnatiladi.}=1{Brave uchun yangilanish mavjud va brauzer qayta ishga tushirilganda oʻrnatiladi. Inkognito oynalar qayta ochilmaydi.}other{Brave uchun yangilanish mavjud va brauzer qayta ishga tushirilganda oʻrnatiladi. # ta inkognito oyna qayta ochilmaydi.}}</translation>
 <translation id="4304059894777924102">Brave parollaringizni tekshira olmadi. Internet aloqasini tekshiring.</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{Administrator yangilishlarni oʻrnatish uchun Brave brauzerini qayta ishga tushirishni soʻramoqda}=1{Administrator yangilishlarni oʻrnatish uchun Brave brauzerini qayta ishga tushirishni soʻramoqda Inkognito oynalar qayta ochilmaydi.}other{Administrator yangilishlarni oʻrnatish uchun Brave brauzerini qayta ishga tushirishni soʻramoqda # ta inkognito oyna qayta ochilmaydi.}}</translation>
 <translation id="1807774211756215222">Havolani yangi Brave oynasida ochish</translation>
 <translation id="7453070689008684791">Manzil qatorida tavsiyalarni namoyish qilish uchun Brave sizning Drive omboridan foydalanadi</translation>
 <translation id="2106568569080763501">Brave‘da har qanday telefon raqami ustiga bosib Skype orqali qo‘ng‘iroq qilish mumkin!</translation>
@@ -161,7 +157,6 @@ Ba’zi imkoniyatlar ishlamasligi mumkin. Profilni saqlash uchun boshqa jild tay
 <translation id="7830723774663008396">Brave – <ph name="PAGE_TITLE"/></translation>
 <translation id="5253815230176279256">Brave Pay (Brave brauzeriga nusxalandi)</translation>
 <translation id="2301993384336631869">Brave yangilandi, lekin siz undan 30 kun davomida foydalanmadingiz.</translation>
-<translation id="4624945300945265642">Havolani Brave &amp;inkognito oynasida ochish</translation>
 <translation id="3335606533094650083">Bu sayt mikrofoningizdan foydalanishi uchun Brave brauzeriga ruxsat berishingiz lozim</translation>
 <translation id="1785833016412082453">Brave kengaytmalaringizni tekshira olmadi. Keyinroq qayta urining.</translation>
 <translation id="1705567146636171298">Brave‘ni yangilash</translation>
@@ -196,7 +191,6 @@ Brave sozlamalaringizni qaytadan tiklay olmadi.</translation>
 <translation id="5419189641394808652">Brave domeningizda Sync xizmati yo‘qligi sababli ma’lumotlaringizni sinxronlay olmadi.</translation>
 <translation id="4784414698887946907">Bu qurilmadagi brauzer tarixini tozalaydi. Ma’lumotlaringizni keyinroq olish uchun Brave brauzeriga <ph name="USER_EMAIL"/> sifatida kiring.</translation>
 <translation id="7747138024166251722">O‘rnatish dasturi vaqtinchalik katalog yarata olmadi. Sizda ilovalar o‘rnatish uchun yetarli vakolat yoki disk yetarli bo‘sh joy yo‘q bo‘lsa kerak.</translation>
-<translation id="6134859571175647580">Diqqat! Brave kengaytmalarga brauzer tarixini yozib olishni taqiqlay olmaydi. Kengaytmani inkognito rejimida o‘chirib qo‘yish uchun, bayroqchani olib tashlang.</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> - Brave Canary</translation>
 <translation id="38898988211673781">Brave yopilganda barcha cookie fayllari va sayt maʼlumotlari tozalanadi</translation>
 <translation id="7963515534397191222">Brave brauzerining so‘nggi versiyasini o‘rnatib bo‘lmadi. Xavfsizlik sozlamalariga kiritilgan tuzatishlar va yangi funksiyalardan bahramand bo‘la olmaysiz.</translation>
@@ -243,4 +237,13 @@ Brave sozlamalaringizni qaytadan tiklay olmadi.</translation>
 <translation id="7977787072794666032">Brave brauzeri Windows XP yoki Windows Vista tizimlarida ishlamay qolishi mumkin, chunki uning yangi versiyalarida bu tizimlar ta’minoti to‘xtatiladi</translation>
 <translation id="2398566204186296120"><ph name="DOMAIN"/> bu qurilmadan foydalanishdan oldin quyidagi Xizmat shartlarini o‘qib, qabul qilishingizni talab qiladi. Bu shartlar Chrome OS shartlarini kengaytirmaydi, o‘zgartirmaydi yoki cheklamaydi.</translation>
 <translation id="8992261409816268381">Brave mualliflari</translation>
+<translation id="6134859571175647580">Diqqat! Brave kengaytmalarga brauzer tarixini yozib olishni taqiqlay olmaydi. Kengaytmani inkognito rejimida o‘chirib qo‘yish uchun, bayroqchani olib tashlang.</translation>
+<translation id="1448049584457347995">Ma’lumotlaringiz xavfsizligini ta’minlash maqsadida ayrim kengaytmalarni o‘chirib qo‘ydik, chunki <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>‘da ular haqida hech qanday ma’lumot yo‘q (ya’ni, ular sizning ruxsatingizsiz o‘rnatilgan bo‘lishi mumkin).</translation>
+<translation id="8848045066928358658">Ma’lumotlaringiz xavfsizligini ta’minlash maqsadida ayrim kengaytmalarni o‘chirib qo‘ydik, chunki <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>da ular haqida hech qanday ma’lumot yo‘q (ya’ni, ular sizning ruxsatingizsiz o‘rnatilgan bo‘lishi mumkin).</translation>
+<translation id="669092380621816981">Bu foydalanuvchi brauzerining tarixi ushbu qurilmadan butunlay tozalanadi. Axborotlarni tiklash uchun brauzerga <ph name="USER_EMAIL"/> sifatida kiring.</translation>
+<translation id="4624945300945265642">Havolani Brave &amp;inkognito oynasida ochish</translation>
+<translation id="6554952862405000915">Havolani Brave &amp;inkognito oynasida ochish</translation>
+<translation id="8274659559228306809">{COUNT,plural, =0{Brave uchun yangilanish mavjud va brauzer qayta ishga tushirilganda oʻrnatiladi.}=1{Brave uchun yangilanish mavjud va brauzer qayta ishga tushirilganda oʻrnatiladi. Inkognito oynalar qayta ochilmaydi.}other{Brave uchun yangilanish mavjud va brauzer qayta ishga tushirilganda oʻrnatiladi. # ta inkognito oyna qayta ochilmaydi.}}</translation>
+<translation id="3829358914761176693">{COUNT,plural, =0{Administrator yangilishlarni oʻrnatish uchun Brave brauzerini qayta ishga tushirishni soʻramoqda}=1{Administrator yangilishlarni oʻrnatish uchun Brave brauzerini qayta ishga tushirishni soʻramoqda Inkognito oynalar qayta ochilmaydi.}other{Administrator yangilishlarni oʻrnatish uchun Brave brauzerini qayta ishga tushirishni soʻramoqda # ta inkognito oyna qayta ochilmaydi.}}</translation>
+<translation id="552349673358711446">{COUNT,plural, =0{Administrator yangilishlarni oʻrnatish uchun Brave brauzerini qayta ishga tushirishni talab qilmoqda}=1{Administrator yangilishlarni oʻrnatish uchun Brave brauzerini qayta ishga tushirishni talab qilmoqda Inkognito oynalar qayta ochilmaydi.}other{Administrator yangilishlarni oʻrnatish uchun Brave brauzerini qayta ishga tushirishni talab qilmoqda # ta inkognito oyna qayta ochilmaydi.}}</translation>
 </translationbundle>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="pl">
+<translation id="658539216370629794">Otwórz link w &amp;prywatnym oknie</translation>
+<translation id="1432267168815937878">Otwórz link w &amp;prywatnym oknie</translation>
+<translation id="6516243500644829484">Nowe &amp;okno prywatne</translation>
+<translation id="7973394300052703468">Nowe &amp;okno prywatne</translation>
+<translation id="6395403722585816044">Pobrane w prywatnym</translation>
+<translation id="203837651858678035">Wyjść z trybu prywatnego i tak?</translation>
+<translation id="7376221878517288144">Wyjść z trybu prywatnego i tak?</translation>
+<translation id="871606814707918245">Większość użytkowników blokuje powiadomienia z tej strony</translation>
+<translation id="5053701565089446556">Prywatne rozszerzenie: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Prywatna aplikacja: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Karta prywatna: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Prywatna ramka podrzędna: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portal prywatny: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Web Store</translation>
+<translation id="8261378640211443080">To rozszerzenie nie jest oferowane w <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> i mogło zostać dodane bez Twojej wiedzy.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Prywatny)</translation>
+<translation id="4369414322596874629">Możesz przeglądać prywatnie, używając prywatnego okna</translation>
+<translation id="3772947852642271642">Korzystaj z sieci bez zapisywania swojej historii przeglądania dzięki prywatnemu oknu</translation>
+<translation id="3871738366246972820">Korzystasz ze wspólnego komputera? Otwórz okno prywatne.</translation>
+<translation id="5808622652939943719">Aby przeglądać prywatnie, kliknij ikonę menu w postaci kropek i otwórz okno prywatne</translation>
+<translation id="9079153198295609735">Automatycznie przesyłaj do Brave Software statystyki użytkowania i raporty o awariach</translation>
+<translation id="8839398440242019256">Nie z Web Store.</translation>
+<translation id="6945695820322143954">To rozszerzenie narusza politykę Web Store.</translation>
+<translation id="1676595396635191120">Nowe okno prywatne</translation>
+<translation id="5094764494104066239">Zawsze pokazuj pasek zakładek</translation>
+<translation id="4471385409549756595">Nowe okno prywatne</translation>
+<translation id="4540437243849625078">Ta witryna chce udostępnić dane aplikacji poza trybem prywatnym.</translation>
+<translation id="1227836882233136433">Opuścić tryb prywatny?</translation>
+<translation id="7618452966706304788">Czy chcesz używać Touch ID z <ph name="APP_NAME"/> w trybie prywatnym?</translation>
+<translation id="3098826269712097986">Po wyjściu z trybu prywatnego dane logowania będą przechowywane w Brave. Dzięki temu będzie można później ponownie używać Touch ID na tej stronie internetowej.</translation>
+<translation id="5186185447130319458">Prywatna</translation>
+<translation id="2579188629646253712">Wyjdź z prywatnego</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Otwórz wszystkie w oknie &amp;prywatnym}=1{Otwórz w oknie &amp;prywatnym}few{Otwórz wszystkie (#) w oknie &amp;prywatnym}many{Otwórz wszystkie (#) w oknie &amp;prywatnym}other{Otwórz wszystkie (#) w oknie &amp;prywatnym}}</translation>
+<translation id="1985165269306590797">Otwórz w oknie &amp;prywatnym</translation>
+<translation id="642436385689435488">Otwórz wszystkie w oknie prywatnym</translation>
+<translation id="5463021359602611602">Otwórz w oknie prywatnym</translation>
+<translation id="5070556616376997776">Korzystasz z trybu prywatnego</translation>
+<translation id="5832813618714645810">Profile</translation>
+<translation id="6921634551681321094">Dodaj osobę</translation>
+<translation id="6315812488257290136">Profile</translation>
+<translation id="5840822070878669614">Otwórz Web Store</translation>
+<translation id="8648684608605749476">Blokuj pliki cookie innych firm w trybie prywatnym</translation>
+<translation id="1281501490173223206">Tylko w bieżącej sesji prywatnej</translation>
+<translation id="9063160602596686558">Automatycznie przesyła do Brave Software statystyki użytkowania i raporty o awariach</translation>
+<translation id="3860292630623580294">(prywatne)</translation>
+<translation id="4854477725773269949">Zezwalaj w trybie prywatnym</translation>
+<translation id="6436164536244065364">Zobacz w Web Store</translation>
+<translation id="38046578254905003">Znajdź rozszerzenia i motywy w <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Nowa karta prywatna</translation>
+<translation id="6610147964972079463">Zamknij karty prywatne</translation>
+</translationbundle>

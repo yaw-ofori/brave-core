@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">আনইনস্টল করা বাকি আছে</translation>
 <translation id="175772926354468439">থিম সক্ষম করুন</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Brave ওয়েব স্টোরে দেখুন</translation>
 <translation id="176193854664720708">পাওয়ার বোতামে আঙ্গুলের ছাপের সেন্সরটি আছে। যেকোনও আঙ্গুল দিয়ে আলতো করে এটিকে টাচ করুন।</translation>
 <translation id="1763046204212875858">অ্যাপ্লিকেশন শর্টকাটগুলি তৈরি করুন</translation>
 <translation id="1763108912552529023">অন্বেষণ করা চালিয়ে যান</translation>
@@ -1325,7 +1324,6 @@
 <translation id="2660779039299703961">ইভেন্ট</translation>
 <translation id="4052689580269971502">প্রিন্টারটি সংযুক্ত করা যায়নি। প্রিন্টারটি চালু আছে কিনা এবং ওয়াই-ফাই অথবা USB এর মাধ্যমে Bravebook-এর সাথে সংযুক্ত আছে কিনা দেখে নিন।</translation>
 <translation id="2661714428027871023">লাইট মোড ব্যবহার করে দ্রুত ব্রাউজ করুন এবং কম ডেটা ব্যবহার করুন। আরও জানতে ক্লিক করুন।</translation>
-<translation id="8808478386290700967">Brave ওয়েব স্টোর</translation>
 <translation id="2663302507110284145">ভাষা</translation>
 <translation id="2665394472441560184">একটি নতুন শব্দ জুড়ুন</translation>
 <translation id="2665647207431876759">মেয়াদ শেষ হয়েছে</translation>
@@ -2210,7 +2208,6 @@
 <translation id="3771294271822695279">ভিডিও ফাইল</translation>
 <translation id="3775432569830822555">SSL সার্ভার সার্টিফিকেট</translation>
 <translation id="3775705724665058594">আপনার ডিভাইসে পাঠান</translation>
-<translation id="6945695820322143954">এই এক্সটেনশনটি 'Brave ওয়েব স্টোরে'র নীতি লঙ্ঘন করে৷</translation>
 <translation id="3777483481409781352">সেলুলার ডিভাইস অ্যাক্টিভেট করা যায়নি</translation>
 <translation id="3777806571986431400">এক্সটেনশন চালু করা হয়েছে</translation>
 <translation id="3778152852029592020">ডাউনলোড বাতিল হয়েছে৷</translation>
@@ -3024,7 +3021,6 @@
 <translation id="48704129375571883">অতিরিক্ত বৈশিষ্ট্যগুলি যোগ করুন</translation>
 <translation id="4870758487381879312">কনফিগারেশনের তথ্য পেতে অ্যাডমিনের দেওয়া পাসওয়ার্ড লিখুন</translation>
 <translation id="4870903493621965035">কোনো ডিভাইস যুক্ত করা নেই</translation>
-<translation id="8839398440242019256">Brave ওয়েব স্টোর থেকে নয়।</translation>
 <translation id="4871322859485617074">পিনে ভুল অক্ষর আছে</translation>
 <translation id="4871370605780490696">বুকমার্ক যোগ করুন</translation>
 <translation id="4871568871368204250">সিঙ্ক করা বন্ধ করুন</translation>
@@ -3621,7 +3617,6 @@
 <translation id="563535393368633106">অ্যাক্সেস করার আগে জিজ্ঞাসা করুন (প্রস্তাবিত)</translation>
 <translation id="5636996382092289526"><ph name="NETWORK_ID"/> ব্যবহার করতে গেলে আপনাকে প্রথমে <ph name="LINK_START"/>নেটওয়ার্কের সাইন-ইন পৃষ্ঠায় যেতে হবে<ph name="LINK_END"/>, যা কয়েক সেকেন্ডের মধ্যে অটোমেটিকভাবে খুলবে৷ যদি এমন না হয়, তাহলে নেটওয়ার্কটি ব্যবহার করা যেতে পারে৷</translation>
 <translation id="5637476008227280525">মোবাইল ডেটা সক্ষম করুন</translation>
-<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Brave ওয়েব স্টোর<ph name="END_LINK"/>-এ এক্সটেনশন এবং থিম খুঁজুন</translation>
 <translation id="5639549361331209298">এই পৃষ্ঠাটি রিলোড করুন, আরও বিকল্প দেখতে ধরে থাকুন</translation>
 <translation id="5640133431808313291">নিরাপত্তা কী ডিভাইস ম্যানেজ করা</translation>
 <translation id="5642508497713047">CRL স্বাক্ষরকারী</translation>
@@ -3793,7 +3788,6 @@
 <translation id="5864754048328252126">চার্জ করার সময়ে ফোন ইনঅ্যাক্টিভ স্ট্যাটাসে রাখা</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> শীঘ্রই পজ করা হবে</translation>
 <translation id="586567932979200359">আপনি <ph name="PRODUCT_NAME"/> থেকে এটির ডিস্ক ছবি চালাচ্ছেন৷ এটিকে আপনার কম্পিউটারে ইনস্টল করা হলে তা ডিস্ক ছবি ছাড়াই এটিকে চালাতে দেয় এবং এটিকে আপ টু ডেট আছে কিনা তা নিশ্চিত করে৷</translation>
-<translation id="9063160602596686558">ব্যবহারের পরিসংখ্যান এবং ক্র্যাশ রিপোর্ট নিজে থেকেই Brave-কে পাঠায়</translation>
 <translation id="5866557323934807206">ভবিষ্যতের ভিজিটগুলির জন্য এই সেটিংস সাফ করুন </translation>
 <translation id="5866840822086176774">খুব জোরালো</translation>
 <translation id="5867841422488265304">ওয়েব ঠিকানা খুঁজুন বা লিখুন</translation>
@@ -4236,7 +4230,6 @@
 <translation id="6431347207794742960">এই কম্পিউটারে সকল ব্যবহারকারীর জন্য <ph name="PRODUCT_NAME"/> স্বয়ংক্রিয় আপডেটগুলো সেটআপ করবে।</translation>
 <translation id="6434309073475700221">বাতিল</translation>
 <translation id="6434325376267409267"><ph name="APP_NAME"/> ইনস্টল করার আগে আপনার ডিভাইস আপডেট করতে হবে।</translation>
-<translation id="6436164536244065364">ওয়েব স্টোর-এ দেখুন</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> - অডিও বাজছে</translation>
 <translation id="6442187272350399447">দুর্দান্ত</translation>
 <translation id="6444070574980481588">তারিখ ও সময় সেট করুন</translation>
@@ -4952,7 +4945,6 @@
 <translation id="7375235221357833624">{0,plural, =1{১ ঘণ্টার মধ্যে ডিভাইস আপডেট করুন}one{# ঘণ্টার মধ্যে ডিভাইস আপডেট করুন}other{# ঘণ্টার মধ্যে ডিভাইস আপডেট করুন}}</translation>
 <translation id="7376553024552204454">মাউস কার্সারটি যখন নড়াচড়া করে তখন একে হাইলাইট করুন</translation>
 <translation id="7377451353532943397">সেন্সর অ্যাক্সেস ব্লক করা চালিয়ে যান</translation>
-<translation id="5840822070878669614">Brave ওয়েব স্টোর খুলুন</translation>
 <translation id="7378812711085314936">ডেটা সংযোগ পান</translation>
 <translation id="7378962964415201590">নতুন ফোন পেয়ার করুন</translation>
 <translation id="7380768571499464492"><ph name="PRINTER_NAME"/> আপডেট করা হয়েছে</translation>
@@ -5174,7 +5166,6 @@
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, <ph name="PAGE_TITLE"/> এ।</translation>
 <translation id="7674416868315480713">ডিঅ্যাক্টিভেট করা সমস্ত পোস্ট Linux-এ ফরওয়ার্ড করা হয়</translation>
 <translation id="1800308196794859773">যেকোনও টেক্সট ক্ষেত্রে ডিকটেশনের অনুমতি দেওয়ার জন্য Brave-কে আপনার ভয়েস পাঠান।</translation>
-<translation id="3098826269712097986">আপনি ছদ্মবেশী মোড থেকে বেরিয়ে আসার পরে সাইন-ইন ডেটা Brave-এ স্টোর হবে। এটি আপনাকে পরে আবার এই ওয়েবসাইটে টাচ আইডি ব্যবহার করতে দেবে।</translation>
 <translation id="7681095912841365527">সাইটটি ব্লুটুথ ব্যবহার করতে পারে</translation>
 <translation id="7683373461016844951">চালিয়ে যেতে 'ঠিক আছে' বোতামে ক্লিক করুন, তারপর আপনার <ph name="DOMAIN"/> ইমেল আইডির জন্য নতুন প্রোফাইল তৈরি করতে 'কাউকে যোগ করুন' বোতামে ক্লিক করুন।</translation>
 <translation id="7684212569183643648">আপনার প্রশাসক দ্বারা ইনস্টল করা হয়েছে</translation>
@@ -5656,7 +5647,6 @@
 <translation id="8259239505248583312">শুরু করা যাক</translation>
 <translation id="8260126382462817229">আবার সাইন ইন করার চেষ্টা করুন</translation>
 <translation id="8260864402787962391">মাউস</translation>
-<translation id="8261378640211443080">এই এক্সটেনশনটি <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>-এ তালিকাভুক্ত নেই এবং হয়ত আপনাকে না জানিয়ে যোগ করা হয়েছে৷</translation>
 <translation id="8261506727792406068">মুছুন</translation>
 <translation id="8263336784344783289">এই গ্রুপের নাম দিন</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/>আপনার মাউস কার্সার অক্ষম করেছে৷</translation>
@@ -6077,7 +6067,6 @@
 <translation id="8805140816472474147">সিঙ্ক করার জন্য সিঙ্ক সেটিংস নিশ্চিত করুন।</translation>
 <translation id="8806680466228877631">ভুলবশত বন্ধ হয়ে যাওয়া ট্যাব <ph name="SHORTCUT"/> প্রেস করলে আবার খুলে যায়</translation>
 <translation id="8807632654848257479">স্থায়ী</translation>
-<translation id="8808478386290700967">ওয়েব স্টোর</translation>
 <translation id="8808686172382650546">বিড়াল</translation>
 <translation id="1510515462062582289">Brave-এ ইনস্টল করা সব এক্সটেনশন আপনি এই পৃষ্ঠাতে দেখতে পাবেন।</translation>
 <translation id="8809147117840417135">হালকা নীলাভ সবুজ</translation>
@@ -6229,7 +6218,6 @@
 <translation id="8983632908660087688"><ph name="ORIGIN"/>-এর কাছে <ph name="FILENAME"/> ফাইল এডিট করার অনুমতি আছে</translation>
 <translation id="8985264973231822211"><ph name="DEVICE_LAST_ACTIVATED_TIME"/> দিন আগে ব্যবহার করা হয়েছে</translation>
 <translation id="8986362086234534611">ভুলে যান</translation>
-<translation id="9079153198295609735">ব্যবহারের পরিসংখ্যান এবং ক্র্যাশ প্রতিবেদনগুলি স্বয়ংক্রিয়ভাবে Brave-এ পাঠান</translation>
 <translation id="8987927404178983737">মাস</translation>
 <translation id="8991520179165052608">সাইটটি আপনার মাইক্রোফোন ব্যবহার করতে পারে</translation>
 <translation id="899384117894244799">বিধিনিষেধযুক্ত ব্যবহারকারীকে সরান</translation>
@@ -6460,4 +6448,54 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">নিরাপদ সংযোগ স্থাপন করা হচ্ছে...</translation>
 <translation id="998747458861718449">স&amp;তর্কভাবে পরীক্ষা করুন</translation>
+<translation id="658539216370629794">&amp;ছদ্মবেশী উইন্ডোতে লিঙ্ক খুলুন</translation>
+<translation id="1432267168815937878">&amp;ছদ্মবেশী উইন্ডোতে লিঙ্ক খুলুন</translation>
+<translation id="6516243500644829484">নতুন &amp;ছদ্মবেশী উইন্ডো</translation>
+<translation id="7973394300052703468">নতুন &amp;ছদ্মবেশী উইন্ডো</translation>
+<translation id="6395403722585816044">ছদ্মবেশী ভাবে ডাউনলোড হয়েছে</translation>
+<translation id="203837651858678035">তাও ছদ্মবেশী মোড থেকে বেরিয়ে আসবেন?</translation>
+<translation id="7376221878517288144">তাও ছদ্মবেশী মোড ছেড়ে বেরিয়ে আসবেন?</translation>
+<translation id="871606814707918245">অধিকাংশ ব্যক্তি এই সাইটের বিজ্ঞপ্তি ব্লক করে দেন</translation>
+<translation id="5053701565089446556">ছদ্মবেশী এক্সটেনশন: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">ছদ্মবেশী অ্যাপ: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">ছদ্মবেশী ট্যাব: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">ছদ্মবেশী সাবফ্রেম: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">ছদ্মবেশী পোর্টাল: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">ওয়েব স্টোর</translation>
+<translation id="8261378640211443080">এই এক্সটেনশনটি <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>-এ তালিকাভুক্ত নেই এবং হয়ত আপনাকে না জানিয়ে যোগ করা হয়েছে৷</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Private)</translation>
+<translation id="4369414322596874629">আপনি একটি ছদ্মবেশী উইন্ডো ব্যবহার করে ছদ্মবেশী ভাবে ব্রাউজ করতে পারবেন</translation>
+<translation id="3772947852642271642">একটি ছদ্মবেশী উইন্ডো দিয়ে আপনার ব্রাউজিংয়ের ইতিহাস সংরক্ষণ না করে ওয়েবটি ব্যবহার করুন</translation>
+<translation id="3871738366246972820">একটি শেয়ার করা কম্পিউটার ব্যবহার করছেন? একটি ছদ্মবেশী উইন্ডো খোলার চেষ্টা করুন।</translation>
+<translation id="5808622652939943719">ছদ্মবেশীভাবে ব্রাউজ করতে, একটি ছদ্মবেশী উইন্ডো খোলার জন্য ডট আইকন মেনুটিতে ক্লিক করুন</translation>
+<translation id="9079153198295609735">ব্যবহারের পরিসংখ্যান এবং ক্র্যাশ প্রতিবেদনগুলি স্বয়ংক্রিয়ভাবে Brave Software-এ পাঠান</translation>
+<translation id="8839398440242019256">ওয়েব স্টোর থেকে নয়।</translation>
+<translation id="6945695820322143954">এই এক্সটেনশনটি ওয়েব স্টোর নীতি লঙ্ঘন করেছে।</translation>
+<translation id="1676595396635191120">নতুন ছদ্মবেশী উইন্ডো</translation>
+<translation id="5094764494104066239">সবসময় বুকমার্কস বার দেখান</translation>
+<translation id="4471385409549756595">নতুন ছদ্মবেশী উইন্ডো</translation>
+<translation id="4540437243849625078">এই সাইটটি ছদ্মবেশী মোডের বাইরে একটি অ্যাপের সাথে তথ্য শেয়ার করে।</translation>
+<translation id="1227836882233136433">ছদ্মবেশী মোড ছেড়ে বেরিয়ে আসবেন?</translation>
+<translation id="7618452966706304788">আপনি কি ছদ্মবেশী মোডে <ph name="APP_NAME"/> টাচ ID ব্যবহার করতে চান?</translation>
+<translation id="3098826269712097986">আপনি ছদ্মবেশী মোড থেকে বেরোবার পরে সাইন-ইন ডেটা Brave এ সংরক্ষণ করা থাকবে। এটি আপনাকে পরে এই ওয়েবসাইটে টাচ ID ব্যবহার করতে দেবে।</translation>
+<translation id="5186185447130319458">ছদ্মবেশী</translation>
+<translation id="2579188629646253712">ছদ্মবেশী থেকে বেরোন</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{সবগুলি &amp;ছদ্মবেশী উইন্ডোতে খুলুন}=1{&amp;ছদ্মবেশী উইন্ডোতে খুলুন}one{সবগুলি (#টি) &amp;ছদ্মবেশী উইন্ডোতে খুলুন}other{সবগুলি (#টি) &amp;ছদ্মবেশী উইন্ডোতে খুলুন}}</translation>
+<translation id="1985165269306590797">ছদ্মবেশী উইন্ডোতে খুলু&amp;ন</translation>
+<translation id="642436385689435488">সবগুলি ছদ্মবেশী উইন্ডোতে খুলুন</translation>
+<translation id="5463021359602611602">ছদ্মবেশী উইন্ডোতে খুলুন</translation>
+<translation id="5070556616376997776">আপনি ছদ্মবেশী মোডে আছেন</translation>
+<translation id="5832813618714645810">প্রোফাইলসমূহ</translation>
+<translation id="6921634551681321094">একজন ব্যক্তিকে যোগ করুন</translation>
+<translation id="6315812488257290136">প্রোফাইলসমূহ</translation>
+<translation id="5840822070878669614">Brave ওয়েব স্টোর খুলুন</translation>
+<translation id="8648684608605749476">ছদ্মবেশী মোডে থার্ড-পার্টি কুকি ব্লক করুন</translation>
+<translation id="1281501490173223206">শুধুমাত্র বর্তমান ছদ্মবেশী সেশন</translation>
+<translation id="9063160602596686558">ব্যবহারের পরিসংখ্যান এবং ক্র্যাশ রিপোর্ট নিজে থেকেই Brave Software-কে পাঠায়</translation>
+<translation id="3860292630623580294">(ছদ্মবেশী)</translation>
+<translation id="4854477725773269949">ছদ্মবেশে মঞ্জুর করুন</translation>
+<translation id="6436164536244065364">ওয়েব স্টোর-এ দেখুন</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Brave ওয়েব স্টোর<ph name="END_LINK"/>-এ এক্সটেনশন এবং থিম খুঁজুন</translation>
+<translation id="6336451774241870485">নতুন ব্যক্তিগত ট্যাব</translation>
+<translation id="6610147964972079463">ব্যক্তিগত ট্যাবগুলি বন্ধ করুন</translation>
 </translationbundle>

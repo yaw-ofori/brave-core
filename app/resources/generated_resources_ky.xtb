@@ -1326,7 +1326,6 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="2660779039299703961">Иш-чара</translation>
 <translation id="4052689580269971502">Принтерге туташпай жатат. Принтер күйгүзүлүп, Bravebook'уңузга Wi-Fi же USB кабель аркылуу туташканын текшериңиз.</translation>
 <translation id="2661714428027871023">Жөнөкөй режимде тезирээк серептеп, трафикти үнөмдөңүз. Толук маалымат алуу үчүн, чыкылдатыңыз.</translation>
-<translation id="8808478386290700967">Brave Желе дүкөнү</translation>
 <translation id="2663302507110284145">Тил</translation>
 <translation id="2665394472441560184">Жаңы сөз кошуу</translation>
 <translation id="2665647207431876759">Мөөнөтү бүткөн</translation>
@@ -2211,7 +2210,6 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="3771294271822695279">Видео файлдар</translation>
 <translation id="3775432569830822555">SSL сервер тастыктамасы</translation>
 <translation id="3775705724665058594">Түзмөктөрүңүзгө жөнөтүңүз</translation>
-<translation id="6945695820322143954">Бул кеңейтүү Brave Web Дүкөн саясатын бузат.</translation>
 <translation id="3777483481409781352">Мобилдик түзмөк жандырылбай калды</translation>
 <translation id="3777806571986431400">Кеңейтүү иштетилди</translation>
 <translation id="3778152852029592020">Жүктөп алуу аракети жокко чыгарылды.</translation>
@@ -3026,7 +3024,6 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="48704129375571883">Кошумча элементтерди кошуу</translation>
 <translation id="4870758487381879312">Конфигурация тууралуу маалыматты алуу үчүн администратор берген сырсөздү киргизиңиз</translation>
 <translation id="4870903493621965035">Жупташтырылган түзмөктөр жок</translation>
-<translation id="8839398440242019256">Brave Желе Дүкөнүнөн эмес.</translation>
 <translation id="4871322859485617074">PIN коддо жараксыз символдор бар</translation>
 <translation id="4871370605780490696">Кыстарма кошуу</translation>
 <translation id="4871568871368204250">Шайкештирүүнү өчүрүү</translation>
@@ -3794,7 +3791,6 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="5864754048328252126">Кубатталып жатканда эч кандай аракет аткарылбасын</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> жакында тындырылат</translation>
 <translation id="586567932979200359"><ph name="PRODUCT_NAME"/> диск элесинен иштеп жатат. Аны компьютериңизге орнотуп алсаңыз, ал диск элесинен тышкары иштеп, эч качан эскирбейт.</translation>
-<translation id="9063160602596686558">Колдонуу статистикасын жана каталар жөнүндө кабарларды Brave'га автоматтык түрдө жөнөтүп турат</translation>
 <translation id="5866557323934807206">Бул жөндөөлөрдү кийинки кирүү аракеттери үчүн тазалап салуу</translation>
 <translation id="5866840822086176774">Абдан күчтүү</translation>
 <translation id="5867841422488265304">Веб даректи издеңиз же териңиз</translation>
@@ -5174,7 +5170,6 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, <ph name="PAGE_TITLE"/> баракчасында.</translation>
 <translation id="7674416868315480713">Linux'тан оюкчаларды багыттоону токтотуу</translation>
 <translation id="1800308196794859773">Текстти каалаган талаага үн менен жазуу үчүн үнүңүздүн үлгүсүн Brave'га жөнөтөсүз.</translation>
-<translation id="3098826269712097986">Жашыруун режимден чыккандан кийин, кирүү дайындары Brave'до сакталат. Бул Touch ID'ни ушул вебсайтта кийин кайра колдонууга мүмкүнчүлүк берет.</translation>
 <translation id="7681095912841365527">Сайт bluetooth'ду колдоно алат</translation>
 <translation id="7683373461016844951">Улантуу үчүн "Макул" дегенге тийиңиз да, "Адам кошуу" баскычын чыкылдатып, <ph name="DOMAIN"/> электрондук почта дарегиңиз үчүн жаңы профиль түзүп алыңыз.</translation>
 <translation id="7684212569183643648">Администраторуңуз орноткон</translation>
@@ -5657,7 +5652,6 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="8259239505248583312">Кеттик!</translation>
 <translation id="8260126382462817229">Кайра кирип көрүңүз.</translation>
 <translation id="8260864402787962391">Чычкан</translation>
-<translation id="8261378640211443080">Бул кеңейтүү <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ичиндеги тизмеде камтылган эмес жана сизге эскертилбестен кошулуп калган окшойт.</translation>
 <translation id="8261506727792406068">Жок кылуу</translation>
 <translation id="8263336784344783289">Бул топко ат коюңуз</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> чычкан курсорун өчүрдү.</translation>
@@ -6078,7 +6072,6 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="8805140816472474147">Шайкештештирип баштоо үчүн шайкештештирүү жөндөөлөрүн ырастаңыз.</translation>
 <translation id="8806680466228877631">Кокустан жабылып калган өтмөктөрдү ачуу үчүн <ph name="SHORTCUT"/> баскычтарын басыңыз</translation>
 <translation id="8807632654848257479">Туруктуу</translation>
-<translation id="8808478386290700967">Желе дүкөнү</translation>
 <translation id="8808686172382650546">Мышык</translation>
 <translation id="1510515462062582289">Бул баракта Brave'до орнотулган кеңейтүүлөрдүн баарын көрөсүз.</translation>
 <translation id="8809147117840417135">Мала көгүш жашыл</translation>
@@ -6230,7 +6223,6 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="8983632908660087688"><ph name="ORIGIN"/> <ph name="FILENAME"/> түзөтө алат</translation>
 <translation id="8985264973231822211">Акыркы аракеттер: <ph name="DEVICE_LAST_ACTIVATED_TIME"/> күн мурун</translation>
 <translation id="8986362086234534611">Унутуу</translation>
-<translation id="9079153198295609735">Brave'га автоматтык түрдө колдонуу статистикасы жана каталар жөнүндө кабар берүү.</translation>
 <translation id="8987927404178983737">Ай</translation>
 <translation id="8991520179165052608">Сайт микрофонуңузду колдоно алат</translation>
 <translation id="899384117894244799">Чектелген колдонуучулардын тизмесинен алып салуу</translation>
@@ -6461,4 +6453,40 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Коопсуз туташуу орнотулууда…</translation>
 <translation id="998747458861718449">И&amp;зилдөө</translation>
+<translation id="658539216370629794">Шилтемени жашы&amp;руун терезеде ачуу</translation>
+<translation id="1432267168815937878">Шилтемени жашыр&amp;уун терезеде ачуу</translation>
+<translation id="6516243500644829484">Жаңы &amp;жашыруун терезе</translation>
+<translation id="7973394300052703468">Жаңы &amp;Жашыруун терезе</translation>
+<translation id="6395403722585816044">Жашыруун режимде жүктөлүп алынды</translation>
+<translation id="203837651858678035">Жашыруун режимден баары бир чыгасызбы?</translation>
+<translation id="7376221878517288144">Жашыруун режимден баары бир чыгасызбы?</translation>
+<translation id="871606814707918245">Көпчүлүк адамдар сайттарга билдирмелерди жөнөтүүгө тыюу салышат</translation>
+<translation id="5053701565089446556">Жашыруун кеңейтүү: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Жашыруун колдонмо: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Жашыруун өтмөк: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Жашыруун көмөкчү алкак: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Жашыруун портал: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Brave Желе дүкөнү</translation>
+<translation id="8261378640211443080">Бул кеңейтүү <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ичиндеги тизмеде камтылган эмес жана сизге эскертилбестен кошулуп калган окшойт.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Жашыруун)</translation>
+<translation id="4369414322596874629">Жашыруун терезени ачып алып, купуя серептей аласыз</translation>
+<translation id="3772947852642271642">Жашыруун терезеде иштесеңиз, серептөө таржымалыңыз Интернетте сакталбайт</translation>
+<translation id="3871738366246972820">Жалпы колдонулуучу компьютерде иштеп жатасызбы? Жашыруун терезени ачып алыңыз.</translation>
+<translation id="5808622652939943719">Купуя серептөө үчүн чекиттердин сүрөтчөсү тартылган менюну чыкылдатып, жашыруун терезени ачыңыз</translation>
+<translation id="9079153198295609735">Brave Software'га автоматтык түрдө колдонуу статистикасы жана каталар жөнүндө кабар берүү.</translation>
+<translation id="8839398440242019256">Brave Желе Дүкөнүнөн эмес.</translation>
+<translation id="6945695820322143954">Бул кеңейтүү Brave Web Дүкөн саясатын бузат.</translation>
+<translation id="1676595396635191120">Жаңы жашыруун терезе</translation>
+<translation id="5094764494104066239">Кыстармалар тилкеси ар дайым көрсөтүлсүн</translation>
+<translation id="4471385409549756595">Жаңы жашыруун терезе</translation>
+<translation id="4540437243849625078">Бул сайт жашыруун режиминен сырткары колдонмо менен маалыматты бөлүшкөнү турат.</translation>
+<translation id="1227836882233136433">Жашыруун режимден чыгасызбы?</translation>
+<translation id="7618452966706304788">Touch ID'ни Жашыруун режимде <ph name="APP_NAME"/> менен колдонгуңуз келеби?</translation>
+<translation id="3098826269712097986">Жашыруун режимден чыккандан кийин, кирүү дайындары Brave'до сакталат. Бул Touch ID'ни ушул вебсайтта кийин кайра колдонууга мүмкүнчүлүк берет.</translation>
+<translation id="5186185447130319458">Жашыруун</translation>
+<translation id="2579188629646253712">Жашыруун режимден чыгуу</translation>
+<translation id="8648684608605749476">Жашыруун режимде үчүнчү тараптын cookie файлдарын бөгөттөө</translation>
+<translation id="9063160602596686558">Колдонуу статистикасын жана каталар жөнүндө кабарларды Brave Software'га автоматтык түрдө жөнөтүп турат</translation>
+<translation id="6336451774241870485">Жаңы жашыруун өтмөк</translation>
+<translation id="6610147964972079463">Жашыруун кыстармаларды жабуу</translation>
 </translationbundle>

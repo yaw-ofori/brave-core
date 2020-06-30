@@ -605,7 +605,6 @@
 <translation id="1757301747492736405">અનઇન્સ્ટૉલ કરવું બાકી</translation>
 <translation id="175772926354468439">થીમ ચાલુ કરો</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Brave વેબ સ્ટોરમાં જુઓ</translation>
 <translation id="176193854664720708">ફિંગરપ્રિન્ટ સેન્સર એ પાવર બટનમાં ઉપલબ્ધ છે. તેને કોઈપણ આંગળીથી હળવેથી સ્પર્શ કરો.</translation>
 <translation id="1763046204212875858">ઍપ્લિકેશન શૉર્ટકટ્સ બનાવો</translation>
 <translation id="1763108912552529023">અન્વેષણ કરતાં રહો</translation>
@@ -1322,7 +1321,6 @@
 <translation id="2660779039299703961">ઇવેન્ટ</translation>
 <translation id="4052689580269971502">પ્રિન્ટર સાથે કનેક્ટ કરી શકાતું નથી. તપાસો કે પ્રિન્ટર ચાલુ કરેલ છે અને વાઇ-ફાઇ અથવા USB દ્વારા તમારી Bravebook સાથે કનેક્ટ કરેલ છે.</translation>
 <translation id="2661714428027871023">લાઇટ મોડ વડે ઝડપથી બ્રાઉઝ કરો અને ઓછા ડેટાનો ઉપયોગ કરો. વધુ જાણવા માટે ક્લિક કરો.</translation>
-<translation id="8808478386290700967">Brave વેબ બજાર</translation>
 <translation id="2663302507110284145">ભાષા</translation>
 <translation id="2665394472441560184">એક નવો શબ્દ ઉમેરો</translation>
 <translation id="2665647207431876759">સમય સમાપ્ત થયો</translation>
@@ -2207,7 +2205,6 @@
 <translation id="3771294271822695279">વીડિયો ફાઇલો</translation>
 <translation id="3775432569830822555">SSL સર્વર પ્રમાણપત્ર</translation>
 <translation id="3775705724665058594">તમારા ડિવાઇસ પર મોકલો</translation>
-<translation id="6945695820322143954">આ એક્સટેન્શન Brave વેબ દુકાન નીતિનું ઉલ્લંઘન કરે છે.</translation>
 <translation id="3777483481409781352">સેલ્યુલર ડિવાઇસને સક્રિય કરી શક્યાં નથી</translation>
 <translation id="3777806571986431400">એક્સ્ટેન્શન સક્ષમ કર્યું</translation>
 <translation id="3778152852029592020">ડાઉનલોડ રદ થયું હતું.</translation>
@@ -3022,7 +3019,6 @@
 <translation id="48704129375571883">વધારાની સુવિધાઓ ઉમેરો</translation>
 <translation id="4870758487381879312">ગોઠવણીની માહિતી મેળવવા માટે, વ્યવસ્થાપક દ્વારા અપાયેલો પાસવર્ડ દાખલ કરો</translation>
 <translation id="4870903493621965035">કોઈ જોડી કરેલા ઉપકરણો નથી</translation>
-<translation id="8839398440242019256">Brave વેબ દુકાનમાંથી નહીં.</translation>
 <translation id="4871322859485617074">પિનમાં અમાન્ય અક્ષરો છે</translation>
 <translation id="4871370605780490696">બુકમાર્ક ઉમેરો</translation>
 <translation id="4871568871368204250">સિંક બંધ કરો</translation>
@@ -3619,7 +3615,6 @@
 <translation id="563535393368633106">ઍક્સેસ કરતાં પહેલાં પૂછો (ભલામણ કરેલ)</translation>
 <translation id="5636996382092289526"><ph name="NETWORK_ID"/> નો ઉપયોગ કરવા માટે તમારે પહેલા <ph name="LINK_START"/>નેટવર્કના સાઇન-ઇન પૃષ્ઠની મુલાકાત લેવી<ph name="LINK_END"/> જરૂરી છે, જે થોડીવારમાં આપમેળે ખુલશે. જો આવું ન થાય, તો નેટવર્કનો ઉપયોગ કરી શકાતો નથી.</translation>
 <translation id="5637476008227280525">મોબાઇલ ડેટા ચાલુ</translation>
-<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Brave વેબ દુકાન<ph name="END_LINK"/>માં એક્સ્ટેંશન અને થીમ શોધો.</translation>
 <translation id="5639549361331209298">આ પૃષ્ઠને ફરીથી લોડ કરો, વધુ વિકલ્પો જોવા માટે હોલ્ડ કરો</translation>
 <translation id="5640133431808313291">સુરક્ષા કોડને મેનેજ કરો</translation>
 <translation id="5642508497713047">CRL હસ્તાક્ષરકર્તા</translation>
@@ -3791,7 +3786,6 @@
 <translation id="5864754048328252126">ચાર્જિંગ દરમ્યાનની નિષ્ક્રિય ક્રિયા</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/>ને ટૂંક સમયમાં થોભાવવામાં આવશે</translation>
 <translation id="586567932979200359">તમે <ph name="PRODUCT_NAME"/> ને તેની ડિસ્ક છબીથી ચલાવી રહ્યા છો. તેને તમારા કમ્પ્યુટર પર ઇન્સ્ટોલ કરવાથી તમે તેને ડિસ્ક છબી વગર ચલાવી શકો છો, અને તે અપ-ટુ-ડેટ રાખવામાં આવશે તેની ખાતરી થાય છે.</translation>
-<translation id="9063160602596686558">Braveને વપરાશના આંકડા અને ક્રૅશ રિપોર્ટ ઑટોમૅટિક રીતે મોકલે છે</translation>
 <translation id="5866557323934807206">ભાવિ મુલાકાતો માટે આ સેટિંગ્સને સાફ કરો</translation>
 <translation id="5866840822086176774">ખૂબ સશક્ત</translation>
 <translation id="5867841422488265304">વેબ ઍડ્રેસ શોધો અથવા લખો</translation>
@@ -4234,7 +4228,6 @@ USB ડિવાઇસ</translation>
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> આ કમ્પ્યૂટરના બધા વપરાશકર્તા માટે સ્વચાલિત અપડેટ્સ સેટ કરશે.</translation>
 <translation id="6434309073475700221">કાઢી નાખો</translation>
 <translation id="6434325376267409267">તમે <ph name="APP_NAME"/>નો ઉપયોગ કરો તે પહેલાં તમારા ડિવાઇસને અપડેટ કરવાની જરૂર છે.</translation>
-<translation id="6436164536244065364">વેબ સ્ટોરમાં જુઓ</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> - ઑડિઓ ચલાવવું</translation>
 <translation id="6442187272350399447">અદ્ભુત</translation>
 <translation id="6444070574980481588">તારીખ અને સમય સેટ કરો</translation>
@@ -4950,7 +4943,6 @@ USB ડિવાઇસ</translation>
 <translation id="7375235221357833624">{0,plural, =1{એક કલાકની અંદર ડિવાઇસ અપડેટ કરો}one{# કલાકની અંદર ડિવાઇસ અપડેટ કરો}other{# કલાકની અંદર ડિવાઇસ અપડેટ કરો}}</translation>
 <translation id="7376553024552204454">માઉસ કર્સર જ્યારે ગતિમાન હોય ત્યારે તેને હાઇલાઇટ કરો</translation>
 <translation id="7377451353532943397">સેન્સર ઍક્સેસ બ્લૉક કરવાનું ચાલુ રાખો</translation>
-<translation id="5840822070878669614">Brave વેબ દુકાન ખોલો</translation>
 <translation id="7378812711085314936">ડેટા કનેક્શન મેળવો</translation>
 <translation id="7378962964415201590">નવા ફોન સાથે જોડાણ કરો</translation>
 <translation id="7380768571499464492"><ph name="PRINTER_NAME"/> અપડેટ થયું</translation>
@@ -5172,7 +5164,6 @@ USB ડિવાઇસ</translation>
 <translation id="7672520070349703697"><ph name="PAGE_TITLE"/>માં <ph name="HUNG_IFRAME_URL"/>.</translation>
 <translation id="7674416868315480713">Linuxમાં ફૉરવર્ડ કરવામાં આવી રહેતા બધા પોર્ટ નિષ્ક્રિય કરો</translation>
 <translation id="1800308196794859773">કોઈપણ ટેક્સ્ટ ફીલ્ડમાં શ્રુતલેખનને મંજૂરી આપવા માટે Braveને તમારો અવાજ મોકલો.</translation>
-<translation id="3098826269712097986">તમે 'છૂપો મોડ'થી બહાર નીકળો તે પછી સાઇન-ઇન ડેટાને Braveમાં સ્ટોર કરવામાં આવશે. આ રીતે તમે આ વેબસાઇટ સાથે થોડીવાર પછી ફરી સ્પર્શ IDનો ઉપયોગ કરી શકશો.</translation>
 <translation id="7681095912841365527">સાઇટ બ્લૂટૂથનો ઉપયોગ કરી શકે</translation>
 <translation id="7683373461016844951">ચાલુ રાખવા માટે, ઓકે ક્લિક કરો, પછી તમારા <ph name="DOMAIN"/> ઇમેઇલ ઍડ્રેસ માટે નવી પ્રોફાઇલ બનાવવા માટે વ્યક્તિને ઉમેરો પર ક્લિક કરો.</translation>
 <translation id="7684212569183643648">તમારા વ્યવસ્થાપક દ્વારા ઇન્સ્ટોલ કરાયું</translation>
@@ -5650,7 +5641,6 @@ USB ડિવાઇસ</translation>
 <translation id="8259239505248583312">ચાલો જઈએ</translation>
 <translation id="8260126382462817229">ફરીથી સાઇન ઇન કરવાનો પ્રયાસ કરો</translation>
 <translation id="8260864402787962391">માઉસ</translation>
-<translation id="8261378640211443080">આ એક્સટેન્શન <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> માં સૂચિબદ્ધ નથી અને તમારી જાણ વિના ઉમેરવામાં આવ્યું હોઈ શકે છે.</translation>
 <translation id="8261506727792406068">ડિલીટ કરો</translation>
 <translation id="8263336784344783289">આ ગ્રૂપને નામ આપો</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> એ તમારા માઉસ કર્સરને અક્ષમ કર્યું છે.</translation>
@@ -6071,7 +6061,6 @@ USB ડિવાઇસ</translation>
 <translation id="8805140816472474147">સમન્વયન શરૂ કરવા સમન્વયન સેટિંગ્સની પુષ્ટિ કરો.</translation>
 <translation id="8806680466228877631">આકસ્મિક રીતે બંધ થયેલા ટૅબને <ph name="SHORTCUT"/> ફરી ખોલી શકે છે</translation>
 <translation id="8807632654848257479">ઘોડાર</translation>
-<translation id="8808478386290700967">વેબ બજાર</translation>
 <translation id="8808686172382650546">બિલાડી</translation>
 <translation id="1510515462062582289">આ પેજ પર તમે Braveમાં ઇન્સ્ટૉલ થયેલા બધા એક્સ્ટેંશન જોઈ શકો છો.</translation>
 <translation id="8809147117840417135">આછો મોરપીંછ</translation>
@@ -6223,7 +6212,6 @@ USB ડિવાઇસ</translation>
 <translation id="8983632908660087688"><ph name="ORIGIN"/> <ph name="FILENAME"/>માં ફેરફાર કરી શકે છે</translation>
 <translation id="8985264973231822211"><ph name="DEVICE_LAST_ACTIVATED_TIME"/> દિવસ પહેલાં સક્રિય</translation>
 <translation id="8986362086234534611">ભૂલી ગયા</translation>
-<translation id="9079153198295609735">ઉપયોગિતા આંકડાઓ અને ક્રૅશ રિપોર્ટ Braveને ઑટોમૅટિક રીતે મોકલો</translation>
 <translation id="8987927404178983737">મહિનો</translation>
 <translation id="8991520179165052608">સાઇટ તમારા માઇક્રોફોનનો ઉપયોગ કરી શકે છે</translation>
 <translation id="899384117894244799">પ્રતિબંધિત વપરાશકર્તાને કાઢી નાખો</translation>
@@ -6454,4 +6442,54 @@ USB ડિવાઇસ</translation>
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">સુરક્ષિત કનેક્શન સ્થાપિત કરી રહ્યું છે...</translation>
 <translation id="998747458861718449">ત&amp;પાસ કરો</translation>
+<translation id="658539216370629794">લિંકને &amp;ખાનગી વિંડોમાં ખોલો</translation>
+<translation id="1432267168815937878">લિંકને &amp;ખાનગી વિંડોમાં ખોલો</translation>
+<translation id="6516243500644829484">નવી &amp;ખાનગી વિંડો</translation>
+<translation id="7973394300052703468">નવી &amp;ખાનગી વિંડો</translation>
+<translation id="6395403722585816044">ખાનગીમાં ડાઉનલોડ થયું</translation>
+<translation id="203837651858678035">કોઈપણ રીતે ખાનગી મોડથી બહાર નીકળીએ?</translation>
+<translation id="7376221878517288144">કોઈપણ રીતે ખાનગી મોડ છોડીએ?</translation>
+<translation id="871606814707918245">મોટાભાગના લોકો આ સાઇટના બધા નોટિફિકેશનને બ્લૉક કરે છે</translation>
+<translation id="5053701565089446556">ખાનગી એક્સ્ટેન્શન: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">ખાનગી એપ્લિકેશન: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">ખાનગી ટૅબ: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">ખાનગી સબફ્રેમ: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">છૂપું પોર્ટલ: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">વેબ સ્ટોર</translation>
+<translation id="8261378640211443080">આ એક્સટેન્શન <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> માં સૂચિબદ્ધ નથી અને તમારી જાણ વિના ઉમેરવામાં આવ્યું હોઈ શકે છે.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ખાનગી)</translation>
+<translation id="4369414322596874629">તમે ખાનગી વિંડોનો ઉપયોગ કરીને ખાનગી રીતે બ્રાઉઝ કરી શકો છો</translation>
+<translation id="3772947852642271642">ખાનગી વિંડો વડે તમારા બ્રાઉઝિંગ ઇતિહાસને સાચવ્યા વિના વેબનો ઉપયોગ કરો</translation>
+<translation id="3871738366246972820">શેર કરેલ કોમ્પ્યુટરનો ઉપયોગ કરી રહ્યાં છો? એક ખાનગી વિંડો ખોલવાનો પ્રયાસ કરો.</translation>
+<translation id="5808622652939943719">ખાનગી રીતે બ્રાઉઝ કરવા માટે, ખાનગી વિંડો ખોલવા માટે ટપકાનાં આઇકન મેનૂને ક્લિક કરો</translation>
+<translation id="9079153198295609735">ઉપયોગિતા આંકડાઓ અને ક્રૅશ રિપોર્ટ Brave Softwareને ઑટોમૅટિક રીતે મોકલો</translation>
+<translation id="8839398440242019256">વેબ સ્ટોરમાંથી નહીં.</translation>
+<translation id="6945695820322143954">આ એક્સ્ટેન્શન વેબ સ્ટોર નીતિનું ઉલ્લંઘન કરે છે.</translation>
+<translation id="1676595396635191120">નવી ખાનગી વિંડો</translation>
+<translation id="5094764494104066239">બુકમાર્ક્સ બાર હંમેશા બતાવો</translation>
+<translation id="4471385409549756595">નવી ખાનગી વિંડો</translation>
+<translation id="4540437243849625078">આ સાઇટ ખાનગી મોડની બહારની એક એપ્લિકેશન સાથે માહિતી શેર કરવામાં છે.</translation>
+<translation id="1227836882233136433">ખાનગી મોડ છોડીએ?</translation>
+<translation id="7618452966706304788">શું તમે ખાનગી મોડમાં <ph name="APP_NAME"/> સાથે ટચ ID નો ઉપયોગ કરવા માંગો છો?</translation>
+<translation id="3098826269712097986">તમે ખાનગી મોડથી બહાર નીકળો તે પછી સાઇન-ઇન ડેટાને Brave માં સંગ્રહિત કરવામાં આવશે. આનાથી તમે પછી ફરીથી આ વેબસાઇટ સાથે ટચ ID નો ઉપયોગ કરશો.</translation>
+<translation id="5186185447130319458">ખાનગી</translation>
+<translation id="2579188629646253712">ખાનગીમાંથી બહાર નીકળો</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{તમામ URLને &amp;છુપી વિંડોમાં ખોલો}=1{&amp;છુપી વિંડોમાં ખોલો}one{તમામ (#) URLને &amp;છુપી વિંડોમાં ખોલો}other{તમામ (#) URLને &amp;છુપી વિંડોમાં ખોલો}}</translation>
+<translation id="1985165269306590797">&amp;છુપી વિંડોમાં ખોલો</translation>
+<translation id="642436385689435488">બધુ છુપી વિંડોમાં ખોલો</translation>
+<translation id="5463021359602611602">છુપી વિંડોમાં ખોલો</translation>
+<translation id="5070556616376997776">તમે છૂપા મોડમાં છો</translation>
+<translation id="5832813618714645810">પ્રોફાઇલો</translation>
+<translation id="6921634551681321094">વ્યક્તિ ઉમેરો</translation>
+<translation id="6315812488257290136">પ્રોફાઇલો</translation>
+<translation id="5840822070878669614">Brave વેબ દુકાન ખોલો</translation>
+<translation id="8648684608605749476">ત્રીજા પક્ષની કુકીને છૂપા મોડમાં બ્લૉક કરો</translation>
+<translation id="1281501490173223206">ફક્ત વર્તમાન છૂપું સત્ર</translation>
+<translation id="9063160602596686558">Brave Softwareને વપરાશના આંકડા અને ક્રૅશ રિપોર્ટ ઑટોમૅટિક રીતે મોકલે છે</translation>
+<translation id="3860292630623580294">(છૂપી)</translation>
+<translation id="4854477725773269949">છૂપા મોડમાં મંજૂરી આપો</translation>
+<translation id="6436164536244065364">વેબ દુકાનમાં જુઓ</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Brave વેબ દુકાન<ph name="END_LINK"/>માં એક્સ્ટેંશન અને થીમ શોધો.</translation>
+<translation id="6336451774241870485">નવું ખાનગી ટૅબ</translation>
+<translation id="6610147964972079463">ખાનગી ટૅબ્સ બંધ કરો</translation>
 </translationbundle>

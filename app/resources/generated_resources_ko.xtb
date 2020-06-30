@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">제거 대기 중</translation>
 <translation id="175772926354468439">테마 사용</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Brave 웹 스토어에서 보기</translation>
 <translation id="176193854664720708">지문 센서는 전원 버튼에 있습니다. 손가락으로 가볍게 터치하세요.</translation>
 <translation id="1763046204212875858">애플리케이션 바로가기 만들기</translation>
 <translation id="1763108912552529023">계속 살펴보기</translation>
@@ -1326,7 +1325,6 @@
 <translation id="2660779039299703961">이벤트</translation>
 <translation id="4052689580269971502">프린터에 연결할 수 없습니다. 프린터가 켜져 있으며 Wi-Fi 또는 USB를 통해 Bravebook에 연결되어 있는지 확인하세요.</translation>
 <translation id="2661714428027871023">라이트 모드를 사용하여 더 빠르게 탐색하고 데이터를 절약하세요. 자세한 내용을 확인하려면 클릭하세요.</translation>
-<translation id="8808478386290700967">Brave Web Store</translation>
 <translation id="2663302507110284145">언어</translation>
 <translation id="2665394472441560184">새 단어 추가</translation>
 <translation id="2665647207431876759">만료됨</translation>
@@ -2211,7 +2209,6 @@
 <translation id="3771294271822695279">동영상 파일</translation>
 <translation id="3775432569830822555">SSL 서버 인증서</translation>
 <translation id="3775705724665058594">기기로 전송</translation>
-<translation id="6945695820322143954">이 확장 프로그램은 Brave 웹 스토어 정책을 위반합니다.</translation>
 <translation id="3777483481409781352">모바일 기기를 활성화하지 못함</translation>
 <translation id="3777806571986431400">확장 프로그램을 사용하도록 설정됨</translation>
 <translation id="3778152852029592020">다운로드가 취소되었습니다.</translation>
@@ -3024,7 +3021,6 @@
 <translation id="48704129375571883">추가 기능 추가</translation>
 <translation id="4870758487381879312">구성 정보를 가져오려면 관리자가 제공한 비밀번호를 입력하세요.</translation>
 <translation id="4870903493621965035">페어링된 기기가 없습니다.</translation>
-<translation id="8839398440242019256">Brave 웹 스토어에서 설치되지 않았습니다.</translation>
 <translation id="4871322859485617074">PIN에 잘못된 문자가 포함되었습니다.</translation>
 <translation id="4871370605780490696">북마크 추가</translation>
 <translation id="4871568871368204250">동기화 사용 중지</translation>
@@ -3620,7 +3616,6 @@
 <translation id="563535393368633106">액세스하기 전에 확인(권장)</translation>
 <translation id="5636996382092289526"><ph name="NETWORK_ID"/>을(를) 사용하려면 먼저 몇 초 뒤에 자동으로 열리는 <ph name="LINK_START"/>네트워크 로그인 페이지로 이동<ph name="LINK_END"/>해야 합니다. 네트워크 로그인 페이지가 자동으로 열리지 않으면 네트워크를 사용할 수 없습니다.</translation>
 <translation id="5637476008227280525">모바일 데이터 사용</translation>
-<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Brave 웹 스토어<ph name="END_LINK"/>에서 확장 프로그램과 테마를 찾아보세요</translation>
 <translation id="5639549361331209298">옵션을 더 보려면 이 페이지를 새로고친 다음 누르기</translation>
 <translation id="5640133431808313291">보안 키 관리</translation>
 <translation id="5642508497713047">CRL 서명자</translation>
@@ -3792,7 +3787,6 @@
 <translation id="5864754048328252126">충전 시 유휴 작업</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> 앱이 곧 일시중지됨</translation>
 <translation id="586567932979200359">디스크 이미지에서 <ph name="PRODUCT_NAME"/>을(를) 실행 중입니다. 컴퓨터에 설치하면 디스크 이미지가 없어도 실행이 가능하며 최신 상태로 유지됩니다.</translation>
-<translation id="9063160602596686558">사용 통계 및 비정상 종료 보고서를 Brave로 자동 전송</translation>
 <translation id="5866557323934807206">다음 방문 시 재설정</translation>
 <translation id="5866840822086176774">매우 강함</translation>
 <translation id="5867841422488265304">웹 주소 검색 또는 입력</translation>
@@ -4234,7 +4228,6 @@
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/>에서 이 컴퓨터의 모든 사용자에 대해 자동 업데이트를 설정합니다.</translation>
 <translation id="6434309073475700221">중지</translation>
 <translation id="6434325376267409267"><ph name="APP_NAME"/> 앱을 사용하려면 기기를 업데이트해야 합니다.</translation>
-<translation id="6436164536244065364">웹 스토어에서 보기</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> - 오디오 재생</translation>
 <translation id="6442187272350399447">멋쟁이</translation>
 <translation id="6444070574980481588">날짜 및 시간 설정</translation>
@@ -4950,7 +4943,6 @@
 <translation id="7375235221357833624">{0,plural, =1{1시간 내 기기 업데이트}other{#시간 내 기기 업데이트}}</translation>
 <translation id="7376553024552204454">이동 시 마우스 커서 강조표시</translation>
 <translation id="7377451353532943397">계속해서 센서 액세스 차단</translation>
-<translation id="5840822070878669614">Brave 웹 스토어 열기</translation>
 <translation id="7378812711085314936">데이터 연결 가져오기</translation>
 <translation id="7378962964415201590">새 스마트폰 페어링</translation>
 <translation id="7380768571499464492"><ph name="PRINTER_NAME"/> 업데이트됨</translation>
@@ -5172,7 +5164,6 @@
 <translation id="7672520070349703697"><ph name="PAGE_TITLE"/>에 포함된 <ph name="HUNG_IFRAME_URL"/></translation>
 <translation id="7674416868315480713">Linux에서 전달되는 모든 포트 비활성화</translation>
 <translation id="1800308196794859773">모든 텍스트 입력란에서 음성기록 기능을 지원하기 위해 Brave에 음성이 전송됩니다.</translation>
-<translation id="3098826269712097986">시크릿 모드를 종료하면 Brave에 로그인 데이터가 저장됩니다. 이 데이터를 통해 나중에 이 웹사이트에서 Touch ID를 사용할 수 있습니다.</translation>
 <translation id="7681095912841365527">사이트에서 블루투스를 사용할 수 있습니다.</translation>
 <translation id="7683373461016844951">계속하려면 확인을 클릭한 다음 사용자 추가를 클릭하여 <ph name="DOMAIN"/> 이메일 주소로 새로운 프로필을 만드세요.</translation>
 <translation id="7684212569183643648">관리자가 설치함</translation>
@@ -5656,7 +5647,6 @@
 <translation id="8259239505248583312">시작하기</translation>
 <translation id="8260126382462817229">다시 로그인해 주세요.</translation>
 <translation id="8260864402787962391">마우스</translation>
-<translation id="8261378640211443080">이 확장 프로그램은 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>에 표시되지 않으며 사용자 모르게 추가되었을 수 있습니다.</translation>
 <translation id="8261506727792406068">삭제</translation>
 <translation id="8263336784344783289">그룹 이름 지정</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/>에서 마우스 커서를 사용 중지했습니다.</translation>
@@ -6077,7 +6067,6 @@
 <translation id="8805140816472474147">동기화를 시작하려면 동기화 설정을 확인하세요.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> 키를 눌러 실수로 닫은 탭 다시 열기</translation>
 <translation id="8807632654848257479">안정</translation>
-<translation id="8808478386290700967">웹 스토어</translation>
 <translation id="8808686172382650546">고양이</translation>
 <translation id="1510515462062582289">이 페이지에서 Brave에 설치된 모든 확장 프로그램을 볼 수 있습니다.</translation>
 <translation id="8809147117840417135">연한 청록색</translation>
@@ -6229,7 +6218,6 @@
 <translation id="8983632908660087688"><ph name="ORIGIN"/>에서 <ph name="FILENAME"/>을(를) 수정할 수 있습니다.</translation>
 <translation id="8985264973231822211"><ph name="DEVICE_LAST_ACTIVATED_TIME"/>일 전에 사용</translation>
 <translation id="8986362086234534611">저장 안함</translation>
-<translation id="9079153198295609735">사용 통계 및 비정상 종료 보고서를 Brave에 자동으로 전송합니다.</translation>
 <translation id="8987927404178983737">월</translation>
 <translation id="8991520179165052608">사이트에서 마이크를 사용할 수 있습니다.</translation>
 <translation id="899384117894244799">제한된 사용자 삭제</translation>
@@ -6460,4 +6448,54 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">안전한 연결 설정 중...</translation>
 <translation id="998747458861718449">검사(&amp;N)</translation>
+<translation id="658539216370629794">링크를 &amp;시크릿 창에서 열기</translation>
+<translation id="1432267168815937878">링크를&amp;시크릿 창에서 열기</translation>
+<translation id="6516243500644829484">새 &amp;시크릿 창</translation>
+<translation id="7973394300052703468">새 &amp;시크릿 창</translation>
+<translation id="6395403722585816044">시크릿 모드에서 다운로드됨</translation>
+<translation id="203837651858678035">그래도 시크릿 모드를 종료하시겠습니까?</translation>
+<translation id="7376221878517288144">그래도 시크릿 모드를 종료하시겠어요?</translation>
+<translation id="871606814707918245">대부분의 사용자가 이 사이트의 알림을 차단합니다.</translation>
+<translation id="5053701565089446556">시크릿 확장 기능: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">시크릿 앱: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">시크릿 탭: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">시크릿 서브프레임: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">시크릿 모드 포털: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">온라인 스토어</translation>
+<translation id="8261378640211443080">이 확장 프로그램은 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>에 표시되지 않으며 사용자 모르게 추가되었을 수 있습니다.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (시크릿)</translation>
+<translation id="4369414322596874629">시크릿 창으로 기록을 남기지 않고 브라우징할 수 있습니다.</translation>
+<translation id="3772947852642271642">시크릿 창에서는 브라우징 내역을 저장하지 않고 웹 사용이 가능합니다</translation>
+<translation id="3871738366246972820">공용 컴퓨터를 사용하세요? 시크릿 창을 한 번 열어보세요.</translation>
+<translation id="5808622652939943719">개인 정보가 보호되는 웹 브라우징을 하기 위해서는 점 아이콘 메뉴를 눌러 시크릿 창을 여십시오</translation>
+<translation id="9079153198295609735">사용 통계 및 비정상 종료 보고서를 Brave Software에 자동으로 전송합니다.</translation>
+<translation id="8839398440242019256">출처가 Web Store가 아닙니다.</translation>
+<translation id="6945695820322143954">이 확장 기능은 Web Store 정책을 위반합니다.</translation>
+<translation id="1676595396635191120">새 시크릿 창</translation>
+<translation id="5094764494104066239">북마크바 항상 표시</translation>
+<translation id="4471385409549756595">새 시크릿 창</translation>
+<translation id="4540437243849625078">이 사이트가 시크릿 모드 외부의 앱과 정보를 공유하려고 합니다.</translation>
+<translation id="1227836882233136433">시크릿 모드를 끝내시겠습니까?</translation>
+<translation id="7618452966706304788">시크릿 모드에서 <ph name="APP_NAME"/>에 Touch ID를 사용하시겠습니까?</translation>
+<translation id="3098826269712097986">가입 정보가 시크릿 모드를 종료하고 난 뒤에 Brave에 저장됩니다. 이렇게 하면 나중에 이 웹사이트에 방문하여 Touch ID를 사용할 수 있습니다.</translation>
+<translation id="5186185447130319458">시크릿 모드</translation>
+<translation id="2579188629646253712">시크릿 모드 종료하기</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{시크릿 창에서 모두 열기(I)}=1{시크릿 창에서 열기(I)}other{시크릿 창에서 #개 모두 열기(I)}}</translation>
+<translation id="1985165269306590797">시크릿 창에서 열기(&amp;I)</translation>
+<translation id="642436385689435488">모두 시크릿 창에서 열기</translation>
+<translation id="5463021359602611602">시크릿 창으로 열기</translation>
+<translation id="5070556616376997776">시크릿 모드를 사용 중입니다.</translation>
+<translation id="5832813618714645810">프로필</translation>
+<translation id="6921634551681321094">사용자 추가</translation>
+<translation id="6315812488257290136">프로필</translation>
+<translation id="5840822070878669614">Brave 웹 스토어 열기</translation>
+<translation id="8648684608605749476">시크릿 모드에서 타사 쿠키 차단</translation>
+<translation id="1281501490173223206">현재 시크릿 세션에만</translation>
+<translation id="9063160602596686558">사용 통계 및 비정상 종료 보고서를 Brave Software로 자동 전송</translation>
+<translation id="3860292630623580294">(시크릿 모드)</translation>
+<translation id="4854477725773269949">시크릿 모드에서 허용</translation>
+<translation id="6436164536244065364">웹 스토어에서 보기</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Brave 웹 스토어<ph name="END_LINK"/>에서 확장 프로그램과 테마를 찾아보세요</translation>
+<translation id="6336451774241870485">새 비공개 탭</translation>
+<translation id="6610147964972079463">비공개 탭 닫기</translation>
 </translationbundle>

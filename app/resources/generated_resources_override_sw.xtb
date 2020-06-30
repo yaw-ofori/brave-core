@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sw">
+<translation id="658539216370629794">Fungua kiungo katika &amp;dirisha la faragha</translation>
+<translation id="1432267168815937878">Fungua Kiungo katika &amp;Dirisha la Faragha</translation>
+<translation id="6516243500644829484">Dirisha &amp;mpya la faragha</translation>
+<translation id="7973394300052703468">Dirisha &amp;Mpya la Faragha</translation>
+<translation id="6395403722585816044">Imepakuliwa katika Faragha</translation>
+<translation id="203837651858678035">Ungependa kuondoka katika hali ya faragha hata hivyo?</translation>
+<translation id="7376221878517288144">Ungependa kufunga hali ya faragha hata hivyo?</translation>
+<translation id="871606814707918245">Watu wengi huzuia arifa kutoka tovuti hii</translation>
+<translation id="5053701565089446556">Kiendelezi cha Faragha: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Programu ya Faragha: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Kichupo cha Faragha: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Fremu ndogo ya Faragha: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Tovuti katika Hali Fiche: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Duka la Wavuti</translation>
+<translation id="8261378640211443080">Kiendelezi hiki hakijaorodheshwa katika <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> na huenda kiliongezwa pasipo ridhaa yako.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Faragha)</translation>
+<translation id="4369414322596874629">Unaweza kuvinjari kwa faragha ukitumia dirisha la faragha</translation>
+<translation id="3772947852642271642">Tumia wavuti bila kuhifadhi historia yako ya kuvinjari ukitumia dirisha la faragha</translation>
+<translation id="3871738366246972820">Je, unatumia kompyuta ya pamoja? Jaribu kufungua dirisha la faragha.</translation>
+<translation id="5808622652939943719">Ili uvinjari kwa njia ya faragha, bofya menyu ya aikoni ya vitone ili ufungue dirisha la faragha</translation>
+<translation id="9079153198295609735">Tumia Brave Software takwimu za matumizi na ripoti za mara ambazo kivinjari kinaacha kufanya kazi, moja kwa moja</translation>
+<translation id="8839398440242019256">Siyo kutoka Duka la Wavuti.</translation>
+<translation id="6945695820322143954">Kiendelezi hiki kinakiuka sera ya Duka la Wavuti.</translation>
+<translation id="1676595396635191120">Dirisha Mpya la Faragha</translation>
+<translation id="5094764494104066239">Onyesha Upau wa Alamisho Kila Wakati</translation>
+<translation id="4471385409549756595">Dirisha mpya la faragha</translation>
+<translation id="4540437243849625078">Tovuti hii inaelekea kushiriki maelezo na programu nje ya hali ya faragha.</translation>
+<translation id="1227836882233136433">Ungependa kuondoka kwenye hali ya faragha?</translation>
+<translation id="7618452966706304788">Ungependa kutumia Touch ID kwenye <ph name="APP_NAME"/> katika hali ya Faragha?</translation>
+<translation id="3098826269712097986">Data ya kuingia katika akaunti itahifadhiwa katika Brave ukiondoka katika hali ya Faragha. Hali hii itakuruhusu kutumia Touch ID tena katika tovuti hii baadaye.</translation>
+<translation id="5186185447130319458">Faragha</translation>
+<translation id="2579188629646253712">Ondoka katika Faragha</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Fungua Zote katika &amp;Dirisha Fiche}=1{Fungua katika &amp;Dirisha Fiche}other{Fungua Zote (#) katika &amp;Dirisha Fiche}}</translation>
+<translation id="1985165269306590797">Fungua katika &amp;Dirisha Chini kwa chini</translation>
+<translation id="642436385689435488">Fungua url zote katika dirisha fiche</translation>
+<translation id="5463021359602611602">Fungua katika dirisha fiche</translation>
+<translation id="5070556616376997776">Unatumia hali fiche</translation>
+<translation id="5832813618714645810">Wasifu</translation>
+<translation id="6921634551681321094">Ongeza mtumiaji mwingine</translation>
+<translation id="6315812488257290136">Wasifu</translation>
+<translation id="5840822070878669614">Fungua Duka la Brave kwenye Wavuti</translation>
+<translation id="8648684608605749476">Zuia vidakuzi vya watu au kampuni nyingine katika Hali Fiche</translation>
+<translation id="1281501490173223206">Kipindi cha sasa cha hali fiche pekee</translation>
+<translation id="9063160602596686558">Hutuma kiotomatiki takwimu za matumizi na ripoti za programu kuacha kufanya kazi kwa Brave Software</translation>
+<translation id="3860292630623580294">(Hali fiche)</translation>
+<translation id="4854477725773269949">Ruhusu katika hali fiche</translation>
+<translation id="6436164536244065364">Ona katika Duka la Wavuti</translation>
+<translation id="38046578254905003">Pata viendelezi na mandhari katika <ph name="BEGIN_LINK"/>Duka la Brave kwenye Wavuti<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Kichupo kipya cha faragha</translation>
+<translation id="6610147964972079463">Funga vichupo vya faragha</translation>
+</translationbundle>

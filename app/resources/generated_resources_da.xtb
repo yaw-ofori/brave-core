@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">Afinstallation afventer</translation>
 <translation id="175772926354468439">Aktivér tema</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Se i Brave Webshop</translation>
 <translation id="176193854664720708">Fingeraftrykslæseren sidder i afbryderknappen. Tryk let på den med en finger.</translation>
 <translation id="1763046204212875858">Opret programgenveje</translation>
 <translation id="1763108912552529023">Udforsk videre</translation>
@@ -1326,7 +1325,6 @@ Du kan administrere indstillingerne for denne konto ved at installere Family Lin
 <translation id="2660779039299703961">Hændelse</translation>
 <translation id="4052689580269971502">Der kan ikke oprettes forbindelse til printeren. Tjek, at printeren er tændt og tilsluttet din Bravebook via Wi-Fi eller USB.</translation>
 <translation id="2661714428027871023">Søg hurtigere og brug mindre data med Lite-tilstand. Klik for at få flere oplysninger.</translation>
-<translation id="8808478386290700967">Brave Webshop</translation>
 <translation id="2663302507110284145">Sprog</translation>
 <translation id="2665394472441560184">Tilføj et nyt ord</translation>
 <translation id="2665647207431876759">Udløbet</translation>
@@ -2211,7 +2209,6 @@ Du kan administrere indstillingerne for denne konto ved at installere Family Lin
 <translation id="3771294271822695279">Videofiler</translation>
 <translation id="3775432569830822555">SSL-servercertifikat</translation>
 <translation id="3775705724665058594">Send til dine enheder</translation>
-<translation id="6945695820322143954">Denne udvidelse krænker politikken for Brave Webshop.</translation>
 <translation id="3777483481409781352">Mobilenheden kunne ikke aktiveres</translation>
 <translation id="3777806571986431400">Udvidelsen er aktiveret</translation>
 <translation id="3778152852029592020">Download blev annulleret.</translation>
@@ -3026,7 +3023,6 @@ Vil du starte <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="48704129375571883">Tilføj yderligere funktioner</translation>
 <translation id="4870758487381879312">Angiv adgangskoden fra administratoren for at få konfigurationsoplysninger</translation>
 <translation id="4870903493621965035">Ingen parrede enheder</translation>
-<translation id="8839398440242019256">Den er ikke fra Brave Webshop.</translation>
 <translation id="4871322859485617074">Pinkoden indeholder ugyldige tegn</translation>
 <translation id="4871370605780490696">Tilføj bogmærke</translation>
 <translation id="4871568871368204250">Deaktiver synkronisering</translation>
@@ -3622,7 +3618,6 @@ Vil du starte <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="563535393368633106">Spørg inden brug (anbefales)</translation>
 <translation id="5636996382092289526">Hvis du vil bruge <ph name="NETWORK_ID"/>, skal du først <ph name="LINK_START"/>gå til netværkets loginside<ph name="LINK_END"/>, som åbner automatisk om et par sekunder. Hvis ikke, kan netværket ikke bruges.</translation>
 <translation id="5637476008227280525">Aktivér mobildata</translation>
-<translation id="38046578254905003">Find udvidelser og temaer i <ph name="BEGIN_LINK"/>Brave Webshop<ph name="END_LINK"/></translation>
 <translation id="5639549361331209298">Opdater denne side, og hold markøren for at se flere valgmuligheder</translation>
 <translation id="5640133431808313291">Administrer sikkerhedsnøgler</translation>
 <translation id="5642508497713047">CRL-underskriver</translation>
@@ -3794,7 +3789,6 @@ Vil du starte <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="5864754048328252126">Handling for inaktivitet under opladning</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> sættes snart på pause</translation>
 <translation id="586567932979200359">Du kører <ph name="PRODUCT_NAME"/> fra dets diskbillede. Hvis du installerer det på din computer, kan du køre det uden diskbilledet, og det vil blive opdateret løbende.</translation>
-<translation id="9063160602596686558">Sender automatisk brugsstatistikker og nedbrudsrapporter til Brave</translation>
 <translation id="5866557323934807206">Ryd disse indstillinger til fremtidige besøg</translation>
 <translation id="5866840822086176774">Meget stærk</translation>
 <translation id="5867841422488265304">Søg, eller skriv webadresse</translation>
@@ -4237,7 +4231,6 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> konfigurerer automatiske opdateringer for alle brugere af denne computer.</translation>
 <translation id="6434309073475700221">Kasser</translation>
 <translation id="6434325376267409267">Din enhed skal opdateres, før du kan bruge <ph name="APP_NAME"/>.</translation>
-<translation id="6436164536244065364">Vis i Webshop</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> – der afspilles lyd</translation>
 <translation id="6442187272350399447">Supernice</translation>
 <translation id="6444070574980481588">Angiv dato og klokkeslæt</translation>
@@ -4953,7 +4946,6 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="7375235221357833624">{0,plural, =1{Genstart enheden inden for en time}one{Genstart enheden inden for # time}other{Genstart enheden inden for # timer}}</translation>
 <translation id="7376553024552204454">Fremhæv musemarkøren, når den bevæger sig</translation>
 <translation id="7377451353532943397">Fortsæt blokering af adgang til sensorer</translation>
-<translation id="5840822070878669614">Åbn Brave Webshop</translation>
 <translation id="7378812711085314936">Få dataforbindelse</translation>
 <translation id="7378962964415201590">Par en ny telefon</translation>
 <translation id="7380768571499464492"><ph name="PRINTER_NAME"/> blev opdateret</translation>
@@ -5175,7 +5167,6 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/> på <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">Deaktiver alle porte, som viderestilles i Linux</translation>
 <translation id="1800308196794859773">Send din stemme til Brave, så du kan diktere i ethvert tekstfelt.</translation>
-<translation id="3098826269712097986">Logindata gemmes i Brave, efter du har afsluttet inkognitotilstand. Dermed kan du bruge Touch ID til dette website igen på et senere tidspunkt.</translation>
 <translation id="7681095912841365527">Websitet kan anvende Bluetooth</translation>
 <translation id="7683373461016844951">Hvis du vil fortsætte, skal du klikke på Tilføj person for at oprette en ny profil til din mailadresse på <ph name="DOMAIN"/>.</translation>
 <translation id="7684212569183643648">Installeret af din administrator</translation>
@@ -5658,7 +5649,6 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="8259239505248583312">Start</translation>
 <translation id="8260126382462817229">Prøv at logge ind igen</translation>
 <translation id="8260864402787962391">Mus</translation>
-<translation id="8261378640211443080">Denne udvidelse er ikke anført i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> og er muligvis blevet tilføjet, uden at du vidste det.</translation>
 <translation id="8261506727792406068">Slet</translation>
 <translation id="8263336784344783289">Navngiv denne gruppe</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> har deaktiveret din musemarkør.</translation>
@@ -6080,7 +6070,6 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="8805140816472474147">Bekræft synkroniseringsindstillingerne for at starte synkronisering.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> kan åbne faner igen, der blev lukket ved et uheld</translation>
 <translation id="8807632654848257479">Stabil</translation>
-<translation id="8808478386290700967">Webshop</translation>
 <translation id="8808686172382650546">Kat</translation>
 <translation id="1510515462062582289">På denne side kan du se alle de udvidelser, der er installeret i Brave.</translation>
 <translation id="8809147117840417135">Lys turkis</translation>
@@ -6232,7 +6221,6 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="8983632908660087688"><ph name="ORIGIN"/> kan redigere <ph name="FILENAME"/></translation>
 <translation id="8985264973231822211">Aktiv for <ph name="DEVICE_LAST_ACTIVATED_TIME"/> dag siden</translation>
 <translation id="8986362086234534611">Glem</translation>
-<translation id="9079153198295609735">Send automatisk brugsstatistikker og nedbrudsrapporter til Brave</translation>
 <translation id="8987927404178983737">Måned</translation>
 <translation id="8991520179165052608">Websitet kan anvende din mikrofon</translation>
 <translation id="899384117894244799">Fjern begrænset bruger</translation>
@@ -6463,4 +6451,54 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Etablerer sikker forbindelse...</translation>
 <translation id="998747458861718449">U&amp;ndersøg</translation>
+<translation id="658539216370629794">Åbn link i &amp;privat fane</translation>
+<translation id="1432267168815937878">Åbn link i &amp;Privat fane</translation>
+<translation id="6516243500644829484">Ny &amp;privat fane</translation>
+<translation id="7973394300052703468">Ny &amp;privat fane</translation>
+<translation id="6395403722585816044">Downloadet i private</translation>
+<translation id="203837651858678035">Forlad privat tilstand alligevel?</translation>
+<translation id="7376221878517288144">Forlad privat tilstand alligevel?</translation>
+<translation id="871606814707918245">Folk blokerer som regel notifikationer fra dette website</translation>
+<translation id="5053701565089446556">Privat extension: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Privat app: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Privat fane: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Privat underfane: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Web-butik</translation>
+<translation id="8261378640211443080">Denne udvidelse er ikke anført i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> og er muligvis blevet tilføjet, uden at du vidste det.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
+<translation id="4369414322596874629">Du kan browse privat ved at bruge en privat fane</translation>
+<translation id="3772947852642271642">Brug internettet uden at gemme din browserhistorik med en privat fane</translation>
+<translation id="3871738366246972820">Deler du computeren med andre? Prøv at åbne en privat fane.</translation>
+<translation id="5808622652939943719">For at browse privat skal du klikke på prik-ikonmenuen for at åbne en privat fane</translation>
+<translation id="9079153198295609735">Send automatisk brugsstatistikker og nedbrudsrapporter til Brave Software</translation>
+<translation id="8839398440242019256">Ikke fra web-butik.</translation>
+<translation id="6945695820322143954">Denne extension bryder web-butikkens politik.</translation>
+<translation id="1676595396635191120">Ny privat fane</translation>
+<translation id="5094764494104066239">Vis altid bogmærkelinjen</translation>
+<translation id="4471385409549756595">Ny privat fane</translation>
+<translation id="4540437243849625078">Denne side skal til at dele oplysninger med en app uden for privat tilstand.</translation>
+<translation id="1227836882233136433">Forlad privat tilstand?</translation>
+<translation id="7618452966706304788">Vil du brugeTouch ID med <ph name="APP_NAME"/> i Privat tilstand?</translation>
+<translation id="3098826269712097986">Indlognings-data vil blive lagret i Brave, efter at du har forladt privat tilstand. Dette lader dig bruge Touch ID med denne hjemmeside senere.</translation>
+<translation id="5186185447130319458">Privat</translation>
+<translation id="2579188629646253712">Forlad privat</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Åbn alle i &amp;inkognitovindue}=1{Åbn i &amp;inkognitovindue}one{Åbn (#) i &amp;inkognitovindue}other{Åbn alle (#) i &amp;inkognitovindue}}</translation>
+<translation id="1985165269306590797">Åbn i &amp;inkognitovindue</translation>
+<translation id="642436385689435488">Åbn alle i et inkognitovindue</translation>
+<translation id="5463021359602611602">Åbn i inkognitovindue</translation>
+<translation id="5070556616376997776">Inkognitotilstand er aktiveret</translation>
+<translation id="5832813618714645810">Profiler</translation>
+<translation id="6921634551681321094">Tilføj person</translation>
+<translation id="6315812488257290136">Profiler</translation>
+<translation id="5840822070878669614">Åbn Brave Webshop</translation>
+<translation id="8648684608605749476">Bloker tredjepartscookies i Inkognito</translation>
+<translation id="1281501490173223206">Kun for den aktuelle inkognitosession</translation>
+<translation id="9063160602596686558">Sender automatisk brugsstatistikker og nedbrudsrapporter til Brave Software</translation>
+<translation id="3860292630623580294">(Inkognito)</translation>
+<translation id="4854477725773269949">Tillad i inkognito</translation>
+<translation id="6436164536244065364">Vis i Webshop</translation>
+<translation id="38046578254905003">Find udvidelser og temaer i <ph name="BEGIN_LINK"/>Brave Webshop<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Ny privat fane</translation>
+<translation id="6610147964972079463">Luk private faner</translation>
 </translationbundle>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="tr">
+<translation id="658539216370629794">Linki &amp;kişisel bir pencerede aç</translation>
+<translation id="1432267168815937878">Linki &amp;Kişisel Pencerde Aç</translation>
+<translation id="6516243500644829484">Yeni &amp;kişisel pencere</translation>
+<translation id="7973394300052703468">Yeni &amp;Kişisel Pencere</translation>
+<translation id="6395403722585816044">Kişisele İndirildi</translation>
+<translation id="203837651858678035">Kişisel moddan yine de çıkılsın mı?</translation>
+<translation id="7376221878517288144">Kişisel moddan yine de çıkılsın mı?</translation>
+<translation id="871606814707918245">Çoğu kullanıcı bu siteden gelen bildirimleri engelliyor</translation>
+<translation id="5053701565089446556">Kişisel Uzantı: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Kişisel Uygulama: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Kişisel Sekme: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Kişisel Alt Çerçeve: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Gizli Portal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">İnternet Mağazası</translation>
+<translation id="8261378640211443080">Bu uzantı <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> altında listelenmiyor ve bilginiz dışında eklenmiş olabilir.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Kişisel)</translation>
+<translation id="4369414322596874629">Kişisel bir pencere kullanarak kendinize özel gezinebilirsiniz</translation>
+<translation id="3772947852642271642">İnterneti, kişisel bir pencere ile gezinti geçmişinizi kaydetmeden kullanın</translation>
+<translation id="3871738366246972820">Paylaşımlı bir bilgisayar mı kullanıyorsunuz? Kişisel bir pencere açmayı deneyin.</translation>
+<translation id="5808622652939943719">Kendinize özel bir şekilde gezinmek için, kişisel bir pencere açmak için noktalı ikon menüsüne tıklayın</translation>
+<translation id="9079153198295609735">Kullanım istatistiklerini ve çökme raporlarını otomatik olarak Brave Software'a gönder</translation>
+<translation id="8839398440242019256">İnternet Mağazasından değil.</translation>
+<translation id="6945695820322143954">Bu uzantı, İnternet Mağazası politikasını ihlal ediyor.</translation>
+<translation id="1676595396635191120">Yeni Kişisel Pencere</translation>
+<translation id="5094764494104066239">Yer İşareti Çubuğunu Her Zaman Göster</translation>
+<translation id="4471385409549756595">Yeni kişisel pencere</translation>
+<translation id="4540437243849625078">Bu site, bilgileri kişisel mod dışındaki bir uygulama ile paylaşmak üzere.</translation>
+<translation id="1227836882233136433">Kişisel moddan çıkılsın mı?</translation>
+<translation id="7618452966706304788"><ph name="APP_NAME"/> ile Kişisel modda Touch ID kullanmak istiyor musunuz?</translation>
+<translation id="3098826269712097986">Giriş verileri, siz Kişisel moddan çıktıktan sonra, Brave'da saklanır. Bu, bu websiteyi daha sonra Touch ID kullanmanızı sağlar.</translation>
+<translation id="5186185447130319458">Kişisel</translation>
+<translation id="2579188629646253712">Kişiselden Çık</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Tümünü &amp;Gizli Pencerede Aç}=1{&amp;Gizli Pencerede Aç}other{Tümünü (#) &amp;Gizli Pencerede Aç}}</translation>
+<translation id="1985165269306590797">&amp;Gizli Pencerede Aç</translation>
+<translation id="642436385689435488">Tümünü gizli pencerede aç</translation>
+<translation id="5463021359602611602">Gizli pencerede aç</translation>
+<translation id="5070556616376997776">Gizli moddasınız</translation>
+<translation id="5832813618714645810">Profiller</translation>
+<translation id="6921634551681321094">Kişi ekle</translation>
+<translation id="6315812488257290136">Profiller</translation>
+<translation id="5840822070878669614">Brave Web Mağazası'nı açın</translation>
+<translation id="8648684608605749476">Gizli modda üçüncü taraf çerezleri engelle</translation>
+<translation id="1281501490173223206">Yalnızca geçerli gizli oturum</translation>
+<translation id="9063160602596686558">Kullanım istatistiklerini ve kilitlenme raporlarını Brave Software'a otomatik olarak gönderir</translation>
+<translation id="3860292630623580294">(Gizli mod)</translation>
+<translation id="4854477725773269949">Gizli modda izin ver</translation>
+<translation id="6436164536244065364">Web Mağazasında Görüntüle</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Brave Web Mağazası<ph name="END_LINK"/>'nda uzantılar ve temalar bulun</translation>
+<translation id="6336451774241870485">Yeni gizli sekmesi</translation>
+<translation id="6610147964972079463">Gizli sekmeleri kapat</translation>
+</translationbundle>

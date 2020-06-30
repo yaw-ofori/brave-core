@@ -1822,7 +1822,6 @@ Jika tidak, ini akan diblokir oleh setelan privasi Anda. Ini akan memungkinkan k
 <translation id="8800988563907321413">Saran terdekat muncul di sini</translation>
 <translation id="8805819170075074995">Entri daftar "<ph name="LANGUAGE_ID"/>": Entri diabaikan karena entri tersebut juga disertakan dalam kebijakan SpellcheckLanguage.</translation>
 <translation id="8807160976559152894">Trim setelah setiap halaman tercetak</translation>
-<translation id="8820817407110198400">Bookmark</translation>
 <translation id="883848425547221593">Bookmark Lain</translation>
 <translation id="884264119367021077">Alamat pengiriman</translation>
 <translation id="884923133447025588">Tidak ditemukan mekanisme pembatalan.</translation>
@@ -1942,4 +1941,5 @@ Jika tidak, ini akan diblokir oleh setelan privasi Anda. Ini akan memungkinkan k
 <translation id="994346157028146140">JIS B1</translation>
 <translation id="6771143571626203666">Dari Brave Pay</translation>
 <translation id="3489858312836205593">Buka jendela samaran Brave baru</translation>
+<translation id="8820817407110198400">Bookmark</translation>
 </translationbundle>

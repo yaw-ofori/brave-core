@@ -606,7 +606,6 @@
 <translation id="1757301747492736405">הסרת ההתקנה נמצאת במצב המתנה</translation>
 <translation id="175772926354468439">הפעל עיצוב</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">‏הצגה בחנות האינטרנט של Brave</translation>
 <translation id="176193854664720708">חיישן טביעות האצבע נמצא בלחצן ההפעלה. יש לגעת בו בעדינות באחת האצבעות.</translation>
 <translation id="1763046204212875858">צור קיצורי דרך ליישום</translation>
 <translation id="1763108912552529023">המשך לחקור</translation>
@@ -1323,7 +1322,6 @@
 <translation id="2660779039299703961">אירוע</translation>
 <translation id="4052689580269971502">‏לא ניתן להתחבר אל המדפסת. יש לוודא שהמדפסת פועלת ומחוברת אל ה-Bravebook דרך רשת ה-Wi-Fi או בחיבור USB.</translation>
 <translation id="2661714428027871023">במצב הטעינה המהירה גולשים מהר יותר וצורכים פחות נתונים. כדי לקבל מידע נוסף, אפשר ללחוץ כאן.</translation>
-<translation id="8808478386290700967">Brave Web Store</translation>
 <translation id="2663302507110284145">שפה</translation>
 <translation id="2665394472441560184">הוסף מילה חדשה</translation>
 <translation id="2665647207431876759">פג תוקף</translation>
@@ -2209,7 +2207,6 @@
 <translation id="3771294271822695279">קובצי וידאו</translation>
 <translation id="3775432569830822555">‏אישור שרת SSL</translation>
 <translation id="3775705724665058594">שליחה אל המכשירים שלך</translation>
-<translation id="6945695820322143954">‏התוסף מפר את המדיניות בחנות האינטרנט של Brave.</translation>
 <translation id="3777483481409781352">לא ניתן היה להפעיל את הטלפון הסלולרי</translation>
 <translation id="3777806571986431400">התוסף הופעל</translation>
 <translation id="3778152852029592020">ההורדה בוטלה.</translation>
@@ -3024,7 +3021,6 @@
 <translation id="48704129375571883">הוסף תכונות נוספות</translation>
 <translation id="4870758487381879312">כדי לקבל פרטי תצורה, צריך להזין סיסמה שהתקבלה ממנהל המערכת</translation>
 <translation id="4870903493621965035">אין מכשירים מותאמים</translation>
-<translation id="8839398440242019256">‏לא מחנות האינטרנט של Brave.</translation>
 <translation id="4871322859485617074">קוד האימות מכיל תווים לא חוקיים</translation>
 <translation id="4871370605780490696">הוסף סימניה</translation>
 <translation id="4871568871368204250">כיבוי הסינכרון</translation>
@@ -3620,7 +3616,6 @@
 <translation id="563535393368633106">שאל לפני גישה (מומלץ)</translation>
 <translation id="5636996382092289526">כדי להשתמש ב-<ph name="NETWORK_ID"/> ייתכן שראשית יהיה עליך <ph name="LINK_START"/>להיכנס לדף הכניסה של הרשת<ph name="LINK_END"/>, שייפתח אוטומטית בעוד כמה שניות. אם הוא לא נפתח, לא ניתן יהיה להשתמש ברשת.</translation>
 <translation id="5637476008227280525">הפעלת נתונים סלולריים</translation>
-<translation id="38046578254905003">‏תוספים ועיצובים זמינים ב<ph name="BEGIN_LINK"/>חנות האינטרנט של Brave<ph name="END_LINK"/></translation>
 <translation id="5639549361331209298">טען מחדש את הדף, לחץ לחיצה ארוכה כדי להציג אפשרויות נוספות</translation>
 <translation id="5640133431808313291">ניהול מפתחות אבטחה</translation>
 <translation id="5642508497713047">‏חותם CRL</translation>
@@ -3792,7 +3787,6 @@
 <translation id="5864754048328252126">מה לעשות בעת חוסר פעילות בזמן טעינה</translation>
 <translation id="5865508026715185451">האפליקציה <ph name="APP_NAME"/> תושהה בקרוב</translation>
 <translation id="586567932979200359">אתה מפעיל את <ph name="PRODUCT_NAME"/> מתמונת הדיסק שלו. התקנתו במחשב מאפשרת לך להפעיל אותו ללא תמונת הדיסק, ומבטיחה שיישאר מעודכן.</translation>
-<translation id="9063160602596686558">‏שליחת דוחות קריסה וסטטיסטיקת שימוש אל Brave באופן אוטומטי</translation>
 <translation id="5866557323934807206">ניקוי הגדרות אלה לביקורים עתידיים</translation>
 <translation id="5866840822086176774">חזק מאוד</translation>
 <translation id="5867841422488265304">יש להזין ביטוי לחיפוש או כתובת אינטרנט</translation>
@@ -4234,7 +4228,6 @@
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> יגדיר עדכונים אוטומטיים לכל המשתמשים במחשב זה.</translation>
 <translation id="6434309073475700221">התעלם</translation>
 <translation id="6434325376267409267">יש לעדכן את המכשיר כדי שאפשר יהיה להשתמש ב-<ph name="APP_NAME"/>.</translation>
-<translation id="6436164536244065364">הצג בחנות אינטרנט</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> - אודיו מופעל</translation>
 <translation id="6442187272350399447">גדול!</translation>
 <translation id="6444070574980481588">הגדרת תאריך ושעה</translation>
@@ -4950,7 +4943,6 @@
 <translation id="7375235221357833624">{0,plural, =1{יש לעדכן את המכשיר בתוך שעה אחת}two{יש לעדכן את המכשיר בתוך # שעות}many{יש לעדכן את המכשיר בתוך # שעות}other{יש לעדכן את המכשיר בתוך # שעות}}</translation>
 <translation id="7376553024552204454">הדגש את סמן העכבר כשהסמן בתנועה</translation>
 <translation id="7377451353532943397">המשך חסימת הגישה לחיישנים</translation>
-<translation id="5840822070878669614">‏פתח את חנות האינטרנט של Brave</translation>
 <translation id="7378812711085314936">קבל חיבור נתונים</translation>
 <translation id="7378962964415201590">התאמת טלפון חדש</translation>
 <translation id="7380768571499464492"><ph name="PRINTER_NAME"/> עודכנה</translation>
@@ -5172,7 +5164,6 @@
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, ב-<ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">‏השבתה של כל היציאות שמוגדרת לגביהן העברה ב-Linux</translation>
 <translation id="1800308196794859773">‏שליחת הקלטה של הקול שלך אל Brave מאפשרת הכתבה בכל תיבת טקסט.</translation>
-<translation id="3098826269712097986">‏נתוני כניסה יאוחסנו ב-Brave אחרי היציאה ממצב גלישה בסתר. אחסון הנתונים יאפשר לך להשתמש שוב ב-Touch ID באתר הזה.</translation>
 <translation id="7681095912841365527">‏האתר רשאי להשתמש ב-Bluetooth</translation>
 <translation id="7683373461016844951">כדי להמשיך יש ללחוץ על 'אישור' ולאחר מכן ללחוץ על 'הוספת משתמש' כדי ליצור פרופיל חדש בשביל כתובת האימייל שלך ב-<ph name="DOMAIN"/>.</translation>
 <translation id="7684212569183643648">הותקן על ידי מנהל המערכת שלך</translation>
@@ -5657,7 +5648,6 @@
 <translation id="8259239505248583312">קדימה, מתחילים!</translation>
 <translation id="8260126382462817229">נסה להיכנס שוב</translation>
 <translation id="8260864402787962391">עכבר</translation>
-<translation id="8261378640211443080">התוסף הזה לא רשום ב<ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> וייתכן שנוסף ללא ידיעתך.</translation>
 <translation id="8261506727792406068">מחיקה</translation>
 <translation id="8263336784344783289">כאן נותנים שם לקבוצה</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> השבית את סמן העכבר.</translation>
@@ -6078,7 +6068,6 @@
 <translation id="8805140816472474147">אשר הגדרות סינכרון כדי להתחיל בסינכרון.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> מאפשר לפתוח מחדש כרטיסיות שנסגרו בטעות</translation>
 <translation id="8807632654848257479">יציב</translation>
-<translation id="8808478386290700967">חנות אינטרנט</translation>
 <translation id="8808686172382650546">חתול</translation>
 <translation id="1510515462062582289">‏בדף הזה מוצגים כל התוספים שהותקנו ב-Brave.</translation>
 <translation id="8809147117840417135">כחול-ירקרק בהיר</translation>
@@ -6230,7 +6219,6 @@
 <translation id="8983632908660087688">ל-<ph name="ORIGIN"/> יש הרשאה לערוך את <ph name="FILENAME"/></translation>
 <translation id="8985264973231822211">שימוש אחרון: לפני יום אחד (<ph name="DEVICE_LAST_ACTIVATED_TIME"/>)</translation>
 <translation id="8986362086234534611">שכח</translation>
-<translation id="9079153198295609735">‏שליחה אוטומטית של דוחות קריסה וסטטיסטיקות שימוש ל-Brave</translation>
 <translation id="8987927404178983737">חודש</translation>
 <translation id="8991520179165052608">האתר רשאי להשתמש במיקרופון</translation>
 <translation id="899384117894244799">הסרה של משתמש מוגבל</translation>
@@ -6461,4 +6449,54 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">יוצר חיבור מאובטח...</translation>
 <translation id="998747458861718449">&amp;בדוק</translation>
+<translation id="658539216370629794">פתח קישור בחלון גלישה פרטית</translation>
+<translation id="1432267168815937878">פתח קישור בחלון &amp;נסתר</translation>
+<translation id="6516243500644829484">חלון 'גלישה בסתר' חדש</translation>
+<translation id="7973394300052703468">חלון &amp;נסתר חדש</translation>
+<translation id="6395403722585816044">ההורדה בוצעה במצב גלישה בסתר</translation>
+<translation id="203837651858678035">לצאת בכל זאת ממצב גלישה בסתר?</translation>
+<translation id="7376221878517288144">לצאת בכל זאת ממצב גלישה בסתר?</translation>
+<translation id="871606814707918245">רוב האנשים חוסמים התראות מהאתר הזה</translation>
+<translation id="5053701565089446556">תוסף של גלישה פרטית: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">יישום גלישה בסתר: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">כרטיסיית גלישה בסתר: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">תת-מסגרת לגלישה בסתר: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">פורטל אנונימי: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">חנות אינטרנטית</translation>
+<translation id="8261378640211443080">התוסף הזה לא רשום ב<ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> וייתכן שנוסף ללא ידיעתך.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (גלישה בסתר)</translation>
+<translation id="4369414322596874629">אפשר לגלוש בפרטיות בעזרת חלון גלישה בסתר</translation>
+<translation id="3772947852642271642">חלון גלישה בסתר מאפשר לגלוש בלי לשמור את היסטוריית הגלישה</translation>
+<translation id="3871738366246972820">האם זהו מחשב משותף? כדאי לפתוח חלון גלישה בסתר.</translation>
+<translation id="5808622652939943719">כדי לגלוש באופן פרטי, יש ללחוץ על תפריט סמל הנקודות ולפתוח חלון גלישה בסתר</translation>
+<translation id="9079153198295609735">‏שליחה אוטומטית של דוחות קריסה וסטטיסטיקות שימוש ל-Brave Software</translation>
+<translation id="8839398440242019256">‏לא מחנות האינטרנט של Brave.</translation>
+<translation id="6945695820322143954">‏התוסף מפר את המדיניות בחנות האינטרנט של Brave.</translation>
+<translation id="1676595396635191120">חלון נסתר חדש</translation>
+<translation id="5094764494104066239">הצג תמיד את סרגל הסימניות</translation>
+<translation id="4471385409549756595">חלון חדש של גלישה בסתר</translation>
+<translation id="4540437243849625078">אתר זה עומד לשתף מידע עם אפליקציה מחוץ למצב גלישה בסתר.</translation>
+<translation id="1227836882233136433">לצאת ממצב גלישה בסתר?</translation>
+<translation id="7618452966706304788">‏להשתמש ב-Touch ID עם <ph name="APP_NAME"/> במצב גלישה בסתר?</translation>
+<translation id="3098826269712097986">‏נתוני כניסה יאוחסנו ב-Brave אחרי היציאה ממצב גלישה בסתר. אחסון הנתונים יאפשר לך להשתמש שוב ב-Touch ID באתר הזה.</translation>
+<translation id="5186185447130319458">גלישה פרטית</translation>
+<translation id="2579188629646253712">יציאה ממצב גלישה בסתר</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{פתח הכל בחלון &amp;גלישה בסתר}=1{פתח בחלון &amp;גלישה בסתר}two{פתח הכל (2) בחלון &amp;גלישה בסתר}many{פתח הכל (#) בחלון &amp;גלישה בסתר}other{פתח הכל (#) בחלון &amp;גלישה בסתר}}</translation>
+<translation id="1985165269306590797">פתח בחלון &amp;גלישה בסתר</translation>
+<translation id="642436385689435488">פתח הכול בחלון גלישה בסתר</translation>
+<translation id="5463021359602611602">פתח בחלון גלישה פרטית</translation>
+<translation id="5070556616376997776">עברת למצב גלישה בסתר</translation>
+<translation id="5832813618714645810">אנשים</translation>
+<translation id="6921634551681321094">הוספת משתמש</translation>
+<translation id="6315812488257290136">אנשים</translation>
+<translation id="5840822070878669614">‏פתח את חנות האינטרנט של Brave</translation>
+<translation id="8648684608605749476">‏חסימת קובצי cookie של צד שלישי במצב אנונימי</translation>
+<translation id="1281501490173223206">הפעלה נוכחית בלבד במצב גלישה בסתר</translation>
+<translation id="9063160602596686558">‏שליחת דוחות קריסה וסטטיסטיקת שימוש אל Brave Software באופן אוטומטי</translation>
+<translation id="3860292630623580294">(גלישה בסתר)</translation>
+<translation id="4854477725773269949">אפשר במצב גלישה פרטית</translation>
+<translation id="6436164536244065364">הצג בחנות אינטרנט</translation>
+<translation id="38046578254905003">‏תוספים ועיצובים זמינים ב<ph name="BEGIN_LINK"/>חנות האינטרנט של Brave<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">כרטיסייה פרטית חדשה</translation>
+<translation id="6610147964972079463">סגור כרטיסיות פרטיות</translation>
 </translationbundle>

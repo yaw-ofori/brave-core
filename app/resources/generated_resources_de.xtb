@@ -606,7 +606,6 @@
 <translation id="1757301747492736405">Deinstallation ausstehend</translation>
 <translation id="175772926354468439">Design aktivieren</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Im Brave Web Store ansehen</translation>
 <translation id="176193854664720708">Der Fingerabdrucksensor ist in die Ein-/Aus-Taste integriert. Berühren Sie diese leicht mit dem Finger.</translation>
 <translation id="1763046204212875858">App-Verknüpfungen erstellen</translation>
 <translation id="1763108912552529023">Weiter erkunden</translation>
@@ -1322,7 +1321,6 @@ Wenn Sie die Family Link App auf Ihrem Gerät installieren, können Sie die Eins
 <translation id="2660779039299703961">Ereignis</translation>
 <translation id="4052689580269971502">Verbindung zum Drucker nicht möglich. Vergewissern Sie sich, dass der Drucker aktiviert und über WLAN oder USB mit Ihrem Bravebook verbunden ist.</translation>
 <translation id="2661714428027871023">Mit dem Lite-Modus können Sie schneller surfen und verbrauchen weniger Daten. Klicken Sie hier, um mehr zu erfahren.</translation>
-<translation id="8808478386290700967">Brave Web Store</translation>
 <translation id="2663302507110284145">Sprache</translation>
 <translation id="2665394472441560184">Neues Wort hinzufügen</translation>
 <translation id="2665647207431876759">Abgelaufen</translation>
@@ -2207,7 +2205,6 @@ Servernachricht: <ph name="SERVER_MSG"/></translation>
 <translation id="3771294271822695279">Videodateien</translation>
 <translation id="3775432569830822555">SSL-Serverzertifikat</translation>
 <translation id="3775705724665058594">An meine Geräte senden</translation>
-<translation id="6945695820322143954">Diese Erweiterung verletzt die Brave Web Store-Richtlinien.</translation>
 <translation id="3777483481409781352">Mobilgerät konnte nicht aktiviert werden</translation>
 <translation id="3777806571986431400">Erweiterung aktiviert</translation>
 <translation id="3778152852029592020">Der Download wurde abgebrochen.</translation>
@@ -3022,7 +3019,6 @@ Möchten Sie <ph name="CONTROL_PANEL_APPLET_NAME"/> starten?</translation>
 <translation id="48704129375571883">Zusätzliche Funktionen hinzufügen</translation>
 <translation id="4870758487381879312">Zum Abrufen von Konfigurationsinformationen das vom Administrator vergebene Passwort eingeben</translation>
 <translation id="4870903493621965035">Keine gekoppelten Geräte</translation>
-<translation id="8839398440242019256">Nicht aus dem Brave Web Store</translation>
 <translation id="4871322859485617074">PIN enthält ungültige Zeichen</translation>
 <translation id="4871370605780490696">Lesezeichen hinzufügen</translation>
 <translation id="4871568871368204250">Synchronisierung ausschalten</translation>
@@ -3618,7 +3614,6 @@ Möchten Sie <ph name="CONTROL_PANEL_APPLET_NAME"/> starten?</translation>
 <translation id="563535393368633106">Vor dem Zugriff nachfragen (empfohlen)</translation>
 <translation id="5636996382092289526">Zur Verwendung von <ph name="NETWORK_ID"/> müssen Sie eventuell zuerst die <ph name="LINK_START"/>Anmeldeseite des Netzwerks besuchen<ph name="LINK_END"/>. Diese wird in einigen Sekunden automatisch geöffnet. Anderenfalls kann das Netzwerk nicht verwendet werden.</translation>
 <translation id="5637476008227280525">Aktivierung der mobilen Daten</translation>
-<translation id="38046578254905003">Im <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/> nach Erweiterungen und Designs suchen</translation>
 <translation id="5639549361331209298">Seite aktualisieren, für weitere Optionen gedrückt halten</translation>
 <translation id="5640133431808313291">Sicherheitsschlüssel verwalten</translation>
 <translation id="5642508497713047">CRL-Signaturgeber</translation>
@@ -3790,7 +3785,6 @@ Möchten Sie <ph name="CONTROL_PANEL_APPLET_NAME"/> starten?</translation>
 <translation id="5864754048328252126">Aktion bei Inaktivität beim Aufladen</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> wird bald pausiert</translation>
 <translation id="586567932979200359">Sie führen <ph name="PRODUCT_NAME"/> vom Datenträgerabbild aus. Wenn Sie den Browser auf Ihrem Computer installieren, wird er ohne Datenträgerabbild ausgeführt und immer automatisch aktualisiert.</translation>
-<translation id="9063160602596686558">Nutzungsstatistiken und Absturzberichte automatisch an Brave senden</translation>
 <translation id="5866557323934807206">Diese Einstellungen für künftige Besuche löschen</translation>
 <translation id="5866840822086176774">Sehr stark</translation>
 <translation id="5867841422488265304">Suchbegriff oder Webadresse eingeben</translation>
@@ -4232,7 +4226,6 @@ Möchten Sie <ph name="CONTROL_PANEL_APPLET_NAME"/> starten?</translation>
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> richtet automatische Updates für alle Nutzer dieses Computers ein.</translation>
 <translation id="6434309073475700221">Verwerfen</translation>
 <translation id="6434325376267409267">Ihr Gerät muss aktualisiert werden, bevor Sie <ph name="APP_NAME"/> verwenden können.</translation>
-<translation id="6436164536244065364">Im Web Store ansehen</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> – Audiowiedergabe</translation>
 <translation id="6442187272350399447">Smiley</translation>
 <translation id="6444070574980481588">Datum und Uhrzeit festlegen</translation>
@@ -4948,7 +4941,6 @@ Möchten Sie <ph name="CONTROL_PANEL_APPLET_NAME"/> starten?</translation>
 <translation id="7375235221357833624">{0,plural, =1{Gerät innerhalb von einer Stunde neu starten}other{Gerät innerhalb von # Stunden neu starten}}</translation>
 <translation id="7376553024552204454">Mauszeiger bei Bewegung hervorheben</translation>
 <translation id="7377451353532943397">Zugriff auf den Sensor weiterhin blockieren</translation>
-<translation id="5840822070878669614">Brave Web Store öffnen</translation>
 <translation id="7378812711085314936">Datenverbindung nutzen</translation>
 <translation id="7378962964415201590">Neues Smartphone koppeln</translation>
 <translation id="7380768571499464492"><ph name="PRINTER_NAME"/> aktualisiert</translation>
@@ -5170,7 +5162,6 @@ Möchten Sie <ph name="CONTROL_PANEL_APPLET_NAME"/> starten?</translation>
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/> auf <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">Portweiterleitung in Linux für alle Ports deaktivieren</translation>
 <translation id="1800308196794859773">Ihre Spracheingaben werden an Brave gesendet, damit sie in das entsprechende Textfeld eingetragen werden können.</translation>
-<translation id="3098826269712097986">Nach dem Verlassen des Inkognitomodus werden Anmeldedaten in Brave gespeichert. Hierdurch können Sie Touch ID später wieder mit dieser Website verwenden.</translation>
 <translation id="7681095912841365527">Website kann Bluetooth verwenden</translation>
 <translation id="7683373461016844951">Um fortzufahren, klicken Sie auf Ok. Klicken Sie dann auf "Person hinzufügen", um ein neues Profil für Ihre E-Mail-Adresse bei <ph name="DOMAIN"/> zu erstellen.</translation>
 <translation id="7684212569183643648">Von Ihrem Administrator installiert</translation>
@@ -5653,7 +5644,6 @@ Speichern Sie Ihre Schlüsseldatei an einem sicheren Ort. Sie benötigen die Dat
 <translation id="8259239505248583312">Los gehts!</translation>
 <translation id="8260126382462817229">Melden Sie sich noch einmal an</translation>
 <translation id="8260864402787962391">Maus</translation>
-<translation id="8261378640211443080">Diese Erweiterung ist nicht im <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> aufgeführt und wurde möglicherweise ohne Ihr Wissen hinzugefügt.</translation>
 <translation id="8261506727792406068">Löschen</translation>
 <translation id="8263336784344783289">Gruppe benennen</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> hat Ihren Mauszeiger deaktiviert.</translation>
@@ -6074,7 +6064,6 @@ Speichern Sie Ihre Schlüsseldatei an einem sicheren Ort. Sie benötigen die Dat
 <translation id="8805140816472474147">Synchronisierungseinstellungen bestätigen, um die Synchronisierung zu starten.</translation>
 <translation id="8806680466228877631">Mit "<ph name="SHORTCUT"/>" lassen sich versehentlich geschlossene Tabs wieder öffnen</translation>
 <translation id="8807632654848257479">Stabil</translation>
-<translation id="8808478386290700967">Web Store</translation>
 <translation id="8808686172382650546">Katze</translation>
 <translation id="1510515462062582289">Auf dieser Seite sehen Sie alle in Brave installierten Erweiterungen.</translation>
 <translation id="8809147117840417135">Helles Blaugrün</translation>
@@ -6226,7 +6215,6 @@ Speichern Sie Ihre Schlüsseldatei an einem sicheren Ort. Sie benötigen die Dat
 <translation id="8983632908660087688"><ph name="ORIGIN"/> kann "<ph name="FILENAME"/>" bearbeiten</translation>
 <translation id="8985264973231822211">Vor <ph name="DEVICE_LAST_ACTIVATED_TIME"/> Tagen aktiv</translation>
 <translation id="8986362086234534611">Entfernen</translation>
-<translation id="9079153198295609735">Nutzungsstatistiken und Absturzberichte automatisch an Brave senden</translation>
 <translation id="8987927404178983737">Monat</translation>
 <translation id="8991520179165052608">Die Website kann Ihr Mikrofon verwenden</translation>
 <translation id="899384117894244799">Nutzer mit eingeschränktem Zugriff entfernen</translation>
@@ -6457,4 +6445,54 @@ Speichern Sie Ihre Schlüsseldatei an einem sicheren Ort. Sie benötigen die Dat
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Sichere Verbindung wird hergestellt...</translation>
 <translation id="998747458861718449">Untersuchen</translation>
+<translation id="658539216370629794">Verknüpfung in Privatfenster öffnen</translation>
+<translation id="1432267168815937878">Verknüpfung in privatem Fenster öffnen</translation>
+<translation id="6516243500644829484">Neues &amp;privates Fenster</translation>
+<translation id="7973394300052703468">Neues &amp;privates Fenster</translation>
+<translation id="6395403722585816044">Im Privatmodus heruntergeladen</translation>
+<translation id="203837651858678035">Privatmodus trotzdem verlassen?</translation>
+<translation id="7376221878517288144">Privatmodus trotzdem verlassen?</translation>
+<translation id="871606814707918245">Die meisten Nutzer blockieren Benachrichtigungen von dieser Website</translation>
+<translation id="5053701565089446556">Private Erweiterung: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Private App: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Privater Reiter: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Privater Subframe: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Webshop</translation>
+<translation id="8261378640211443080">Diese Erweiterung ist nicht im <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> aufgeführt und wurde möglicherweise ohne Ihr Wissen hinzugefügt.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
+<translation id="4369414322596874629">Sie können privat browsen, wenn Sie ein Privatfenster nutzen</translation>
+<translation id="3772947852642271642">Surfen Sie dank Privatfenster im Web, ohne Ihren Browserverlauf zu speichern</translation>
+<translation id="3871738366246972820">Sie verwenden einen öffentlichen Computer? Versuchen Sie doch einmal ein privates Fenster.</translation>
+<translation id="5808622652939943719">Zum privaten Browsen öffnen Sie im Menü unter dem Punkte-Symbol ein privates Fenster</translation>
+<translation id="9079153198295609735">Nutzungsstatistiken und Absturzberichte automatisch an Brave Software senden</translation>
+<translation id="8839398440242019256">Nicht aus dem Webshop.</translation>
+<translation id="6945695820322143954">Diese Erweiterung verletzt die Richtlinien des Webshops.</translation>
+<translation id="1676595396635191120">Neues privates Fenster</translation>
+<translation id="5094764494104066239">Lesezeichenleiste immer anzeigen</translation>
+<translation id="4471385409549756595">Neues Privatfenster</translation>
+<translation id="4540437243849625078">Diese Website möchte Informationen an eine App außerhalb des Privatmodus weitergeben.</translation>
+<translation id="1227836882233136433">Privatmodus verlassen</translation>
+<translation id="7618452966706304788">Möchten Sie auf <ph name="APP_NAME"/> im Privatmodus Touch ID nutzen?</translation>
+<translation id="3098826269712097986">Die Anmeldedaten werden nach Verlassen des Privatmodus in Brave gespeichert. So können Sie auf dieser Website später wieder Touch ID nutzen.</translation>
+<translation id="5186185447130319458">Privat</translation>
+<translation id="2579188629646253712">Privatmodus verlassen</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Alle in &amp;Inkognitofenster öffnen}=1{In &amp;Inkognitofenster öffnen}other{Alle (#) in &amp;Inkognitofenster öffnen}}</translation>
+<translation id="1985165269306590797">In &amp;Inkognito-Fenster öffnen</translation>
+<translation id="642436385689435488">Alle in Inkognitofenster öffnen</translation>
+<translation id="5463021359602611602">In Inkognitofenster öffnen</translation>
+<translation id="5070556616376997776">Inkognitomodus ist aktiviert</translation>
+<translation id="5832813618714645810">Profile</translation>
+<translation id="6921634551681321094">Person hinzufügen</translation>
+<translation id="6315812488257290136">Profile</translation>
+<translation id="5840822070878669614">Brave Web Store öffnen</translation>
+<translation id="8648684608605749476">Cookies von Drittanbietern im Inkognitomodus blockieren</translation>
+<translation id="1281501490173223206">Nur aktuelle Inkognitositzung</translation>
+<translation id="9063160602596686558">Nutzungsstatistiken und Absturzberichte automatisch an Brave Software senden</translation>
+<translation id="3860292630623580294">(Anonym)</translation>
+<translation id="4854477725773269949">Im Inkognitomodus zulassen</translation>
+<translation id="6436164536244065364">Im Web Store ansehen</translation>
+<translation id="38046578254905003">Im <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/> nach Erweiterungen und Designs suchen</translation>
+<translation id="6336451774241870485">Neue private Registerkarte</translation>
+<translation id="6610147964972079463">Private Registerkarten schließen</translation>
 </translationbundle>

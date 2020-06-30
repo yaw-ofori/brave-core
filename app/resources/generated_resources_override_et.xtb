@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="et">
+<translation id="658539216370629794">Ava link &amp;privaatses aknas</translation>
+<translation id="1432267168815937878">Ava link &amp;privaatses aknas</translation>
+<translation id="6516243500644829484">Uus &amp;privaatne aken</translation>
+<translation id="7973394300052703468">Uus &amp;privaatne aken</translation>
+<translation id="6395403722585816044">Alla laaditud privaatses</translation>
+<translation id="203837651858678035">Kas väljuda siiski privaatsest režiimist?</translation>
+<translation id="7376221878517288144">Kas sulgeda siiski privaatne režiim?</translation>
+<translation id="871606814707918245">Enamik inimesi blokeerib selle saidi märguanded</translation>
+<translation id="5053701565089446556">Privaatne laiendus: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Privaatne rakendus: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Privaatne vaheleht: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Privaatne alamraam: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Inkognito portaal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Veebipood</translation>
+<translation id="8261378640211443080">Seda laiendust ei leidu veebipoes <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ja te ei pruugi selle lisamisest teadlik olla.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (privaatne)</translation>
+<translation id="4369414322596874629">Privaatses aknas saate privaatselt sirvida</translation>
+<translation id="3772947852642271642">Privaatses aknas saate veebi kasutada ilma sirvimisajalugu salvestamata</translation>
+<translation id="3871738366246972820">Kas kasutate jagatud arvutit? Proovige avada privaatne aken.</translation>
+<translation id="5808622652939943719">Privaatselt sirvimiseks klõpsake punktidega menüüikoonil, et avada privaatne aken</translation>
+<translation id="9079153198295609735">Saada kasutusstatistika ja krahhiaruanded automaatselt Brave Software'ile</translation>
+<translation id="8839398440242019256">Pole pärit veebipoest.</translation>
+<translation id="6945695820322143954">See laiendus rikub veebipoe poliitikat.</translation>
+<translation id="1676595396635191120">Uus privaatne aken</translation>
+<translation id="5094764494104066239">Kuva alati järjehoidjariba</translation>
+<translation id="4471385409549756595">Uus privaatne aken</translation>
+<translation id="4540437243849625078">See veebisait hakkab jagama teavet väljaspool privaatset režiimi oleva rakendusega.</translation>
+<translation id="1227836882233136433">Kas lahkuda privaatsest režiimist?</translation>
+<translation id="7618452966706304788">Kas soovite kasutada puute-ID-d rakenduses <ph name="APP_NAME"/> privaatses režiimis?</translation>
+<translation id="3098826269712097986">Kui väljute privaatsest režiimist, salvestatakse sisselogimisandmed Brave’i. See võimaldab teil puute-ID-d sellel veebisaidil hiljem uuesti kasutada.</translation>
+<translation id="5186185447130319458">Privaatne</translation>
+<translation id="2579188629646253712">Välju privaatsest</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Ava kõik &amp;inkognito aknas}=1{Ava &amp;inkognito aknas}other{Ava kõik (#) &amp;inkognito aknas}}</translation>
+<translation id="1985165269306590797">&amp;Ava inkognito aknas</translation>
+<translation id="642436385689435488">Ava kõik privaatses aknas</translation>
+<translation id="5463021359602611602">Ava privaatses aknas</translation>
+<translation id="5070556616376997776">Olete inkognito režiimis</translation>
+<translation id="5832813618714645810">Profiilid</translation>
+<translation id="6921634551681321094">Lisa inimene</translation>
+<translation id="6315812488257290136">Profiilid</translation>
+<translation id="5840822070878669614">Ava Brave'i veebipood</translation>
+<translation id="8648684608605749476">Blokeerige kolmanda osapoole küpsisefailid inkognito režiimis</translation>
+<translation id="1281501490173223206">Ainult praegune inkognito seanss</translation>
+<translation id="9063160602596686558">Brave Software'ile saadetakse automaatselt kasutusstatistikat ja krahhiaruandeid</translation>
+<translation id="3860292630623580294">(Inkognito)</translation>
+<translation id="4854477725773269949">Luba privaatses režiimis</translation>
+<translation id="6436164536244065364">Kuva veebipoes</translation>
+<translation id="38046578254905003">Otsige <ph name="BEGIN_LINK"/>Brave'i veebipoest<ph name="END_LINK"/> laiendusi ja teemasid</translation>
+<translation id="6336451774241870485">Uus privaatne vaheleht</translation>
+<translation id="6610147964972079463">Sule privaatsed vahelehed</translation>
+</translationbundle>

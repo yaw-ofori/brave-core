@@ -73,6 +73,9 @@
 <translation id="7390783310074170337">預設瀏覽</translation>
 <translation id="130615081792797568">簡式瀏覽</translation>
 <translation id="2360360976480535628">進階瀏覽</translation>
+<translation id="2133317862976486547">追蹤器與廣告封鎖</translation>
+<translation id="4385707520896576447">Cookie 封鎖</translation>
+<translation id="4978786495456601191">指紋封鎖</translation>
 <translation id="3570081523466826008">升級連線至 HTTPS</translation>
 <translation id="4824468494729001999">封鎖指令碼</translation>
 <translation id="519861640102428255">外觀</translation>
@@ -81,9 +84,12 @@
 <translation id="863171915776379000">允許 Facebook 登入與嵌入貼文</translation>
 <translation id="5165042248369837294">允許 Twitter 嵌入推文</translation>
 <translation id="958971637207126733">允許 Linkedin 嵌入貼文</translation>
+<translation id="4078738236287221428">積極</translation>
 <translation id="7740996059027112821">標準</translation>
 <translation id="4176463684765177261">已停用</translation>
+<translation id="5770288601196774623">僅跨站</translation>
 <translation id="3587482841069643663">全部</translation>
+<translation id="5533533363827555308">嚴格，可能會破壞網站</translation>
 <translation id="8942080017911802454">WebRTC IP 處理政策</translation>
 <translation id="6165508094623778733">更多資訊</translation>
 <translation id="8798099450830957504">預設</translation>
@@ -92,11 +98,19 @@
 <translation id="1689062823386843231">停用非代理 UDP</translation>
 <translation id="8502234992433094996">使用 Google 服務來推播訊息</translation>
 <translation id="3888068426966679906">遠端除錯</translation>
+<translation id="5565355416171743213">開始使用同步</translation>
 <translation id="4332558599726753990">同步設定</translation>
+<translation id="2187778349654214731">要開始，您必須在您所有要同步的裝置上安裝 Brave。然後，將它們使用同步代碼相互連結。</translation>
+<translation id="7530575064080939974">管理您的同步裝置</translation>
+<translation id="7575156386943878014">同步管理程式</translation>
 <translation id="1755198127524719638">同步設定</translation>
 <translation id="7558480201297099157">管理您想要在裝置間同步的資訊。這些設定只會影響這個裝置。</translation>
+<translation id="7731928563672901833">裝置清單</translation>
 <translation id="28332161031213248">以下的裝置清單包括您的同步鏈中的所有裝置。每項裝置都能從任何其它裝置進行管理。</translation>
 <translation id="1313162974556054106">裝置名稱</translation>
+<translation id="923757506389336140">&lt;ph name="DEVICE_NAME"&gt;$1&lt;ex&gt;my-computer-1&lt;/ex&gt;&lt;/ph&gt; （此裝置）</translation>
+<translation id="3686835020221422649">最後活躍</translation>
+<translation id="2569646144216067185">字數： &lt;ph name="WORD_COUNT"&gt;$1&lt;ex&gt;24&lt;/ex&gt;&lt;/ph&gt;</translation>
 <translation id="7885157704277298658">已複製！</translation>
 <translation id="298546024891487702">要開始，您需要在所有計劃進行同步的裝置上安裝 Brave。要將它們鏈結在一起，請開始一條您會用來安全連結所有裝置的同步鏈。</translation>
 <translation id="6200528822592747640">開始一條新的同步鏈</translation>
@@ -117,7 +131,12 @@
 <translation id="5734745018569675530">在下方表格鍵入提供的同步鏈碼字。</translation>
 <translation id="1061533051865606843">增加新裝置</translation>
 <translation id="5093410893656857925">選擇裝置類型</translation>
+<translation id="4581190919849683048">您想要同步的是哪種類型的裝置？</translation>
+<translation id="4112587618563511470">無效的同步代碼，請檢查並再試一次。</translation>
 <translation id="2339730291919608488">離開同步鏈結</translation>
+<translation id="115699408012835975">如果您重設同步，您將必須重新輸入從其他裝置而來的同步代碼以與其同步。您確定您想要繼續嗎？</translation>
+<translation id="3396347744975515056">Brave 同步已升級並需要設定</translation>
+<translation id="7473245612074035141">開始設定</translation>
 <translation id="6696935187608454456">協助小費</translation>
 <translation id="2775956301559569472">在 404 頁面上顯示 Wayback Machine 提示</translation>
 <translation id="1807246157184219062">亮</translation>

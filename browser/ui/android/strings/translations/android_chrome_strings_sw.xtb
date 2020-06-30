@@ -591,7 +591,6 @@ Ili ubadilishe mipangilio hii, <ph name="BEGIN_LINK"/>fanya usawazishaji upya<ph
 <translation id="5862731021271217234">Washa kipengele cha usawazishaji ili upate vichupo kutoka kwenye vifaa vyako vingine</translation>
 <translation id="5864174910718532887">Maelezo: Imepangwa kulingana na jina la tovuti</translation>
 <translation id="5864419784173784555">Inasubiri kipakuliwa kingine…</translation>
-<translation id="9063160602596686558">Hutuma kiotomatiki takwimu za matumizi na ripoti za programu kuacha kufanya kazi kwa Brave</translation>
 <translation id="5869522115854928033">Manenosiri yaliyohifadhiwa</translation>
 <translation id="5876056640971328065">Sitisha video</translation>
 <translation id="9037412730408024068">Ili tukusaidie ukamilishe majukumu, Brave itapokea URL na maudhui ya tovuti ambako unatumia programu ya Mratibu na pia maelezo unayotuma kupitia programu ya Mratibu</translation>
@@ -769,7 +768,6 @@ Kwa mfano, baadhi ya tovuti zinaweza kujibu ombi hili kwa kukuonyesha matangazo 
 <translation id="7413229368719586778">Tarehe ya kuanza <ph name="DATE"/></translation>
 <translation id="7431991332293347422">Dhibiti namna historia yako ya kuvinjari inavyotumika kuweka mapendeleo kwenye huduma ya Tafuta na Brave na zaidi</translation>
 <translation id="6234515504547364178">Ondoka kwenye Brave</translation>
-<translation id="1438581767753657407">Wakati umewasha Hali nyepesi, Brave hutumia seva za Brave kupakia kurasa haraka. Hali nyepesi hubadilisha kurasa zinazopakia polepole ili zipakie maudhui muhimu pekee. Hali nyepesi haitumiki kwenye vichupo katika hali Fiche.</translation>
 <translation id="7444811645081526538">Aina zingine</translation>
 <translation id="8218628800671693884">Hukuondoa kwenye akaunti za tovuti nyingi. Hutaondolewa kwenye Akaunti ya Brave.</translation>
 <translation id="7454641608352164238">Nafasi haitoshi</translation>
@@ -994,4 +992,23 @@ Kwa mfano, baadhi ya tovuti zinaweza kujibu ombi hili kwa kukuonyesha matangazo 
 <translation id="981121421437150478">Nje ya mtandao</translation>
 <translation id="983192555821071799">Funga vichupo vyote</translation>
 <translation id="987264212798334818">Jumla</translation>
+<translation id="5186185447130319458">Faragha</translation>
+<translation id="9063160602596686558">Hutuma kiotomatiki takwimu za matumizi na ripoti za programu kuacha kufanya kazi kwa Brave Software</translation>
+<translation id="1438581767753657407">Wakati hali ya Lite imewashwa, Brave hutumia seva za Brave kuwezesha kurasa kupakia haraka. Hali ya Lite huandika upya kurasa zinazopakia polepole sana zipakie maudhui muhimu tu. Hali ya Lite haitumiki kwa vichupo vya Faragha.</translation>
+<translation id="2633278372998075009">Vichupo vya faragha</translation>
+<translation id="6099151465289169210">Umebadilisha utumie vichupo vya faragha</translation>
+<translation id="4243710787042215766">Fungua katika kichupo cha faragha</translation>
+<translation id="3110967157686007724">Kichupo cha faragha</translation>
+<translation id="4526803704855831732">Vichupo vya Faragha</translation>
+<translation id="7465104139234185284">Funga vichupo vyote vya faragha</translation>
+<translation id="6336451774241870485">Kichupo kipya cha faragha</translation>
+<translation id="3234355010754616171">Kichupo kipya cha faragha</translation>
+<translation id="6610147964972079463">Funga vichupo vya faragha</translation>
+<translation id="4968908871398201967">Hali ya faragha</translation>
+<translation id="9080642952018487277">Ingia katika hali ya faragha</translation>
+<translation id="4883379392681899581">Ondoka kwenye kichupo cha faragha</translation>
+<translation id="3377025655491224618">Kichupo cha Faragha</translation>
+<translation id="584427517463557805">Umechagua Kichupo cha Faragha</translation>
+<translation id="2280910239864711607">Fungua kichupo kipya katika hali ya Faragha</translation>
+<translation id="8628973420740315031">Ili ushiriki na watu walio karibu, waruhusu wachanganue msimbo huu wa QR</translation>
 </translationbundle>

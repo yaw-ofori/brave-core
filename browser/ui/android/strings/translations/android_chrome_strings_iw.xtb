@@ -591,7 +591,6 @@
 <translation id="5862731021271217234">כדי לקבל את הכרטיסיות מהמכשירים האחרים שלך, יש להפעיל את הסנכרון</translation>
 <translation id="5864174910718532887">פרטים: ממוינות לפי שם האתר</translation>
 <translation id="5864419784173784555">ממתין להורדה נוספת…</translation>
-<translation id="9063160602596686558">‏שליחת דוחות קריסה וסטטיסטיקת שימוש אל Brave באופן אוטומטי</translation>
 <translation id="5869522115854928033">סיסמאות שמורות</translation>
 <translation id="5876056640971328065">השהיית הסרטון</translation>
 <translation id="9037412730408024068">‏כדי לעזור לך להשלים משימות, Brave תקבל את כתובות ה-URL והתוכן של האתרים שבהם נעשה שימוש ב-Assistant, וכן את המידע שנשלח דרך Assistant</translation>
@@ -769,7 +768,6 @@
 <translation id="7413229368719586778">תאריך התחלה <ph name="DATE"/></translation>
 <translation id="7431991332293347422">קביעת אופן השימוש בהיסטוריית הגלישה להתאמה אישית של החיפוש ועוד</translation>
 <translation id="6234515504547364178">‏יציאה מ-Brave</translation>
-<translation id="1438581767753657407">‏כשמצב הטעינה המהירה מופעל, Brave משתמש בשרתים של Brave כדי להאיץ את טעינת הדפים. אם מדובר בדפים איטיים מאוד, במצב הטעינה המהירה הם עוברים שכתוב כך שרק התוכן החיוני שלהם נטען. מצב הטעינה המהירה לא חל על כרטיסיות גלישה בסתר.</translation>
 <translation id="7444811645081526538">קטגוריות נוספות</translation>
 <translation id="8218628800671693884">‏הפעולה תוציא אותך מרוב האתרים אבל לא מחשבון Brave שלך.</translation>
 <translation id="7454641608352164238">אין מספיק מקום</translation>
@@ -994,4 +992,23 @@
 <translation id="981121421437150478">לא מקוון</translation>
 <translation id="983192555821071799">סגור את כל הכרטיסיות</translation>
 <translation id="987264212798334818">כללי</translation>
+<translation id="5186185447130319458">פרטי</translation>
+<translation id="9063160602596686558">‏שליחת דוחות קריסה וסטטיסטיקת שימוש אל Brave Software באופן אוטומטי</translation>
+<translation id="1438581767753657407">כאשר מצב Lite מופעל, Brave משתמש בשרתים של Brave כדי לגרום לדפים להיטען מהר יותר. מצב Lite משכתב דפים איטיים מאוד כדי לטעון רק תוכן חיוני. מצב Lite אינו חל על כרטיסיות פרטיות.</translation>
+<translation id="2633278372998075009">כרטיסיות פרטיות</translation>
+<translation id="6099151465289169210">בוצע מעבר לכרטיסיות פרטיות</translation>
+<translation id="4243710787042215766">פתח בכרטיסייה פרטית</translation>
+<translation id="3110967157686007724">כרטיסייה פרטית</translation>
+<translation id="4526803704855831732">כרטיסיות פרטיות</translation>
+<translation id="7465104139234185284">סגור את כל הכרטיסיות הפרטיות</translation>
+<translation id="6336451774241870485">כרטיסייה פרטית חדשה</translation>
+<translation id="3234355010754616171">כרטיסייה פרטית חדשה</translation>
+<translation id="6610147964972079463">סגור כרטיסיות פרטיות</translation>
+<translation id="4968908871398201967">מצב פרטי</translation>
+<translation id="9080642952018487277">עבור למצב פרטי</translation>
+<translation id="4883379392681899581">צא ממצב פרטי</translation>
+<translation id="3377025655491224618">כרטיסייה פרטית</translation>
+<translation id="584427517463557805">כרטיסייה פרטית שנבחרה</translation>
+<translation id="2280910239864711607">פתח כרטיסייה חדשה במצב פרטי</translation>
+<translation id="8628973420740315031">‏כדי לשתף עם אנשים בקרבת מקום, יש לתת להם לסרוק את קוד ה-QR הזה</translation>
 </translationbundle>

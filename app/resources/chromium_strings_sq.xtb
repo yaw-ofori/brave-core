@@ -13,10 +13,8 @@ Disa funksione mund të mos ofrohen dhe ndryshimet në preferenca nuk do të ruh
 <translation id="7419046106786626209">Chrome OS nuk mund të sinkronizonte të dhënat e tua sepse Sinkronizimi nuk mundësohet për domenin tënd.</translation>
 <translation id="5147525139567260139">Ndaj një skedë të Brave</translation>
 <translation id="1530633922026945685">Brave ka nevojë për leje për t'u qasur te kamera jote për të krijuar një hartë 3D të ambientit tënd rrethues</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{Administratori yt kërkon që të hapësh përsëri Brave për të zbatuar këtë përditësim}=1{Administratori yt kërkon që të hapësh përsëri Brave për të zbatuar këtë përditësim Dritarja jote "e fshehtë" nuk do të rihapet.}other{Administratori yt kërkon që të hapësh përsëri Brave për të zbatuar këtë përditësim # dritaret e tua "të fshehta" nuk do të rihapen.}}</translation>
 <translation id="5616153642055197778">Ofrohet një version i ri më i sigurt i Brave.</translation>
 <translation id="6797402139308059782">Lejo që Brave të ekzekutohet në sfond</translation>
-<translation id="1448049584457347995">Për ta bërë më të sigurt Brave, çaktivizuam disa shtesa që nuk janë të listuara në <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dhe që mund të jenë shtuar pa dijeninë tënde.</translation>
 <translation id="5875673934455379806">Instalo përsëri Brave</translation>
 <translation id="650055380213106997">Po identifikohesh me një llogari të menaxhuar dhe po i jep administratorit të saj kontrollin mbi profilin tënd të Brave. Të dhënat e tua të Brave, si aplikacionet, faqeshënuesit, historiku, fjalëkalimet dhe cilësimet e tjera do të bëhen të lidhura përgjithmonë me <ph name="USER_NAME"/>. Do të mund t'i fshish këto të dhëna nëpërmjet "Panelit të llogarive të Brave", por nuk do të mund t'i lidhësh këto të dhëna me një llogari tjetër. Mund të krijosh si opsion një profil të ri për t'i mbajtur më vete të dhënat ekzistuese të Brave. <ph name="LEARN_MORE"/></translation>
 <translation id="1649714546770135458">Duke çaktivizuar këtë, mund të identifikohesh në sajtet e Brave si Gmail pa u identifikuar në Brave</translation>
@@ -51,7 +49,6 @@ Disa funksione mund të mos ofrohen dhe ndryshimet në preferenca nuk do të ruh
 <translation id="7365690458036015383">Instaluesi nuk arriti ta nxjerrë arkivin. Shkarko përsëri Brave.</translation>
 <translation id="8919461291440820124">Brave po përdor mikrofonin tënd.</translation>
 <translation id="4805806622840861220">Rinis Brave</translation>
-<translation id="6554952862405000915">Hape lidhjen në një dritare të fshe&amp;htë të Brave</translation>
 <translation id="1477146545787277177">Brave pësoi një ndërprerje aksidentale. Dëshiron ta rinisësh tani?</translation>
 <translation id="7503098128120083822">Brave dëshiron të eksportojë fjalëkalimet e tua.</translation>
 <translation id="2585240446624043880">Brave nuk mund të lexojë dhe shkruajë në direktorinë e tij të të dhënave:
@@ -66,10 +63,7 @@ Disa funksione mund të mos ofrohen dhe ndryshimet në preferenca nuk do të ruh
 <translation id="8703492925273919597">Mbyll të gjitha dritaret e Brave dhe provo sërish.</translation>
 <translation id="1384923383737428730">Ka një softuer keqdashës në kompjuterin tënd. Brave mund ta heqë atë, të restaurojë cilësimet e tua dhe të çaktivizojë shtesat për të bërë që shfletuesi yt të punojë përsëri si normalisht.</translation>
 <translation id="4847979153841887006">Logoja e Brave</translation>
-<translation id="669092380621816981">Të dhënat e shfletimit të këtij personi do të fshihen nga kjo pajisje. Për të rikuperuar të dhënat, identifikohu në Brave si <ph name="USER_EMAIL"/>.</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{Ka një përditësim të ri për Brave dhe do të zbatohet sapo ta rinisësh.}=1{Ka një përditësim të ri për Brave dhe do të zbatohet sapo ta rinisësh. Dritarja jote "e fshehtë" nuk do të rihapet.}other{Ka një përditësim të ri për Brave dhe do të zbatohet sapo ta rinisësh. # dritaret e tua "të fshehta" nuk do të rihapen.}}</translation>
 <translation id="4304059894777924102">Brave nuk mund t'i kontrollojë fjalëkalimet e tua. Provo të kontrollosh lidhjen e internetit.</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{Administratori yt kërkon që të hapësh përsëri Brave për të zbatuar këtë përditësim}=1{Administratori yt kërkon që të hapësh përsëri Brave për të zbatuar këtë përditësim Dritarja jote "e fshehtë" nuk do të rihapet.}other{Administratori yt kërkon që të hapësh përsëri Brave për të zbatuar këtë përditësim # dritaret e tua "të fshehta" nuk do të rihapen.}}</translation>
 <translation id="1807774211756215222">Hape lidhjen në një &amp;skedë të re të Brave</translation>
 <translation id="7453070689008684791">Brave do të ketë qasje te "Disku" yt për të dhënë sugjerime në shiritin e adresës</translation>
 <translation id="2106568569080763501">Brave të lejon të klikosh një numër telefoni në ueb dhe ta telefonosh me Skype!</translation>
@@ -165,7 +159,6 @@ Disa funksione mund të mos ofrohen. Specifiko një direktori tjetër profili os
 <translation id="7830723774663008396">Brave - <ph name="PAGE_TITLE"/></translation>
 <translation id="5253815230176279256">Brave Pay (kopjuar në Brave)</translation>
 <translation id="2301993384336631869">Brave është përditësuar, por nuk e ke përdorur për të paktën 30 ditë.</translation>
-<translation id="4624945300945265642">Hape lidhjen në një dritare të fshe&amp;htë të Brave</translation>
 <translation id="3335606533094650083">Brave ka nevojë për leje për t'u qasur te mikrofoni yt për këtë sajt</translation>
 <translation id="1785833016412082453">Brave nuk mund t'i kontrollojë shtesat e tua. Provo përsëri më vonë.</translation>
 <translation id="1705567146636171298">Përditëso Brave</translation>
@@ -200,7 +193,6 @@ Brave nuk është në gjendje të rikuperojë cilësimet e tua.</translation>
 <translation id="5419189641394808652">Brave nuk mundi të sinkronizonte të dhënat e tua, sepse "Sinkronizimi" nuk ofrohet për domenin tënd.</translation>
 <translation id="4784414698887946907">Kjo do të fshijë të dhënat e shfletimit nga kjo pajisje. Për t'i marrë më vonë të dhënat, identifikohu te Brave si <ph name="USER_EMAIL"/>.</translation>
 <translation id="7747138024166251722">Instaluesi nuk mund të krijonte një direktori të përkohshme. Kontrollo për hapësirë të lirë në disk dhe për lejen për të instaluar softuerin.</translation>
-<translation id="6134859571175647580">Paralajmërim: Brave nuk mund të parandalojë regjistrimin e historikut të shfletimit nga shtesat. Për të çaktivizuar këtë shtesë në modalitetin "e fshehtë", anulo përzgjedhjen e këtij opsioni.</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> - Brave Canary</translation>
 <translation id="38898988211673781">Pastro kukit dhe të dhënat e sajteve kur të mbyllësh Brave</translation>
 <translation id="7963515534397191222">Brave nuk mund të përditësohej me versionin më të fundit, kështu që të mungojnë rregullimet e sigurisë dhe funksionet e reja.</translation>
@@ -237,7 +229,6 @@ Brave nuk është në gjendje të rikuperojë cilësimet e tua.</translation>
 <translation id="8285294305439559616">Brave po përpiqet të shfaqë fjalëkalime. Shkruaj fjalëkalimin tënd të Windows për ta lejuar këtë.</translation>
 <translation id="6389268239133412586">Brave nuk mund të përditësohet</translation>
 <translation id="6368958679917195344">Sistemi operativ Brave bëhet i mundur nga softueri shtesë <ph name="BEGIN_LINK_CROS_OSS"/>me burim të hapur<ph name="END_LINK_CROS_OSS"/>.</translation>
-<translation id="8848045066928358658">Për ta bërë më të sigurt Brave, çaktivizuam shtesën e mëposhtme që nuk është e listuar në <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dhe që mund të jetë shtuar pa dijeninë tënde.</translation>
 <translation id="5173820533850252773">Brave nuk është i përditësuar</translation>
 <translation id="310518206836658214">{0,plural, =1{Brave do të hapet përsëri për një orë}other{Brave do të hapet përsëri për # orë}}</translation>
 <translation id="7863882214613921971">Hape lidhjen në një &amp;skedë të re të Brave</translation>
@@ -247,4 +238,13 @@ Brave nuk është në gjendje të rikuperojë cilësimet e tua.</translation>
 <translation id="7977787072794666032">Brave mund të mos funksionojë si duhet sepse nuk mbështetet më në Windows XP ose Windows Vista</translation>
 <translation id="2398566204186296120"><ph name="DOMAIN"/> kërkon që të lexosh dhe të pranosh "Kushtet e shërbimit" më poshtë para se të përdorësh këtë pajisje. Këto kushte nuk i zgjerojnë, modifikojnë ose kufizojnë kushtet e sistemit operativ të Brave.</translation>
 <translation id="8992261409816268381">Autorët e Brave</translation>
+<translation id="6134859571175647580">Paralajmërim: Brave nuk mund të parandalojë regjistrimin e historikut të shfletimit nga shtesat. Për të çaktivizuar këtë shtesë në modalitetin "e fshehtë", anulo përzgjedhjen e këtij opsioni.</translation>
+<translation id="1448049584457347995">Për ta bërë më të sigurt Brave, çaktivizuam disa shtesa që nuk janë të listuara në <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dhe që mund të jenë shtuar pa dijeninë tënde.</translation>
+<translation id="8848045066928358658">Për ta bërë më të sigurt Brave, çaktivizuam shtesën e mëposhtme që nuk është e listuar në <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dhe që mund të jetë shtuar pa dijeninë tënde.</translation>
+<translation id="669092380621816981">Të dhënat e shfletimit të këtij personi do të fshihen nga kjo pajisje. Për të rikuperuar të dhënat, identifikohu në Brave si <ph name="USER_EMAIL"/>.</translation>
+<translation id="4624945300945265642">Hape lidhjen në një dritare të fshe&amp;htë të Brave</translation>
+<translation id="6554952862405000915">Hape lidhjen në një dritare të fshe&amp;htë të Brave</translation>
+<translation id="8274659559228306809">{COUNT,plural, =0{Ka një përditësim të ri për Brave dhe do të zbatohet sapo ta rinisësh.}=1{Ka një përditësim të ri për Brave dhe do të zbatohet sapo ta rinisësh. Dritarja jote "e fshehtë" nuk do të rihapet.}other{Ka një përditësim të ri për Brave dhe do të zbatohet sapo ta rinisësh. # dritaret e tua "të fshehta" nuk do të rihapen.}}</translation>
+<translation id="3829358914761176693">{COUNT,plural, =0{Administratori yt kërkon që të hapësh përsëri Brave për të zbatuar këtë përditësim}=1{Administratori yt kërkon që të hapësh përsëri Brave për të zbatuar këtë përditësim Dritarja jote "e fshehtë" nuk do të rihapet.}other{Administratori yt kërkon që të hapësh përsëri Brave për të zbatuar këtë përditësim # dritaret e tua "të fshehta" nuk do të rihapen.}}</translation>
+<translation id="552349673358711446">{COUNT,plural, =0{Administratori yt kërkon që të hapësh përsëri Brave për të zbatuar këtë përditësim}=1{Administratori yt kërkon që të hapësh përsëri Brave për të zbatuar këtë përditësim Dritarja jote "e fshehtë" nuk do të rihapet.}other{Administratori yt kërkon që të hapësh përsëri Brave për të zbatuar këtë përditësim # dritaret e tua "të fshehta" nuk do të rihapen.}}</translation>
 </translationbundle>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="bg">
+<translation id="658539216370629794">Отваряне на връзката в поверителен прозорец</translation>
+<translation id="1432267168815937878">Отваряне на връзката в поверителен прозорец</translation>
+<translation id="6516243500644829484">Нов поверителен прозорец</translation>
+<translation id="7973394300052703468">Нов поверителен прозорец</translation>
+<translation id="6395403722585816044">Изтеглено в поверителен режим</translation>
+<translation id="203837651858678035">Ще излезете ли от поверителния режим все пак?</translation>
+<translation id="7376221878517288144">Ще излезете ли от поверителния режим все пак?</translation>
+<translation id="871606814707918245">Повечето хора блокират известията от този сайт</translation>
+<translation id="5053701565089446556">Поверително разширение: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Поверително приложение: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Поверителен раздел: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Поверителна подрамка: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Портал в режим „инкогнито“: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Уеб магазин</translation>
+<translation id="8261378640211443080">Това разширение не е посочено в <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> и може да е било добавено без ваше знание.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Поверителен)</translation>
+<translation id="4369414322596874629">Можете да разглеждате поверително, като използвате поверителен прозорец</translation>
+<translation id="3772947852642271642">Използвайте интернет, без да запазвате историята си на сърфиране с поверителен прозорец</translation>
+<translation id="3871738366246972820">Използвате споделен компютър? Опитайте да отворите поверителен прозорец.</translation>
+<translation id="5808622652939943719">За да разглеждате поверително, щракнете върху менюто с иконата с точки, за да отворите поверителен прозорец</translation>
+<translation id="9079153198295609735">Автоматично изпращане до Brave Software на статистически данни за използването на Brave и сигнали за сривове</translation>
+<translation id="8839398440242019256">Не е от уеб магазина.</translation>
+<translation id="6945695820322143954">Това разширение нарушава правилата на уеб магазина.</translation>
+<translation id="1676595396635191120">Нов поверителен прозорец</translation>
+<translation id="5094764494104066239">Непрекъснато показване на лентата на отметките</translation>
+<translation id="4471385409549756595">Нов поверителен прозорец</translation>
+<translation id="4540437243849625078">Този сайт ще сподели информация с приложение извън поверителния режим.</translation>
+<translation id="1227836882233136433">Ще напуснете ли поверителния режим?</translation>
+<translation id="7618452966706304788">Искате ли да използвате Touch ID с <ph name="APP_NAME"/> в поверителен режим?</translation>
+<translation id="3098826269712097986">Данните за вход ще се съхраняват в Brave, след като излезете от поверителния режим. Това ще ви позволи да използвате Touch ID с този уебсайт отново по-късно.</translation>
+<translation id="5186185447130319458">Поверителен</translation>
+<translation id="2579188629646253712">Изход от поверителния режим</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Отваряне на всички в прозорец в режим „&amp;инкогнито“}=1{Отваряне в прозорец в режим „&amp;инкогнито“}other{Отваряне на всички (#) в прозорец в режим „&amp;инкогнито“}}</translation>
+<translation id="1985165269306590797">Отваряне на прозорец в режим „&amp;инкогнито“</translation>
+<translation id="642436385689435488">Отваряне на всички в прозорец в режим „инкогнито“</translation>
+<translation id="5463021359602611602">Отваряне в прозорец в режим „инкогнито“</translation>
+<translation id="5070556616376997776">Сърфирате в режим „инкогнито“</translation>
+<translation id="5832813618714645810">Профили</translation>
+<translation id="6921634551681321094">Добавяне на човек</translation>
+<translation id="6315812488257290136">Профили</translation>
+<translation id="5840822070878669614">Отваряне на уеб магазина на Brave</translation>
+<translation id="8648684608605749476">Блокиране на „бисквитките“ на трети страни в режим „инкогнито“</translation>
+<translation id="1281501490173223206">Само за текущата сесия в режим „инкогнито“</translation>
+<translation id="9063160602596686558">Автоматично изпраща до Brave Software статистически данни за използването на Brave и сигнали за сривове</translation>
+<translation id="3860292630623580294">(„Инкогнито“)</translation>
+<translation id="4854477725773269949">Да се разреши в режим инкогнито</translation>
+<translation id="6436164536244065364">Преглед в уеб магазина</translation>
+<translation id="38046578254905003">Намерете разширения и теми в <ph name="BEGIN_LINK"/>уеб магазина на Brave<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Нов частен раздел</translation>
+<translation id="6610147964972079463">Затворете поверителните раздели</translation>
+</translationbundle>

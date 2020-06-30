@@ -1828,7 +1828,6 @@
 <translation id="8800988563907321413">تظهر اقتراحاتك "المجاورة" هنا</translation>
 <translation id="8805819170075074995">‏إدخال في القائمة "<ph name="LANGUAGE_ID"/>": تم تجاهل الإدخال لأنه مضمّن في سياسة SpellcheckLanguage أيضًا.</translation>
 <translation id="8807160976559152894">القطع بعد كل صفحة</translation>
-<translation id="8820817407110198400">الإشارات المرجعية</translation>
 <translation id="883848425547221593">إشارات أخرى</translation>
 <translation id="884264119367021077">عنوان الشحن</translation>
 <translation id="884923133447025588">لم يتمّ العثور على أي آلبة إبطال.</translation>
@@ -1948,4 +1947,5 @@
 <translation id="994346157028146140">JIS B1</translation>
 <translation id="6771143571626203666">‏من Brave Pay</translation>
 <translation id="3489858312836205593">‏فتح نافذة جديدة للتصفُّح المتخفي في Brave</translation>
+<translation id="8820817407110198400">الإشارات المرجعية</translation>
 </translationbundle>

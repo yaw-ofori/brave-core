@@ -606,7 +606,6 @@
 <translation id="1757301747492736405">待卸载</translation>
 <translation id="175772926354468439">启用主题背景</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">在 Brave 网上应用店中查看详情</translation>
 <translation id="176193854664720708">指纹传感器位于电源按钮中。请用任一根手指轻轻触摸它。</translation>
 <translation id="1763046204212875858">创建应用快捷方式</translation>
 <translation id="1763108912552529023">继续了解</translation>
@@ -1322,7 +1321,6 @@
 <translation id="2660779039299703961">事件</translation>
 <translation id="4052689580269971502">无法连接到打印机。请确保该打印机已开机且已通过 Wi-Fi 或 USB 连接到您的 Bravebook。</translation>
 <translation id="2661714428027871023">在精简模式下，网页加载速度会更快且消耗的流量会更少。点击即可了解详情。</translation>
-<translation id="8808478386290700967">Brave 网上应用店</translation>
 <translation id="2663302507110284145">语言</translation>
 <translation id="2665394472441560184">添加新字词</translation>
 <translation id="2665647207431876759">已过期</translation>
@@ -2207,7 +2205,6 @@
 <translation id="3771294271822695279">视频文件</translation>
 <translation id="3775432569830822555">SSL 服务器证书</translation>
 <translation id="3775705724665058594">发送到您的设备</translation>
-<translation id="6945695820322143954">此扩展程序违反了 Brave 网上应用店政策。</translation>
 <translation id="3777483481409781352">无法激活移动网络设备</translation>
 <translation id="3777806571986431400">扩展程序已启用</translation>
 <translation id="3778152852029592020">已取消下载。</translation>
@@ -3021,7 +3018,6 @@
 <translation id="48704129375571883">添加其他功能</translation>
 <translation id="4870758487381879312">请输入管理员提供的密码以获取配置信息</translation>
 <translation id="4870903493621965035">没有已配对的设备</translation>
-<translation id="8839398440242019256">并非来自 Brave 网上应用店。</translation>
 <translation id="4871322859485617074">PIN 码包含无效字符</translation>
 <translation id="4871370605780490696">添加书签</translation>
 <translation id="4871568871368204250">关闭同步功能</translation>
@@ -3617,7 +3613,6 @@
 <translation id="563535393368633106">使用前先询问（推荐）</translation>
 <translation id="5636996382092289526">要使用“<ph name="NETWORK_ID"/>”，您可能需要先<ph name="LINK_START"/>访问该网络的登录页面<ph name="LINK_END"/>，该页面会在几秒钟后自动打开。如果未打开，就表示该网络无法使用。</translation>
 <translation id="5637476008227280525">移动数据开关</translation>
-<translation id="38046578254905003">在 <ph name="BEGIN_LINK"/>Brave 网上应用店<ph name="END_LINK"/>中查找扩展程序和主题背景</translation>
 <translation id="5639549361331209298">重新加载此网页，按下可查看更多选项</translation>
 <translation id="5640133431808313291">管理安全密钥</translation>
 <translation id="5642508497713047">CRL 签名人</translation>
@@ -3789,7 +3784,6 @@
 <translation id="5864754048328252126">充电时的闲置操作</translation>
 <translation id="5865508026715185451">“<ph name="APP_NAME"/>”即将暂停</translation>
 <translation id="586567932979200359">您正在通过磁盘映像运行 <ph name="PRODUCT_NAME"/>。您只需在计算机上安装该软件，即可在没有磁盘映像的情况下运行它，并可确保使用最新版本。</translation>
-<translation id="9063160602596686558">自动将使用情况统计信息和崩溃报告发送至 Brave</translation>
 <translation id="5866557323934807206">清除这些设置以便日后访问</translation>
 <translation id="5866840822086176774">非常强</translation>
 <translation id="5867841422488265304">搜索或输入网址</translation>
@@ -4231,7 +4225,6 @@
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/>将为此计算机上的所有用户设置自动更新。</translation>
 <translation id="6434309073475700221">放弃</translation>
 <translation id="6434325376267409267">您需要更新设备，才能使用 <ph name="APP_NAME"/>。</translation>
-<translation id="6436164536244065364">在 Brave 网上应用店中查看</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> - 正在播放音频</translation>
 <translation id="6442187272350399447">棒极了</translation>
 <translation id="6444070574980481588">设置日期和时间</translation>
@@ -4947,7 +4940,6 @@
 <translation id="7375235221357833624">{0,plural, =1{请在 1 小时内更新此设备}other{请在 # 小时内更新此设备}}</translation>
 <translation id="7376553024552204454">在移动鼠标光标时突出显示光标</translation>
 <translation id="7377451353532943397">继续禁止使用传感器</translation>
-<translation id="5840822070878669614">打开 Brave 网上应用店</translation>
 <translation id="7378812711085314936">获取数据网络连接</translation>
 <translation id="7378962964415201590">与新手机配对</translation>
 <translation id="7380768571499464492">已更新<ph name="PRINTER_NAME"/></translation>
@@ -5169,7 +5161,6 @@
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>（在 <ph name="PAGE_TITLE"/> 中）。</translation>
 <translation id="7674416868315480713">停用 Linux 中所有正被转发的端口</translation>
 <translation id="1800308196794859773">将您的语音内容发送给 Brave，以便能向任何文本字段输入语音内容。</translation>
-<translation id="3098826269712097986">在您退出无痕模式后，登录数据会存储在 Brave 中。这样，当您以后再次访问该网站时，就可以使用 Touch ID 登录了。</translation>
 <translation id="7681095912841365527">该网站可能会使用蓝牙</translation>
 <translation id="7683373461016844951">要想继续，请点击“确定”，然后点击“添加用户”为您位于 <ph name="DOMAIN"/> 中的电子邮件地址创建一份新个人资料。</translation>
 <translation id="7684212569183643648">安装者：您的管理员</translation>
@@ -5652,7 +5643,6 @@
 <translation id="8259239505248583312">开始使用</translation>
 <translation id="8260126382462817229">请尝试重新登录</translation>
 <translation id="8260864402787962391">鼠标</translation>
-<translation id="8261378640211443080">该扩展程序未列在 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>中，并可能是在您不知情的情况下添加的。</translation>
 <translation id="8261506727792406068">删除</translation>
 <translation id="8263336784344783289">为此组命名</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> 已隐藏鼠标指针。</translation>
@@ -6073,7 +6063,6 @@
 <translation id="8805140816472474147">请确认同步设置以开始同步。</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> 可以重新打开意外关闭的标签页</translation>
 <translation id="8807632654848257479">稳定</translation>
-<translation id="8808478386290700967">Brave 网上应用店</translation>
 <translation id="8808686172382650546">猫</translation>
 <translation id="1510515462062582289">在此页面上，您可看到 Brave 中已安装的所有扩展程序。</translation>
 <translation id="8809147117840417135">浅蓝绿色</translation>
@@ -6225,7 +6214,6 @@
 <translation id="8983632908660087688"><ph name="ORIGIN"/> 可修改 <ph name="FILENAME"/></translation>
 <translation id="8985264973231822211"><ph name="DEVICE_LAST_ACTIVATED_TIME"/> 天前曾有活动</translation>
 <translation id="8986362086234534611">不保存</translation>
-<translation id="9079153198295609735">将使用情况统计信息和崩溃报告自动发送给 Brave</translation>
 <translation id="8987927404178983737">月</translation>
 <translation id="8991520179165052608">该网站可能会使用您的麦克风</translation>
 <translation id="899384117894244799">移除受限用户</translation>
@@ -6456,4 +6444,54 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">正在建立安全连接...</translation>
 <translation id="998747458861718449">检查(&amp;N)</translation>
+<translation id="658539216370629794">在私有窗口中打开链接</translation>
+<translation id="1432267168815937878">在私有窗口中打开链接</translation>
+<translation id="6516243500644829484">新的私有窗口</translation>
+<translation id="7973394300052703468">新的私有窗口</translation>
+<translation id="6395403722585816044">以私有模式下载</translation>
+<translation id="203837651858678035">要退出私有模式？</translation>
+<translation id="7376221878517288144">要放弃私有模式？</translation>
+<translation id="871606814707918245">多数人会屏蔽来自此网站的通知</translation>
+<translation id="5053701565089446556">私人扩展名：<ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">私有应用：<ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">私有选项卡：<ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">私有子帧：<ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">无痕式门户网站：<ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">网上商店</translation>
+<translation id="8261378640211443080">该扩展程序未列在 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>中，并可能是在您不知情的情况下添加的。</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Private)</translation>
+<translation id="4369414322596874629">您可以使用私有窗口在私下浏览</translation>
+<translation id="3772947852642271642">如果您使用私有窗口浏览网页，系统便不会保存您的浏览记录</translation>
+<translation id="3871738366246972820">使用共享的计算机？尝试打开一个私有窗口。</translation>
+<translation id="5808622652939943719">要以私有模式进行浏览，请点击点图标菜单打开私有窗口</translation>
+<translation id="9079153198295609735">将使用情况统计信息和崩溃报告自动发送给 Brave Software</translation>
+<translation id="8839398440242019256">并非来自网上商店。</translation>
+<translation id="6945695820322143954">此扩展名违反了网上商店的政策。</translation>
+<translation id="1676595396635191120">新的私有窗口</translation>
+<translation id="5094764494104066239">总是显示书签栏</translation>
+<translation id="4471385409549756595">新的私有窗口</translation>
+<translation id="4540437243849625078">该网站即将与私有模式之外的应用共享信息。</translation>
+<translation id="1227836882233136433">离开私有模式？</translation>
+<translation id="7618452966706304788">想要在私有模式下在 <ph name="APP_NAME"/> 上使用 Touch ID？</translation>
+<translation id="3098826269712097986">退出专用模式后，登录数据会存储在 Brave。这样，您稍后还可以在该网站上再次使用 Touch ID。</translation>
+<translation id="5186185447130319458">私有</translation>
+<translation id="2579188629646253712">退出私有窗口</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{在无痕式窗口中打开全部网址(&amp;I)}=1{在无痕式窗口中打开 1 个网址(&amp;I)}other{在无痕式窗口中打开全部（# 个）网址(&amp;I)}}</translation>
+<translation id="1985165269306590797">在隐身窗口中打开(&amp;I)</translation>
+<translation id="642436385689435488">在无痕式窗口中打开所有网址</translation>
+<translation id="5463021359602611602">在无痕式窗口中打开</translation>
+<translation id="5070556616376997776">您正在使用无痕模式</translation>
+<translation id="5832813618714645810">个人资料</translation>
+<translation id="6921634551681321094">添加用户</translation>
+<translation id="6315812488257290136">个人资料</translation>
+<translation id="5840822070878669614">打开 Brave 网上应用店</translation>
+<translation id="8648684608605749476">在无痕模式下阻止第三方 Cookie</translation>
+<translation id="1281501490173223206">仅限当前的隐身会话</translation>
+<translation id="9063160602596686558">自动将使用情况统计信息和崩溃报告发送至 Brave Software</translation>
+<translation id="3860292630623580294">（隐身）</translation>
+<translation id="4854477725773269949">在隐身模式下启用</translation>
+<translation id="6436164536244065364">在 Brave 网上应用店中查看</translation>
+<translation id="38046578254905003">在 <ph name="BEGIN_LINK"/>Brave 网上应用店<ph name="END_LINK"/>中查找扩展程序和主题背景</translation>
+<translation id="6336451774241870485">新的私有标签页</translation>
+<translation id="6610147964972079463">关闭私有模式</translation>
 </translationbundle>

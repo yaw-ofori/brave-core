@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="de">
+<translation id="658539216370629794">Verknüpfung in Privatfenster öffnen</translation>
+<translation id="1432267168815937878">Verknüpfung in privatem Fenster öffnen</translation>
+<translation id="6516243500644829484">Neues &amp;privates Fenster</translation>
+<translation id="7973394300052703468">Neues &amp;privates Fenster</translation>
+<translation id="6395403722585816044">Im Privatmodus heruntergeladen</translation>
+<translation id="203837651858678035">Privatmodus trotzdem verlassen?</translation>
+<translation id="7376221878517288144">Privatmodus trotzdem verlassen?</translation>
+<translation id="871606814707918245">Die meisten Nutzer blockieren Benachrichtigungen von dieser Website</translation>
+<translation id="5053701565089446556">Private Erweiterung: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Private App: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Privater Reiter: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Privater Subframe: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Webshop</translation>
+<translation id="8261378640211443080">Diese Erweiterung ist nicht im <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> aufgeführt und wurde möglicherweise ohne Ihr Wissen hinzugefügt.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
+<translation id="4369414322596874629">Sie können privat browsen, wenn Sie ein Privatfenster nutzen</translation>
+<translation id="3772947852642271642">Surfen Sie dank Privatfenster im Web, ohne Ihren Browserverlauf zu speichern</translation>
+<translation id="3871738366246972820">Sie verwenden einen öffentlichen Computer? Versuchen Sie doch einmal ein privates Fenster.</translation>
+<translation id="5808622652939943719">Zum privaten Browsen öffnen Sie im Menü unter dem Punkte-Symbol ein privates Fenster</translation>
+<translation id="9079153198295609735">Nutzungsstatistiken und Absturzberichte automatisch an Brave Software senden</translation>
+<translation id="8839398440242019256">Nicht aus dem Webshop.</translation>
+<translation id="6945695820322143954">Diese Erweiterung verletzt die Richtlinien des Webshops.</translation>
+<translation id="1676595396635191120">Neues privates Fenster</translation>
+<translation id="5094764494104066239">Lesezeichenleiste immer anzeigen</translation>
+<translation id="4471385409549756595">Neues Privatfenster</translation>
+<translation id="4540437243849625078">Diese Website möchte Informationen an eine App außerhalb des Privatmodus weitergeben.</translation>
+<translation id="1227836882233136433">Privatmodus verlassen</translation>
+<translation id="7618452966706304788">Möchten Sie auf <ph name="APP_NAME"/> im Privatmodus Touch ID nutzen?</translation>
+<translation id="3098826269712097986">Die Anmeldedaten werden nach Verlassen des Privatmodus in Brave gespeichert. So können Sie auf dieser Website später wieder Touch ID nutzen.</translation>
+<translation id="5186185447130319458">Privat</translation>
+<translation id="2579188629646253712">Privatmodus verlassen</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Alle in &amp;Inkognitofenster öffnen}=1{In &amp;Inkognitofenster öffnen}other{Alle (#) in &amp;Inkognitofenster öffnen}}</translation>
+<translation id="1985165269306590797">In &amp;Inkognito-Fenster öffnen</translation>
+<translation id="642436385689435488">Alle in Inkognitofenster öffnen</translation>
+<translation id="5463021359602611602">In Inkognitofenster öffnen</translation>
+<translation id="5070556616376997776">Inkognitomodus ist aktiviert</translation>
+<translation id="5832813618714645810">Profile</translation>
+<translation id="6921634551681321094">Person hinzufügen</translation>
+<translation id="6315812488257290136">Profile</translation>
+<translation id="5840822070878669614">Brave Web Store öffnen</translation>
+<translation id="8648684608605749476">Cookies von Drittanbietern im Inkognitomodus blockieren</translation>
+<translation id="1281501490173223206">Nur aktuelle Inkognitositzung</translation>
+<translation id="9063160602596686558">Nutzungsstatistiken und Absturzberichte automatisch an Brave Software senden</translation>
+<translation id="3860292630623580294">(Anonym)</translation>
+<translation id="4854477725773269949">Im Inkognitomodus zulassen</translation>
+<translation id="6436164536244065364">Im Web Store ansehen</translation>
+<translation id="38046578254905003">Im <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/> nach Erweiterungen und Designs suchen</translation>
+<translation id="6336451774241870485">Neue private Registerkarte</translation>
+<translation id="6610147964972079463">Private Registerkarten schließen</translation>
+</translationbundle>

@@ -13,10 +13,8 @@ Vissa funktioner kanske inte är tillgängliga och ändringar i inställningarna
 <translation id="7419046106786626209">Det gick inte att synkronisera data med Brave eftersom synkronisering inte är tillgängligt för domänen.</translation>
 <translation id="5147525139567260139">Dela en flik i Brave</translation>
 <translation id="1530633922026945685">Du behöver ge Brave behörighet att använda kameran om du vill skapa en 3D-karta över dina omgivningar</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{Administratören meddelar att du måste starta om Brave så att en uppdatering tillämpas}=1{Administratören meddelar att du måste starta om Brave så att en uppdatering tillämpas. Inkognitofönstret öppnas inte igen.}other{Administratören meddelar att du måste starta om Brave så att en uppdatering tillämpas. De # inkognitofönstren öppnas inte igen.}}</translation>
 <translation id="5616153642055197778">Det finns en ny, ännu säkrare version av Brave.</translation>
 <translation id="6797402139308059782">Låt Brave köras i bakgrunden</translation>
-<translation id="1448049584457347995">Vi har gjort Brave säkrare genom att inaktivera vissa tillägg som inte finns i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> och som kan ha lagts till utan att du vet om det.</translation>
 <translation id="5875673934455379806">Installera om Brave</translation>
 <translation id="650055380213106997">Du loggar in med ett hanterat konto och ger dess administratör kontroll över din Brave-profil. Dina uppgifter i Brave, t.ex. dina appar, bokmärken, din historik, ditt lösenord och andra inställningar, kopplas då permanent till <ph name="USER_NAME"/>. Du kommer att kunna ta bort dessa uppgifter via instrumentpanelen i Brave Konton, men du kommer inte att kunna koppla dem till något annat konto. Du kan skapa en ny profil om du vill hålla dina befintliga Brave-uppgifter separata. <ph name="LEARN_MORE"/></translation>
 <translation id="1649714546770135458">Om du inaktiverar detta kan du logga in på Braves webbplatser, till exempel Gmail, utan att logga in i Brave</translation>
@@ -51,7 +49,6 @@ Vissa funktioner kanske inte är tillgängliga och ändringar i inställningarna
 <translation id="7365690458036015383">Det gick inte att packa upp arkivet med installationsfilen. Ladda ned Brave igen.</translation>
 <translation id="8919461291440820124">Brave använder din mikrofon.</translation>
 <translation id="4805806622840861220">Starta om Brave</translation>
-<translation id="6554952862405000915">Öppna länken i ett inko&amp;gnitofönster i Brave</translation>
 <translation id="1477146545787277177">Hoppsan! Brave har kraschat. Vill du starta om nu?</translation>
 <translation id="7503098128120083822">Lösenorden exporteras från Brave.</translation>
 <translation id="2585240446624043880">Brave kan inte läsa och skriva till datakatalogen:
@@ -66,10 +63,7 @@ Vissa funktioner kanske inte är tillgängliga och ändringar i inställningarna
 <translation id="8703492925273919597">Stäng alla Brave-fönster och försök igen.</translation>
 <translation id="3575459661164320785">Det finns skadlig programvara på datorn. Den skadliga programvaran kan tas bort, inställningarna återställas och tillägg inaktiveras så att webbläsaren fungerar som den ska igen.</translation>
 <translation id="4847979153841887006">Brave-logotyp</translation>
-<translation id="669092380621816981">Den här personens webbläsardata tas bort från enheten. Logga in i Brave som <ph name="USER_EMAIL"/> om du vill återställa data.</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{Det finns en ny Brave-uppdatering som tillämpas så snart du startar om.}=1{Det finns en ny Brave-uppdatering som tillämpas så snart du startar om. Inkognitofönstret öppnas inte igen.}other{Det finns en ny Brave-uppdatering som tillämpas så snart du startar om. De # inkognitofönstren öppnas inte igen.}}</translation>
 <translation id="4304059894777924102">Brave kan inte kontrollera dina lösenord. Testa att kontrollera internetanslutningen.</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{Administratören meddelar att du bör starta om Brave så att uppdateringen tillämpas}=1{Administratören meddelar att du bör starta om Brave så att uppdateringen tillämpas. Inkognitofönstret öppnas inte igen.}other{Administratören meddelar att du bör starta om Brave så att uppdateringen tillämpas. De # inkognitofönstren öppnas inte igen.}}</translation>
 <translation id="1807774211756215222">Öppna länken i en ny &amp;flik i Brave</translation>
 <translation id="7453070689008684791">Brave får åtkomst till din Drive så att du kan få förslag därifrån i adressfältet</translation>
 <translation id="2106568569080763501">I Brave kan du klicka på ett telefonnummer på nätet och ringa det med Skype!</translation>
@@ -165,7 +159,6 @@ Vissa funktioner är kanske inte tillgängliga. Ange en annan profilkatalog elle
 <translation id="7830723774663008396">Brave – <ph name="PAGE_TITLE"/></translation>
 <translation id="5253815230176279256">Brave Pay (har kopierats till Brave)</translation>
 <translation id="2301993384336631869">Brave har uppdaterats men du har inte använt det på över 30 dagar.</translation>
-<translation id="4624945300945265642">Öppna länken i ett inko&amp;gnitofönster i Brave.</translation>
 <translation id="3335606533094650083">Du behöver ge Brave behörighet att använda mikrofonen på webbplatsen</translation>
 <translation id="1785833016412082453">Brave kan inte kontrollera dina tillägg. Försök igen senare.</translation>
 <translation id="1705567146636171298">Uppdatera Brave</translation>
@@ -200,7 +193,6 @@ Brave kan inte återställa dina inställningar.</translation>
 <translation id="5419189641394808652">Brave kunde inte synkronisera data eftersom synkronisering inte är tillgängligt för domänen.</translation>
 <translation id="4784414698887946907">Webbinformationen raderas från enheten. Logga in i Brave som <ph name="USER_EMAIL"/> om du vill kunna återställa datan senare.</translation>
 <translation id="7747138024166251722">Det gick inte att skapa en tillfällig katalog för installationsfilen. Kontrollera diskutrymmet och att du har behörighet att installera program.</translation>
-<translation id="6134859571175647580">Varning! Brave kan inte förhindra att tillägg registrerar din webbhistorik. Om du vill inaktivera det här tillägget i inkognitoläge avmarkerar du det här alternativet.</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> – Brave Canary</translation>
 <translation id="38898988211673781">Radera cookies och webbplatsdata när du avslutar Brave</translation>
 <translation id="7963515534397191222">Det gick inte att uppdatera Brave till den senaste versionen. Därför går du miste om nya funktioner och säkerhetskorrigeringar.</translation>
@@ -237,7 +229,6 @@ Brave kan inte återställa dina inställningar.</translation>
 <translation id="8285294305439559616">Skriv ditt lösenord i Windows om du vill tillåta att lösenord visas i Brave.</translation>
 <translation id="6389268239133412586">Det gick inte att uppdatera Brave</translation>
 <translation id="6368958679917195344">Chrome OS fungerar tack vare <ph name="BEGIN_LINK_CROS_OSS"/>program med öppen källkod<ph name="END_LINK_CROS_OSS"/>.</translation>
-<translation id="8848045066928358658">Vi har gjort Brave säkrare genom att inaktivera följande tillägg som inte anges i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> och som kan ha lagts till utan att du vet om det.</translation>
 <translation id="5173820533850252773">Den här versionen av Brave är inaktuell</translation>
 <translation id="310518206836658214">{0,plural, =1{Om en timme startas Brave om}other{Om # timmar startas Brave om}}</translation>
 <translation id="7863882214613921971">Öppna länken i en ny &amp;flik i Brave</translation>
@@ -247,4 +238,13 @@ Brave kan inte återställa dina inställningar.</translation>
 <translation id="7977787072794666032">Brave kanske inte fungerar ordentligt eftersom den inte längre stöds på Windows XP och Windows Vista</translation>
 <translation id="2398566204186296120"><ph name="DOMAIN"/> kräver att du läser och godkänner följande användarvillkor innan du använder enheten. Villkoren varken utökar, ändrar eller begränsar villkoren för Chrome OS.</translation>
 <translation id="8992261409816268381">Brave Software Inc</translation>
+<translation id="6134859571175647580">Varning! Brave kan inte förhindra att tillägg spelar in din webbhistorik. Om du vill inaktivera det här tillägget i inkognitoläge avmarkerar du det här alternativet.</translation>
+<translation id="1448049584457347995">Vi har gjort Brave säkrare genom att inaktivera vissa tillägg som inte finns i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> och som kan ha lagts till utan att du vet om det.</translation>
+<translation id="8848045066928358658">Vi har gjort Brave säkrare genom att inaktivera följande tillägg som inte anges i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> och som kan ha lagts till utan att du vet om det.</translation>
+<translation id="669092380621816981">Den här personens webbläsardata tas bort från enheten. Logga in i Brave som <ph name="USER_EMAIL"/> om du vill återställa data.</translation>
+<translation id="4624945300945265642">Öppna länken i ett inko&amp;gnitofönster i Brave.</translation>
+<translation id="6554952862405000915">Öppna länken i ett inko&amp;gnitofönster i Brave</translation>
+<translation id="8274659559228306809">{COUNT,plural, =0{Det finns en ny Brave-uppdatering som tillämpas så snart du startar om.}=1{Det finns en ny Brave-uppdatering som tillämpas så snart du startar om. Inkognitofönstret öppnas inte igen.}other{Det finns en ny Brave-uppdatering som tillämpas så snart du startar om. De # inkognitofönstren öppnas inte igen.}}</translation>
+<translation id="3829358914761176693">{COUNT,plural, =0{Administratören meddelar att du bör starta om Brave så att uppdateringen tillämpas}=1{Administratören meddelar att du bör starta om Brave så att uppdateringen tillämpas. Inkognitofönstret öppnas inte igen.}other{Administratören meddelar att du bör starta om Brave så att uppdateringen tillämpas. De # inkognitofönstren öppnas inte igen.}}</translation>
+<translation id="552349673358711446">{COUNT,plural, =0{Administratören meddelar att du måste starta om Brave så att en uppdatering tillämpas}=1{Administratören meddelar att du måste starta om Brave så att en uppdatering tillämpas. Inkognitofönstret öppnas inte igen.}other{Administratören meddelar att du måste starta om Brave så att en uppdatering tillämpas. De # inkognitofönstren öppnas inte igen.}}</translation>
 </translationbundle>

@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">Απεγκατάσταση σε εκκρεμότητα</translation>
 <translation id="175772926354468439">Ενεργοποίηση θέματος</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Προβολή στο Brave Web Store</translation>
 <translation id="176193854664720708">Ο αισθητήρας δακτυλικού αποτυπώματος βρίσκεται στο κουμπί λειτουργίας. Αγγίξτε το ελαφρώς με οποιοδήποτε δάκτυλο.</translation>
 <translation id="1763046204212875858">Δημιουργία συντομεύσεων εφαρμογής</translation>
 <translation id="1763108912552529023">Συνεχίστε την εξερεύνηση</translation>
@@ -1326,7 +1325,6 @@
 <translation id="2660779039299703961">Συμβάν</translation>
 <translation id="4052689580269971502">Δεν είναι δυνατή η σύνδεση του εκτυπωτή. Βεβαιωθείτε ότι ο εκτυπωτής είναι ενεργοποιημένος και ότι είναι συνδεδεμένος στο Bravebook μέσω Wi-Fi ή USB.</translation>
 <translation id="2661714428027871023">Περιηγηθείτε πιο γρήγορα και χρησιμοποιήστε λιγότερα δεδομένα με τη λειτουργία Lite. Κάντε κλικ για να μάθετε περισσότερα.</translation>
-<translation id="8808478386290700967">Brave Web Store</translation>
 <translation id="2663302507110284145">Γλώσσα</translation>
 <translation id="2665394472441560184">Προσθήκη νέας λέξης</translation>
 <translation id="2665647207431876759">Έληξε</translation>
@@ -2211,7 +2209,6 @@
 <translation id="3771294271822695279">Αρχεία βίντεο </translation>
 <translation id="3775432569830822555">Πιστοποιητικό διακομιστή SSL</translation>
 <translation id="3775705724665058594">Αποστολή στις συσκευές σας</translation>
-<translation id="6945695820322143954">Αυτή η επέκταση παραβαίνει την πολιτική του Brave Web Store.</translation>
 <translation id="3777483481409781352">Δεν ήταν δυνατή η ενεργοποίηση της συσκευής κινητής τηλεφωνίας</translation>
 <translation id="3777806571986431400">Η επέκταση έχει ενεργοποιηθεί</translation>
 <translation id="3778152852029592020">Η λήψη έχει ακυρωθεί.</translation>
@@ -3026,7 +3023,6 @@
 <translation id="48704129375571883">Προσθήκη επιπλέον λειτουργιών</translation>
 <translation id="4870758487381879312">Καταχωρίστε τον κωδικό πρόσβασης που παρασχέθηκε από τον διαχειριστή, για να λάβετε πληροφορίες διαμόρφωσης</translation>
 <translation id="4870903493621965035">Δεν υπάρχουν συσκευές σε σύζευξη</translation>
-<translation id="8839398440242019256">Όχι από το Brave Web Store.</translation>
 <translation id="4871322859485617074">Το PIN περιέχει μη έγκυρους χαρακτήρες</translation>
 <translation id="4871370605780490696">Προσθήκη σελιδοδείκτη</translation>
 <translation id="4871568871368204250">Απενεργοποίηση συγχρονισμού</translation>
@@ -3623,7 +3619,6 @@
 <translation id="563535393368633106">Ερώτηση πριν από την πρόσβαση (συνιστάται)</translation>
 <translation id="5636996382092289526">Για να χρησιμοποιήσετε το <ph name="NETWORK_ID"/> ίσως χρειαστεί πρώτα να <ph name="LINK_START"/>επισκεφτείτε τη σελίδα σύνδεσης του δικτύου<ph name="LINK_END"/>, η οποία θα ανοίξει αυτόματα σε λίγα δευτερόλεπτα. Εάν αυτό δεν συμβεί, δεν είναι δυνατή η χρήση του δικτύου.</translation>
 <translation id="5637476008227280525">Ενεργοποίηση δεδομένων κινητής τηλεφωνίας</translation>
-<translation id="38046578254905003">Βρείτε επεκτάσεις και θέματα στο <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/></translation>
 <translation id="5639549361331209298">Επανάληψη φόρτωσης αυτής της σελίδας, πατήστε παρατεταμένα για δείτε περισσότερες επιλογές</translation>
 <translation id="5640133431808313291">Διαχείριση κλειδιών ασφαλείας</translation>
 <translation id="5642508497713047">Υπηρεσία υπογραφής CRL</translation>
@@ -3795,7 +3790,6 @@
 <translation id="5864754048328252126">Ενέργεια αδράνειας κατά τη φόρτιση</translation>
 <translation id="5865508026715185451">Η εφαρμογή <ph name="APP_NAME"/> θα τεθεί σύντομα σε παύση.</translation>
 <translation id="586567932979200359">Εκτελείτε το <ph name="PRODUCT_NAME"/> από την εικόνα δίσκου. Αν το εγκαταστήσετε στον υπολογιστή σας, θα μπορείτε να το εκτελείτε χωρίς την εικόνα δίσκου και θα παραμένει ενημερωμένο.</translation>
-<translation id="9063160602596686558">Αποστέλλει αυτόματα στατιστικά στοιχεία χρήσης και αναφορές σφαλμάτων στην Brave</translation>
 <translation id="5866557323934807206">Διαγράψτε αυτές τις ρυθμίσεις για μελλοντικές επισκέψεις</translation>
 <translation id="5866840822086176774">Πολύ ισχυρό</translation>
 <translation id="5867841422488265304">Αναζητήστε ή πληκτρ. μια διεύθ. ιστού</translation>
@@ -4237,7 +4231,6 @@
 <translation id="6431347207794742960">Θα πραγματοποιηθεί ρύθμιση των αυτόματων ενημερώσεων του <ph name="PRODUCT_NAME"/> για όλους τους χρήστες σε αυτόν τον υπολογιστή.</translation>
 <translation id="6434309073475700221">Απόρριψη</translation>
 <translation id="6434325376267409267">Η συσκευή σας πρέπει να ενημερωθεί πριν χρησιμοποιήσετε την εφαρμογή <ph name="APP_NAME"/>.</translation>
-<translation id="6436164536244065364">Προβολή στο Web Store</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> - Αναπαραγωγή ήχου</translation>
 <translation id="6442187272350399447">Φανταστικό</translation>
 <translation id="6444070574980481588">Ορισμός ημερομηνίας και ώρας</translation>
@@ -4953,7 +4946,6 @@
 <translation id="7375235221357833624">{0,plural, =1{Ενημέρωση συσκευής εντός μίας ώρας}other{Ενημέρωση συσκευής εντός # ωρών}}</translation>
 <translation id="7376553024552204454">Επισήμανση του δείκτη του ποντικιού όταν κινείται</translation>
 <translation id="7377451353532943397">Να συνεχιστεί ο αποκλεισμός της πρόσβασης στους αισθητήρες</translation>
-<translation id="5840822070878669614">Άνοιγμα του Brave Web Store</translation>
 <translation id="7378812711085314936">Λήψη σύνδεσης δεδομένων</translation>
 <translation id="7378962964415201590">Σύζευξη νέου τηλεφώνου</translation>
 <translation id="7380768571499464492">Ενημερώθηκε <ph name="PRINTER_NAME"/></translation>
@@ -5175,7 +5167,6 @@
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/> στη σελίδα <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">Απενεργοποίηση όλων των θυρών που προωθούνται σε Linux</translation>
 <translation id="1800308196794859773">Αποστολή της φωνής σας στην Brave, ώστε να επιτρέπεται η υπαγόρευση σε οποιοδήποτε πεδίο κειμένου.</translation>
-<translation id="3098826269712097986">Τα δεδομένα σύνδεσης θα αποθηκευτούν στο Brave αφού εξέλθετε από την κατάσταση ανώνυμης περιήγησης. Αυτό θα σας επιτρέψει να χρησιμοποιήσετε ξανά το Touch ID με αυτόν τον ιστότοπο αργότερα.</translation>
 <translation id="7681095912841365527">Ο ιστότοπος μπορεί να χρησιμοποιεί bluetooth</translation>
 <translation id="7683373461016844951">Για να συνεχίσετε, κάντε κλικ στο κουμπί OK και, στη συνέχεια, κάντε κλικ στην επιλογή "Προσθήκη ατόμου" για να δημιουργήσετε ένα νέο προφίλ για τη διεύθυνση ηλεκτρονικού ταχυδρομείου <ph name="DOMAIN"/>.</translation>
 <translation id="7684212569183643648">Εγκαταστάθηκε από το διαχειριστή σας</translation>
@@ -5659,7 +5650,6 @@
 <translation id="8259239505248583312">Ας ξεκινήσουμε</translation>
 <translation id="8260126382462817229">Δοκιμάστε να συνδεθείτε ξανά</translation>
 <translation id="8260864402787962391">Ποντίκι</translation>
-<translation id="8261378640211443080">Αυτή η επέκταση δεν αναφέρεται στο <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> και ενδέχεται να έχει προστεθεί εν αγνοία σας.</translation>
 <translation id="8261506727792406068">Διαγραφή</translation>
 <translation id="8263336784344783289">Ονομάστε αυτή την ομάδα</translation>
 <translation id="8263744495942430914">Το <ph name="FULLSCREEN_ORIGIN"/> έχει απενεργοποιήσει τον δείκτη του ποντικιού σας.</translation>
@@ -6078,7 +6068,6 @@
 <translation id="8805140816472474147">Επιβεβαιώστε τις ρυθμίσεις συγχρονισμού για να ξεκινήσετε τον συγχρονισμό.</translation>
 <translation id="8806680466228877631">Το <ph name="SHORTCUT"/> μπορεί να ανοίξει ξανά καρτέλες που έκλεισαν κατά λάθος</translation>
 <translation id="8807632654848257479">Σταθερό</translation>
-<translation id="8808478386290700967">Ηλεκτρονικό κατάστημα</translation>
 <translation id="8808686172382650546">Γάτα</translation>
 <translation id="1510515462062582289">Σε αυτήν τη σελίδα μπορείτε να δείτε όλες τις επεκτάσεις που είναι εγκατεστημένες στο Brave.</translation>
 <translation id="8809147117840417135">Ανοιχτό γαλαζοπράσινο</translation>
@@ -6230,7 +6219,6 @@
 <translation id="8983632908660087688">Ο ιστότοπος <ph name="ORIGIN"/> μπορεί να επεξεργαστεί το αρχείο <ph name="FILENAME"/></translation>
 <translation id="8985264973231822211">Ενεργή πριν από <ph name="DEVICE_LAST_ACTIVATED_TIME"/> ημέρα</translation>
 <translation id="8986362086234534611">Διαγραφή από τη μνήμη</translation>
-<translation id="9079153198295609735">Αυτόματη αποστολή στατιστικών στοιχείων χρήσης και αναφορών σφαλμάτων στην Brave</translation>
 <translation id="8987927404178983737">Μήνας</translation>
 <translation id="8991520179165052608">Ο ιστότοπος μπορεί να χρησιμοποιήσει το μικρόφωνό σας</translation>
 <translation id="899384117894244799">Κατάργηση περιορισμένου χρήστη</translation>
@@ -6461,4 +6449,54 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Δημιουργία ασφαλούς σύνδεσης...</translation>
 <translation id="998747458861718449">Έ&amp;λεγχος</translation>
+<translation id="658539216370629794">Ανοίξτε τον σύνδεσμο σε &amp;ιδιωτικό παράθυρο</translation>
+<translation id="1432267168815937878">Ανοίξτε τον Σύνδεσμο σε &amp;Ιδιωτικό Παράθυρο</translation>
+<translation id="6516243500644829484">Νέο &amp;ιδιωτικό παράθυρο</translation>
+<translation id="7973394300052703468">Νέο &amp;Ιδιωτικό Παράθυρο</translation>
+<translation id="6395403722585816044">Κατέβηκε σε Ιδιωτικό</translation>
+<translation id="203837651858678035">Έξοδος από την ιδιωτική λειτουργία έτσι κι αλλιώς;</translation>
+<translation id="7376221878517288144">Θέλετε να φύγετε από την ιδιωτική λειτουργία έτσι κι αλλιώς;</translation>
+<translation id="871606814707918245">Οι περισσότεροι χρήστες αποκλείουν τις ειδοποιήσεις από αυτόν τον ιστότοπο.</translation>
+<translation id="5053701565089446556">Ιδιωτική Επέκταση: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Ιδιωτική Εφαρμογή: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Ιδιωτική Καρτέλα: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Ιδιωτικό Υποπλαίσιο: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Πύλη ανώνυμης περιήγησης: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Διαδικτυακό Κατάστημα</translation>
+<translation id="8261378640211443080">Αυτή η επέκταση δεν αναφέρεται στο <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> και ενδέχεται να έχει προστεθεί εν αγνοία σας.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Ιδιωτικό)</translation>
+<translation id="4369414322596874629">Μπορείτε να περιηγηθείτε ιδιωτικά χρησιμοποιώντας ένα ιδιωτικό παράθυρο</translation>
+<translation id="3772947852642271642">Χρησιμοποιήστε τον ιστό χωρίς να αποθηκεύσετε το ιστορικό της περιήγησής σας με ένα ιδιωτικό παράθυρο</translation>
+<translation id="3871738366246972820">Χρησιμοποιείτε έναν κοινόχρηστο υπολογιστή; Δοκιμάστε να ανοίξετε ένα ιδιωτικό παράθυρο.</translation>
+<translation id="5808622652939943719">Για να περιηγηθείτε ιδιωτικά, κάντε κλικ στο μενού εικονιδίων κουκκίδων για να ανοίξετε ένα ιδιωτικό παράθυρο</translation>
+<translation id="9079153198295609735">Αυτόματη αποστολή στατιστικών στοιχείων χρήσης και αναφορών σφαλμάτων στην Brave Software</translation>
+<translation id="8839398440242019256">Όχι από το Διαδικτυακό Κατάστημα.</translation>
+<translation id="6945695820322143954">Αυτή η επέκταση παραβιάζει την πολιτική του Διαδικτυακού Καταστήματος.</translation>
+<translation id="1676595396635191120">Νέο Ιδιωτικό Παράθυρο</translation>
+<translation id="5094764494104066239">Διαρκής εμφάνιση γραμμής σελιδοδεικτών</translation>
+<translation id="4471385409549756595">Νέο ιδιωτικό παράθυρο</translation>
+<translation id="4540437243849625078">Αυτός ο ιστότοπος πρόκειται να ανταλλάξει πληροφορίες με μια εφαρμογή εκτός ιδιωτικής λειτουργίας.</translation>
+<translation id="1227836882233136433">Φεύγετε από ιδιωτική λειτουργία;</translation>
+<translation id="7618452966706304788">Θέλετε να χρησιμοποιήσετε το Touch ID με <ph name="APP_NAME"/> σε Ιδιωτική λειτουργία;</translation>
+<translation id="3098826269712097986">Τα στοιχεία σύνδεσης θα αποθηκευτούν στο Brave μετά την έξοδο από την Ιδιωτική λειτουργία. Αυτό θα σας επιτρέψει να χρησιμοποιήσετε ξανά το Touch ID με αυτόν τον ιστότοπο αργότερα.</translation>
+<translation id="5186185447130319458">Ιδιωτικό</translation>
+<translation id="2579188629646253712">Έξοδος από Ιδιωτικό</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Άνοιγμα όλων σε παράθυρο για &amp;ανώνυμη περιήγηση}=1{Άνοιγμα σε παράθυρο για &amp;ανώνυμη περιήγηση}other{Άνοιγμα όλων (#) σε παράθυρο για &amp;ανώνυμη περιήγηση}}</translation>
+<translation id="1985165269306590797">Άνοιγμα σε παράθυρο ανώνυμης περιήγησης</translation>
+<translation id="642436385689435488">Άνοιγμα όλων σε παράθυρο για ανώνυμη περιήγηση</translation>
+<translation id="5463021359602611602">Άνοιγμα σε παράθυρο για ανώνυμη περιήγηση</translation>
+<translation id="5070556616376997776">Είστε σε ανώνυμη περιήγηση</translation>
+<translation id="5832813618714645810">Προφίλ</translation>
+<translation id="6921634551681321094">Προσθήκη χρήστη</translation>
+<translation id="6315812488257290136">Προφίλ</translation>
+<translation id="5840822070878669614">Άνοιγμα του Brave Web Store</translation>
+<translation id="8648684608605749476">Αποκλεισμός cookie τρίτων μερών στην Ανώνυμη περιήγηση</translation>
+<translation id="1281501490173223206">Μόνο για την τρέχουσα περίοδο λειτουργίας σε κατάσταση ανώνυμης περιήγησης</translation>
+<translation id="9063160602596686558">Αποστέλλει αυτόματα στατιστικά στοιχεία χρήσης και αναφορές σφαλμάτων στην Brave Software</translation>
+<translation id="3860292630623580294">(Ανώνυμη περιήγηση)</translation>
+<translation id="4854477725773269949">Να επιτρέπονται στην ανώνυμη περιήγηση</translation>
+<translation id="6436164536244065364">Προβολή στο Web Store</translation>
+<translation id="38046578254905003">Βρείτε επεκτάσεις και θέματα στο <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Νέα καρτέλα ανώνυμης περιήγησης</translation>
+<translation id="6610147964972079463">Κλείσιμο καρτελών ανώνυμης περιήγησης</translation>
 </translationbundle>

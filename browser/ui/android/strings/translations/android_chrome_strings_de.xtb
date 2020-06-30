@@ -591,7 +591,6 @@ Wenn Sie diese Einstellung ändern möchten, <ph name="BEGIN_LINK"/>setzen Sie d
 <translation id="5862731021271217234">Aktivieren Sie die Synchronisierung, um Ihre Tabs von Ihren anderen Geräten abzurufen</translation>
 <translation id="5864174910718532887">Details: Nach Websitename sortiert</translation>
 <translation id="5864419784173784555">Warten auf weiteren Download…</translation>
-<translation id="9063160602596686558">Nutzungsstatistiken und Absturzberichte automatisch an Brave senden</translation>
 <translation id="5869522115854928033">Gespeicherte Passwörter</translation>
 <translation id="5876056640971328065">Video anhalten</translation>
 <translation id="9037412730408024068">Wenn Sie in Brave mit Assistant Aufgaben erledigen, werden die URLs und Inhalte der Websites, auf denen Sie Assistant verwenden, sowie die Daten, die Sie über Assistant weitergeben, an Brave gesendet</translation>
@@ -769,7 +768,6 @@ Einige Websites schalten möglicherweise Werbeanzeigen, deren Auswahl nicht dara
 <translation id="7413229368719586778">Startdatum: <ph name="DATE"/></translation>
 <translation id="7431991332293347422">Legen Sie fest, wie Ihr Browserverlauf zur Personalisierung der Brave-Suche verwendet wird</translation>
 <translation id="6234515504547364178">Von Brave abmelden</translation>
-<translation id="1438581767753657407">Wenn der Lite-Modus aktiviert ist, wird der Seitenaufbau in Brave mithilfe von Brave-Servern beschleunigt. Im Lite-Modus werden sehr langsame Seiten so umgeschrieben, dass nur die wesentlichen Inhalte geladen werden. Der Lite-Modus wird nicht auf Inkognito-Tabs angewendet.</translation>
 <translation id="7444811645081526538">Weitere Kategorien</translation>
 <translation id="8218628800671693884">Sie werden von den meisten Websites, aber nicht aus Ihrem Brave-Konto abgemeldet.</translation>
 <translation id="7454641608352164238">Zu wenig Speicherplatz</translation>
@@ -994,4 +992,23 @@ Einige Websites schalten möglicherweise Werbeanzeigen, deren Auswahl nicht dara
 <translation id="981121421437150478">Offline</translation>
 <translation id="983192555821071799">Alle Tabs schließen</translation>
 <translation id="987264212798334818">Allgemein</translation>
+<translation id="5186185447130319458">Privat</translation>
+<translation id="9063160602596686558">Nutzungsstatistiken und Absturzberichte automatisch an Brave Software senden</translation>
+<translation id="1438581767753657407">Wenn der Lite-Modus aktiviert ist, verwendet Brave Brave-Server, die das Laden von Seiten beschleunigen. Im Lite-Modus werden sehr langsame Seiten neu geschrieben, um nur die wichtigsten Inhalte zu laden. Der Lite-Modus gilt nicht für private Registerkarten.</translation>
+<translation id="2633278372998075009">Private Registerkarten</translation>
+<translation id="6099151465289169210">Zu privaten Registerkarten gewechselt</translation>
+<translation id="4243710787042215766">In privater Registerkarte öffnen</translation>
+<translation id="3110967157686007724">Private Registerkarte</translation>
+<translation id="4526803704855831732">Private Registerkarten</translation>
+<translation id="7465104139234185284">Alle privaten Registerkarten schließen</translation>
+<translation id="6336451774241870485">Neue private Registerkarte</translation>
+<translation id="3234355010754616171">Neue private Registerkarte</translation>
+<translation id="6610147964972079463">Private Registerkarten schließen</translation>
+<translation id="4968908871398201967">Privatmodus</translation>
+<translation id="9080642952018487277">Privatmodus</translation>
+<translation id="4883379392681899581">Privatmodus verlassen</translation>
+<translation id="3377025655491224618">Private Registerkarte</translation>
+<translation id="584427517463557805">Ausgewählte private Registerkarte</translation>
+<translation id="2280910239864711607">Öffnen Sie eine neue Registerkarte im Privatmodus</translation>
+<translation id="8628973420740315031">Bitten Sie Leute in der Nähe, diesen QR-Code zu scannen, um Inhalte mit Ihnen zu teilen</translation>
 </translationbundle>

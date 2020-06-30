@@ -591,7 +591,6 @@ Pentru a modifica această setare, <ph name="BEGIN_LINK"/>resetează sincronizar
 <translation id="5862731021271217234">Pentru a accesa filele de pe alte dispozitive, activează sincronizarea</translation>
 <translation id="5864174910718532887">Detalii: sortate după numele site-ului</translation>
 <translation id="5864419784173784555">Se așteaptă altă descărcare…</translation>
-<translation id="9063160602596686558">Trimite automat statistici de utilizare și rapoarte de blocare la Brave</translation>
 <translation id="5869522115854928033">Parole salvate</translation>
 <translation id="5876056640971328065">Întrerupe videoclipul</translation>
 <translation id="9037412730408024068">Pentru a te ajuta să finalizezi sarcini, Brave va primi adresele URL și conținutul site-urilor în care folosești Asistentul, precum și informațiile pe care le trimiți cu ajutorul Asistentului</translation>
@@ -769,7 +768,6 @@ De exemplu, unele site-uri pot răspunde la această solicitare afișând anunț
 <translation id="7413229368719586778">Data de începere <ph name="DATE"/></translation>
 <translation id="7431991332293347422">Controlează modul în care istoricul de navigare este folosit pentru a personaliza Căutarea și alte servicii</translation>
 <translation id="6234515504547364178">Deconectează-te de la Brave</translation>
-<translation id="1438581767753657407">Când modul Lite este activat, Brave folosește serverele Brave pentru a încărca paginile mai rapid. Modul Lite rescrie paginile care se încarcă foarte greu ca să încarce numai conținutul esențial. Modul Lite nu se aplică în filele incognito.</translation>
 <translation id="7444811645081526538">Mai multe categorii</translation>
 <translation id="8218628800671693884">Te deconectează de pe majoritatea site-urilor. Nu te va deconecta de la Contul Brave.</translation>
 <translation id="7454641608352164238">Spațiu insuficient</translation>
@@ -994,4 +992,23 @@ De exemplu, unele site-uri pot răspunde la această solicitare afișând anunț
 <translation id="981121421437150478">Offline</translation>
 <translation id="983192555821071799">Închide toate filele</translation>
 <translation id="987264212798334818">General</translation>
+<translation id="5186185447130319458">Privat</translation>
+<translation id="9063160602596686558">Trimite automat statistici de utilizare și rapoarte de blocare la Brave Software</translation>
+<translation id="1438581767753657407">Când este pornit modul Lite, Brave folosește serverele Brave pentru ca paginile să se încarce mai rapid. Modul Lite rescrie paginile foarte lente pentru a încărca doar conținutul esențial. Modul Lite nu se aplică paginilor private.</translation>
+<translation id="2633278372998075009">Pagini private</translation>
+<translation id="6099151465289169210">S-a efectuat comutarea la filele private</translation>
+<translation id="4243710787042215766">Deschideți în pagină privată</translation>
+<translation id="3110967157686007724">Pagină privată</translation>
+<translation id="4526803704855831732">File private</translation>
+<translation id="7465104139234185284">Închideți toate paginile private</translation>
+<translation id="6336451774241870485">Pagină nouă privată</translation>
+<translation id="3234355010754616171">Pagină nouă privată</translation>
+<translation id="6610147964972079463">Închideți paginile private</translation>
+<translation id="4968908871398201967">Mod privat</translation>
+<translation id="9080642952018487277">Intrați în modul privat</translation>
+<translation id="4883379392681899581">Ieșiți din modul privat</translation>
+<translation id="3377025655491224618">Pagină privată</translation>
+<translation id="584427517463557805">Filă privată selectată</translation>
+<translation id="2280910239864711607">Deschideți o pagină nouă în modul privat</translation>
+<translation id="8628973420740315031">Ca să le permiți accesul persoanelor din apropiere, solicită-le să scaneze acest cod QR</translation>
 </translationbundle>

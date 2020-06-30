@@ -1324,7 +1324,6 @@ Oʻz qurilmangizda Family Link ilovasini oʻrnatib, bu hisob sozlamalarini boshq
 <translation id="2660779039299703961">Hodisa</translation>
 <translation id="4052689580269971502">Printerni ulab bo‘lmadi. Uning yoniqligini va Bravebook qurilmangizga Wi-Fi yoki USB orqali ulanganligini tekshiring.</translation>
 <translation id="2661714428027871023">Lite rejimi bilan tezroq kezing va kamroq trafik sarflang. Batafsil axborot olish uchun bosing.</translation>
-<translation id="8808478386290700967">Brave internet-do‘koni</translation>
 <translation id="2663302507110284145">Til</translation>
 <translation id="2665394472441560184">So‘z qo‘shish</translation>
 <translation id="2665647207431876759">Muddati tugagan</translation>
@@ -2209,7 +2208,6 @@ Oʻz qurilmangizda Family Link ilovasini oʻrnatib, bu hisob sozlamalarini boshq
 <translation id="3771294271822695279">Video fayllar</translation>
 <translation id="3775432569830822555">SSL server sertifikati</translation>
 <translation id="3775705724665058594">Qurilmalaringizga yuborish</translation>
-<translation id="6945695820322143954">Bu kengaytma Brave internet-do'koni siyosatini buzmoqda.</translation>
 <translation id="3777483481409781352">Mobil tarmoq faollashmadi</translation>
 <translation id="3777806571986431400">Kengaytma yoqilgan</translation>
 <translation id="3778152852029592020">Yuklab olish bekor qilindi.</translation>
@@ -3024,7 +3022,6 @@ Oʻz qurilmangizda Family Link ilovasini oʻrnatib, bu hisob sozlamalarini boshq
 <translation id="48704129375571883">Qo‘chimcha funksiyalarni qo‘shish</translation>
 <translation id="4870758487381879312">Konfiguratsiya axborotini yuklash uchun admin tayinlagan parolni kiriting</translation>
 <translation id="4870903493621965035">Hech qanday qurilma ulanmagan</translation>
-<translation id="8839398440242019256">Brave internet-do‘konidan emas.</translation>
 <translation id="4871322859485617074">PIN kodda yaroqsiz belgilar kiritildi</translation>
 <translation id="4871370605780490696">Xatcho‘p qo‘shish</translation>
 <translation id="4871568871368204250">Sinxronizatsiya qilmaslik</translation>
@@ -3792,7 +3789,6 @@ Oʻz qurilmangizda Family Link ilovasini oʻrnatib, bu hisob sozlamalarini boshq
 <translation id="5864754048328252126">Quvvatlanayotganda kutish amali</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> tez orada pauza qilinadi</translation>
 <translation id="586567932979200359"><ph name="PRODUCT_NAME"/> tizimini diskdagi tasviridan ishga tushirgansiz. Uni kompyuteringizga o‘rnatsangiz, disk tasviri kerak bo‘lmaydi hamda tizim muntazam yangilanib turadi.</translation>
-<translation id="9063160602596686558">Foydalanish statistikasi va ishdan chiqish hisobotlari avtomatik tarzda Brave serverlariga yuborilsin</translation>
 <translation id="5866557323934807206">Keyingi kirishlar uchun bu sozlamalarni tozalash</translation>
 <translation id="5866840822086176774">Juda kuchli</translation>
 <translation id="5867841422488265304">Qidiring yoki sayt manzilini kiriting</translation>
@@ -5172,7 +5168,6 @@ Ochiq eksponenta (<ph name="PUBLIC_EXPONENT_NUM_BITS"/> bit):
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, <ph name="PAGE_TITLE"/> sahifasida.</translation>
 <translation id="7674416868315480713">Linuxdagi barcha yoʻnaltirilgan portlarni yopish</translation>
 <translation id="1800308196794859773">Diktovka istalgan matn maydonida ishlatilishi uchun ovozingiz Brave serverlariga yuboriladi.</translation>
-<translation id="3098826269712097986">Brave barmoq izlaringizni Inkognito rejimidan chiqilgandan keyin saqlaydi. Bu bilan keyingi safar ushbu saytga Touch ID orqali kirish mumkin.</translation>
 <translation id="7681095912841365527">Sayt Bluetooth aloqasidan foydalanishi mumkin</translation>
 <translation id="7683373461016844951">Davom etish uchun OK tugmasini bosing. Keyin esa “Foydalanuvchi qo‘shish” bandi orqali <ph name="DOMAIN"/> domenidagi yangi profil yarating.</translation>
 <translation id="7684212569183643648">Administratoringiz tomonidan o‘rnatilgan</translation>
@@ -5654,7 +5649,6 @@ Kalit faylini ishonchli joyda saqlang. U kengaytmaning yangi versiyalarini yarat
 <translation id="8259239505248583312">Qani, ketdik</translation>
 <translation id="8260126382462817229">Qaytadan kirib ko‘ring</translation>
 <translation id="8260864402787962391">Sichqoncha</translation>
-<translation id="8261378640211443080"><ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>‘da bu kengaytma haqida ma’lumotlar yo‘q, kengaytma ruxsatingizsiz o‘rnatilgan bo‘lishi mumkin.</translation>
 <translation id="8261506727792406068">O‘chirish</translation>
 <translation id="8263336784344783289">Bu guruhni nomlang</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> sichqon kursorini yashirib qo‘ydi.</translation>
@@ -6075,7 +6069,6 @@ Kalit faylini ishonchli joyda saqlang. U kengaytmaning yangi versiyalarini yarat
 <translation id="8805140816472474147">Sinxronizatsiyani boshlash uchun sozlamalarni tasdiqlang.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> adashib yopilgan varaqlarni qayta tiklaydi</translation>
 <translation id="8807632654848257479">Barqaror</translation>
-<translation id="8808478386290700967">Internet-do‘kon</translation>
 <translation id="8808686172382650546">Mushuk</translation>
 <translation id="1510515462062582289">Bu sahifada Brave brauzerida oʻrnatilgan barcha kengaytmalarni koʻrishingiz mumkin.</translation>
 <translation id="8809147117840417135">Och moviy</translation>
@@ -6227,7 +6220,6 @@ Kalit faylini ishonchli joyda saqlang. U kengaytmaning yangi versiyalarini yarat
 <translation id="8983632908660087688"><ph name="ORIGIN"/> sayti <ph name="FILENAME"/> faylini tahrirlay oladi</translation>
 <translation id="8985264973231822211"><ph name="DEVICE_LAST_ACTIVATED_TIME"/> kun oldin onlayn edi</translation>
 <translation id="8986362086234534611">Olib tashlash</translation>
-<translation id="9079153198295609735">Foydalanish statistikasi va ishdan chiqishlar hisobotini avtomatik ravishda Brave‘ga jo‘natish</translation>
 <translation id="8987927404178983737">Oy</translation>
 <translation id="8991520179165052608">Sayt mikrofondan foydalanishi mumkin</translation>
 <translation id="899384117894244799">Cheklangan foydalanuvchini olib tashlash</translation>
@@ -6459,4 +6451,40 @@ parollar va boshqa sozlamalaringiz Brave hisobingizga sinxronlanadi.</translatio
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Xavfsiz aloqa o‘rnatilmoqda...</translation>
 <translation id="998747458861718449">Kodini ko‘rish</translation>
+<translation id="658539216370629794">Havolani &amp;inkognito rejimi oynasida ochish</translation>
+<translation id="1432267168815937878">Havolani &amp;inkognito rejimida ochish</translation>
+<translation id="6516243500644829484">Yangi &amp;inkognito oynasi</translation>
+<translation id="7973394300052703468">Yangi &amp;inkognito oynasi</translation>
+<translation id="6395403722585816044">Inkognito rejimida yuklab olindi</translation>
+<translation id="203837651858678035">Inkognito rejimidan baribir chiqilsinmi?</translation>
+<translation id="7376221878517288144">Inkognito rejimidan baribir chiqilsinmi?</translation>
+<translation id="871606814707918245">Aksariyat foydalanuvchilar bu saytdagi bildirishnomalarni bloklaydi</translation>
+<translation id="5053701565089446556">Inkognito rejimidagi kengaytma: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Inkognito rejimidagi Ilova: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Inkognito tab: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Inkognito rejimidagi quyi freym: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Inkognito rejimidagi portal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Brave internet-do‘koni</translation>
+<translation id="8261378640211443080"><ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>‘da bu kengaytma haqida ma’lumotlar yo‘q, kengaytma ruxsatingizsiz o‘rnatilgan bo‘lishi mumkin.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Inkognito)</translation>
+<translation id="4369414322596874629">Inkognito oynada internetni yashirin kezishingiz mumkin</translation>
+<translation id="3772947852642271642">Inkognito oynada internetni brauzer tarixi qaydlarisiz kezing</translation>
+<translation id="3871738366246972820">Birovning kompyuteridamisiz? Inkognito oynadan foydalanib ko‘ring.</translation>
+<translation id="5808622652939943719">Yashirin kezish uchun menyudagi nuqtalar ikonkasini bosib inkognito oyna oching</translation>
+<translation id="9079153198295609735">Foydalanish statistikasi va ishdan chiqishlar hisobotini avtomatik ravishda Brave Software‘ga jo‘natish</translation>
+<translation id="8839398440242019256">Brave internet-do‘konidan emas.</translation>
+<translation id="6945695820322143954">Bu kengaytma Brave internet-do'koni siyosatini buzmoqda.</translation>
+<translation id="1676595396635191120">Yangi inkognito oyna</translation>
+<translation id="5094764494104066239">Xatcho‘plar panelini har doim ko‘rsatish</translation>
+<translation id="4471385409549756595">Yangi inkognito oynasi</translation>
+<translation id="4540437243849625078">Bu sayt inkognito oynasidan tashqaridagi ilova bilan axborot ulashmoqchi.</translation>
+<translation id="1227836882233136433">Inkognito rejimi tark etilsinmi?</translation>
+<translation id="7618452966706304788">Inkognito rejimida <ph name="APP_NAME"/> saytiga Touch ID orqali kirmoqchimisiz?</translation>
+<translation id="3098826269712097986">Brave barmoq izlaringizni Inkognito rejimidan chiqilgandan keyin saqlaydi. Bu bilan keyingi safar ushbu saytga Touch ID orqali kirish mumkin.</translation>
+<translation id="5186185447130319458">Inkognito</translation>
+<translation id="2579188629646253712">Inkognito rejimidan chiqish</translation>
+<translation id="8648684608605749476">Inkognito rejimidagi tashqi cookie fayllarni taqiqlash</translation>
+<translation id="9063160602596686558">Foydalanish statistikasi va ishdan chiqish hisobotlari avtomatik tarzda Brave Software serverlariga yuborilsin</translation>
+<translation id="6336451774241870485">Yangi inkognito ichki oynasi</translation>
+<translation id="6610147964972079463">Inkognito oynalarini yopish</translation>
 </translationbundle>

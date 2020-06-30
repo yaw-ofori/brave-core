@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fil">
+<translation id="658539216370629794">Buksan ang link sa &amp;pribadong window</translation>
+<translation id="1432267168815937878">Buksan ang Link sa &amp;Pribadong Window</translation>
+<translation id="6516243500644829484">Bagong &amp;pribadong window</translation>
+<translation id="7973394300052703468">Bagong &amp;Pribadong Window</translation>
+<translation id="6395403722585816044">Na-download sa Pribado</translation>
+<translation id="203837651858678035">Lumabas pa rin sa private mode?</translation>
+<translation id="7376221878517288144">Umalis pa rin sa private mode?</translation>
+<translation id="871606814707918245">Bina-block ng karamihan ng mga tao ang mga notification mula sa site na ito</translation>
+<translation id="5053701565089446556">Pribadong Extension: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Pribadong App: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Pribadong Tab: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Pribadong Subframe: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Incognito na Portal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Web Store</translation>
+<translation id="8261378640211443080">Hindi nakalista ang extension na ito sa <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> at maaaring naidagdag nang hindi mo nalalaman.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Private)</translation>
+<translation id="4369414322596874629">Makakapag-browse ka nang pribado gamit ang pribadong window</translation>
+<translation id="3772947852642271642">Gamitin ang web nang hindi sine-save ang iyong history ng pag-browse sa pribadong window</translation>
+<translation id="3871738366246972820">Gumagamit ng nakabahaging computer? Subukang magbukas ng pribadong window.</translation>
+<translation id="5808622652939943719">Para makapag-browse nang pribado, i-click ang menu ng icon na mga tuldok para magbukas ng pribadong window</translation>
+<translation id="9079153198295609735">Awtomatikong ipadala ang mga istatistika ng paggamit at mga ulat ng pag-crash sa Brave Software</translation>
+<translation id="8839398440242019256">Hindi galing sa Web Store.</translation>
+<translation id="6945695820322143954">Nilalabag ng extension na ito ang patakaran ng Web Store.</translation>
+<translation id="1676595396635191120">Bagong Pribadong Window</translation>
+<translation id="5094764494104066239">Palaging Ipakita ang Bookmarks Bar</translation>
+<translation id="4471385409549756595">Bagong pribadong window</translation>
+<translation id="4540437243849625078">Magbabahagi ang site na ito ng impormasyon sa app na wala sa private mode.</translation>
+<translation id="1227836882233136433">Umalis sa private mode?</translation>
+<translation id="7618452966706304788">Gusto mo bang gamitin ang Touch ID sa <ph name="APP_NAME"/>sa Private mode?</translation>
+<translation id="3098826269712097986">Iso-store ang data sa pag-sign in sa Brave pagkatapos mong lumabas sa Private mode. Bibigyang-daan ka nitong gamitin ulit ang Touch ID sa website na ito sa ibang pagkakataon.</translation>
+<translation id="5186185447130319458">Pribado</translation>
+<translation id="2579188629646253712">Lumabas sa Pribado</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Buksan Lahat sa &amp;Incognito Window}=1{Buksan sa &amp;Incognito Window}one{Buksan Lahat (#) sa &amp;Incognito Window}other{Buksan Lahat (#) sa &amp;Incognito Window}}</translation>
+<translation id="1985165269306590797">Buksan sa &amp;Incognito Window</translation>
+<translation id="642436385689435488">Buksan ang lahat sa incognito window</translation>
+<translation id="5463021359602611602">Buksan sa incognito window</translation>
+<translation id="5070556616376997776">Incognito ka</translation>
+<translation id="5832813618714645810">Mga Profile</translation>
+<translation id="6921634551681321094">Magdagdag ng tao</translation>
+<translation id="6315812488257290136">Mga Profile</translation>
+<translation id="5840822070878669614">Buksan ang Brave Web Store</translation>
+<translation id="8648684608605749476">I-block ang third-party na cookies sa Incognito</translation>
+<translation id="1281501490173223206">Kasalukuyang incognito na session lang</translation>
+<translation id="9063160602596686558">Awtomatikong nagpapadala sa Brave Software ng mga istatistika ng paggamit at ulat ng pag-crash</translation>
+<translation id="3860292630623580294">(Incognito)</translation>
+<translation id="4854477725773269949">Payagan sa incognito</translation>
+<translation id="6436164536244065364">Tingnan sa Web Store</translation>
+<translation id="38046578254905003">Maghanap ng mga extension at tema sa <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Bagong pribadong tab</translation>
+<translation id="6610147964972079463">Isara ang mga pribadong tab</translation>
+</translationbundle>

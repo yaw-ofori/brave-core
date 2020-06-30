@@ -591,7 +591,6 @@
 <translation id="5862731021271217234">要访问您在其他设备上打开的标签页，请开启同步功能</translation>
 <translation id="5864174910718532887">详细信息：按网站名称排序</translation>
 <translation id="5864419784173784555">正在等待完成另一项下载…</translation>
-<translation id="9063160602596686558">自动将使用情况统计信息和崩溃报告发送至 Brave</translation>
 <translation id="5869522115854928033">已保存的密码</translation>
 <translation id="5876056640971328065">暂停视频</translation>
 <translation id="9037412730408024068">为了帮助您执行各种操作，Brave 将会收到您使用 Brave 助理时所在网站的网址和内容，以及您通过 Brave 助理提交的信息</translation>
@@ -769,7 +768,6 @@
 <translation id="7413229368719586778">开始日期：<ph name="DATE"/></translation>
 <translation id="7431991332293347422">控制 Brave 如何利用您的浏览记录为您提供个性化的 Brave 搜索和其他 Brave 服务</translation>
 <translation id="6234515504547364178">退出 Brave</translation>
-<translation id="1438581767753657407">当精简模式处于开启状态时，Brave 会使用 Brave 服务器提高网页加载速度。精简模式会重写加载速度非常慢的网页，以便仅加载必要的内容。精简模式不适用于无痕式标签页。</translation>
 <translation id="7444811645081526538">更多类别</translation>
 <translation id="8218628800671693884">您会从大多数网站退出，但不会退出自己的 Brave 帐号。</translation>
 <translation id="7454641608352164238">空间不足</translation>
@@ -994,4 +992,23 @@
 <translation id="981121421437150478">离线</translation>
 <translation id="983192555821071799">关闭所有标签页</translation>
 <translation id="987264212798334818">常规</translation>
+<translation id="5186185447130319458">私有</translation>
+<translation id="9063160602596686558">自动将使用情况统计信息和崩溃报告发送至 Brave Software</translation>
+<translation id="1438581767753657407">启用精简模式后，Brave 使用 Brave 服务器来提高页面加载速度。精简模式重写非常慢的页面以仅加载基本内容。精简模式不适用于私有标签页。</translation>
+<translation id="2633278372998075009">私有标签页</translation>
+<translation id="6099151465289169210">切换到私有标签页</translation>
+<translation id="4243710787042215766">在私有标签页中打开</translation>
+<translation id="3110967157686007724">私有标签页</translation>
+<translation id="4526803704855831732">私有标签页</translation>
+<translation id="7465104139234185284">关闭所有的私有标签页</translation>
+<translation id="6336451774241870485">新的私有标签页</translation>
+<translation id="3234355010754616171">新的私有标签页</translation>
+<translation id="6610147964972079463">关闭私有模式</translation>
+<translation id="4968908871398201967">私有模式</translation>
+<translation id="9080642952018487277">输入私有模式</translation>
+<translation id="4883379392681899581">离开私有标签页</translation>
+<translation id="3377025655491224618">私有标签页</translation>
+<translation id="584427517463557805">选定的私有标签页</translation>
+<translation id="2280910239864711607">在私有模式下打开一个新标签页</translation>
+<translation id="8628973420740315031">要与附近的人分享，请让他们扫描此二维码</translation>
 </translationbundle>

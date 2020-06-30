@@ -591,7 +591,6 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="5862731021271217234">Boshqa qurilmalardagi brauzer sahifalarini ko‘rish uchun sinxronizatsiyani yoqing</translation>
 <translation id="5864174910718532887">Tafsilot: Saytlar nomi asosida saralandi</translation>
 <translation id="5864419784173784555">Oldingi yuklanma yakuni kutilmoqda…</translation>
-<translation id="9063160602596686558">Foydalanish statistikasi va ishdan chiqish hisobotlari avtomatik tarzda Brave serverlariga yuborilsin</translation>
 <translation id="5869522115854928033">Saqlab olingan parollar</translation>
 <translation id="5876056640971328065">Videoni pauza qilish</translation>
 <translation id="9037412730408024068">Brave internetda ishlashingizni osonlashtirish uchun Assistent orqali kirilgan saytlarning URL manzillari va kontentlarini, shuningdek, soʻrovlarni ham oladi</translation>
@@ -769,7 +768,6 @@ Masalan, qaysi sahifalarga kirganligingizdan qat’i nazar, ba’zi saytlarda re
 <translation id="7413229368719586778">Boshlanish sanasi: <ph name="DATE"/></translation>
 <translation id="7431991332293347422">Moslashtirilgan qidiruv, reklama va boshqa tashriflar tarixi parametrlarini tanlang</translation>
 <translation id="6234515504547364178">Brave’dan chiqish</translation>
-<translation id="1438581767753657407">Lite rejimi yoniqligida, Brave sahifalarni tezroq yuklash uchun Brave serverlaridan foydalanadi. Lite rejimi eng asosiy kontentni yuklash uchun eng sekin sahifalarni qaytadan yozib chiqadi. Lite rejimi inkognito sahifalarda ishlamaydi.</translation>
 <translation id="7444811645081526538">Boshqa turkumlar</translation>
 <translation id="8218628800671693884">Bir nechta saytdagi hisobingizdan chiqasiz, lekin Brave hisobingizdan emas.</translation>
 <translation id="7454641608352164238">Joy yetarli emas</translation>
@@ -994,4 +992,23 @@ Masalan, qaysi sahifalarga kirganligingizdan qat’i nazar, ba’zi saytlarda re
 <translation id="981121421437150478">Oflayn</translation>
 <translation id="983192555821071799">Barcha ichki oynalarni yopish</translation>
 <translation id="987264212798334818">Umumiy</translation>
+<translation id="5186185447130319458">Inkognito</translation>
+<translation id="9063160602596686558">Foydalanish statistikasi va ishdan chiqish hisobotlari avtomatik tarzda Brave Software serverlariga yuborilsin</translation>
+<translation id="1438581767753657407">Lite rejimi yoniqligida, Brave sahifalarni tezroq yuklash uchun Brave Software serverlaridan foydalanadi. Lite rejimi eng asosiy kontentni yuklash uchun eng sekin sahifalarni qaytadan yozib chiqadi. Lite rejimi inkognito sahifalarda ishlamaydi.</translation>
+<translation id="2633278372998075009">Inkognito rejimidagi ichki oynalar</translation>
+<translation id="6099151465289169210">Inkognito rejimidagi varaqlar o‘tildi</translation>
+<translation id="4243710787042215766">Inkognito rejimida ochish</translation>
+<translation id="3110967157686007724">Inkognito varaq</translation>
+<translation id="4526803704855831732">Inkognito tab‘lar</translation>
+<translation id="7465104139234185284">Barcha inkognito ichki oynalarini yopish</translation>
+<translation id="6336451774241870485">Yangi inkognito ichki oynasi</translation>
+<translation id="3234355010754616171">Yangi inkognito ichki oynasi</translation>
+<translation id="6610147964972079463">Inkognito oynalarini yopish</translation>
+<translation id="4968908871398201967">Inkognito rejimidasiz</translation>
+<translation id="9080642952018487277">Inkognito rejimiga o‘tish</translation>
+<translation id="4883379392681899581">Inkognito rejimidan chiqish</translation>
+<translation id="3377025655491224618">Inkognito sahifa</translation>
+<translation id="584427517463557805">Tanlangan inkognito sahifa</translation>
+<translation id="2280910239864711607">Yangi varaqni inkognito rejimida ochish</translation>
+<translation id="8628973420740315031">Yaqin-atrofdagilarga ulashish uchun ular shu QR kodni skanerlashi kerak.</translation>
 </translationbundle>

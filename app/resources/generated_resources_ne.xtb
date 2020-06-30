@@ -1322,7 +1322,6 @@
 <translation id="2660779039299703961">घटना</translation>
 <translation id="4052689580269971502">प्रिन्टरमा जडान गर्न सकिएन। उक्त प्रिन्टर सक्रिय अवस्थामा हुनुका साथै त्यसलाई Wi-Fi वा USB मार्फत तपाईंको Bravebook सँग जडान गरिएको छ भन्ने कुरा सुनिश्चित गर्नुहोस्।</translation>
 <translation id="2661714428027871023">लाइट मोडको सहायताले अझ छिटो ब्राउज गर्नुका साथै कम डेटा प्रयोग गर्नुहोस्। थप जान्न क्लिक गर्नुहोस्।</translation>
-<translation id="8808478386290700967">Brave वेब स्टोर</translation>
 <translation id="2663302507110284145">भाषा</translation>
 <translation id="2665394472441560184">नयाँ शब्द थप्नुहोस्</translation>
 <translation id="2665647207431876759">म्याद सकियो</translation>
@@ -2208,7 +2207,6 @@
 <translation id="3771294271822695279">भिडियो फाइलहरू</translation>
 <translation id="3775432569830822555">SSL सर्भर प्रमाणपत्र</translation>
 <translation id="3775705724665058594">आफ्ना यन्त्रहरूमा पठाउनुहोस्</translation>
-<translation id="6945695820322143954">यो विस्तारले Brave वेव भण्डारण नीति उल्लङ्घन गर्छ ।</translation>
 <translation id="3777483481409781352">सेलुलर यन्त्र सक्रिय गर्न सकिएन</translation>
 <translation id="3777806571986431400">विस्तार सक्षम गरियो</translation>
 <translation id="3778152852029592020">डाउनलोड रद्द गरिएको थियो ।</translation>
@@ -3022,7 +3020,6 @@
 <translation id="48704129375571883">थप सुविधाहरू थप्नुहोस्</translation>
 <translation id="4870758487381879312">कन्फिगुरेसनसम्बन्धी जानकारी प्राप्त गर्न प्रशासकले उपलब्ध गराउनुभएको पासवर्ड प्रविष्टि गर्नुहोस्</translation>
 <translation id="4870903493621965035">जोडा बनाइएको कुनै यन्त्र छैन</translation>
-<translation id="8839398440242019256">Brave वेब भण्डारबाट होइन।</translation>
 <translation id="4871322859485617074">PIN मा अमान्य वर्णहरू छन्</translation>
 <translation id="4871370605780490696">पृष्ठमञ्जूषा थप्नुहोस्</translation>
 <translation id="4871568871368204250">सिंक गर्ने सुविधा निष्क्रिय पार्नुहोस्</translation>
@@ -3790,7 +3787,6 @@
 <translation id="5864754048328252126">चार्ज भइरहेका बेला यन्त्र निष्क्रिय हुँदा गर्नु पर्ने कारबाही</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> चाँडै पज हुने छ</translation>
 <translation id="586567932979200359">तपाईंले <ph name="PRODUCT_NAME"/> लाई यसको डिस्क छविबाट चलाइरहनु भएको छ। यसलाई तपाईंको कम्प्युटरमा स्थापना गर्नाले यसले तपाईंलाई डिस्क छवि बिना चालू गर्न अनुमति दिन्छ, र यो नवीनतम रहने सुनिश्चित गर्छ।</translation>
-<translation id="9063160602596686558">प्रयोगसम्बन्धी तथ्याङ्क र क्र्यास रिपोर्टहरू स्वतः Brave मा पठाउँछ</translation>
 <translation id="5866557323934807206">भविष्यका भिजिटका लागि यी सेटिङहरू सफा गर्नुहोस्</translation>
 <translation id="5866840822086176774">अत्यन्त बलियो</translation>
 <translation id="5867841422488265304">वेब ठेगाना खोज्नुहोस् वा टाइप गर्नुहोस्</translation>
@@ -5169,7 +5165,6 @@
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, <ph name="PAGE_TITLE"/> मा।</translation>
 <translation id="7674416868315480713">Linux मा फरवार्ड भइराखेका सबै पोर्टहरू निष्क्रिय पार्नुहोस्</translation>
 <translation id="1800308196794859773">कुनै पनि पाठ क्षेत्रमा श्रुतिलेखन गर्ने सुविधा सक्षम पार्न आफ्नो आवाज Brave मा पठाउनुहोस्।</translation>
-<translation id="3098826269712097986">तपाईं इन्कोग्निटो मोडबाट बाहिरिएपछि साइन इनसम्बन्धी डेटा Brave मा भण्डारण गरिने छ। यसले तपाईंलाई पछि फेरि यस वेबसाइटमार्फत Touch ID प्रयोग गर्न दिने छ।</translation>
 <translation id="7681095912841365527">साइटले ब्लुटुथ प्रयोग गर्न सक्छ</translation>
 <translation id="7683373461016844951">जारी राख्न, ठिक छ नामक बटनमा क्लिक गर्नुहोस्, त्यसपछि आफ्नो <ph name="DOMAIN"/> इमेल ठेगानाको नयाँ प्रोफाइल सिर्जना गर्न व्यक्ति थप्नुहोस् नामक बटनमा क्लिक गर्नुहोस्।</translation>
 <translation id="7684212569183643648">तपाईँको प्रशासकद्वारा स्थापना गरियो</translation>
@@ -5652,7 +5647,6 @@
 <translation id="8259239505248583312">जाऔँ</translation>
 <translation id="8260126382462817229">फेरि साइन इन गरी हेर्नुहोस्</translation>
 <translation id="8260864402787962391">माउस</translation>
-<translation id="8261378640211443080">तपाइँको विस्तार <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> मा सूची गरिएको छैन र तपाइँलाई जानकार नगरीकन त्यो थपिएको हुन सक्छ।</translation>
 <translation id="8261506727792406068">मेट्नुहोस्</translation>
 <translation id="8263336784344783289">यो समूहको नाम राख्नुहोस्</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> ले तपाइँको माउस कर्सरलाई असक्षम गरेको छ।</translation>
@@ -6073,7 +6067,6 @@
 <translation id="8805140816472474147">सिंक गर्न थाल्न सिंकसम्बन्धी सेटिङहरूको पुष्टि गर्नुहोस्।</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> को प्रयोग गरी झुक्किएर बन्द गरिएका ट्याबहरू पुनः खोल्न सकिन्छ</translation>
 <translation id="8807632654848257479">स्थिर</translation>
-<translation id="8808478386290700967">वेब भण्डार</translation>
 <translation id="8808686172382650546">बिरालो</translation>
 <translation id="1510515462062582289">तपाईं यस पृष्ठमा Brave मा स्थापना गरिएका सबै एक्स्टेन्सनहरू देख्न सक्नुहुन्छ।</translation>
 <translation id="8809147117840417135">हल्का निलो-हरियो मिश्रित रङ्ग</translation>
@@ -6225,7 +6218,6 @@
 <translation id="8983632908660087688"><ph name="ORIGIN"/> ले <ph name="FILENAME"/> सम्पादन गर्न सक्छ</translation>
 <translation id="8985264973231822211"><ph name="DEVICE_LAST_ACTIVATED_TIME"/> दिन अघि सक्रिय</translation>
 <translation id="8986362086234534611">बिर्सनुहोस्</translation>
-<translation id="9079153198295609735">Brave लाई स्वचालित रूपमा उपयोगको तथ्याङ्कहरू र क्र्यास रिपोर्ट पठाउनुहोस्</translation>
 <translation id="8987927404178983737">महिना</translation>
 <translation id="8991520179165052608">साइटले तपाईंको माइक्रोफोन प्रयोग गर्न सक्छ</translation>
 <translation id="899384117894244799">प्रतिबन्धित प्रयोगकर्ता हटाउनुहोस्</translation>
@@ -6456,4 +6448,40 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">सुरक्षित जडान स्थापना गर्दै...</translation>
 <translation id="998747458861718449">निरीक्षण गर्नुहोस्</translation>
+<translation id="658539216370629794">लिङ्कलाई इन्को&amp;ग्निटो विन्डोमा खोल्नुहोस्</translation>
+<translation id="1432267168815937878">लिङ्कलाई इन्क&amp;ग्निटो सन्झ्यालमा खोल्नुहोस्</translation>
+<translation id="6516243500644829484">नयाँ &amp;इन्कोग्निटो विन्डो</translation>
+<translation id="7973394300052703468">नयाँ &amp;इन्कग्निटो सन्झ्याल</translation>
+<translation id="6395403722585816044">इन्कग्निटोमा डाउनलोड गरियो</translation>
+<translation id="203837651858678035">जे भए पनि इन्कोग्निटो मोडबाट बाहिर निस्कने हो?</translation>
+<translation id="7376221878517288144">जे भए पनि इन्कोग्निटो मोड छाडेर बाहिरिने हो?</translation>
+<translation id="871606814707918245">धेरैजसो मान्छेहरू यो साइटका सूचनाहरूमाथि रोक लगाउँछन्</translation>
+<translation id="5053701565089446556">इंकोग्निटो एक्स्टेन्शन: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">इन्कोग्निटो एप: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">इन्कग्निटो ट्याब: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">इनकगनिटो सबफ्रेम: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">इन्कोग्निटो पोर्टल: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Brave वेब स्टोर</translation>
+<translation id="8261378640211443080">तपाइँको विस्तार <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> मा सूची गरिएको छैन र तपाइँलाई जानकार नगरीकन त्यो थपिएको हुन सक्छ।</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (गुप्त)</translation>
+<translation id="4369414322596874629">तपाईं कुनै इन्कोग्निटो विन्डो प्रयोग गरी निजी रूपमा ब्राउज गर्न सक्नुहुन्छ</translation>
+<translation id="3772947852642271642">इन्कोग्निटो विन्डोको सहायताले आफ्नो ब्राउजिङसम्बन्धी इतिहास सुरक्षित नगरिकनै वेबको प्रयोग गर्नुहोस्</translation>
+<translation id="3871738366246972820">कुनै साझा कम्प्युटर प्रयोग गर्दै हुनुहुन्छ? इन्कोग्निटो विन्डो खोली हेर्नुहोस्।</translation>
+<translation id="5808622652939943719">निजी रूपमा ब्राउज गर्नका लाग‍ि कुनै इन्कोग्निटो विन्डो खोल्न डट आइकन भएको मेनुमा क्लिक गर्नुहोस्‌</translation>
+<translation id="9079153198295609735">Brave Software लाई स्वचालित रूपमा उपयोगको तथ्याङ्कहरू र क्र्यास रिपोर्ट पठाउनुहोस्</translation>
+<translation id="8839398440242019256">Brave वेब भण्डारबाट होइन।</translation>
+<translation id="6945695820322143954">यो विस्तारले Brave वेव भण्डारण नीति उल्लङ्घन गर्छ ।</translation>
+<translation id="1676595396635191120">नयँ इन्कग्निटो सन्झ्याल</translation>
+<translation id="5094764494104066239">बुकमार्कहरू पट्टी सँधै देखाउनुहोस्</translation>
+<translation id="4471385409549756595">नयाँ गुप्त विण्डो</translation>
+<translation id="4540437243849625078">यो साइटले इन्कोग्निटो मोड बाहिरको अनुप्रयोगसँग जानकारी आदान प्रदान गर्न लाग्दैछ।</translation>
+<translation id="1227836882233136433">इन्कोग्निटो मोड छोड्ने हो?</translation>
+<translation id="7618452966706304788">तपाईं <ph name="APP_NAME"/> मार्फत इन्कोग्निटो मोडमा Touch ID प्रयोग गर्न चाहनुहुन्छ?</translation>
+<translation id="3098826269712097986">तपाईं इन्कोग्निटो मोडबाट बाहिरिएपछि साइन इनसम्बन्धी डेटा Brave मा भण्डारण गरिने छ। यसले तपाईंलाई पछि फेरि यस वेबसाइटमार्फत Touch ID प्रयोग गर्न दिने छ।</translation>
+<translation id="5186185447130319458">इन्कोग्निटो</translation>
+<translation id="2579188629646253712">इन्कोग्निटो मोडबाट बाहिर निस्कनुहोस्</translation>
+<translation id="8648684608605749476">इन्कोग्निटो मोडमा तेस्रो पक्षीय कुकीहरूमाथि रोक लगाउनुहोस्</translation>
+<translation id="9063160602596686558">प्रयोगसम्बन्धी तथ्याङ्क र क्र्यास रिपोर्टहरू स्वतः Brave Software मा पठाउँछ</translation>
+<translation id="6336451774241870485">नयाँ इनकगनिटो ट्याब</translation>
+<translation id="6610147964972079463">इनकगनिटो ट्याबहरू बन्द गर्नुहोस्</translation>
 </translationbundle>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ca">
+<translation id="658539216370629794">Obrir l'enllaç a &amp;finestra privada</translation>
+<translation id="1432267168815937878">Obrir l'enllaç a n &amp;Finestra Privada</translation>
+<translation id="6516243500644829484">Nou &amp; privat e finestra</translation>
+<translation id="7973394300052703468">Nou &amp;Finestra Privada</translation>
+<translation id="6395403722585816044">Descarregat en Privat</translation>
+<translation id="203837651858678035">Vols sortir igualment del mode privat?</translation>
+<translation id="7376221878517288144">Vols sortir igualment del mode privat?</translation>
+<translation id="871606814707918245">La majoria d'usuaris bloquegen les notificacions d'aquest lloc web</translation>
+<translation id="5053701565089446556">Extensió Privada:  <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Aplicació Privada: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Pestanya privada: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Marc Privat <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portal d'incògnit: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Botiga Web</translation>
+<translation id="8261378640211443080">Aquesta extensió no apareix a <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> i és possible que s'hagi afegit sense que ho sapigueu.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Private)</translation>
+<translation id="4369414322596874629">Pots navegar en privat utilitzant una finestra privada</translation>
+<translation id="3772947852642271642">Utilitza el web sense guardar l'historial de navegació amb una finestra privada</translation>
+<translation id="3871738366246972820">Utilitzes un ordenador compartit? Prova d'obrir una finestra privada.</translation>
+<translation id="5808622652939943719">Per navegar en privat, fes clic al menú de la icona de punts per obrir una finestra privada</translation>
+<translation id="9079153198295609735">Envia automàticament estadístiques d'ús i informes d'error a Brave Software</translation>
+<translation id="8839398440242019256">No és de la Botiga Web.</translation>
+<translation id="6945695820322143954">L'extensió va en contra de la política de la Botiga Web.</translation>
+<translation id="1676595396635191120">Nova Finestra Privada</translation>
+<translation id="5094764494104066239">Mostra la barra d'adreces d'interès</translation>
+<translation id="4471385409549756595">Nova finestra privada</translation>
+<translation id="4540437243849625078">Aquest lloc està a punt de compartir informació amb una aplicació fora del mode privat.</translation>
+<translation id="1227836882233136433">Vols deixar el mode privat?</translation>
+<translation id="7618452966706304788">Vols utilitzar l'empremta d'identificació amb <ph name="APP_NAME"/> en mode privat?</translation>
+<translation id="3098826269712097986">Les dades d’inici de sessió s’emmagatzemaran a Brave després de sortir del mode privat. Això et permetrà tornar a utilitzar la identificació d'empremta amb aquest web més endavant.</translation>
+<translation id="5186185447130319458">Privat</translation>
+<translation id="2579188629646253712">Sortir de Privat</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Obre-les totes en una &amp;finestra d'incògnit}=1{Obre en una &amp;finestra d'incògnit}other{Obre-les totes (#) en una &amp;finestra d'incògnit}}</translation>
+<translation id="1985165269306590797">Obre en una &amp;finestra d'incògnit</translation>
+<translation id="642436385689435488">Obre-ho tot en una finestra d'incògnit</translation>
+<translation id="5463021359602611602">Obre-ho en una finestra d'incògnit</translation>
+<translation id="5070556616376997776">Estàs en mode d'incògnit</translation>
+<translation id="5832813618714645810">Perfils</translation>
+<translation id="6921634551681321094">Afegeix una persona</translation>
+<translation id="6315812488257290136">Perfils</translation>
+<translation id="5840822070878669614">Obre Brave Web Store</translation>
+<translation id="8648684608605749476">Bloqueja les galetes de tercers en mode d'incògnit</translation>
+<translation id="1281501490173223206">Només la sessió d'incògnit actual</translation>
+<translation id="9063160602596686558">Envia automàticament a Brave Software estadístiques d'ús i informes d'error</translation>
+<translation id="3860292630623580294">(Incògnit)</translation>
+<translation id="4854477725773269949">Permet en mode d'incògnit</translation>
+<translation id="6436164536244065364">Mostra-ho a Web Store</translation>
+<translation id="38046578254905003">Cerca extensions i temes a <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Pestanya d'incògnit nova</translation>
+<translation id="6610147964972079463">Tanca pestanyes d'incògnit</translation>
+</translationbundle>

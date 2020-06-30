@@ -748,23 +748,6 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="4215751373031079683">7x9 (envelop)</translation>
 <translation id="4220128509585149162">Crashes</translation>
 <translation id="422022731706691852">Cybercriminelen op <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> proberen je mogelijk te misleiden om programma's te installeren die schadelijk zijn voor de browserfunctionaliteit (door bijvoorbeeld je homepage te wijzigen of extra advertenties weer te geven op sites die je bezoekt). <ph name="BEGIN_LEARN_MORE_LINK"/>Meer informatie<ph name="END_LEARN_MORE_LINK"/></translation>
-<translation id="1426112902089905810">&lt;h4&gt;Stap 1: Log in bij de portal&lt;/h4&gt;
-    &lt;p&gt;Wifi-netwerken op openbare plekken zoals cafés en luchthavens vereisen dat je inlogt. Ga naar een pagina die &lt;code&gt;http://&lt;/code&gt; gebruikt om de inlogpagina weer te geven.&lt;/p&gt;
-    &lt;ol&gt;
-    &lt;li&gt;Ga naar een willekeurige website die begint met &lt;code&gt;http://&lt;/code&gt;, zoals &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;.&lt;/li&gt;
-    &lt;li&gt;Log in op de inlogpagina die wordt geopend om internet te gebruiken.&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;h4&gt;Stap 2: Open de pagina in de incognitomodus (alleen computer)&lt;/h4&gt;
-    &lt;p&gt;Open de webpagina die je probeerde te bezoeken nu in een incognitovenster.&lt;/p&gt;
-    &lt;p&gt;Als de pagina wordt geopend, is er een probleem met een Brave-extensie. Schakel de extensie uit om de fout op te lossen.&lt;/p&gt;
-    &lt;h4&gt;Stap 3: Update je besturingssysteem&lt;/h4&gt;
-    &lt;p&gt;Controleer of je apparaat up-to-date is.&lt;/p&gt;
-    &lt;h4&gt;Stap 4: Schakel je antivirusprogramma tijdelijk uit&lt;/h4&gt;
-    &lt;p&gt;Deze foutmelding wordt weergegeven wanneer je antivirussoftware gebruikt met HTTPS-bescherming of HTTPS-scannen. Deze software verhindert dat Brave beveiliging biedt.&lt;/p&gt;
-    &lt;p&gt;Schakel je antivirussoftware uit om het probleem op te lossen. Als de pagina werkt nadat je de software hebt uitgeschakeld, kun je de software uitschakelen wanneer je beveiligde sites bezoekt.&lt;/p&gt;
-    &lt;p&gt;Vergeet niet je antivirussoftware weer in te schakelen zodra je klaar bent.&lt;/p&gt;
-    &lt;h4&gt;Stap 5: Vraag extra ondersteuning&lt;/h4&gt;
-    &lt;p&gt;Als de fout nog steeds wordt weergegeven, neem je contact op met de eigenaar van de website.&lt;/p&gt;</translation>
 <translation id="4226937834893929579"><ph name="BEGIN_LINK"/>Voer Netwerkcontrole uit<ph name="END_LINK"/>.</translation>
 <translation id="4234495348042597185"><ph name="BEGIN_LINK"/>Doorgaan naar <ph name="SITE"/><ph name="END_LINK"/></translation>
 <translation id="4235360514405112390">Geldig</translation>
@@ -1810,7 +1793,6 @@ Aanvullende informatie:
 <translation id="8800988563907321413">Je suggesties voor in de buurt worden hier weergegeven</translation>
 <translation id="8805819170075074995">Lijstitem '<ph name="LANGUAGE_ID"/>': Item is genegeerd omdat dit ook is opgenomen in het beleid SpellcheckLanguage.</translation>
 <translation id="8807160976559152894">Bijsnijden na elke pagina</translation>
-<translation id="8820817407110198400">Bookmarks</translation>
 <translation id="883848425547221593">Andere bookmarks</translation>
 <translation id="884264119367021077">Verzendadres</translation>
 <translation id="884923133447025588">Geen intrekkingsmechanisme gevonden.</translation>
@@ -1929,5 +1911,34 @@ Aanvullende informatie:
     &lt;/ul&gt;</translation>
 <translation id="994346157028146140">JIS B1</translation>
 <translation id="6771143571626203666">Van Brave Pay</translation>
-<translation id="3489858312836205593">Open een nieuw Brave-incognitovenster</translation>
+<translation id="8820817407110198400">Bladwijzers</translation>
+<translation id="8362995731815961365">Het profiel van degene die de computer heeft opgezet heeft ervoor gekozen deze site te blokkeren.</translation>
+<translation id="4075123085690634698">Open pagina in een nieuwe Privé venster (⇧⌘N)</translation>
+<translation id="2388886110302389394">Open pagina in een nieuwe Privé venster (Ctrl-Shift-N)</translation>
+<translation id="6957624206566198865">Open pagina in een nieuwe Privé tabblad</translation>
+<translation id="2378238891085281592">Je’bent nu privé</translation>
+<translation id="3774752171665127360">Pagina's die je bekijkt in privé tabbladen blijven niet aanwezig in je browser geschiedenis, cookie opslag, of zoekgeschiedenis nadat je al je privé tabbladen hebt afgesloten. Alle bestanden die je download of bladwijzers die je aanmaakt worden bewaard.</translation>
+<translation id="9177896974490719854">Echter, je bent’niet onzichtbaar. Privé gaan verbergt’niet je browsing geschiedenis voor je werkgever, je internet service provider, of de websites die je bezoekt.</translation>
+<translation id="2227116904818538760">Je bent nu privé</translation>
+<translation id="2007417459975034427">Nu kun je privé browsen, en andere profielen die dit apparaat gebruiken kunnen jouw activiteiten niet zien. Echter, downloads en bladwijzers zullen worden opgeslagen.</translation>
+<translation id="2586968635953373425">Open een prive venster</translation>
+<translation id="3489858312836205593">Open een nieuwe Brave prive venster</translation>
+<translation id="6984479912851154518">Verlaat private modus om via een externe applicatie te betalen. Verder gaan?</translation>
+<translation id="1426112902089905810">&amp;lt;h4&amp;gt;Stap 1: Meld aan bij het portaal&amp;lt;/h4&amp;gt;
+    &amp;lt;p&amp;gt;Wi-Fi netwerken op plaatsen zoals cafes of luchthavens vereisen dat je je aanmeld. Om de aanmeldpagina te zien, bezoek een pagina die het volgende gebruikt &amp;lt;code&amp;gt;http://&amp;lt;/code&amp;gt;.&amp;lt;/p&amp;gt;
+    &amp;lt;ol&amp;gt;
+    &amp;lt;li&amp;gt;Ga naar een willekeurige website die begint met &amp;lt;code&amp;gt;http://&amp;lt;/code&amp;gt;, zoals &amp;lt;a href="http://example.com" target="_blank"&amp;gt;http://example.com&amp;lt;/a&amp;gt;.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Op de aanmeldpagina die opent, meld je aan om het internet te kunnen gebruiken.&amp;lt;/li&amp;gt;
+    &amp;lt;/ol&amp;gt;
+    &amp;lt;h4&amp;gt;Stap 2: Open the pagina in Prive modus (alleen voor computers)&amp;lt;/h4&amp;gt;
+    &amp;lt;p&amp;gt;Open de pagina die je bezocht in het Prive venster.&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;Als de pagina opent, en een Brave extensie niet goed werkt. Om het probleem te verhelpen, schakel de extensie uit.&amp;lt;/p&amp;gt;
+    &amp;lt;h4&amp;gt;Stap 3: Werk je besturingssysteem bij&amp;lt;/h4&amp;gt;
+    &amp;lt;p&amp;gt;Zorg dat je apparaat is bijgewerkt.&amp;lt;/p&amp;gt;
+    &amp;lt;h4&amp;gt;Stap 4: Schakel tijdelijk je antivirus uit&amp;lt;/h4&amp;gt;
+    &amp;lt;p&amp;gt;Je ziet deze fout als je een antivirusprogramma hebt die  "HTTPS protection" of "HTTPS scanning" verschaft. Het antivirusprogramma verhindert Brave om beveiliging te verschaffen.&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;Om het probleem te verhelpen, schakel je antivirusprogramma uit. Als de pagina werkt na het uitschakelen van het programma, schakel dan dit programma uit als je beveiligde sites bezoekt.&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;Onthoud om je antivirusprogramma weer in te schakelen als je klaar bent.&amp;lt;/p&amp;gt;
+    &amp;lt;h4&amp;gt;Stap 5: Verkrijg extra hulp&amp;lt;/h4&amp;gt;
+    &amp;lt;p&amp;gt;Als je deze fout nog steeds ziet, neem dan contact op met de eigenaar van de website.&amp;lt;/p&amp;gt;</translation>
 </translationbundle>

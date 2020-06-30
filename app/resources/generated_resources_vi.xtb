@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">Đang chờ gỡ cài đặt</translation>
 <translation id="175772926354468439">Bật chủ đề</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Xem trong Cửa hàng Brave trực tuyến</translation>
 <translation id="176193854664720708">Cảm biến vân tay nằm trong nút nguồn. Hãy chạm nhẹ vào nút này bằng ngón tay bất kỳ.</translation>
 <translation id="1763046204212875858">Tạo các lối tắt cho ứng dụng</translation>
 <translation id="1763108912552529023">Tiếp tục khám phá</translation>
@@ -1326,7 +1325,6 @@ Bạn có thể quản lý các tùy chọn cài đặt của tài khoản này 
 <translation id="2660779039299703961">Sự kiện</translation>
 <translation id="4052689580269971502">Không thể kết nối với máy in. Hãy kiểm tra để đảm bảo rằng bạn đã bật máy in cũng như đã kết nối máy in với Bravebook qua Wi-Fi hoặc USB.</translation>
 <translation id="2661714428027871023">Duyệt web nhanh hơn và sử dụng ít dữ liệu hơn nhờ Chế độ thu gọn. Nhấp để tìm hiểu thêm.</translation>
-<translation id="8808478386290700967">Brave Web Store</translation>
 <translation id="2663302507110284145">Ngôn ngữ</translation>
 <translation id="2665394472441560184">Thêm từ mới</translation>
 <translation id="2665647207431876759">Đã hết hạn</translation>
@@ -2211,7 +2209,6 @@ Bạn có thể quản lý các tùy chọn cài đặt của tài khoản này 
 <translation id="3771294271822695279">Tệp video</translation>
 <translation id="3775432569830822555">Chứng chỉ Máy chủ SSL</translation>
 <translation id="3775705724665058594">Gửi đến các thiết bị của bạn</translation>
-<translation id="6945695820322143954">Tiện ích này vi phạm chính sách của Cửa hàng Brave trực tuyến.</translation>
 <translation id="3777483481409781352">Không kích hoạt được thiết bị di động</translation>
 <translation id="3777806571986431400">Đã bật tiện ích</translation>
 <translation id="3778152852029592020">Đã hủy tải xuống.</translation>
@@ -3026,7 +3023,6 @@ Bạn có thể quản lý các tùy chọn cài đặt của tài khoản này 
 <translation id="48704129375571883">Thêm tính năng bổ sung</translation>
 <translation id="4870758487381879312">Nhập mật khẩu do quản trị viên cung cấp để lấy thông tin cấu hình</translation>
 <translation id="4870903493621965035">Không có thiết bị nào được ghép nối</translation>
-<translation id="8839398440242019256">Không phải từ Cửa hàng Brave trực tuyến.</translation>
 <translation id="4871322859485617074">Mã PIN chứa ký tự không hợp lệ</translation>
 <translation id="4871370605780490696">Thêm dấu trang</translation>
 <translation id="4871568871368204250">Tắt đồng bộ hóa</translation>
@@ -3622,7 +3618,6 @@ Bạn có thể quản lý các tùy chọn cài đặt của tài khoản này 
 <translation id="563535393368633106">Hỏi trước khi truy cập (được đề xuất)</translation>
 <translation id="5636996382092289526">Để sử dụng <ph name="NETWORK_ID"/>, trước hết bạn cần <ph name="LINK_START"/>truy cập vào trang đăng nhập của mạng<ph name="LINK_END"/>. Trang này thường tự động mở sau vài giây. Nếu trang này không mở thì không thể sử dụng mạng này.</translation>
 <translation id="5637476008227280525">Bật dữ liệu di động</translation>
-<translation id="38046578254905003">Tìm tiện ích và chủ đề trong <ph name="BEGIN_LINK"/>Cửa hàng Brave trực tuyến<ph name="END_LINK"/></translation>
 <translation id="5639549361331209298">Tải lại trang này, giữ để xem các tùy chọn khác</translation>
 <translation id="5640133431808313291">Quản lý khóa bảo mật</translation>
 <translation id="5642508497713047">Trình ký CRL</translation>
@@ -3794,7 +3789,6 @@ Bạn có thể quản lý các tùy chọn cài đặt của tài khoản này 
 <translation id="5864754048328252126">Trạng thái không hoạt động trong khi sạc</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> sắp tạm dừng</translation>
 <translation id="586567932979200359">Bạn đang chạy <ph name="PRODUCT_NAME"/> từ hình ảnh đĩa của nó. Cài đặt trình duyệt này trên máy tính cho phép bạn chạy trình duyệt mà không cần có hình ảnh đĩa và đảm bảo trình duyệt sẽ được cập nhật.</translation>
-<translation id="9063160602596686558">Tự động gửi số liệu thống kê sử dụng và báo cáo sự cố cho Brave</translation>
 <translation id="5866557323934807206">Xóa các cài đặt này cho những lần truy cập tiếp theo</translation>
 <translation id="5866840822086176774">Rất mạnh</translation>
 <translation id="5867841422488265304">Tìm kiếm hoặc nhập địa chỉ web</translation>
@@ -4236,7 +4230,6 @@ Bạn có thể quản lý các tùy chọn cài đặt của tài khoản này 
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> sẽ thiết lập cập nhật tự động cho tất cả người dùng của máy tính này.</translation>
 <translation id="6434309073475700221">Hủy</translation>
 <translation id="6434325376267409267">Bạn cần cập nhật thiết bị của mình để sử dụng <ph name="APP_NAME"/>.</translation>
-<translation id="6436164536244065364">Xem trong Cửa hàng trực tuyến</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> - Phát âm thanh</translation>
 <translation id="6442187272350399447">Tuyệt vời</translation>
 <translation id="6444070574980481588">Đặt ngày giờ</translation>
@@ -4952,7 +4945,6 @@ Bạn có thể quản lý các tùy chọn cài đặt của tài khoản này 
 <translation id="7375235221357833624">{0,plural, =1{Cập nhật thiết bị trong vòng một giờ}other{Cập nhật thiết bị trong vòng # giờ}}</translation>
 <translation id="7376553024552204454">Đánh dấu con trỏ chuột khi đang di chuyển</translation>
 <translation id="7377451353532943397">Tiếp tục chặn quyền sử dụng cảm biến</translation>
-<translation id="5840822070878669614">Mở cửa hàng Brave trực tuyến</translation>
 <translation id="7378812711085314936">Nhận kết nối dữ liệu</translation>
 <translation id="7378962964415201590">Ghép nối điện thoại mới</translation>
 <translation id="7380768571499464492">Đã cập nhật <ph name="PRINTER_NAME"/></translation>
@@ -5174,7 +5166,6 @@ Bạn có thể quản lý các tùy chọn cài đặt của tài khoản này 
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, trong <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">Hủy kích hoạt mọi cổng đang được chuyển tiếp trong Linux</translation>
 <translation id="1800308196794859773">Gửi giọng nói của bạn tới Brave để cho phép nhập bằng giọng nói vào bất kỳ trường văn bản nào.</translation>
-<translation id="3098826269712097986">Brave sẽ lưu dữ liệu đăng nhập sau khi bạn thoát chế độ Ẩn danh. Nhờ đó, bạn có thể sử dụng lại Touch ID với trang web này vào thời điểm khác.</translation>
 <translation id="7681095912841365527">Trang web có thể sử dụng Bluetooth</translation>
 <translation id="7683373461016844951">Để tiếp tục, hãy nhấp vào OK, sau đó nhấp vào Thêm người để tạo hồ sơ mới cho địa chỉ email <ph name="DOMAIN"/> của bạn.</translation>
 <translation id="7684212569183643648">Do quản trị viên của bạn cài đặt</translation>
@@ -5658,7 +5649,6 @@ Giữ tệp khóa của bạn ở nơi an toàn. Bạn sẽ cần tệp khóa đ
 <translation id="8259239505248583312">Bắt đầu</translation>
 <translation id="8260126382462817229">Thử đăng nhập lại</translation>
 <translation id="8260864402787962391">Chuột</translation>
-<translation id="8261378640211443080">Tiện ích này không được liệt kê trong <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> và có thể đã được thêm mà bạn không biết.</translation>
 <translation id="8261506727792406068">Xóa</translation>
 <translation id="8263336784344783289">Đặt tên cho nhóm này</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> đã tắt con trỏ chuột của bạn.</translation>
@@ -6079,7 +6069,6 @@ Giữ tệp khóa của bạn ở nơi an toàn. Bạn sẽ cần tệp khóa đ
 <translation id="8805140816472474147">Hãy xác nhận cài đặt đồng bộ hóa để bắt đầu đồng bộ hóa.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> có thể mở lại các tab bạn đã vô tình đóng.</translation>
 <translation id="8807632654848257479">Ổn định</translation>
-<translation id="8808478386290700967">Web Store</translation>
 <translation id="8808686172382650546">Mèo</translation>
 <translation id="1510515462062582289">Trên trang này, bạn có thể thấy tất cả các tiện ích đã cài đặt trong Brave.</translation>
 <translation id="8809147117840417135">Xanh két nhạt</translation>
@@ -6231,7 +6220,6 @@ Giữ tệp khóa của bạn ở nơi an toàn. Bạn sẽ cần tệp khóa đ
 <translation id="8983632908660087688"><ph name="ORIGIN"/> có thể chỉnh sửa <ph name="FILENAME"/></translation>
 <translation id="8985264973231822211">Hoạt động <ph name="DEVICE_LAST_ACTIVATED_TIME"/> ngày trước</translation>
 <translation id="8986362086234534611">Quên</translation>
-<translation id="9079153198295609735">Tự động gửi số liệu thống kê về việc sử dụng và báo cáo sự cố cho Brave</translation>
 <translation id="8987927404178983737">Tháng</translation>
 <translation id="8991520179165052608">Trang web có thể sử dụng micrô của bạn</translation>
 <translation id="899384117894244799">Xóa người dùng bị hạn chế</translation>
@@ -6462,4 +6450,54 @@ Giữ tệp khóa của bạn ở nơi an toàn. Bạn sẽ cần tệp khóa đ
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Thiết lập kết nối an toàn...</translation>
 <translation id="998747458861718449">K&amp;iểm tra</translation>
+<translation id="658539216370629794">Mở liên kết trong &amp;cửa sổ riêng tư</translation>
+<translation id="1432267168815937878">Mở liên kết trong &amp;Cửa sổ Riêng tư</translation>
+<translation id="6516243500644829484">Cửa sổ &amp;riêng tư mới</translation>
+<translation id="7973394300052703468">Cửa sổ &amp;Riêng tư Mới</translation>
+<translation id="6395403722585816044">Tải xuống ở chế độ Riêng tư</translation>
+<translation id="203837651858678035">Vẫn thoát khỏi chế độ riêng tư?</translation>
+<translation id="7376221878517288144">Vẫn thoát khỏi chế độ riêng tư?</translation>
+<translation id="871606814707918245">Hầu hết mọi người đều chặn thông báo từ trang web này</translation>
+<translation id="5053701565089446556">Phần mở rộng Riêng tư: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Ứng dụng Riêng tư: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Thẻ Riêng tư: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Khung phụ Riêng tư: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Cổng thông tin ẩn danh: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Web Store</translation>
+<translation id="8261378640211443080">Tiện ích này không được liệt kê trong <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> và có thể đã được thêm mà bạn không biết.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Riêng tư)</translation>
+<translation id="4369414322596874629">Bạn có thể duyệt web riêng tư bằng cách sử dụng một cửa sổ riêng tư</translation>
+<translation id="3772947852642271642">Sử dụng web mà không lưu lịch sử duyệt của bạn với một cửa sổ riêng tư</translation>
+<translation id="3871738366246972820">Sử dụng máy tính công cộng? Hãy tìm cách mở một cửa sổ riêng tư.</translation>
+<translation id="5808622652939943719">Để duyệt riêng tư, hãy bấm vào menu biểu tượng dấu chấm để mở một cửa sổ riêng tư</translation>
+<translation id="9079153198295609735">Tự động gửi số liệu thống kê về việc sử dụng và báo cáo sự cố cho Brave Software</translation>
+<translation id="8839398440242019256">Không phải từ Web Store.</translation>
+<translation id="6945695820322143954">Phần mở rộng này vi phạm chính sách Web Store.</translation>
+<translation id="1676595396635191120">Cửa sổ Riêng tư Mới</translation>
+<translation id="5094764494104066239">Luôn Hiển thị Thanh Dấu trang</translation>
+<translation id="4471385409549756595">Cửa sổ riêng tư mới</translation>
+<translation id="4540437243849625078">Trang này sẽ chia sẻ thông tin với một ứng dụng khác ở ngoài chế độ riêng tư.</translation>
+<translation id="1227836882233136433">Rời khỏi chế độ riêng tư?</translation>
+<translation id="7618452966706304788">Bạn có muốn sử dụng ID Cảm ứng với <ph name="APP_NAME"/> trong chế độ Riêng tư không?</translation>
+<translation id="3098826269712097986">Dữ liệu đăng nhập sẽ được lưu trong Brave sau khi bạn thoát khỏi chế độ Riêng tư. Điều này cho phép bạn sử dụng ID Cảm ứng với trang web này một lần nữa sau này.</translation>
+<translation id="5186185447130319458">Riêng tư</translation>
+<translation id="2579188629646253712">Thoát khỏi chế độ Riêng tư</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Mở tất cả trong &amp;cửa sổ ẩn danh}=1{Mở trong &amp;cửa sổ ẩn danh}other{Mở tất cả (#) trong cửa sổ ẩn danh}}</translation>
+<translation id="1985165269306590797">Mở trong &amp;Cửa sổ ẩn danh</translation>
+<translation id="642436385689435488">Mở tất cả trong cửa sổ ẩn danh</translation>
+<translation id="5463021359602611602">Mở trong cửa sổ ẩn danh</translation>
+<translation id="5070556616376997776">Bạn đang ở chế độ ẩn danh</translation>
+<translation id="5832813618714645810">Hồ sơ</translation>
+<translation id="6921634551681321094">Thêm người</translation>
+<translation id="6315812488257290136">Hồ sơ</translation>
+<translation id="5840822070878669614">Mở cửa hàng Brave trực tuyến</translation>
+<translation id="8648684608605749476">Chặn các cookie của bên thứ ba trong chế độ Ẩn danh</translation>
+<translation id="1281501490173223206">Chỉ phiên ẩn danh hiện tại</translation>
+<translation id="9063160602596686558">Tự động gửi số liệu thống kê sử dụng và báo cáo sự cố cho Brave Software</translation>
+<translation id="3860292630623580294">(Ẩn danh)</translation>
+<translation id="4854477725773269949">Cho phép ở chế độ ẩn danh</translation>
+<translation id="6436164536244065364">Xem trong Cửa hàng trực tuyến</translation>
+<translation id="38046578254905003">Tìm tiện ích và chủ đề trong <ph name="BEGIN_LINK"/>Cửa hàng Brave trực tuyến<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Tab riêng tư mới</translation>
+<translation id="6610147964972079463">Đóng các tab riêng tư</translation>
 </translationbundle>

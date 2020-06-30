@@ -1323,7 +1323,6 @@
 <translation id="2660779039299703961">ඉසව්ව</translation>
 <translation id="4052689580269971502">මුද්‍රකයට සම්බන්ධ කළ නොහැක. මුද්‍රකය ක්‍රියාත්මක කර Wi-Fi හෝ USB මඟින් ඔබේ Bravebook වෙත සම්බන්ධ වී ඇති දැයි පරීක්ෂා කරන්න.</translation>
 <translation id="2661714428027871023">සැහැල්ලු ප්‍රකාරය සමඟින් වේගවත්ව බ්‍රවුස් කර දත්ත අඩුවෙන් භාවිතා කරන්න. තව දැන ගැනීමට ක්ලික් කරන්න.</translation>
-<translation id="8808478386290700967">Brave ජාල වෙලඳසැල</translation>
 <translation id="2663302507110284145">භාෂාව</translation>
 <translation id="2665394472441560184">නව වදනක් එක් කරන්න</translation>
 <translation id="2665647207431876759">කල් ඉකුත් විය</translation>
@@ -2208,7 +2207,6 @@
 <translation id="3771294271822695279">වීඩියෝ ගොනු</translation>
 <translation id="3775432569830822555">SSL සේවාදායක සහතිකය</translation>
 <translation id="3775705724665058594">ඔබේ උපාංග වෙත යවන්න</translation>
-<translation id="6945695820322143954">දිගුව විසින් Brave Web Store ප්‍රතිපත්තිය උල්ලංගනය කරයි.</translation>
 <translation id="3777483481409781352">සෙලියුලර් උපාංගය ක්‍රියාත්මක කළ නොහැකි විය</translation>
 <translation id="3777806571986431400">දිගුව සක්‍රීයයි</translation>
 <translation id="3778152852029592020">බාගැනීම අවලංගු විය</translation>
@@ -3024,7 +3022,6 @@ Linux ස්ථාපනය කිරීම දත්තවලින් <ph name
 <translation id="48704129375571883">අතිරේක විශේෂාංග එක් කරන්න</translation>
 <translation id="4870758487381879312">වින්‍යාස තොරතුරු ලබා ගැනීමට පරිපාලකයා ලබා දුන් මුරපදය ඇතුළත් කරන්න</translation>
 <translation id="4870903493621965035">යුගල කළ උපාංග නැත</translation>
-<translation id="8839398440242019256">Brave Web Store වෙතින් නොවේ.</translation>
 <translation id="4871322859485617074">රහස් අංකයේ අවලංගු අනුලකුණු අඩංගු ය</translation>
 <translation id="4871370605780490696">පිටු සලකුණ එක් කරන්න</translation>
 <translation id="4871568871368204250">සමමුහුර්තය ක්‍රියා විරහිත කරන්න</translation>
@@ -3793,7 +3790,6 @@ Linux ස්ථාපනය කිරීම දත්තවලින් <ph name
 <translation id="5864754048328252126">ආරෝපණය අතුරතුර අකර්මණ්‍ය ක්‍රියාව</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> ඉක්මනින් විරාම වෙයි</translation>
 <translation id="586567932979200359">ඔබ <ph name="PRODUCT_NAME"/> ක්‍රියාත්මක කරන්නේ එහි තැටි අනුරූපයෙනි. එය ඔබේ පරිගණකය තුළ ස්ථාපිත කිරීම තැටි අනුරුවක් නොමැතිව ක්‍රියාකරවීමට ඉඩදෙයි, තවද එය යාවත්කාලීන බව තහවුරු කරයි.</translation>
-<translation id="9063160602596686558">භාවිතා සංඛ්‍යාල්ඛන සහ සහ බිඳ වැටීම් වාර්තා ස්වයංක්‍රියව Brave වෙත යවයි</translation>
 <translation id="5866557323934807206">ඉදිරි පිවිසීම් සඳහා මෙම සැකසුම් හිස් කරන්න</translation>
 <translation id="5866840822086176774">ඉතා ශක්තිමත්</translation>
 <translation id="5867841422488265304">වෙබ් ලිපිනය සොයන්න හෝ ටයිප් කරන්න</translation>
@@ -5171,7 +5167,6 @@ Linux ස්ථාපනය කිරීම දත්තවලින් <ph name
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, <ph name="PAGE_TITLE"/> තුළ.</translation>
 <translation id="7674416868315480713">ලිනක්ස් තුළ යොමු කෙරෙන සියලුම තොටවල් ක්‍රියා විරහිත කරන්න</translation>
 <translation id="1800308196794859773">ඕනෑම පෙළ ක්ෂේත්‍රයක හඬ ටයිප් කිරීමට ඉඩ දීමට, අනුලේඛනය විසින් ඔබගේ හඬ Brave වෙත යවන්න.</translation>
-<translation id="3098826269712097986">ඔබ අප්‍රසිද්ධ ප්‍රකාරයෙන් පිට වූ පසු පුරන දත්ත Brave තුළ ගබඩා කරනු ලැබේ. මෙය ඔබට පසුව මෙම වෙබ් අඩවිය සමඟ නැවතත් ස්පර්ශ හැඳුනුම භාවිත කිරීමට ඉඩ සලසයි.</translation>
 <translation id="7681095912841365527">අඩවියට බ්ලූටූත් භාවිත කළ හැකිය</translation>
 <translation id="7683373461016844951">ඉදිරියට යාමට, හරි ක්ලික් කරන්න, අනතුරුව ඔබේ <ph name="DOMAIN"/> ඊ-තැපැල් ලිපිනය සඳහා නව පැතිකඩක් සෑදීමට පුද්ගලයා එක් කරන්න ක්ලික් කරන්න.</translation>
 <translation id="7684212569183643648">ඔබේ පරිපාලක විසින් ස්ථාපනය කරන ලදී</translation>
@@ -5653,7 +5648,6 @@ Linux ස්ථාපනය කිරීම දත්තවලින් <ph name
 <translation id="8259239505248583312">අරඹමු</translation>
 <translation id="8260126382462817229">නැවත පිරීම උත්සාහ කරන්න</translation>
 <translation id="8260864402787962391">මවුසය</translation>
-<translation id="8261378640211443080">දිගුව <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> තුළ ලියාපදිංචි කර නැති අතර එය ඔබට නොදැනී එක් කර තිබේ.</translation>
 <translation id="8261506727792406068">මකන්න</translation>
 <translation id="8263336784344783289">මෙම සමූහය නම් කරන්න</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> ඔබේ මූසික කර්සරය අබල කර ඇත.</translation>
@@ -6074,7 +6068,6 @@ Linux ස්ථාපනය කිරීම දත්තවලින් <ph name
 <translation id="8805140816472474147">සමමුහුර්තය ආරම්භ කිරීමට සමමුහුර්ත සැකසීම් තහවුරු කරන්න.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> හට වැරදීමකින් වැසුණු පටිති යළි විවෘත කළ හැකිය</translation>
 <translation id="8807632654848257479">ස්ථායි</translation>
-<translation id="8808478386290700967">වෙබ අලෙවිසැල</translation>
 <translation id="8808686172382650546">පූසා</translation>
 <translation id="1510515462062582289">මෙම පිටුව මත, ඔබට Brave තුළ ස්ථාපිත සියලුම දිගු බැලිය හැක.</translation>
 <translation id="8809147117840417135">ලා හරිත නිල්</translation>
@@ -6226,7 +6219,6 @@ Linux ස්ථාපනය කිරීම දත්තවලින් <ph name
 <translation id="8983632908660087688"><ph name="ORIGIN"/> හට <ph name="FILENAME"/> සංස්කරණ කළ හැක</translation>
 <translation id="8985264973231822211"><ph name="DEVICE_LAST_ACTIVATED_TIME"/> දිනකට පෙර ක්‍රියාත්මකයි</translation>
 <translation id="8986362086234534611">අමතක</translation>
-<translation id="9079153198295609735">ස්වයංක්‍රීයව භාවිත සංඛ්‍යා ලේඛන සහ කඩිනම් වාර්තා Brave වෙත යවන්න</translation>
 <translation id="8987927404178983737">මාසය</translation>
 <translation id="8991520179165052608">අඩවියට ඔබේ මයික්‍රෆෝනය භාවිත කළ හැකිය</translation>
 <translation id="899384117894244799">සීමා කළ පරිශීලකයා ඉවත් කරන්න</translation>
@@ -6457,4 +6449,40 @@ Linux ස්ථාපනය කිරීම දත්තවලින් <ph name
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">ආරක්ෂිත සබඳතාවක් ස්ථාපිත කරමින්...</translation>
 <translation id="998747458861718449">පරීක්ෂා කරන්න</translation>
+<translation id="658539216370629794">inco&amp;gnito කවුළුව තුළ සබැඳිය විවෘත කරන්න</translation>
+<translation id="1432267168815937878">Incognito කවුළුව තුළ සබැඳිය විවෘත කරන්න</translation>
+<translation id="6516243500644829484">නව &amp;incognito කවුළුව</translation>
+<translation id="7973394300052703468">නව &amp;Incognito කවුළුව</translation>
+<translation id="6395403722585816044">අප්‍රකටව බාගන්නා ලදී</translation>
+<translation id="203837651858678035">කෙසේ වුවත් අප්‍රසිද්ධ ආකාරයෙන් ඉවත් වන්න ද?</translation>
+<translation id="7376221878517288144">කෙසේ වුවත් අප්‍රසිද්ධ ආකාරයෙන් ඉවත් වන්න ද?</translation>
+<translation id="871606814707918245">බොහෝ අය මෙම වෙබ් අඩවියෙන් එන දැනුම් දීම් අවහිර කරති</translation>
+<translation id="5053701565089446556">Incognito දිගුව: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">ඉන්කග්නිටෝ යෙදු: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Incognito ටැබය: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">අප්‍රකට උපරාමුව: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">අප්‍රසිද්ධ ද්වාරය: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Brave ජාල වෙලඳසැල</translation>
+<translation id="8261378640211443080">දිගුව <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> තුළ ලියාපදිංචි කර නැති අතර එය ඔබට නොදැනී එක් කර තිබේ.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Incognito)</translation>
+<translation id="4369414322596874629">ඔබට අප්‍රසිද්ධ කවුළුවක් භාවිතයෙන් රහසිගතව බ්‍රවුස් කළ හැක</translation>
+<translation id="3772947852642271642">අප්‍රසිද්ධ කවුළුවක් සමඟින් ඔබේ බ්‍රවුස් කිරීමේ ඉතිහාසය සුරැකීමෙන් තොරව වෙබය භාවිතා කරන්න</translation>
+<translation id="3871738366246972820">හවුල් පරිගණකයක් භාවිතා කරනවා ද? අප්‍රසිද්ධ කවුළුවක් විවෘත කිරීමට උත්සාහ කරන්න.</translation>
+<translation id="5808622652939943719">රහසිගතව බ්‍රවුස් කිරීම සඳහා, අප්‍රසිද්ධ කවුළුවක් විවෘත කිරීම සඳහා තිත් නිරූපක මෙනුව ක්ලික් කරන්න</translation>
+<translation id="9079153198295609735">ස්වයංක්‍රීයව භාවිත සංඛ්‍යා ලේඛන සහ කඩිනම් වාර්තා Brave Software වෙත යවන්න</translation>
+<translation id="8839398440242019256">Brave Web Store වෙතින් නොවේ.</translation>
+<translation id="6945695820322143954">දිගුව විසින් Brave Web Store ප්‍රතිපත්තිය උල්ලංගනය කරයි.</translation>
+<translation id="1676595396635191120">නව Incognito කවුළුව</translation>
+<translation id="5094764494104066239">හැමවිට පිටුසලකුණු බාර් එක පෙන්වන්න</translation>
+<translation id="4471385409549756595">නව Incognito කවුළුව</translation>
+<translation id="4540437243849625078">මෙම අඩවිය අප්‍රසිද්ධ ප්‍රකාරෙයන් පිටත යෙදුමක් සමග තොරතුරු බෙදා ගැනීමට සූදානම්ය.</translation>
+<translation id="1227836882233136433">අප්‍රසිද්ධ ප්‍රකාරය හැර යන්නද?</translation>
+<translation id="7618452966706304788">ඔබට අප්‍රසිද්ධ ප්‍රකාරය තුළ <ph name="APP_NAME"/> සමඟ ස්පර්ශ හැඳුනුම භාවිත කිරීමට අවශ්‍යද?</translation>
+<translation id="3098826269712097986">ඔබ අප්‍රසිද්ධ ප්‍රකාරයෙන් පිට වූ පසු පුරන දත්ත Brave තුළ ගබඩා කරනු ලැබේ. මෙය ඔබට පසුව මෙම වෙබ් අඩවිය සමඟ නැවතත් ස්පර්ශ හැඳුනුම භාවිත කිරීමට ඉඩ සලසයි.</translation>
+<translation id="5186185447130319458">අප්‍රකට</translation>
+<translation id="2579188629646253712">අප්‍රසිද්ධයෙන් පිටවන්න</translation>
+<translation id="8648684608605749476">අප්‍රසිද්ධය තුළ තෙවන පාර්ශ්ව කුකී අවහිර කරන්න</translation>
+<translation id="9063160602596686558">භාවිතා සංඛ්‍යාල්ඛන සහ සහ බිඳ වැටීම් වාර්තා ස්වයංක්‍රියව Brave Software වෙත යවයි</translation>
+<translation id="6336451774241870485">නව අප්‍රසිද්ධ පටිත්ත</translation>
+<translation id="6610147964972079463">අප්‍රකට පටිති වසන්න</translation>
 </translationbundle>

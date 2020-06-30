@@ -9,11 +9,12 @@
 <translation id="94154759592465111">スクリプトをブロックする</translation>
 <translation id="7458422973722236530">フィンガープリンティング対策</translation>
 <translation id="5709627087332022422">クロスサイトのトラッカーをブロックする</translation>
-<translation id="6754976710186182237">ブロック済みのフィンガープリンティング手法</translation>
+<translation id="6754976710186182237">フィンガープリンティング手法</translation>
 <translation id="2313532038420432247">HTTPSアップグレード</translation>
-<translation id="7461425058443653485">ブロック済みのスクリプト</translation>
+<translation id="7461425058443653485">ブロック済み
+のスクリプト</translation>
 <translation id="3834924998750356151">ブロッキングモニター</translation>
-<translation id="1713450908129883784">個別コントロール</translation>
+<translation id="1713450908129883784">個別設定</translation>
 <translation id="6302422639282249274">Brave Rewardsの管理</translation>
 <translation id="1506061864768559482">検索エンジン</translation>
 <translation id="1468415711258933398">標準タブ</translation>
@@ -22,11 +23,12 @@
 <translation id="520895744850022668">HTTPS Everywhere</translation>
 <translation id="8710614491157212477">利用可能な場合、HTTPではなくHTTPSを使用してサイトを開きます</translation>
 <translation id="8387201461264842096">広告ブロック</translation>
-<translation id="1934885595886623674">広告が読み込みを抑制する</translation>
+<translation id="1934885595886623674">広告を読み込まない</translation>
 <translation id="5787084571334399599">フィンガープリンティングを防止します</translation>
-<translation id="7459000603787995422">終了時にタブを閉じます</translation>
+<translation id="7459000603787995422">終了時にタブを閉じる</translation>
 <translation id="1680858055899097121">セッション間でタブを保持しません</translation>
-<translation id="4339730410920731698">ブロック済みの広告とトラッカー</translation>
+<translation id="4339730410920731698">ブロック済みの
+広告とトラッカー</translation>
 <translation id="6761596877474675418">節約できたデータ量</translation>
 <translation id="3034562645284925177">節約できた時間(推定)</translation>
 <translation id="6572660632052512096">デスクトップモード</translation>
@@ -314,13 +316,13 @@
 <translation id="4941539331405513605">クロスサイトクッキーをブロック</translation>
 <translation id="3763681089644577874">クッキーをブロック</translation>
 <translation id="614747795780742163">以前の訪問に関する情報を、ウェブサイトが保存しないようにします</translation>
-<translation id="6883611015375728278">全てのクッキーをブロック</translation>
+<translation id="6883611015375728278">すべてのクッキーをブロック</translation>
 <translation id="5657156137487675418">すべてのクッキーを許可する</translation>
 <translation id="5963670684159057574">フィンガープリンティングをブロック</translation>
 <translation id="3895527457258986253">フィンガープリンティングをブロック</translation>
 <translation id="184568144098869637">ブラウザがお使いのデバイスを認識しないようにする</translation>
-<translation id="4540198958192073185">すべての指紋をブロック</translation>
-<translation id="769702552748212954">全てのフィンガープリンティングを許可する</translation>
+<translation id="4540198958192073185">すべてのフィンガープリンティングをブロック</translation>
+<translation id="769702552748212954">すべてのフィンガープリンティングを許可する</translation>
 <translation id="2888409909650566510">ブロック済の広告・トラッカー</translation>
 <translation id="6930134873084561197">サイトには多くの場合、あなたとあなたのデバイスを識別しようとするクッキーとスクリプトが含まれています。これらはあなたが誰であるかを判別し、ウェブ追跡であなたが他のサイトで何をしているかを追跡する物です。\n\nBraveはこれらをブロックし、あなたが追跡されることなくブラウザできるようにします。</translation>
 <translation id="8553998445606452168">Brave Shieldsについて</translation>
@@ -335,4 +337,6 @@
 <translation id="76550953340008122">このサイトの問題をBraveの開発者にお知らせいただき、ありがとうございます。最善を尽くしてその修正を行います！</translation>
 <translation id="650318023204990401">詳細設定</translation>
 <translation id="7182293319417450928">照会するには最低25BATの残高が必要です。</translation>
+<translation id="1275664486910646411">トップサイトをオートコンプリートで表示</translation>
+<translation id="5516010970279932133">推奨サイトをオートコンプリートで表示</translation>
 </translationbundle>

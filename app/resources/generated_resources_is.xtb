@@ -1326,7 +1326,6 @@ Annars skaltu skrá þig út núna svo breytingarnar á þessum reikningi taki g
 <translation id="2660779039299703961">Tilvik</translation>
 <translation id="4052689580269971502">Ekki tókst að tengjast við prentarann. Gættu þess að kveikt sé á prentaranum og hann sé tengdur við Bravebook um Wi-Fi net eða USB-tengi.</translation>
 <translation id="2661714428027871023">Vafraðu hraðar og notaðu minna gagnamagn með léttútgáfu. Smelltu til að fá frekari upplýsingar.</translation>
-<translation id="8808478386290700967">Vefverslun Brave</translation>
 <translation id="2663302507110284145">Tungumál</translation>
 <translation id="2665394472441560184">Bæta nýju orði við</translation>
 <translation id="2665647207431876759">Útrunnið</translation>
@@ -2211,7 +2210,6 @@ Annars skaltu skrá þig út núna svo breytingarnar á þessum reikningi taki g
 <translation id="3771294271822695279">Myndskeiðsskrár</translation>
 <translation id="3775432569830822555">SSL-þjónsvottorð</translation>
 <translation id="3775705724665058594">Senda í tækin þín</translation>
-<translation id="6945695820322143954">Þessi viðbót brýtur gegn stefnu vefverslunar Brave.</translation>
 <translation id="3777483481409781352">Ekki var hægt að virkja farsíma</translation>
 <translation id="3777806571986431400">Viðbót gerð virk</translation>
 <translation id="3778152852029592020">Hætt var við niðurhalið.</translation>
@@ -3026,7 +3024,6 @@ Annars skaltu skrá þig út núna svo breytingarnar á þessum reikningi taki g
 <translation id="48704129375571883">Bæta við frekari eiginleikum</translation>
 <translation id="4870758487381879312">Sláðu inn aðgangsorð frá kerfisstjóra til að fá stillingaupplýsingar</translation>
 <translation id="4870903493621965035">Engin pöruð tæki</translation>
-<translation id="8839398440242019256">Ekki úr vefverslun Brave.</translation>
 <translation id="4871322859485617074">PIN-númerið inniheldur ógilda stafi</translation>
 <translation id="4871370605780490696">Bæta við bókamerki</translation>
 <translation id="4871568871368204250">Slökkva á samstillingu</translation>
@@ -3794,7 +3791,6 @@ Annars skaltu skrá þig út núna svo breytingarnar á þessum reikningi taki g
 <translation id="5864754048328252126">Aðgerðaleysi meðan á hleðslu stendur</translation>
 <translation id="5865508026715185451">Hlé verður gert á <ph name="APP_NAME"/> fljótlega</translation>
 <translation id="586567932979200359">Þú ert að keyra <ph name="PRODUCT_NAME"/> af diskmynd þess. Ef þú setur það upp í tölvunni geturðu keyrt það án diskmyndarinnar og tryggt að það sé alltaf uppfært.</translation>
-<translation id="9063160602596686558">Sendir sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Brave</translation>
 <translation id="5866557323934807206">Hreinsa þessar stillingar fyrir heimsóknir síðar meir</translation>
 <translation id="5866840822086176774">Mjög mikill</translation>
 <translation id="5867841422488265304">Leitaðu eða sláðu inn veffang</translation>
@@ -5174,7 +5170,6 @@ Annars skaltu skrá þig út núna svo breytingarnar á þessum reikningi taki g
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, á <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">Gera framsendingu allra gátta óvirka í Linux</translation>
 <translation id="1800308196794859773">Sendu rödd þína til Brave til að bjóða upp á upplestur fyrir hvaða textareit sem er.</translation>
-<translation id="3098826269712097986">Innskráningarupplýsingar verða geymdar í Brave þegar þú hefur lokað huliðsstillingunni. Það gerir þér kleift að nota snertiauðkenni aftur á þessu vefsvæði.</translation>
 <translation id="7681095912841365527">Vefsvæði getur notað Bluetooth</translation>
 <translation id="7683373461016844951">Ýttu á Í lagi til að halda áfram og ýttu á Bæta notanda við til að búa til nýjan prófíl fyrir netfangið þitt hjá <ph name="DOMAIN"/>.</translation>
 <translation id="7684212569183643648">Kerfisstjórinn þinn setti upp</translation>
@@ -5657,7 +5652,6 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="8259239505248583312">Byrjum ballið</translation>
 <translation id="8260126382462817229">Reyndu að skrá þig inn aftur</translation>
 <translation id="8260864402787962391">Mús</translation>
-<translation id="8261378640211443080">Þessi viðbót er ekki á skrá í <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> og kann að hafa verið bætt við án þinnar vitneskju.</translation>
 <translation id="8261506727792406068">Eyða</translation>
 <translation id="8263336784344783289">Nefna hóp</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> hefur slökkt á músarbendlinum.</translation>
@@ -6078,7 +6072,6 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="8805140816472474147">Staðfestu samstillingarkosti til að hefja samstillingu.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> getur opnað aftur flipa sem var lokað óvart</translation>
 <translation id="8807632654848257479">Stöðug</translation>
-<translation id="8808478386290700967">Vefverslun</translation>
 <translation id="8808686172382650546">Köttur</translation>
 <translation id="1510515462062582289">Þessi síða sýnir allar uppsettar viðbætur í Brave.</translation>
 <translation id="8809147117840417135">Ljósgrænblár</translation>
@@ -6230,7 +6223,6 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="8983632908660087688"><ph name="ORIGIN"/> getur breytt <ph name="FILENAME"/></translation>
 <translation id="8985264973231822211">Virkt fyrir <ph name="DEVICE_LAST_ACTIVATED_TIME"/> degi</translation>
 <translation id="8986362086234534611">Gleyma</translation>
-<translation id="9079153198295609735">Senda sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Brave</translation>
 <translation id="8987927404178983737">Mánuður</translation>
 <translation id="8991520179165052608">Vefsvæði getur notað hljóðnemann þinn</translation>
 <translation id="899384117894244799">Fjarlægja takmarkaðan notanda</translation>
@@ -6461,4 +6453,40 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Kemur á öruggri tengingu...</translation>
 <translation id="998747458861718449">S&amp;koða</translation>
+<translation id="658539216370629794">Opna ten&amp;gil í huliðsglugga</translation>
+<translation id="1432267168815937878">Opna ten&amp;gil í huliðsglugga</translation>
+<translation id="6516243500644829484">Nýr hul&amp;iðsgluggi</translation>
+<translation id="7973394300052703468">Nýr hul&amp;iðsgluggi</translation>
+<translation id="6395403722585816044">Sótt í huliðsstillingu</translation>
+<translation id="203837651858678035">Viltu samt loka huliðsstillingu?</translation>
+<translation id="7376221878517288144">Viltu samt loka huliðsstillingu?</translation>
+<translation id="871606814707918245">Flestir notendur loka á tilkynningar frá þessu vefsvæði</translation>
+<translation id="5053701565089446556">Huliðsviðbót: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Huliðsforrit: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Huliðsflipi: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Huliðsundirrammi: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Huliðsgátt: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Vefverslun Brave</translation>
+<translation id="8261378640211443080">Þessi viðbót er ekki á skrá í <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> og kann að hafa verið bætt við án þinnar vitneskju.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (huliðsgluggi)</translation>
+<translation id="4369414322596874629">Þú getur vafrað í leyni með því að nota huliðsglugga</translation>
+<translation id="3772947852642271642">Vafraðu án þess að vista vafraferilinn með því að nota huliðsglugga</translation>
+<translation id="3871738366246972820">Deilirðu tölvunni með öðrum? Prófaðu að opna huliðsglugga.</translation>
+<translation id="5808622652939943719">Til að vafra í leyni skaltu opna huliðsglugga með því að smella á valmyndina með punktunum</translation>
+<translation id="9079153198295609735">Senda sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Brave Software</translation>
+<translation id="8839398440242019256">Ekki úr vefverslun Brave.</translation>
+<translation id="6945695820322143954">Þessi viðbót brýtur gegn stefnu vefverslunar Brave.</translation>
+<translation id="1676595396635191120">Nýr huliðsgluggi</translation>
+<translation id="5094764494104066239">Sýna alltaf bókamerkjastikuna</translation>
+<translation id="4471385409549756595">Nýr huliðsgluggi</translation>
+<translation id="4540437243849625078">Vefsvæðið er við það að deila upplýsingum með forriti fyrir utan huliðsstillingu.</translation>
+<translation id="1227836882233136433">Slökkva á huliðsstillingu?</translation>
+<translation id="7618452966706304788">Viltu nota snertiauðkenni á <ph name="APP_NAME"/> í huliðsstillingu?</translation>
+<translation id="3098826269712097986">Innskráningarupplýsingar verða geymdar í Brave þegar þú hefur lokað huliðsstillingunni. Það gerir þér kleift að nota snertiauðkenni aftur á þessu vefsvæði.</translation>
+<translation id="5186185447130319458">Fara huldu höfðu</translation>
+<translation id="2579188629646253712">Fara úr huliðsstillingu</translation>
+<translation id="8648684608605749476">Loka á fótspor þriðju aðila í huliðsstillingu</translation>
+<translation id="9063160602596686558">Sendir sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Brave Software</translation>
+<translation id="6336451774241870485">Nýr huliðsflipi</translation>
+<translation id="6610147964972079463">Loka huliðsflipum</translation>
 </translationbundle>

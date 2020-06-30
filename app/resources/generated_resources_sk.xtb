@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">Čaká sa na odinštalovanie</translation>
 <translation id="175772926354468439">Povoliť motív</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Zobraziť v Internetovom obchode Brave</translation>
 <translation id="176193854664720708">Senzor odtlačkov prstov je vo vypínači. Dotknite sa ho ľubovoľným prstom.</translation>
 <translation id="1763046204212875858">Vytvoriť odkazy na aplikáciu</translation>
 <translation id="1763108912552529023">Skúmať</translation>
@@ -1325,7 +1324,6 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="2660779039299703961">Udalosť</translation>
 <translation id="4052689580269971502">K tlačiarni sa nepodarilo pripojiť. Skontrolujte, či je zapnutá a pripojená k Bravebooku prostredníctvom Wi-Fi alebo USB.</translation>
 <translation id="2661714428027871023">Prehliadajte rýchlejšie a využívajte menej dát pomocou zjednodušeného režimu. Kliknutím získate ďalšie informácie.</translation>
-<translation id="8808478386290700967">Brave Web Store</translation>
 <translation id="2663302507110284145">Jazyk</translation>
 <translation id="2665394472441560184">Pridať nové slovo</translation>
 <translation id="2665647207431876759">Platnosť uplynula</translation>
@@ -2210,7 +2208,6 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="3771294271822695279">Súbory videa</translation>
 <translation id="3775432569830822555">Certifikát servera SSL</translation>
 <translation id="3775705724665058594">Odoslanie do zariadení</translation>
-<translation id="6945695820322143954">Toto rozšírenie porušuje pravidlá Internetového obchodu Brave.</translation>
 <translation id="3777483481409781352">Mobilné zariadenie sa nepodarilo aktivovať</translation>
 <translation id="3777806571986431400">Povolenie rozšírenia</translation>
 <translation id="3778152852029592020">Sťahovanie bolo zrušené.</translation>
@@ -3025,7 +3022,6 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="48704129375571883">Pridať ďalšie funkcie</translation>
 <translation id="4870758487381879312">Ak chcete získať informácie o konfigurácii, zadajte heslo od správcu</translation>
 <translation id="4870903493621965035">Žiadne spárované zariadenia</translation>
-<translation id="8839398440242019256">Nepochádza z Internetového obchodu Brave.</translation>
 <translation id="4871322859485617074">Kód PIN obsahuje neplatné znaky</translation>
 <translation id="4871370605780490696">Pridanie záložky</translation>
 <translation id="4871568871368204250">Vypnutie synchronizácie</translation>
@@ -3621,7 +3617,6 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="563535393368633106">Spýtať sa pred pristupovaním (odporúčané)</translation>
 <translation id="5636996382092289526">Pred použitím siete <ph name="NETWORK_ID"/> bude možno potrebné najprv <ph name="LINK_START"/>prejsť na prihlasovaciu stránku siete<ph name="LINK_END"/>, ktorá sa otvorí automaticky v priebehu niekoľkých sekúnd. Ak k tomu nedôjde, daná sieť sa nedá použiť.</translation>
 <translation id="5637476008227280525">Povoliť mobilné dáta</translation>
-<translation id="38046578254905003">Nájdite rozšírenia a motívy v <ph name="BEGIN_LINK"/>Internetovom obchode Brave<ph name="END_LINK"/></translation>
 <translation id="5639549361331209298">Načítať túto stránku, ďalšie možnosti zobrazíte podržaním</translation>
 <translation id="5640133431808313291">Správa bezpečnostných kľúčov</translation>
 <translation id="5642508497713047">Podpisovateľ CRL</translation>
@@ -4235,7 +4230,6 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="6431347207794742960">Prehliadač <ph name="PRODUCT_NAME"/> nastaví automatické aktualizácie pre všetkých používateľov tohto počítača.</translation>
 <translation id="6434309073475700221">Odstrániť</translation>
 <translation id="6434325376267409267">Ak chcete používať <ph name="APP_NAME"/>, musíte aktualizovať svoje zariadenie.</translation>
-<translation id="6436164536244065364">Zobraziť v Internetovom obchode</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> – Prehráva sa zvuk</translation>
 <translation id="6442187272350399447">Skvelý</translation>
 <translation id="6444070574980481588">Nastavenie dátumu a času</translation>
@@ -4951,7 +4945,6 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="7375235221357833624">{0,plural, =1{Aktualizujte zariadenie do hodiny}few{Aktualizujte zariadenie do # hodín}many{Aktualizujte zariadenie do # hodiny}other{Aktualizujte zariadenie do # hodín}}</translation>
 <translation id="7376553024552204454">Zvýrazňovať kurzor myši, keď sa hýbe</translation>
 <translation id="7377451353532943397">Naďalej blokovať prístup k senzorom</translation>
-<translation id="5840822070878669614">Otvoriť Internetový obchod Brave</translation>
 <translation id="7378812711085314936">Získať dátové pripojenie</translation>
 <translation id="7378962964415201590">Párovanie nového telefónu</translation>
 <translation id="7380768571499464492">Tlačiareň <ph name="PRINTER_NAME"/> bola aktualizovaná</translation>
@@ -5173,7 +5166,6 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/> na stránke <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">Deaktivovať všetky porty presmerované v systéme Linux</translation>
 <translation id="7676867886086876795">Odošlite svoj hlas do Googlu a umožnite tak diktovanie do všetkých textových polí.</translation>
-<translation id="3098826269712097986">Po ukončení režimu inkognito sa všetky prihlasovacie údaje uložia v Brave. Umožní vám to neskôr opäť používať Touch ID na tomto webe.</translation>
 <translation id="7681095912841365527">Web môže používať Bluetooth</translation>
 <translation id="7683373461016844951">Ak chcete pokračovať, kliknite na OK a potom kliknutím na možnosť Pridať osobu vytvorte nový profil pre svoju e-mailovú adresu v doméne <ph name="DOMAIN"/>.</translation>
 <translation id="7684212569183643648">Nainštalované vaším správcom</translation>
@@ -5656,7 +5648,6 @@ Súbor kľúča uložte na bezpečné miesto. Budete ho potrebovať na vytvoreni
 <translation id="8259239505248583312">Poďme na to</translation>
 <translation id="8260126382462817229">Skúste sa znova prihlásiť</translation>
 <translation id="8260864402787962391">Myš</translation>
-<translation id="8261378640211443080">Toto rozšírenie nedodáva <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> a mohlo byť pridané bez vášho vedomia.</translation>
 <translation id="8261506727792406068">Odstrániť</translation>
 <translation id="8263336784344783289">Pomenujte túto skupinu</translation>
 <translation id="8263744495942430914">Stránka <ph name="FULLSCREEN_ORIGIN"/> zakázala kurzor myši.</translation>
@@ -6077,7 +6068,6 @@ Súbor kľúča uložte na bezpečné miesto. Budete ho potrebovať na vytvoreni
 <translation id="8805140816472474147">Spustite synchronizáciu potvrdením jej nastavení.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> dokáže znova otvoriť omylom zatvorené karty</translation>
 <translation id="8807632654848257479">Stabilné</translation>
-<translation id="8808478386290700967">Web Store</translation>
 <translation id="8808686172382650546">Mačka</translation>
 <translation id="1510515462062582289">Na tejto stránke nájdete všetky rozšírenia nainštalované v Brave.</translation>
 <translation id="8809147117840417135">Svetlá modrozelená</translation>
@@ -6460,4 +6450,54 @@ Súbor kľúča uložte na bezpečné miesto. Budete ho potrebovať na vytvoreni
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Prebieha nadväzovanie zabezpečeného spojenia...</translation>
 <translation id="998747458861718449">P&amp;reskúmať</translation>
+<translation id="658539216370629794">Otvoriť odkaz v &amp; súkromnom okne</translation>
+<translation id="1432267168815937878">Otvoriť odkaz v &amp; súkromnom okne</translation>
+<translation id="6516243500644829484">Nové &amp;súkromné okno</translation>
+<translation id="7973394300052703468">Nové &amp; Súkromné okno</translation>
+<translation id="6395403722585816044">Stiahnuté v súkromí</translation>
+<translation id="203837651858678035">Napriek tomu opustiť súkromný režim?</translation>
+<translation id="7376221878517288144">Napriek tomu ukončiť súkromný režim?</translation>
+<translation id="871606814707918245">Väčšina ľudí blokuje upozornenia z tohto webu</translation>
+<translation id="5053701565089446556">Súkromné rozšírenie: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Súkromná aplikácia: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Súkromná karta: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Súkromný pomocný rámec: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Anonymný portál: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Internetový obchod</translation>
+<translation id="8261378640211443080">Toto rozšírenie nedodáva <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> a mohlo byť pridané bez vášho vedomia.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Súkromný)</translation>
+<translation id="4369414322596874629">Môžete si prezerať súkromne pomocou súkromného okna</translation>
+<translation id="3772947852642271642">Používajte web bez ukladania histórie prehliadania v súkromnom okne</translation>
+<translation id="3871738366246972820">Používate zdieľaný počítač? Skúste otvoriť súkromné okno.</translation>
+<translation id="5808622652939943719">Ak chcete prehliadať súkromne, kliknutím na ikonu s bodkami otvorte súkromné okno</translation>
+<translation id="9079153198295609735">Automaticky odosielať Googlu štatistiky používania a správy o zlyhaní</translation>
+<translation id="8839398440242019256">Nie z internetového obchodu.</translation>
+<translation id="6945695820322143954">Toto rozšírenie porušuje pravidlá internetového obchodu.</translation>
+<translation id="1676595396635191120">Nové súkromné okno</translation>
+<translation id="5094764494104066239">Vždy zobrazovať panel so záložkami</translation>
+<translation id="4471385409549756595">Nové súkromné okno</translation>
+<translation id="4540437243849625078">Táto stránka sa chystá zdieľať informácie s aplikáciou mimo súkromného režimu.</translation>
+<translation id="1227836882233136433">Opustiť súkromný režim?</translation>
+<translation id="7618452966706304788">Chcete použiť Touch ID s <ph name="APP_NAME"/> v Súkromnom režime?</translation>
+<translation id="3098826269712097986">Po ukončení súkromného režimu sa prihlasovacie údaje uložia na Brave. Umožní vám to znova použiť Touch ID s touto webovou stránkou neskôr.</translation>
+<translation id="5186185447130319458">Súkromný</translation>
+<translation id="2579188629646253712">Ukončiť súkromné</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Otvoriť všetky v okne inkognito}=1{Otvoriť v okne inkognito}few{Otvoriť všetky (#) v okne inkognito}many{Otvoriť všetky (#) v okne inkognito}other{Otvoriť všetky (#) v okne inkognito}}</translation>
+<translation id="1985165269306590797">Otvoriť v &amp;okne inkognito</translation>
+<translation id="642436385689435488">Otvoriť všetky v okne inkognito</translation>
+<translation id="5463021359602611602">Otvoriť v okne inkognito</translation>
+<translation id="5070556616376997776">Ste v režime inkognito</translation>
+<translation id="5832813618714645810">Profily</translation>
+<translation id="6921634551681321094">Pridať osobu</translation>
+<translation id="6315812488257290136">Profily</translation>
+<translation id="5840822070878669614">Otvoriť Internetový obchod Brave</translation>
+<translation id="8648684608605749476">Blokovať súbory cookie tretích strán v anonymnom režime</translation>
+<translation id="1281501490173223206">Iba aktuálna relácia inkognito</translation>
+<translation id="9063160602596686558">Automaticky odosiela štatistiky o používaní a správy o zlyhaní Googlu</translation>
+<translation id="3860292630623580294">(Inkognito)</translation>
+<translation id="4854477725773269949">Povoliť v režime inkognito</translation>
+<translation id="6436164536244065364">Zobraziť v Internetovom obchode</translation>
+<translation id="38046578254905003">Nájdite rozšírenia a motívy v <ph name="BEGIN_LINK"/>Internetovom obchode Brave<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Nová súkromná karta</translation>
+<translation id="6610147964972079463">Zatvoriť súkromné karty</translation>
 </translationbundle>

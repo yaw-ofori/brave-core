@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">รอถอนการติดตั้ง</translation>
 <translation id="175772926354468439">เปิดใช้งานธีม</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">ดูใน Brave เว็บสโตร์</translation>
 <translation id="176193854664720708">เซ็นเซอร์ลายนิ้วมืออยู่ในปุ่มเปิด/ปิด โปรดแตะเบาๆ ด้วยนิ้วใดก็ได้</translation>
 <translation id="1763046204212875858">สร้างทางลัดไปยังแอปพลิเคชัน</translation>
 <translation id="1763108912552529023">สำรวจต่อไป</translation>
@@ -1326,7 +1325,6 @@
 <translation id="2660779039299703961">กิจกรรม</translation>
 <translation id="4052689580269971502">เชื่อมต่อเครื่องพิมพ์ไม่ได้ โปรดตรวจสอบว่าเครื่องพิมพ์เปิดอยู่และเชื่อมต่อกับ Bravebook ผ่าน Wi-Fi หรือ USB</translation>
 <translation id="2661714428027871023">เรียกดูหน้าเว็บได้เร็วขึ้นและใช้เน็ตน้อยลงได้ด้วยโหมด Lite คลิกเพื่อดูข้อมูลเพิ่มเติม</translation>
-<translation id="8808478386290700967">Brave Web Store</translation>
 <translation id="2663302507110284145">ภาษา</translation>
 <translation id="2665394472441560184">เพิ่มคำใหม่</translation>
 <translation id="2665647207431876759">หมดอายุ</translation>
@@ -2211,7 +2209,6 @@
 <translation id="3771294271822695279">ไฟล์วิดีโอ</translation>
 <translation id="3775432569830822555">ใบรับรองเซิร์ฟเวอร์ SSL</translation>
 <translation id="3775705724665058594">ส่งไปยังอุปกรณ์</translation>
-<translation id="6945695820322143954">ส่วนขยายนี้ละเมิดนโยบาย Brave เว็บสโตร์</translation>
 <translation id="3777483481409781352">เปิดใช้งานอุปกรณ์มือถือไม่สำเร็จ</translation>
 <translation id="3777806571986431400">ส่วนขยายที่เปิดใช้งาน</translation>
 <translation id="3778152852029592020">การดาวน์โหลดถูกยกเลิก</translation>
@@ -3026,7 +3023,6 @@
 <translation id="48704129375571883">เพิ่มฟีเจอร์</translation>
 <translation id="4870758487381879312">ป้อนรหัสผ่านที่ผู้ดูแลระบบให้เพื่อดูข้อมูลการกำหนดค่า</translation>
 <translation id="4870903493621965035">ไม่มีอุปกรณ์ที่จับคู่</translation>
-<translation id="8839398440242019256">ไม่ได้มาจาก Brave เว็บสโตร์</translation>
 <translation id="4871322859485617074">PIN มีอักขระที่ไม่ถูกต้อง</translation>
 <translation id="4871370605780490696">เพิ่มบุ๊กมาร์ก</translation>
 <translation id="4871568871368204250">ปิดการซิงค์</translation>
@@ -3622,7 +3618,6 @@
 <translation id="563535393368633106">ถามก่อนที่จะเข้าถึง (แนะนำ)</translation>
 <translation id="5636996382092289526">หากต้องการใช้ <ph name="NETWORK_ID"/> ก่อนอื่น คุณอาจจำเป็นต้อง<ph name="LINK_START"/>ไปที่หน้าลงชื่อเข้าใช้ของเครือข่าย<ph name="LINK_END"/> ซึ่งจะเปิดขึ้นโดยอัตโนมัติในอีกไม่กี่วินาที ถ้าหน้าดังกล่าวไม่เปิดขึ้น แสดงว่าไม่สามารถใช้เครือข่ายดังกล่าวได้</translation>
 <translation id="5637476008227280525">เปิดใช้อินเทอร์เน็ตมือถือ</translation>
-<translation id="38046578254905003">ค้นหาส่วนขยายและธีมต่างๆ ได้ใน <ph name="BEGIN_LINK"/>Brave เว็บสโตร์<ph name="END_LINK"/></translation>
 <translation id="5639549361331209298">โหลดหน้าเว็บนี้ซ้ำ กดค้างไว้เพื่อดูตัวเลือกเพิ่มเติม</translation>
 <translation id="5640133431808313291">จัดการคีย์ความปลอดภัย</translation>
 <translation id="5642508497713047">ผู้เซ็นชื่อ CRL</translation>
@@ -3794,7 +3789,6 @@
 <translation id="5864754048328252126">การทำงานสำหรับการไม่ใช้งานขณะที่ชาร์จ</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> จะหยุดชั่วคราวเร็วๆ นี้</translation>
 <translation id="586567932979200359">คุณกำลังเรียกใช้ <ph name="PRODUCT_NAME"/> จากดิสก์อิมเมจ การติดตั้งผลิตภัณฑ์นี้บนคอมพิวเตอร์จะทำให้คุณเรียกใช้ได้โดยไม่ต้องใช้ดิสก์อิมเมจและคุณมั่นใจได้ว่าผลิตภัณฑ์จะอัปเดตตลอดเวลา</translation>
-<translation id="9063160602596686558">ส่งสถิติการใช้งานและรายงานข้อขัดข้องให้กับ Brave โดยอัตโนมัติ</translation>
 <translation id="5866557323934807206">ล้างการตั้งค่าเหล่านี้สำหรับการเข้าชมในอนาคต </translation>
 <translation id="5866840822086176774">แรงมาก</translation>
 <translation id="5867841422488265304">ค้นหาหรือพิมพ์ที่อยู่เว็บ</translation>
@@ -4236,7 +4230,6 @@
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> จะติดตั้งการอัปเดตอัตโนมัติสำหรับผู้ใช้ทั้งหมดที่ใช้เครื่องคอมพิวเตอร์นี้</translation>
 <translation id="6434309073475700221">ทิ้ง</translation>
 <translation id="6434325376267409267">คุณต้องอัปเดตอุปกรณ์ก่อนจึงจะใช้ <ph name="APP_NAME"/> ได้</translation>
-<translation id="6436164536244065364">ดูในเว็บสโตร์</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> - เล่นอัตโนมัติ</translation>
 <translation id="6442187272350399447">ออซั่ม</translation>
 <translation id="6444070574980481588">ตั้งวันที่และเวลา</translation>
@@ -4952,7 +4945,6 @@
 <translation id="7375235221357833624">{0,plural, =1{อัปเดตอุปกรณ์ภายใน 1 ชั่วโมง}other{อัปเดตอุปกรณ์ภายใน # ชั่วโมง}}</translation>
 <translation id="7376553024552204454">ไฮไลต์เคอร์เซอร์เมาส์เมื่อขยับ</translation>
 <translation id="7377451353532943397">บล็อกการเข้าถึงเซ็นเซอร์ต่อไป</translation>
-<translation id="5840822070878669614">เปิด Brave เว็บสโตร์</translation>
 <translation id="7378812711085314936">ขอเชื่อมต่อข้อมูล</translation>
 <translation id="7378962964415201590">จับคู่โทรศัพท์ใหม่</translation>
 <translation id="7380768571499464492">อัปเดต <ph name="PRINTER_NAME"/> แล้ว</translation>
@@ -5174,7 +5166,6 @@
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/> ใน <ph name="PAGE_TITLE"/></translation>
 <translation id="7674416868315480713">ปิดใช้งานทุกพอร์ตที่กำลังส่งต่อใน Linux</translation>
 <translation id="1800308196794859773">ส่งเสียงของคุณไปยัง Brave เพื่อให้พิมพ์ตามคำบอกในช่องข้อความต่างๆ</translation>
-<translation id="3098826269712097986">ข้อมูลการลงชื่อเข้าใช้จะจัดเก็บอยู่ใน Brave หลังจากที่คุณออกจากโหมดไม่ระบุตัวตน การดำเนินการนี้จะทำให้คุณใช้ Touch ID กับเว็บไซต์นี้ได้อีกในภายหลัง</translation>
 <translation id="7681095912841365527">เว็บไซต์ใช้บลูทูธได้</translation>
 <translation id="7683373461016844951">หากต้องการดำเนินการต่อ ให้คลิก "ตกลง" จากนั้นคลิก "เพิ่มบุคคล" เพื่อสร้างโปรไฟล์ใหม่สำหรับที่อยู่อีเมล <ph name="DOMAIN"/></translation>
 <translation id="7684212569183643648">ติดตั้งโดยผู้ดูแลระบบ</translation>
@@ -5658,7 +5649,6 @@
 <translation id="8259239505248583312">เริ่มเลย</translation>
 <translation id="8260126382462817229">ลองลงชื่อเข้าใช้อีกครั้ง</translation>
 <translation id="8260864402787962391">เมาส์</translation>
-<translation id="8261378640211443080">ส่วนขยายนี้ไม่ได้ระบุไว้ใน <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> และอาจถูกเพิ่มเข้ามาโดยที่คุณไม่รู้ตัว</translation>
 <translation id="8261506727792406068">ลบ</translation>
 <translation id="8263336784344783289">ตั้งชื่อกลุ่มนี้</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> ได้ปิดใช้งานเคอร์เซอร์เมาส์แล้ว</translation>
@@ -6079,7 +6069,6 @@
 <translation id="8805140816472474147">ยืนยันการตั้งค่าการซิงค์เพื่อเริ่มซิงค์</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> จะเปิดแท็บที่ปิดไปโดยไม่ได้ตั้งใจขึ้นมาอีกครั้งได้</translation>
 <translation id="8807632654848257479">เสถียร</translation>
-<translation id="8808478386290700967">ร้านค้าบนเว็บ</translation>
 <translation id="8808686172382650546">แมว</translation>
 <translation id="1510515462062582289">ในหน้านี้คุณจะเห็นส่วนขยายทั้งหมดที่ติดตั้งใน Brave</translation>
 <translation id="8809147117840417135">สีน้ำเงินอมเขียวอ่อน</translation>
@@ -6231,7 +6220,6 @@
 <translation id="8983632908660087688"><ph name="ORIGIN"/> แก้ไข <ph name="FILENAME"/> ได้</translation>
 <translation id="8985264973231822211">ใช้งานเมื่อ <ph name="DEVICE_LAST_ACTIVATED_TIME"/> วันที่ผ่านมา</translation>
 <translation id="8986362086234534611">ไม่จำ</translation>
-<translation id="9079153198295609735">ส่งสถิติการใช้งานและรายงานข้อขัดข้องไปยัง Brave โดยอัตโนมัติ</translation>
 <translation id="8987927404178983737">เดือน</translation>
 <translation id="8991520179165052608">เว็บไซต์ใช้ไมโครโฟนของคุณได้</translation>
 <translation id="899384117894244799">นำผู้ใช้ที่ถูกจำกัดออก</translation>
@@ -6462,4 +6450,54 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">กำลังทำการเชื่อมต่ออย่างปลอดภัย...</translation>
 <translation id="998747458861718449">&amp;ตรวจสอบ</translation>
+<translation id="658539216370629794">เปิดลิงก์ใน &amp;หน้าต่างส่วนตัว</translation>
+<translation id="1432267168815937878">เปิดลิงก์ใน &amp;หน้าต่างส่วนตัว</translation>
+<translation id="6516243500644829484">&amp;หน้าต่างส่วนตัวใหม่</translation>
+<translation id="7973394300052703468">&amp;หน้าต่างส่วนตัวใหม่</translation>
+<translation id="6395403722585816044">ดาวน์โหลดในโหมดส่วนตัวแล้ว</translation>
+<translation id="203837651858678035">ออกจากโหมดส่วนตัว?</translation>
+<translation id="7376221878517288144">ออกจากโหมดส่วนตัว?</translation>
+<translation id="871606814707918245">คนส่วนใหญ่บล็อกการแจ้งเตือนจากเว็บไซต์นี้</translation>
+<translation id="5053701565089446556">ส่วนขยายส่วนตัว: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">แอปส่วนตัว: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">แท็บส่วนตัว: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">เฟรมย่อยส่วนตัว: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">พอร์ทัลที่ไม่ระบุตัวตน: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">เว็บสโตร์</translation>
+<translation id="8261378640211443080">ส่วนขยายนี้ไม่ได้ระบุไว้ใน <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> และอาจถูกเพิ่มเข้ามาโดยที่คุณไม่รู้ตัว</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ส่วนตัว)</translation>
+<translation id="4369414322596874629">คุณสามารถค้นหาแบบส่วนตัวได้โดยใช้หน้าต่างส่วนตัว</translation>
+<translation id="3772947852642271642">ใช้งานเว็บโดยไม่บันทึกประวัติการค้นหาด้วยหน้าต่างส่วนตัว</translation>
+<translation id="3871738366246972820">ใช้คอมพิวเตอร์ร่วมกับคนอื่น? ลองเปิดหน้าต่างส่วนตัว</translation>
+<translation id="5808622652939943719">เพื่อค้นหาแบบส่วนตัว คลิกที่เมนูไอคอนรูปจุดเพื่อเปิดหน้าต่างส่วนตัว</translation>
+<translation id="9079153198295609735">ส่งสถิติการใช้งานและรายงานข้อขัดข้องไปยัง Brave Software โดยอัตโนมัติ</translation>
+<translation id="8839398440242019256">ไม่ได้มาจากเว็บสโตร์</translation>
+<translation id="6945695820322143954">ส่วนขยายนี้ละเมิดนโยบายของเว็บสโตร์</translation>
+<translation id="1676595396635191120">หน้าต่างส่วนตัวใหม่</translation>
+<translation id="5094764494104066239">แสดงแถบบุ๊กมาร์กเสมอ</translation>
+<translation id="4471385409549756595">หน้าต่างส่วนตัวใหม่</translation>
+<translation id="4540437243849625078">เว็บนี้กำลังจะแชร์ข้อมูลกับแอปภายนอกโหมดส่วนตัว</translation>
+<translation id="1227836882233136433">ออกจากโหมดส่วนตัว</translation>
+<translation id="7618452966706304788">คุณต้องการใช้ Touch ID กับ <ph name="APP_NAME"/> ในโหมดส่วนตัวหรือไม่?</translation>
+<translation id="3098826269712097986">ข้อมูลการลงชื่อเข้าใช้จะถูกเก็บใน Brave หลังคุณออกจากโหมดส่วนตัว นี่จะทำให้คุณใช้ Touch ID กับเว็บไซต์นี้ได้อีกครั้งในภายหลัง</translation>
+<translation id="5186185447130319458">ส่วนตัว</translation>
+<translation id="2579188629646253712">ออกจากโหมดส่วนตัว</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{เปิดทั้งหมดใน&amp;หน้าต่างที่ไม่ระบุตัวตน}=1{เปิดใน&amp;หน้าต่างที่ไม่ระบุตัวตน}other{เปิดทั้งหมด (#) ใน&amp;หน้าต่างที่ไม่ระบุตัวตน}}</translation>
+<translation id="1985165269306590797">เปิดใน&amp;หน้าต่างที่ไม่ระบุตัวตน</translation>
+<translation id="642436385689435488">เปิดทั้งหมดในหน้าต่างที่ไม่ระบุตัวตน</translation>
+<translation id="5463021359602611602">เปิดในหน้าต่างที่ไม่ระบุตัวตน</translation>
+<translation id="5070556616376997776">คุณอยู่ในโหมดไม่ระบุตัวตน</translation>
+<translation id="5832813618714645810">โปรไฟล์</translation>
+<translation id="6921634551681321094">เพิ่มบุคคล</translation>
+<translation id="6315812488257290136">โปรไฟล์</translation>
+<translation id="5840822070878669614">เปิด Brave เว็บสโตร์</translation>
+<translation id="8648684608605749476">บล็อกคุกกี้ของบุคคลที่สามในโหมดไม่ระบุตัวตน</translation>
+<translation id="1281501490173223206">เซสชันไม่ระบุตัวตนปัจจุบันเท่านั้น</translation>
+<translation id="9063160602596686558">ส่งสถิติการใช้งานและรายงานข้อขัดข้องให้กับ Brave Software โดยอัตโนมัติ</translation>
+<translation id="3860292630623580294">(โหมดไม่ระบุตัวตน)</translation>
+<translation id="4854477725773269949">อนุญาตให้ใช้โหมดไม่ระบุตัวตน</translation>
+<translation id="6436164536244065364">ดูในเว็บสโตร์</translation>
+<translation id="38046578254905003">ค้นหาส่วนขยายและธีมต่างๆ ได้ใน <ph name="BEGIN_LINK"/>Brave เว็บสโตร์<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">แท็บส่วนตัวใหม่</translation>
+<translation id="6610147964972079463">ปิดแท็บส่วนตัว</translation>
 </translationbundle>

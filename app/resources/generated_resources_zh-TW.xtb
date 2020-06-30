@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">正在等待解除安裝</translation>
 <translation id="175772926354468439">啟用主題</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">前往 Brave 線上應用程式商店查看</translation>
 <translation id="176193854664720708">指紋感應器位於電源按鈕上，請以任何一隻手指輕觸指紋感應器。</translation>
 <translation id="1763046204212875858">建立應用程式捷徑</translation>
 <translation id="1763108912552529023">繼續探索</translation>
@@ -1325,7 +1324,6 @@
 <translation id="2660779039299703961">活動</translation>
 <translation id="4052689580269971502">無法連上印表機。請確認印表機已開啟，且已透過 Wi-Fi 或 USB 連上 Bravebook。</translation>
 <translation id="2661714428027871023">使用精簡模式來加快瀏覽速度，同時減少數據用量。按一下即可瞭解詳情。</translation>
-<translation id="8808478386290700967">Brave 線上應用程式商店</translation>
 <translation id="2663302507110284145">語言</translation>
 <translation id="2665394472441560184">新增字詞</translation>
 <translation id="2665647207431876759">已過期</translation>
@@ -2210,7 +2208,6 @@
 <translation id="3771294271822695279">影片檔</translation>
 <translation id="3775432569830822555">SSL 伺服器憑證</translation>
 <translation id="3775705724665058594">傳送至你的裝置</translation>
-<translation id="6945695820322143954">這個擴充功能違反了 Brave 線上應用程式商店政策。</translation>
 <translation id="3777483481409781352">無法啟用行動裝置</translation>
 <translation id="3777806571986431400">擴充功能已啟用</translation>
 <translation id="3778152852029592020">下載作業已取消。</translation>
@@ -3024,7 +3021,6 @@
 <translation id="48704129375571883">新增其他功能</translation>
 <translation id="4870758487381879312">輸入管理員提供的密碼即可取得設定資訊</translation>
 <translation id="4870903493621965035">沒有任何配對裝置</translation>
-<translation id="8839398440242019256">來源不是 Brave 線上應用程式商店。</translation>
 <translation id="4871322859485617074">PIN 碼包含無效的字元</translation>
 <translation id="4871370605780490696">新增書籤</translation>
 <translation id="4871568871368204250">關閉同步處理功能</translation>
@@ -3620,7 +3616,6 @@
 <translation id="563535393368633106">存取前詢問我 (建議)</translation>
 <translation id="5636996382092289526">如要使用 <ph name="NETWORK_ID"/>，你必須先<ph name="LINK_START"/>造訪網路的登入頁面<ph name="LINK_END"/>，系統隨即會自動開啟登入頁面；如果沒有，你就無法使用這個網路。</translation>
 <translation id="5637476008227280525">啟用行動數據</translation>
-<translation id="38046578254905003">歡迎前往 <ph name="BEGIN_LINK"/>Brave 線上應用程式商店<ph name="END_LINK"/>尋找擴充功能和主題</translation>
 <translation id="5639549361331209298">重新載入這個網頁 (按住即可查看更多選項)</translation>
 <translation id="5640133431808313291">管理安全金鑰</translation>
 <translation id="5642508497713047">CRL 簽署者</translation>
@@ -3792,7 +3787,6 @@
 <translation id="5864754048328252126">充電時的閒置動作</translation>
 <translation id="5865508026715185451">「<ph name="APP_NAME"/>」即將暫停</translation>
 <translation id="586567932979200359">你正在透過磁碟映像執行 <ph name="PRODUCT_NAME"/>。你可以直接在電腦上安裝程式，往後無需透過磁碟映像即可直接執行，而且能隨時使用最新的版本。</translation>
-<translation id="9063160602596686558">自動將使用統計資料和當機報告傳送給 Brave</translation>
 <translation id="5866557323934807206">清除這些設定 (下次造訪時不使用這些設定)</translation>
 <translation id="5866840822086176774">極強</translation>
 <translation id="5867841422488265304">搜尋或輸入網址</translation>
@@ -4234,7 +4228,6 @@
 <translation id="6431347207794742960">「<ph name="PRODUCT_NAME"/>」將為這部電腦的所有使用者設定自動更新。</translation>
 <translation id="6434309073475700221">捨棄</translation>
 <translation id="6434325376267409267">必須先更新裝置才能使用「<ph name="APP_NAME"/>」。</translation>
-<translation id="6436164536244065364">在線上應用程式商店中查看</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> - 音訊播放中</translation>
 <translation id="6442187272350399447">真正讚</translation>
 <translation id="6444070574980481588">設定日期和時間</translation>
@@ -4950,7 +4943,6 @@
 <translation id="7375235221357833624">{0,plural, =1{請在 1 小時內更新裝置}other{請在 # 小時內更新裝置}}</translation>
 <translation id="7376553024552204454">滑鼠游標移動時醒目顯示</translation>
 <translation id="7377451353532943397">繼續禁止存取感應器</translation>
-<translation id="5840822070878669614">開啟 Brave 線上應用程式商店</translation>
 <translation id="7378812711085314936">取得數據連線</translation>
 <translation id="7378962964415201590">配對新手機</translation>
 <translation id="7380768571499464492">已更新「<ph name="PRINTER_NAME"/>」</translation>
@@ -5172,7 +5164,6 @@
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/> (在「<ph name="PAGE_TITLE"/>」中)。</translation>
 <translation id="7674416868315480713">停用所有在 Linux 中轉接的通訊埠</translation>
 <translation id="1800308196794859773">將你的語音資料傳送給 Brave，讓你在任何文字欄位中使用語音輸入功能。</translation>
-<translation id="3098826269712097986">離開無痕模式後，登入資料會儲存在 Brave 中；這樣你日後就能在此網站上再次使用 Touch ID。</translation>
 <translation id="7681095912841365527">網站可以使用藍牙</translation>
 <translation id="7683373461016844951">如要繼續操作，請依序點選 [確定] 和 [新增使用者]，為你的 <ph name="DOMAIN"/> 電子郵件地址建立新的設定檔。</translation>
 <translation id="7684212569183643648">由您的管理員安裝</translation>
@@ -5655,7 +5646,6 @@
 <translation id="8259239505248583312">開始使用</translation>
 <translation id="8260126382462817229">請嘗試重新登入</translation>
 <translation id="8260864402787962391">滑鼠</translation>
-<translation id="8261378640211443080">這個擴充功能未列在 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> 中，可能在你不知情的情況下加入瀏覽器。</translation>
 <translation id="8261506727792406068">刪除</translation>
 <translation id="8263336784344783289">為這個群組命名</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> 已停用滑鼠游標。</translation>
@@ -6076,7 +6066,6 @@
 <translation id="8805140816472474147">如要開始同步處理，請確認同步處理設定。</translation>
 <translation id="8806680466228877631">按下 <ph name="SHORTCUT"/> 鍵即可重新開啟不小心關閉的分頁</translation>
 <translation id="8807632654848257479">穩定版</translation>
-<translation id="8808478386290700967">線上應用程式商店</translation>
 <translation id="8808686172382650546">貓咪</translation>
 <translation id="1510515462062582289">這個頁面會顯示 Brave 目前安裝的所有擴充功能。</translation>
 <translation id="8809147117840417135">淺藍綠色</translation>
@@ -6228,7 +6217,6 @@
 <translation id="8983632908660087688"><ph name="ORIGIN"/> 可以編輯「<ph name="FILENAME"/>」</translation>
 <translation id="8985264973231822211">上次使用時間：<ph name="DEVICE_LAST_ACTIVATED_TIME"/> 天前</translation>
 <translation id="8986362086234534611">清除</translation>
-<translation id="9079153198295609735">自動傳送使用統計資料及當機報告給 Brave</translation>
 <translation id="8987927404178983737">月</translation>
 <translation id="8991520179165052608">網站可以使用你的麥克風</translation>
 <translation id="899384117894244799">移除受限制的使用者</translation>
@@ -6459,4 +6447,54 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">正在建立安全連線...</translation>
 <translation id="998747458861718449">檢查(&amp;N)</translation>
+<translation id="658539216370629794">在&amp;私人視窗中開啟連結</translation>
+<translation id="1432267168815937878">在&amp;私人視窗中開啟連結</translation>
+<translation id="6516243500644829484">新&amp;私人視窗</translation>
+<translation id="7973394300052703468">新&amp;私人視窗</translation>
+<translation id="6395403722585816044">已私下下載</translation>
+<translation id="203837651858678035">是否仍要結束私人模式？</translation>
+<translation id="7376221878517288144">是否仍要結束私人模式？</translation>
+<translation id="871606814707918245">大多數使用者封鎖了這個網站傳送的通知</translation>
+<translation id="5053701565089446556">私人擴充功能：<ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">私人應用程式：<ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">私人索引標籤：<ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">私人子畫面：<ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">無痕模式入口網站：<ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">線上商店</translation>
+<translation id="8261378640211443080">這個擴充功能未列在 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> 中，可能在你不知情的情況下加入瀏覽器。</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/>（私人）</translation>
+<translation id="4369414322596874629">您可以使用私人視窗私下瀏覽</translation>
+<translation id="3772947852642271642">透過私人視窗使用網路而不儲存您的瀏覽歷程記錄</translation>
+<translation id="3871738366246972820">使用共用電腦？嘗試開啟私人視窗。</translation>
+<translation id="5808622652939943719">若要私下瀏覽，按一下點圖示選單以開啟私人視窗</translation>
+<translation id="9079153198295609735">自動傳送使用統計資料及當機報告給 Brave Software</translation>
+<translation id="8839398440242019256">不是來自線上商店。</translation>
+<translation id="6945695820322143954">此擴充功能違反線上商店政策。</translation>
+<translation id="1676595396635191120">新私人視窗</translation>
+<translation id="5094764494104066239">永遠顯示書籤列</translation>
+<translation id="4471385409549756595">新私人視窗</translation>
+<translation id="4540437243849625078">此網站即將與私人模式外的應用程式分享資訊。</translation>
+<translation id="1227836882233136433">是否要離開私人模式？</translation>
+<translation id="7618452966706304788">您是否要在私人模式中使用 Touch ID 和 <ph name="APP_NAME"/>？</translation>
+<translation id="3098826269712097986">登入資料將在您結束私人模式後儲存在 Brave。這可使您稍後在此網站再次使用 Touch ID。</translation>
+<translation id="5186185447130319458">私人</translation>
+<translation id="2579188629646253712">結束私人</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{在無痕式視窗中開啟所有書籤(&amp;I)}=1{在無痕式視窗中開啟(&amp;I)}other{在無痕式視窗中開啟全部 # 個書籤(&amp;I)}}</translation>
+<translation id="1985165269306590797">在無痕式視窗中開啟(&amp;I)</translation>
+<translation id="642436385689435488">在無痕式視窗中開啟所有書籤</translation>
+<translation id="5463021359602611602">在無痕式視窗中開啟</translation>
+<translation id="5070556616376997776">目前為無痕模式</translation>
+<translation id="5832813618714645810">設定檔</translation>
+<translation id="6921634551681321094">新增使用者</translation>
+<translation id="6315812488257290136">設定檔</translation>
+<translation id="5840822070878669614">開啟 Brave 線上應用程式商店</translation>
+<translation id="8648684608605749476">在無痕模式中封鎖第三方 Cookie</translation>
+<translation id="1281501490173223206">僅適用於目前的無痕模式工作階段</translation>
+<translation id="9063160602596686558">自動將使用統計資料和當機報告傳送給 Brave Software</translation>
+<translation id="3860292630623580294">(無痕模式)</translation>
+<translation id="4854477725773269949">允許在無痕模式中執行</translation>
+<translation id="6436164536244065364">在線上應用程式商店中查看</translation>
+<translation id="38046578254905003">歡迎前往 <ph name="BEGIN_LINK"/>Brave 線上應用程式商店<ph name="END_LINK"/>尋找擴充功能和主題</translation>
+<translation id="6336451774241870485">新隱私分頁</translation>
+<translation id="6610147964972079463">關閉隱私分頁</translation>
 </translationbundle>

@@ -591,7 +591,6 @@
 <translation id="5862731021271217234">他のデバイスと同じタブを使用するには、同期を有効にします</translation>
 <translation id="5864174910718532887">詳細: サイト名の順</translation>
 <translation id="5864419784173784555">別のダウンロードの完了待ちです…</translation>
-<translation id="9063160602596686558">使用統計情報や障害レポートを Brave に自動送信します</translation>
 <translation id="5869522115854928033">保存したパスワード</translation>
 <translation id="5876056640971328065">動画を一時停止</translation>
 <translation id="9037412730408024068">タスクを完了するため、アシスタントを使用したサイトの URL とコンテンツ、およびアシスタントで送信した情報が Brave に送られます。</translation>
@@ -769,7 +768,6 @@
 <translation id="7413229368719586778">開始日: <ph name="DATE"/></translation>
 <translation id="7431991332293347422">検索などのカスタマイズを目的とした閲覧履歴の使用方法を設定</translation>
 <translation id="6234515504547364178">Brave からログアウト</translation>
-<translation id="1438581767753657407">ライトモードをオンにすると、Brave では Brave のサーバーを使用してページの読み込みを高速化します。特に読み込みの遅いページでは、ライトモードにより、主要コンテンツのみを読み込むようページが書き換えられます。なお、ライトモードはシークレット タブには適用されません。</translation>
 <translation id="7444811645081526538">その他のカテゴリ</translation>
 <translation id="8218628800671693884">ほとんどのサイトからログアウトします。Brave アカウントへのログイン状態は維持されます。</translation>
 <translation id="7454641608352164238">空き容量が不足しています</translation>
@@ -994,4 +992,23 @@
 <translation id="981121421437150478">オフライン</translation>
 <translation id="983192555821071799">すべてのタブを閉じる</translation>
 <translation id="987264212798334818">全般</translation>
+<translation id="5186185447130319458">プライベート</translation>
+<translation id="9063160602596686558">使用統計情報や障害レポートを Brave Software に自動送信します</translation>
+<translation id="1438581767753657407">Liteモードがオンの場合、BraveはBraveサーバーを使用してページの読み込みを高速化します。Liteモードは、非常に遅いページを書き換えて、重要なコンテンツのみを読み込みます。Liteモードは、プライベートタブには適用されません。</translation>
+<translation id="2633278372998075009">プライベートタブ</translation>
+<translation id="6099151465289169210">プライベートタブに切り替えました</translation>
+<translation id="4243710787042215766">プライベートタブで開く</translation>
+<translation id="3110967157686007724">プライベートタブ</translation>
+<translation id="4526803704855831732">プライベートタブ</translation>
+<translation id="7465104139234185284">すべてのプライベートタブを閉じる</translation>
+<translation id="6336451774241870485">新しいプライベートタブ</translation>
+<translation id="3234355010754616171">新しいプライベートタブ</translation>
+<translation id="6610147964972079463">プライベートタブを閉じる</translation>
+<translation id="4968908871398201967">プライベートモード</translation>
+<translation id="9080642952018487277">プライベートモード始める</translation>
+<translation id="4883379392681899581">プライベートモード終了</translation>
+<translation id="3377025655491224618">プライベートタブ</translation>
+<translation id="584427517463557805">選択されているプライベートタブ</translation>
+<translation id="2280910239864711607">新しいプライベートモードタブを開く</translation>
+<translation id="8628973420740315031">他のユーザーと共有するには、この QR コードを読みこんでもらってください</translation>
 </translationbundle>

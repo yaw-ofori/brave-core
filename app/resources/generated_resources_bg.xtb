@@ -606,7 +606,6 @@
 <translation id="1757301747492736405">Предстои деинсталиране</translation>
 <translation id="175772926354468439">Активиране на темата</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Преглед в уеб магазина на Brave</translation>
 <translation id="176193854664720708">Сензорът за отпечатъци е в бутона за включване/изключване. Докоснете го леко с който и да е пръст.</translation>
 <translation id="1763046204212875858">Създаване на преки пътища към приложението</translation>
 <translation id="1763108912552529023">Продължаване на изследването</translation>
@@ -1323,7 +1322,6 @@
 <translation id="2660779039299703961">Събитие</translation>
 <translation id="4052689580269971502">Не може да се установи връзка с принтера. Уверете се, че е включен и е свързан с вашия Bravebook чрез Wi-Fi или USB.</translation>
 <translation id="2661714428027871023">Сърфирайте по-бързо и използвайте по-малко данни с помощта на олекотения режим. Кликнете, за да научите повече.</translation>
-<translation id="8808478386290700967">Brave Web Store</translation>
 <translation id="2663302507110284145">Език</translation>
 <translation id="2665394472441560184">Добавяне на нова дума</translation>
 <translation id="2665647207431876759">Изтекла валидност</translation>
@@ -2209,7 +2207,6 @@
 <translation id="3771294271822695279">Видеофайлове</translation>
 <translation id="3775432569830822555">Сертификат на SSL сървър</translation>
 <translation id="3775705724665058594">Изпращане до устройствата ви</translation>
-<translation id="6945695820322143954">Това разширение нарушава правилата на уеб магазина на Brave.</translation>
 <translation id="3777483481409781352">Мобилното устройство не можа да бъде активирано</translation>
 <translation id="3777806571986431400">Разширението е активирано</translation>
 <translation id="3778152852029592020">Изтеглянето бе анулирано.</translation>
@@ -3025,7 +3022,6 @@
 <translation id="48704129375571883">Добавяне на допълнителни функции</translation>
 <translation id="4870758487381879312">Въведете паролата, предоставена от администратора, за да получите информация за конфигуриране</translation>
 <translation id="4870903493621965035">Няма сдвоени устройства</translation>
-<translation id="8839398440242019256">Извън уеб магазина на Brave.</translation>
 <translation id="4871322859485617074">ПИН кодът съдържа невалидни знаци</translation>
 <translation id="4871370605780490696">Добавяне на отметка</translation>
 <translation id="4871568871368204250">Изключване на синхронизирането</translation>
@@ -3622,7 +3618,6 @@
 <translation id="563535393368633106">Извеждане на запитване преди осъществяване на достъп (препоръчително)</translation>
 <translation id="5636996382092289526">За да използвате „<ph name="NETWORK_ID"/>“, може да се наложи първо <ph name="LINK_START"/>да посетите страницата за вход в мрежата<ph name="LINK_END"/>, която ще се отвори автоматично след няколко секунди. Ако това не се случи, мрежата не може да се ползва.</translation>
 <translation id="5637476008227280525">Активиране на мобилните данни</translation>
-<translation id="38046578254905003">Намерете разширения и теми в <ph name="BEGIN_LINK"/>уеб магазина на Brave<ph name="END_LINK"/></translation>
 <translation id="5639549361331209298">Презареждане на тази страница – задръжте, за да видите още опции</translation>
 <translation id="5640133431808313291">Управление на ключовете за сигурност</translation>
 <translation id="5642508497713047">Подписващ CRL</translation>
@@ -3794,7 +3789,6 @@
 <translation id="5864754048328252126">Действие при неактивност, когато устройството се зарежда</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> скоро ще бъде на пауза</translation>
 <translation id="586567932979200359">Изпълнявате <ph name="PRODUCT_NAME"/> от образа му на диска. Инсталирането му на вашия компютър ви позволява да го използвате без този образ и гарантира, че ще бъде актуализиран.</translation>
-<translation id="9063160602596686558">Автоматично изпраща до Brave статистически данни за използването на Brave и сигнали за сривове</translation>
 <translation id="5866557323934807206">Изчистване на тези настройки за бъдещи посещения</translation>
 <translation id="5866840822086176774">Много силен</translation>
 <translation id="5867841422488265304">Потърсете нещо или въведете уеб адрес</translation>
@@ -4236,7 +4230,6 @@
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> ще настрои автоматични актуализации за всички потребители на този компютър.</translation>
 <translation id="6434309073475700221">Отхвърляне</translation>
 <translation id="6434325376267409267">Устройството ви трябва да бъде актуализирано, преди да можете да използвате <ph name="APP_NAME"/>.</translation>
-<translation id="6436164536244065364">Преглед в уеб магазина</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> – възпроизвежда се звук</translation>
 <translation id="6442187272350399447">Щастливец</translation>
 <translation id="6444070574980481588">Задаване на датата и часа</translation>
@@ -4952,7 +4945,6 @@
 <translation id="7375235221357833624">{0,plural, =1{Актуализирайте устройството в рамките на 1 час}other{Актуализирайте устройството в рамките на # часа}}</translation>
 <translation id="7376553024552204454">Открояване на курсора на мишката, когато се движи</translation>
 <translation id="7377451353532943397">Достъпът до сензорите да продължи да се блокира</translation>
-<translation id="5840822070878669614">Отваряне на уеб магазина на Brave</translation>
 <translation id="7378812711085314936">Получаване на връзка за пренос на данни</translation>
 <translation id="7378962964415201590">Сдвояване на нов телефон</translation>
 <translation id="7380768571499464492">Актуализирането на <ph name="PRINTER_NAME"/> завърши</translation>
@@ -5174,7 +5166,6 @@
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, в страницата „<ph name="PAGE_TITLE"/>“.</translation>
 <translation id="7674416868315480713">Деактивиране на всички портове, пренасочвани към Linux</translation>
 <translation id="1800308196794859773">Изпращане на гласа ви до Brave, за да можете да диктувате във всяко текстово поле.</translation>
-<translation id="3098826269712097986">Данните за влизане в профила ще бъдат съхранени в Brave, след като излезете от режим „инкогнито“. Това ще ви даде възможност по-късно отново да използвате Touch ID за този уебсайт.</translation>
 <translation id="7681095912841365527">Сайтът може да използва Bluetooth</translation>
 <translation id="7683373461016844951">За да продължите, кликнете върху „OK“ и след това – върху „Добавяне на човек“, така че да създадете нов потребителски профил за имейл адреса си от <ph name="DOMAIN"/>.</translation>
 <translation id="7684212569183643648">Инсталирано от администратора ви</translation>
@@ -5658,7 +5649,6 @@
 <translation id="8259239505248583312">Начало</translation>
 <translation id="8260126382462817229">Опитайте да влезете отново</translation>
 <translation id="8260864402787962391">Мишка</translation>
-<translation id="8261378640211443080">Това разширение не е посочено в <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> и може да е било добавено без ваше знание.</translation>
 <translation id="8261506727792406068">Изтриване</translation>
 <translation id="8263336784344783289">Наименувайте тази група</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> деактивира курсора на мишката ви.</translation>
@@ -6079,7 +6069,6 @@
 <translation id="8805140816472474147">За да стартирате синхронизирането, потвърдете съответните настройки.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> служи за повторно отваряне на случайно затворени раздели</translation>
 <translation id="8807632654848257479">Стабилно</translation>
-<translation id="8808478386290700967">Уеб магазин</translation>
 <translation id="8808686172382650546">Котка</translation>
 <translation id="1510515462062582289">На тази страница можете да видите всички разширения, инсталирани в Brave.</translation>
 <translation id="8809147117840417135">Светло синьо-зелено</translation>
@@ -6231,7 +6220,6 @@
 <translation id="8983632908660087688"><ph name="ORIGIN"/> може да редактира „<ph name="FILENAME"/>“</translation>
 <translation id="8985264973231822211">Активно преди <ph name="DEVICE_LAST_ACTIVATED_TIME"/> ден</translation>
 <translation id="8986362086234534611">Забравяне</translation>
-<translation id="9079153198295609735">Автоматично изпращане до Brave на статистически данни за използването на Brave и сигнали за сривове</translation>
 <translation id="8987927404178983737">Месец</translation>
 <translation id="8991520179165052608">Сайтът може да използва микрофона ви</translation>
 <translation id="899384117894244799">Премахване на потребител с ограничена функционалност</translation>
@@ -6462,4 +6450,54 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Установява се защитена връзка...</translation>
 <translation id="998747458861718449">И&amp;нспектиране</translation>
+<translation id="658539216370629794">Отваряне на връзката в поверителен прозорец</translation>
+<translation id="1432267168815937878">Отваряне на връзката в поверителен прозорец</translation>
+<translation id="6516243500644829484">Нов поверителен прозорец</translation>
+<translation id="7973394300052703468">Нов поверителен прозорец</translation>
+<translation id="6395403722585816044">Изтеглено в поверителен режим</translation>
+<translation id="203837651858678035">Ще излезете ли от поверителния режим все пак?</translation>
+<translation id="7376221878517288144">Ще излезете ли от поверителния режим все пак?</translation>
+<translation id="871606814707918245">Повечето хора блокират известията от този сайт</translation>
+<translation id="5053701565089446556">Поверително разширение: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Поверително приложение: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Поверителен раздел: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Поверителна подрамка: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Портал в режим „инкогнито“: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Уеб магазин</translation>
+<translation id="8261378640211443080">Това разширение не е посочено в <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> и може да е било добавено без ваше знание.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Поверителен)</translation>
+<translation id="4369414322596874629">Можете да разглеждате поверително, като използвате поверителен прозорец</translation>
+<translation id="3772947852642271642">Използвайте интернет, без да запазвате историята си на сърфиране с поверителен прозорец</translation>
+<translation id="3871738366246972820">Използвате споделен компютър? Опитайте да отворите поверителен прозорец.</translation>
+<translation id="5808622652939943719">За да разглеждате поверително, щракнете върху менюто с иконата с точки, за да отворите поверителен прозорец</translation>
+<translation id="9079153198295609735">Автоматично изпращане до Brave Software на статистически данни за използването на Brave и сигнали за сривове</translation>
+<translation id="8839398440242019256">Не е от уеб магазина.</translation>
+<translation id="6945695820322143954">Това разширение нарушава правилата на уеб магазина.</translation>
+<translation id="1676595396635191120">Нов поверителен прозорец</translation>
+<translation id="5094764494104066239">Непрекъснато показване на лентата на отметките</translation>
+<translation id="4471385409549756595">Нов поверителен прозорец</translation>
+<translation id="4540437243849625078">Този сайт ще сподели информация с приложение извън поверителния режим.</translation>
+<translation id="1227836882233136433">Ще напуснете ли поверителния режим?</translation>
+<translation id="7618452966706304788">Искате ли да използвате Touch ID с <ph name="APP_NAME"/> в поверителен режим?</translation>
+<translation id="3098826269712097986">Данните за вход ще се съхраняват в Brave, след като излезете от поверителния режим. Това ще ви позволи да използвате Touch ID с този уебсайт отново по-късно.</translation>
+<translation id="5186185447130319458">Поверителен</translation>
+<translation id="2579188629646253712">Изход от поверителния режим</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Отваряне на всички в прозорец в режим „&amp;инкогнито“}=1{Отваряне в прозорец в режим „&amp;инкогнито“}other{Отваряне на всички (#) в прозорец в режим „&amp;инкогнито“}}</translation>
+<translation id="1985165269306590797">Отваряне на прозорец в режим „&amp;инкогнито“</translation>
+<translation id="642436385689435488">Отваряне на всички в прозорец в режим „инкогнито“</translation>
+<translation id="5463021359602611602">Отваряне в прозорец в режим „инкогнито“</translation>
+<translation id="5070556616376997776">Сърфирате в режим „инкогнито“</translation>
+<translation id="5832813618714645810">Профили</translation>
+<translation id="6921634551681321094">Добавяне на човек</translation>
+<translation id="6315812488257290136">Профили</translation>
+<translation id="5840822070878669614">Отваряне на уеб магазина на Brave</translation>
+<translation id="8648684608605749476">Блокиране на „бисквитките“ на трети страни в режим „инкогнито“</translation>
+<translation id="1281501490173223206">Само за текущата сесия в режим „инкогнито“</translation>
+<translation id="9063160602596686558">Автоматично изпраща до Brave Software статистически данни за използването на Brave и сигнали за сривове</translation>
+<translation id="3860292630623580294">(„Инкогнито“)</translation>
+<translation id="4854477725773269949">Да се разреши в режим инкогнито</translation>
+<translation id="6436164536244065364">Преглед в уеб магазина</translation>
+<translation id="38046578254905003">Намерете разширения и теми в <ph name="BEGIN_LINK"/>уеб магазина на Brave<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Нов частен раздел</translation>
+<translation id="6610147964972079463">Затворете поверителните раздели</translation>
 </translationbundle>

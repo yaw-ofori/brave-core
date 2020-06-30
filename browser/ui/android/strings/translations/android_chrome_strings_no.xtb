@@ -591,7 +591,6 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="5862731021271217234">For å få fanene dine fra de andre enhetene du bruker, slå på synkronisering</translation>
 <translation id="5864174910718532887">Informasjon: Sortert etter nettstedsnavn</translation>
 <translation id="5864419784173784555">Venter på en annen nedlasting …</translation>
-<translation id="9063160602596686558">Sender automatisk brukerstatistikk og programstopprapporter til Brave</translation>
 <translation id="5869522115854928033">Lagrede passord</translation>
 <translation id="5876056640971328065">Sett videoen på pause</translation>
 <translation id="9037412730408024068">For å hjelpe deg med å fullføre oppgaver mottar Brave nettadressene til og innholdet på nettsteder der du bruker assistenten, i tillegg til informasjon som du sender inn gjennom assistenten</translation>
@@ -769,7 +768,6 @@ Noen nettsteder kan for eksempel svare på denne forespørselen ved å vise deg 
 <translation id="7413229368719586778">Startdato <ph name="DATE"/></translation>
 <translation id="7431991332293347422">Kontrollér hvordan nettleserloggen din brukes til blant annet personlig tilpasning av søk</translation>
 <translation id="6234515504547364178">Logg av Brave</translation>
-<translation id="1438581767753657407">Når forenklet modus er på, bruker Brave Brave-tjenere slik at sidene lastes inn raskere. Forenklet modus omskriver svært trege sider, slik at kun vesentlig innhold lastes inn. Forenklet modus brukes ikke på inkognitofaner.</translation>
 <translation id="7444811645081526538">Flere kategorier</translation>
 <translation id="8218628800671693884">Logger deg av de fleste nettsteder. Du blir ikke logget av Brave-kontoen din.</translation>
 <translation id="7454641608352164238">Det er ikke nok plass</translation>
@@ -994,4 +992,23 @@ Noen nettsteder kan for eksempel svare på denne forespørselen ved å vise deg 
 <translation id="981121421437150478">Uten nett</translation>
 <translation id="983192555821071799">Lukk alle faner</translation>
 <translation id="987264212798334818">Generelt</translation>
+<translation id="5186185447130319458">Privat</translation>
+<translation id="9063160602596686558">Sender automatisk brukerstatistikk og programstopprapporter til Brave Software</translation>
+<translation id="1438581767753657407">Når forenklet modus er på, brukes Brave-tjenerne til å laste inn sider raskere. Forenklet modus omskriver svært trege sider, slik at kun essensielt innhold lastes inn. Forenklet modus brukes ikke på private faner.</translation>
+<translation id="2633278372998075009">Private faner</translation>
+<translation id="6099151465289169210">Byttet til private faner</translation>
+<translation id="4243710787042215766">Åpne i privat fane</translation>
+<translation id="3110967157686007724">Privat fane</translation>
+<translation id="4526803704855831732">Private faner</translation>
+<translation id="7465104139234185284">Lukk alle private faner</translation>
+<translation id="6336451774241870485">Ny privat fane</translation>
+<translation id="3234355010754616171">Ny privat fane</translation>
+<translation id="6610147964972079463">Lukk private faner</translation>
+<translation id="4968908871398201967">Privat modus</translation>
+<translation id="9080642952018487277">Gå inn i privat modus</translation>
+<translation id="4883379392681899581">Gå ut av privat modus</translation>
+<translation id="3377025655491224618">Privat fane</translation>
+<translation id="584427517463557805">Valgt privat fane</translation>
+<translation id="2280910239864711607">Åpne en ny fane i privat modus</translation>
+<translation id="8628973420740315031">For å dele med personer i nærheten, la dem skanne denne QR-koden</translation>
 </translationbundle>

@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">Odmestitev na čakanju</translation>
 <translation id="175772926354468439">Omogoči temo</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Prikaži v Spletni trgovini Brave</translation>
 <translation id="176193854664720708">Tipalo prstnih odtisov je v gumbu za vklop. Rahlo se ga dotaknite s poljubnim prstom.</translation>
 <translation id="1763046204212875858">Ustvari bližnjice do &amp;programov ...</translation>
 <translation id="1763108912552529023">Nadaljujte raziskovanje</translation>
@@ -1326,7 +1325,6 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
 <translation id="2660779039299703961">Dogodek</translation>
 <translation id="4052689580269971502">Ni se mogoče povezati s tiskalnikom. Preverite, ali je tiskalnik vklopljen in povezan s Bravebookom prek omrežja Wi-Fi ali z USB-jem.</translation>
 <translation id="2661714428027871023">Brskajte hitreje in uporabite manj podatkov z lahkim načinom. Kliknite, če želite več informacij.</translation>
-<translation id="8808478386290700967">Spletna trgovina Brave</translation>
 <translation id="2663302507110284145">Jezik</translation>
 <translation id="2665394472441560184">Dodaj novo besedo</translation>
 <translation id="2665647207431876759">Poteklo</translation>
@@ -2211,7 +2209,6 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
 <translation id="3771294271822695279">Videodatoteke</translation>
 <translation id="3775432569830822555">Strežniško potrdilo SSL</translation>
 <translation id="3775705724665058594">Pošiljanje v naprave</translation>
-<translation id="6945695820322143954">Ta razširitev krši pravilnik Spletne trgovine Brave.</translation>
 <translation id="3777483481409781352">Mobilne naprave ni bilo mogoče aktivirati</translation>
 <translation id="3777806571986431400">Razširitev omogočena</translation>
 <translation id="3778152852029592020">Prenos je bil preklican.</translation>
@@ -3026,7 +3023,6 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
 <translation id="48704129375571883">Dodajanje dodatnih funkcij</translation>
 <translation id="4870758487381879312">Vnesite geslo, ki ga je priskrbel skrbnik, da pridobite podatke o konfiguraciji</translation>
 <translation id="4870903493621965035">Ni seznanjenih naprav</translation>
-<translation id="8839398440242019256">Ni iz Spletne trgovine Brave.</translation>
 <translation id="4871322859485617074">Koda PIN vsebuje neveljavne znake</translation>
 <translation id="4871370605780490696">Dodajanje zaznamka</translation>
 <translation id="4871568871368204250">Izklop sinhronizacije</translation>
@@ -3624,7 +3620,6 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
 <translation id="563535393368633106">Vprašaj pred dostopom (priporočljivo)</translation>
 <translation id="5636996382092289526">Če želite uporabljati omrežje <ph name="NETWORK_ID"/>, morate najprej <ph name="LINK_START"/>obiskati stran za prijavo v omrežje<ph name="LINK_END"/>, ki se bo samodejno odprla čez nekaj sekund. Če se ne odpre, omrežja ne morete uporabljati.</translation>
 <translation id="5637476008227280525">Omogoči prenos podatkov v mobilnih omrežjih</translation>
-<translation id="38046578254905003">Poiščite razširitve in teme v <ph name="BEGIN_LINK"/>Spletni trgovini Brave<ph name="END_LINK"/></translation>
 <translation id="5639549361331209298">Vnovično nalaganje te strani, pridržite za prikaz več možnosti</translation>
 <translation id="5640133431808313291">Upravljanje varnostnih ključev</translation>
 <translation id="5642508497713047">Podpisnik seznama ukinjenih potrdil</translation>
@@ -4238,7 +4233,6 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> nastavi samodejne posodobitve za vse uporabnike tega računalnika.</translation>
 <translation id="6434309073475700221">Zavrzi</translation>
 <translation id="6434325376267409267">Preden lahko začnete uporabljati aplikacijo <ph name="APP_NAME"/>, morate posodobiti napravo.</translation>
-<translation id="6436164536244065364">Ogled v spletni trgovini</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> – zvok se predvaja</translation>
 <translation id="6442187272350399447">Navdušenec</translation>
 <translation id="6444070574980481588">Nastavitev datuma in časa</translation>
@@ -4954,7 +4948,6 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
 <translation id="7375235221357833624">{0,plural, =1{Posodobite napravo v eni uri}one{Posodobite napravo v # uri}two{Posodobite napravo v # urah}few{Posodobite napravo v # urah}other{Posodobite napravo v # urah}}</translation>
 <translation id="7376553024552204454">Označitev miškinega kazalca med premikanjem</translation>
 <translation id="7377451353532943397">Še naprej preprečuj dostop do tipal</translation>
-<translation id="5840822070878669614">Odpiranje Spletne trgovine Brave</translation>
 <translation id="7378812711085314936">Uporaba podatkovne povezave</translation>
 <translation id="7378962964415201590">Seznanjanje novega telefona</translation>
 <translation id="7380768571499464492">Posodobljeno: <ph name="PRINTER_NAME"/></translation>
@@ -5660,7 +5653,6 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="8259239505248583312">Pa začnimo</translation>
 <translation id="8260126382462817229">Poskusite se znova prijaviti.</translation>
 <translation id="8260864402787962391">Miška</translation>
-<translation id="8261378640211443080">Ta razširitev ni navedena v storitvi <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> in je bila morda dodana brez vaše vednosti.</translation>
 <translation id="8261506727792406068">Izbriši</translation>
 <translation id="8263336784344783289">Poimenujte to skupino</translation>
 <translation id="8263744495942430914">Stran <ph name="FULLSCREEN_ORIGIN"/> je onemogočila miškin kazalec.</translation>
@@ -6081,7 +6073,6 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="8805140816472474147">Potrdite nastavitve sinhronizacije, če želite začeti sinhronizacijo.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> lahko odpre pomotoma zaprte zavihke</translation>
 <translation id="8807632654848257479">Stabilna</translation>
-<translation id="8808478386290700967">Spletna trgovina</translation>
 <translation id="8808686172382650546">Mačka</translation>
 <translation id="8808744862003883508">Na tej strani so prikazane vse razširitve, nameščene v Chromu.</translation>
 <translation id="8809147117840417135">Svetlo zelenomodra</translation>
@@ -6464,4 +6455,54 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Vzpostavljanje varne povezave ...</translation>
 <translation id="998747458861718449">Preglej</translation>
+<translation id="658539216370629794">Odpri povezavo v oknu &amp;private</translation>
+<translation id="1432267168815937878">Odpri povezavo v oknu &amp;Private</translation>
+<translation id="6516243500644829484">Novo okno &amp;private</translation>
+<translation id="7973394300052703468">Novo okno &amp;Private</translation>
+<translation id="6395403722585816044">Preneseno v načinu brez beleženja zgodovine</translation>
+<translation id="203837651858678035">Ali želite vseeno zapustiti način brez beleženja zgodovine?</translation>
+<translation id="7376221878517288144">Ali želite vseeno zapreti način brez beleženja zgodovine?</translation>
+<translation id="871606814707918245">Večina ljudi blokira obvestila s tega spletnega mesta</translation>
+<translation id="5053701565089446556">Zasebna razširitev: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Zasebna aplikacija: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Zasebni zavihek: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Zasebni podokvir: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portal brez beleženja dejavnosti: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Spletna trgovina</translation>
+<translation id="8261378640211443080">Ta razširitev ni navedena v storitvi <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> in je bila morda dodana brez vaše vednosti.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Zasebno)</translation>
+<translation id="4369414322596874629">Z oknom brez beleženja zgodovine lahko zasebno brskate</translation>
+<translation id="3772947852642271642">Uporabljajte splet brez shranjevanja zgodovine brskanja z oknom brez beleženja zgodovine</translation>
+<translation id="3871738366246972820">Uporabljate računalnik v skupni rabi? Poskusite odpreti okno brez beleženja zgodovine.</translation>
+<translation id="5808622652939943719">Če želite brskati zasebno, kliknite meni z ikono pik, da odprete okno brez beleženja zgodovine</translation>
+<translation id="9079153198295609735">Samodejno pošlji statistične podatke o uporabi in poročila o zrušitvah Googlu</translation>
+<translation id="8839398440242019256">Ni namenjeno za spletno trgovino.</translation>
+<translation id="6945695820322143954">Ta razširitev krši politiko spletne trgovine.</translation>
+<translation id="1676595396635191120">Novo zasebno okno</translation>
+<translation id="5094764494104066239">Vedno pokaži vrstico z zaznamki</translation>
+<translation id="4471385409549756595">Novo zasebno okno</translation>
+<translation id="4540437243849625078">Ta spletna stran bo v kratkem delila informacije z aplikacijo zunaj zasebnega načina.</translation>
+<translation id="1227836882233136433">Želite zapustiti način brez beleženja zgodovine?</translation>
+<translation id="7618452966706304788">Ali želite uporabiti funkcijo Touch ID <ph name="APP_NAME"/> v načinu brez beleženja zgodovine?</translation>
+<translation id="3098826269712097986">Podatki za prijavo bodo shranjeni v programu Brave, ko zapustite brez beleženja zgodovine. S tem boste pozneje znova uporabili funkcijo Touch ID s to spletno stranjo.</translation>
+<translation id="5186185447130319458">Način brez beleženja zgodovine</translation>
+<translation id="2579188629646253712">Izhod iz načina brez beleženja zgodovine</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Odpiranje vseh v &amp;oknu brez beleženja zgodovine}=1{Odpiranje v &amp;oknu brez beleženja zgodovine}one{Odpiranje vseh (#) v &amp;oknu brez beleženja zgodovine}two{Odpiranje vseh (#) v &amp;oknu brez beleženja zgodovine}few{Odpiranje vseh (#) v &amp;oknu brez beleženja zgodovine}other{Odpiranje vseh (#) v &amp;oknu brez beleženja zgodovine}}</translation>
+<translation id="1985165269306590797">Odpri v oknu &amp;brez beleženja zgodovine</translation>
+<translation id="642436385689435488">Odpiranje vseh v oknu brez beleženja zgodovine</translation>
+<translation id="5463021359602611602">Odpri v oknu brez beleženja zgodovine</translation>
+<translation id="5070556616376997776">Ste v načinu brez beleženja zgodovine</translation>
+<translation id="5832813618714645810">Profili</translation>
+<translation id="6921634551681321094">Dodaj osebo</translation>
+<translation id="6315812488257290136">Profili</translation>
+<translation id="5840822070878669614">Odpiranje Spletne trgovine Brave</translation>
+<translation id="8648684608605749476">Blokiranje piškotkov drugih mest v načinu brez beleženja dejavnosti</translation>
+<translation id="1281501490173223206">Samo za trenutno sejo brez beleženja zgodovine</translation>
+<translation id="9063160602596686558">Samodejno pošilja statistične podatke o uporabi in poročila o zrušitvah Googlu</translation>
+<translation id="3860292630623580294">(Način brez beleženja zgodovine)</translation>
+<translation id="4854477725773269949">Omogoči v načinu brez beleženja zgodovine</translation>
+<translation id="6436164536244065364">Ogled v spletni trgovini</translation>
+<translation id="38046578254905003">Poiščite razširitve in teme v <ph name="BEGIN_LINK"/>Spletni trgovini Brave<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Novi zavihek brez beleženja zgodovine</translation>
+<translation id="6610147964972079463">Zapri zavihke brez beleženja zgodovine</translation>
 </translationbundle>

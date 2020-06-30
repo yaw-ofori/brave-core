@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="vi">
+<translation id="658539216370629794">Mở liên kết trong &amp;cửa sổ riêng tư</translation>
+<translation id="1432267168815937878">Mở liên kết trong &amp;Cửa sổ Riêng tư</translation>
+<translation id="6516243500644829484">Cửa sổ &amp;riêng tư mới</translation>
+<translation id="7973394300052703468">Cửa sổ &amp;Riêng tư Mới</translation>
+<translation id="6395403722585816044">Tải xuống ở chế độ Riêng tư</translation>
+<translation id="203837651858678035">Vẫn thoát khỏi chế độ riêng tư?</translation>
+<translation id="7376221878517288144">Vẫn thoát khỏi chế độ riêng tư?</translation>
+<translation id="871606814707918245">Hầu hết mọi người đều chặn thông báo từ trang web này</translation>
+<translation id="5053701565089446556">Phần mở rộng Riêng tư: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Ứng dụng Riêng tư: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Thẻ Riêng tư: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Khung phụ Riêng tư: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Cổng thông tin ẩn danh: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Web Store</translation>
+<translation id="8261378640211443080">Tiện ích này không được liệt kê trong <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> và có thể đã được thêm mà bạn không biết.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Riêng tư)</translation>
+<translation id="4369414322596874629">Bạn có thể duyệt web riêng tư bằng cách sử dụng một cửa sổ riêng tư</translation>
+<translation id="3772947852642271642">Sử dụng web mà không lưu lịch sử duyệt của bạn với một cửa sổ riêng tư</translation>
+<translation id="3871738366246972820">Sử dụng máy tính công cộng? Hãy tìm cách mở một cửa sổ riêng tư.</translation>
+<translation id="5808622652939943719">Để duyệt riêng tư, hãy bấm vào menu biểu tượng dấu chấm để mở một cửa sổ riêng tư</translation>
+<translation id="9079153198295609735">Tự động gửi số liệu thống kê về việc sử dụng và báo cáo sự cố cho Brave Software</translation>
+<translation id="8839398440242019256">Không phải từ Web Store.</translation>
+<translation id="6945695820322143954">Phần mở rộng này vi phạm chính sách Web Store.</translation>
+<translation id="1676595396635191120">Cửa sổ Riêng tư Mới</translation>
+<translation id="5094764494104066239">Luôn Hiển thị Thanh Dấu trang</translation>
+<translation id="4471385409549756595">Cửa sổ riêng tư mới</translation>
+<translation id="4540437243849625078">Trang này sẽ chia sẻ thông tin với một ứng dụng khác ở ngoài chế độ riêng tư.</translation>
+<translation id="1227836882233136433">Rời khỏi chế độ riêng tư?</translation>
+<translation id="7618452966706304788">Bạn có muốn sử dụng ID Cảm ứng với <ph name="APP_NAME"/> trong chế độ Riêng tư không?</translation>
+<translation id="3098826269712097986">Dữ liệu đăng nhập sẽ được lưu trong Brave sau khi bạn thoát khỏi chế độ Riêng tư. Điều này cho phép bạn sử dụng ID Cảm ứng với trang web này một lần nữa sau này.</translation>
+<translation id="5186185447130319458">Riêng tư</translation>
+<translation id="2579188629646253712">Thoát khỏi chế độ Riêng tư</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Mở tất cả trong &amp;cửa sổ ẩn danh}=1{Mở trong &amp;cửa sổ ẩn danh}other{Mở tất cả (#) trong cửa sổ ẩn danh}}</translation>
+<translation id="1985165269306590797">Mở trong &amp;Cửa sổ ẩn danh</translation>
+<translation id="642436385689435488">Mở tất cả trong cửa sổ ẩn danh</translation>
+<translation id="5463021359602611602">Mở trong cửa sổ ẩn danh</translation>
+<translation id="5070556616376997776">Bạn đang ở chế độ ẩn danh</translation>
+<translation id="5832813618714645810">Hồ sơ</translation>
+<translation id="6921634551681321094">Thêm người</translation>
+<translation id="6315812488257290136">Hồ sơ</translation>
+<translation id="5840822070878669614">Mở cửa hàng Brave trực tuyến</translation>
+<translation id="8648684608605749476">Chặn các cookie của bên thứ ba trong chế độ Ẩn danh</translation>
+<translation id="1281501490173223206">Chỉ phiên ẩn danh hiện tại</translation>
+<translation id="9063160602596686558">Tự động gửi số liệu thống kê sử dụng và báo cáo sự cố cho Brave Software</translation>
+<translation id="3860292630623580294">(Ẩn danh)</translation>
+<translation id="4854477725773269949">Cho phép ở chế độ ẩn danh</translation>
+<translation id="6436164536244065364">Xem trong Cửa hàng trực tuyến</translation>
+<translation id="38046578254905003">Tìm tiện ích và chủ đề trong <ph name="BEGIN_LINK"/>Cửa hàng Brave trực tuyến<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Tab riêng tư mới</translation>
+<translation id="6610147964972079463">Đóng các tab riêng tư</translation>
+</translationbundle>

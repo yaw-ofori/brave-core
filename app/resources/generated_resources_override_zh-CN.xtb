@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="zh-CN">
+<translation id="658539216370629794">在私有窗口中打开链接</translation>
+<translation id="1432267168815937878">在私有窗口中打开链接</translation>
+<translation id="6516243500644829484">新的私有窗口</translation>
+<translation id="7973394300052703468">新的私有窗口</translation>
+<translation id="6395403722585816044">以私有模式下载</translation>
+<translation id="203837651858678035">要退出私有模式？</translation>
+<translation id="7376221878517288144">要放弃私有模式？</translation>
+<translation id="871606814707918245">多数人会屏蔽来自此网站的通知</translation>
+<translation id="5053701565089446556">私人扩展名：<ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">私有应用：<ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">私有选项卡：<ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">私有子帧：<ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">无痕式门户网站：<ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">网上商店</translation>
+<translation id="8261378640211443080">该扩展程序未列在 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>中，并可能是在您不知情的情况下添加的。</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Private)</translation>
+<translation id="4369414322596874629">您可以使用私有窗口在私下浏览</translation>
+<translation id="3772947852642271642">如果您使用私有窗口浏览网页，系统便不会保存您的浏览记录</translation>
+<translation id="3871738366246972820">使用共享的计算机？尝试打开一个私有窗口。</translation>
+<translation id="5808622652939943719">要以私有模式进行浏览，请点击点图标菜单打开私有窗口</translation>
+<translation id="9079153198295609735">将使用情况统计信息和崩溃报告自动发送给 Brave Software</translation>
+<translation id="8839398440242019256">并非来自网上商店。</translation>
+<translation id="6945695820322143954">此扩展名违反了网上商店的政策。</translation>
+<translation id="1676595396635191120">新的私有窗口</translation>
+<translation id="5094764494104066239">总是显示书签栏</translation>
+<translation id="4471385409549756595">新的私有窗口</translation>
+<translation id="4540437243849625078">该网站即将与私有模式之外的应用共享信息。</translation>
+<translation id="1227836882233136433">离开私有模式？</translation>
+<translation id="7618452966706304788">想要在私有模式下在 <ph name="APP_NAME"/> 上使用 Touch ID？</translation>
+<translation id="3098826269712097986">退出专用模式后，登录数据会存储在 Brave。这样，您稍后还可以在该网站上再次使用 Touch ID。</translation>
+<translation id="5186185447130319458">私有</translation>
+<translation id="2579188629646253712">退出私有窗口</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{在无痕式窗口中打开全部网址(&amp;I)}=1{在无痕式窗口中打开 1 个网址(&amp;I)}other{在无痕式窗口中打开全部（# 个）网址(&amp;I)}}</translation>
+<translation id="1985165269306590797">在隐身窗口中打开(&amp;I)</translation>
+<translation id="642436385689435488">在无痕式窗口中打开所有网址</translation>
+<translation id="5463021359602611602">在无痕式窗口中打开</translation>
+<translation id="5070556616376997776">您正在使用无痕模式</translation>
+<translation id="5832813618714645810">个人资料</translation>
+<translation id="6921634551681321094">添加用户</translation>
+<translation id="6315812488257290136">个人资料</translation>
+<translation id="5840822070878669614">打开 Brave 网上应用店</translation>
+<translation id="8648684608605749476">在无痕模式下阻止第三方 Cookie</translation>
+<translation id="1281501490173223206">仅限当前的隐身会话</translation>
+<translation id="9063160602596686558">自动将使用情况统计信息和崩溃报告发送至 Brave Software</translation>
+<translation id="3860292630623580294">（隐身）</translation>
+<translation id="4854477725773269949">在隐身模式下启用</translation>
+<translation id="6436164536244065364">在 Brave 网上应用店中查看</translation>
+<translation id="38046578254905003">在 <ph name="BEGIN_LINK"/>Brave 网上应用店<ph name="END_LINK"/>中查找扩展程序和主题背景</translation>
+<translation id="6336451774241870485">新的私有标签页</translation>
+<translation id="6610147964972079463">关闭私有模式</translation>
+</translationbundle>

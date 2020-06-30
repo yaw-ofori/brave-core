@@ -11,10 +11,8 @@
 <translation id="7419046106786626209">Chrome OS ei saanud teie andmeid sünkroonida, sest teie domeenil pole sünkroonimine saadaval.</translation>
 <translation id="5147525139567260139">Bravei vahekaardi jagamine</translation>
 <translation id="1530633922026945685">Brave vajab luba teie kaamerale juurdepääsemiseks, et luua teid ümbritsevast 3D-kaart</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{Administraator nõuab, et käivitaksite Bravei värskenduse rakendamiseks uuesti}=1{Administraator nõuab, et käivitaksite Bravei värskenduse rakendamiseks uuesti. Teie inkognito akent ei avata uuesti.}other{Administraator nõuab, et käivitaksite Bravei värskenduse rakendamiseks uuesti. Teie # inkognito akent ei avata uuesti.}}</translation>
 <translation id="5616153642055197778">Saadaval on Bravei uus, turvalisem versioon.</translation>
 <translation id="6797402139308059782">Luba Braveil taustal töötada</translation>
-<translation id="1448049584457347995">Bravei turvalisemaks muutmiseks keelasime mõned laiendused, mida ei leidu veebipoes <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ja mille lisamisest te ei pruugi teadlik olla.</translation>
 <translation id="5875673934455379806">Installi Brave uuesti</translation>
 <translation id="650055380213106997">Logite sisse hallatud kontoga ja annate selle administraatorile üle Bravei profiili juhtimise. Teie Bravei andmed, näiteks rakendused, järjehoidjad, ajalugu, paroolid ja muud seaded seotakse jäädavalt kasutajaga <ph name="USER_NAME"/>. Saate need andmed kustutada Brave'i kontode juhtpaneeli kaudu, kuid te ei saa neid seostada teise kontoga. Võite olemasolevate Brave'i andmete eraldi hoidmiseks luua aga uue profiili. <ph name="LEARN_MORE"/></translation>
 <translation id="1649714546770135458">Kui selle välja lülitate, saate Brave'i saitidele (nt Gmaili) sisse logida ilma Braveisse sisse logimata</translation>
@@ -49,7 +47,6 @@
 <translation id="7365690458036015383">Installeril ei õnnestunud arhiivi lahti pakkida. Laadige Brave uuesti alla.</translation>
 <translation id="8919461291440820124">Brave kasutab teie mikrofoni.</translation>
 <translation id="4805806622840861220">Bravei taaskäivitamine</translation>
-<translation id="6554952862405000915">Ava link Bravei inko&amp;gnito aknas</translation>
 <translation id="1477146545787277177">Brave jooksis kokku. Kas soovite kohe taaskäivitada?</translation>
 <translation id="7503098128120083822">Brave soovib teie paroole eksportida.</translation>
 <translation id="2585240446624043880">Brave ei saa andmekataloogi lugeda ega sellesse kirjutada:
@@ -64,10 +61,7 @@
 <translation id="8703492925273919597">Sulgege kõik Bravei aknad ja proovige uuesti.</translation>
 <translation id="1384923383737428730">Teie arvutis on kahjulik tarkvara. Brave saab selle eemaldada, taastada teie seaded ja keelata laiendused, et brauser töötaks jälle normaalselt.</translation>
 <translation id="4847979153841887006">Bravei logo</translation>
-<translation id="669092380621816981">Selle isiku sirvimisandmed kustutatakse seadmest. Andmete taastamiseks logige Bravei sisse kasutajana <ph name="USER_EMAIL"/>.</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{Saadaval on uus Bravei värskendus, mis rakendatakse taaskäivitamisel.}=1{Saadaval on uus Bravei värskendus, mis rakendatakse taaskäivitamisel. Teie inkognito akent ei avata uuesti.}other{Saadaval on uus Bravei värskendus, mis rakendatakse taaskäivitamisel. Teie # inkognito akent ei avata uuesti.}}</translation>
 <translation id="4304059894777924102">Brave ei saa teie paroole kontrollida. Kontrollige internetiühendust.</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{Administraator palub teil Bravei selle värskenduse rakendamiseks uuesti käivitada}=1{Administraator palub teil Bravei selle värskenduse rakendamiseks uuesti käivitada. Teie inkognito akent ei avata uuesti.}other{Administraator palub teil Bravei selle värskenduse rakendamiseks uuesti käivitada. Teie # inkognito akent ei avata uuesti.}}</translation>
 <translation id="1807774211756215222">Ava link Bravei uuel &amp;vahekaardil</translation>
 <translation id="7453070689008684791">Brave pääseb teie Drive'ile juurde, et aadressiribal soovitusi anda</translation>
 <translation id="2106568569080763501">Brave võimaldab teil veebis telefoninumbril klõpsata ja sellele Skype'i kaudu helistada!</translation>
@@ -163,7 +157,6 @@ On võimalik, et mõni funktsioon ei ole saadaval. Määrake muu profiilikataloo
 <translation id="7830723774663008396">Brave – <ph name="PAGE_TITLE"/></translation>
 <translation id="5253815230176279256">Brave Pay (kopeeritud Bravei)</translation>
 <translation id="2301993384336631869">Bravei on värskendatud, kuid te ei ole seda kasutanud vähemalt 30 päeva.</translation>
-<translation id="4624945300945265642">Ava link Bravei inko&amp;gnito aknas</translation>
 <translation id="3335606533094650083">Brave vajab selle saidi puhul luba, et teie mikrofonile juurde pääseda</translation>
 <translation id="1785833016412082453">Brave ei saa teie laiendusi kontrollida. Proovige hiljem uuesti.</translation>
 <translation id="1705567146636171298">Värskenda Bravei</translation>
@@ -198,7 +191,6 @@ Brave ei saa teie seadeid taastada.</translation>
 <translation id="5419189641394808652">Brave ei saa teie andmeid sünkroonida, sest teie domeenil pole sünkroonimine saadaval.</translation>
 <translation id="4784414698887946907">See kustutab sellest seadmest teie sirvimisandmed. Hiljem oma andmete toomiseks logige Bravei sisse kasutajana <ph name="USER_EMAIL"/>.</translation>
 <translation id="7747138024166251722">Installija ei suutnud luua ajutist kataloogi. Palun kontrollige vaba kettaruumi ja tarkvara installimise loa olemasolu.</translation>
-<translation id="6134859571175647580">Hoiatus. Brave ei saa takistada laiendustel teie sirvimisajalugu salvestada. Kui soovite laienduse inkognito režiimis keelata, siis tühistage see valik.</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> – Brave Canary</translation>
 <translation id="38898988211673781">Kustuta Bravei sulgemisel küpsisefailide ja saitide andmed</translation>
 <translation id="7963515534397191222">Bravei ei saanud uusimale versioonile värskendada, mistõttu jääte ilma uutest funktsioonidest ja turvaparandustest.</translation>
@@ -235,7 +227,6 @@ Brave ei saa teie seadeid taastada.</translation>
 <translation id="8285294305439559616">Brave proovib kuvada paroole. Selle lubamiseks sisestage Windowsi parool.</translation>
 <translation id="6389268239133412586">Bravei ei saa värskendada</translation>
 <translation id="6368958679917195344">Chrome OS-i aluseks on täiendav <ph name="BEGIN_LINK_CROS_OSS"/>avatud lähtekoodiga tarkvara<ph name="END_LINK_CROS_OSS"/>.</translation>
-<translation id="8848045066928358658">Bravei turvalisemaks muutmiseks keelasime järgmise laienduse, mida ei leidu veebipoes <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ja mis võidi lisada teie teadmata.</translation>
 <translation id="5173820533850252773">Brave on aegunud</translation>
 <translation id="310518206836658214">{0,plural, =1{Brave käivitatakse uuesti tunni aja pärast}other{Brave käivitatakse uuesti # tunni pärast}}</translation>
 <translation id="7863882214613921971">Ava link Bravei uuel &amp;vahekaardil</translation>
@@ -245,4 +236,13 @@ Brave ei saa teie seadeid taastada.</translation>
 <translation id="7977787072794666032">Brave ei pruugi õigesti töötada, kuna seda ei toetata enam Windows XP-s ega Windows Vistas</translation>
 <translation id="2398566204186296120">Domeen <ph name="DOMAIN"/> nõuab, et loete enne selle seadme kasutamist läbi järgmised teenusetingimused ja nõustute nendega. Need tingimused ei laienda, muuda ega piira Chrome OS-i tingimusi.</translation>
 <translation id="8992261409816268381">Brave Software Inc</translation>
+<translation id="6134859571175647580">Hoiatus. Brave ei saa takistada laiendustel teie sirvimisajalugu salvestada. Kui soovite laienduse privaatses režiimis keelata, tühistage see valik.</translation>
+<translation id="1448049584457347995">Bravei turvalisemaks muutmiseks keelasime mõned laiendused, mida ei leidu veebipoes <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ja mille lisamisest te ei pruugi teadlik olla.</translation>
+<translation id="8848045066928358658">Bravei turvalisemaks muutmiseks keelasime järgmise laienduse, mida ei leidu veebipoes <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ja mis võidi lisada teie teadmata.</translation>
+<translation id="669092380621816981">Selle isiku sirvimisandmed kustutatakse seadmest. Andmete taastamiseks logige Bravei sisse kasutajana <ph name="USER_EMAIL"/>.</translation>
+<translation id="4624945300945265642">Ava link Bravei inko&amp;gnito aknas</translation>
+<translation id="6554952862405000915">Ava link Bravei inko&amp;gnito aknas</translation>
+<translation id="8274659559228306809">{COUNT,plural, =0{Saadaval on uus Bravei värskendus, mis rakendatakse taaskäivitamisel.}=1{Saadaval on uus Bravei värskendus, mis rakendatakse taaskäivitamisel. Teie inkognito akent ei avata uuesti.}other{Saadaval on uus Bravei värskendus, mis rakendatakse taaskäivitamisel. Teie # inkognito akent ei avata uuesti.}}</translation>
+<translation id="3829358914761176693">{COUNT,plural, =0{Administraator palub teil Bravei selle värskenduse rakendamiseks uuesti käivitada}=1{Administraator palub teil Bravei selle värskenduse rakendamiseks uuesti käivitada. Teie inkognito akent ei avata uuesti.}other{Administraator palub teil Bravei selle värskenduse rakendamiseks uuesti käivitada. Teie # inkognito akent ei avata uuesti.}}</translation>
+<translation id="552349673358711446">{COUNT,plural, =0{Administraator nõuab, et käivitaksite Bravei värskenduse rakendamiseks uuesti}=1{Administraator nõuab, et käivitaksite Bravei värskenduse rakendamiseks uuesti. Teie inkognito akent ei avata uuesti.}other{Administraator nõuab, et käivitaksite Bravei värskenduse rakendamiseks uuesti. Teie # inkognito akent ei avata uuesti.}}</translation>
 </translationbundle>

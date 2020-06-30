@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="es">
+<translation id="8820817407110198400">Marcadores</translation>
+<translation id="8362995731815961365">El perfil que ha configurado este ordenador ha elegido bloquear este sitio.</translation>
+<translation id="4075123085690634698">Abrir página en una nueva ventana privada (⇧⌘N)</translation>
+<translation id="2388886110302389394">Abrir página en una nueva ventana privada (Ctrl-Mayús-N)</translation>
+<translation id="6957624206566198865">Abrir página en una Pestaña Privada</translation>
+<translation id="2378238891085281592">Te has convertido en privado</translation>
+<translation id="3774752171665127360">Las páginas que veas en las pestañas privadas no se quedarán en el historial de tu navegador, en el almacén de cookies o en el historial una vez hayas cerrado todas tus pestañas privadas. Todos los archivos que descargues o los marcadores que añadas se conservarán.</translation>
+<translation id="9177896974490719854">Sin embargo, no eres invisible. Ser privado no oculta tu navegación a tu empresa, tu proveedor de servicios de Internet o los sitios web que visitas.</translation>
+<translation id="2227116904818538760">Te has convertido en privado</translation>
+<translation id="2007417459975034427">No se ha informado de ningún fallo reciente. Los fallos que ocurrieron cuando el informe de error estaba deshabilitado no aparecerán aquí.</translation>
+<translation id="2586968635953373425">Abrir Ventana Privada</translation>
+<translation id="3489858312836205593">Abrir nueva ventana privada</translation>
+<translation id="6984479912851154518">Abandonando el modo privado para pagar mediante una aplicación externa. ¿Quieres continuar?</translation>
+<translation id="1426112902089905810">&amp;lt;h4&amp;gt;Paso 1: Iniciar sesión en el portal&amp;lt;/h4&amp;gt;
+    &amp;lt;p&amp;gt;Wi-Fi networks at places like cafes or airports need you to sign in. To see the sign-in page, visit a page that uses &amp;lt;code&amp;gt;http://&amp;lt;/code&amp;gt;.&amp;lt;/p&amp;gt;
+    &amp;lt;ol&amp;gt;
+    &amp;lt;li&amp;gt;Go to any website starting with &amp;lt;code&amp;gt;http://&amp;lt;/code&amp;gt;, like &amp;lt;a href="http://example.com" target="_blank"&amp;gt;http://example.com&amp;lt;/a&amp;gt;.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;En la página de inicio de sesión abierta, inicia sesión para usar Internet.&amp;lt;/li&amp;gt;
+    &amp;lt;/ol&amp;gt;
+    &amp;lt;h4&amp;gt;Paso 2: Abrir la página en modo privado (solo PC)&amp;lt;/h4&amp;gt;
+    &amp;lt;p&amp;gt;Open the page you were visiting in a Private window.&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;If the page opens, a Brave extension isn't working right. Para solucionar este error, deshabilita la extensión.&amp;lt;/p&amp;gt;
+    &amp;lt;h4&amp;gt;Paso 3: Actualiza tu sistema operativo&amp;lt;/h4&amp;gt;
+    &amp;lt;p&amp;gt;Make sure your device is up-to-date.&amp;lt;/p&amp;gt;
+    &amp;lt;h4&amp;gt;Paso 4: Desactiva tu antivirus temporalmente&amp;lt;/h4&amp;gt;
+    &amp;lt;p&amp;gt;You'll see this error if you have antivirus software that provides "HTTPS protection" or "HTTPS scanning." The antivirus is preventing Brave from providing security.&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;To fix the problem, turn off your antivirus software. If the page works after turning off the software, desactiva este software cuando navegues en sitios seguros.&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;Remember to turn your antivirus program back on when you're done.&amp;lt;/p&amp;gt;
+    &amp;lt;h4&amp;gt;Paso 5: Recibe ayuda extra&amp;lt;/h4&amp;gt;
+    &amp;lt;p&amp;gt;Si continúas viendo un error, contacta con el propietario del sitio web.&amp;lt;/p&amp;gt;</translation>
+</translationbundle>

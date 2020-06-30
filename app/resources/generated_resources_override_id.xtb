@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="id">
+<translation id="658539216370629794">Buka tautan di &amp;jendela pribadi</translation>
+<translation id="1432267168815937878">Buka Tautan di &amp;Jendela Pribadi</translation>
+<translation id="6516243500644829484">Jendela &amp;pribadi baru</translation>
+<translation id="7973394300052703468">Jendela &amp;Pribadi Baru</translation>
+<translation id="6395403722585816044">Diunduh di Mode Pribadi</translation>
+<translation id="203837651858678035">Tetap keluar dari mode pribadi?</translation>
+<translation id="7376221878517288144">Tetap keluar dari mode pribadi?</translation>
+<translation id="871606814707918245">Sebagian besar orang memblokir notifikasi dari situs ini</translation>
+<translation id="5053701565089446556">Ekstensi Pribadi: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Aplikasi Pribadi: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Tab Pribadi: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Subframe Pribadi: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portal Samaran: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Toko Web</translation>
+<translation id="8261378640211443080">Ekstensi ini tidak tercantum dalam <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dan mungkin telah ditambahkan tanpa sepengetahuan Anda.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Pribadi)</translation>
+<translation id="4369414322596874629">Anda dapat menjelajahi web secara pribadi menggunakan jendela pribadi</translation>
+<translation id="3772947852642271642">Gunakan web tanpa menyimpan riwayat penjelajahan dengan jendela pribadi</translation>
+<translation id="3871738366246972820">Menggunakan komputer bersama? Cobalah membuka jendela pribadi.</translation>
+<translation id="5808622652939943719">Untuk menjelajahi web secara pribadi, klik menu ikon titik-titik untuk membuka jendela pribadi</translation>
+<translation id="9079153198295609735">Kirim statistik penggunaan dan laporan error ke Brave Software secara otomatis</translation>
+<translation id="8839398440242019256">Bukan dari Toko Web.</translation>
+<translation id="6945695820322143954">Ekstensi ini melanggar kebijakan Toko Web.</translation>
+<translation id="1676595396635191120">Jendela Pribadi Baru</translation>
+<translation id="5094764494104066239">Selalu Tampilkan Bilah Bookmark</translation>
+<translation id="4471385409549756595">Jendela pribadi baru</translation>
+<translation id="4540437243849625078">Situs ini akan membagikan informasi kepada sebuah aplikasi di luar mode pribadi.</translation>
+<translation id="1227836882233136433">Keluar dari mode pribadi?</translation>
+<translation id="7618452966706304788">Gunakan Touch ID dengan <ph name="APP_NAME"/> di mode Pribadi?</translation>
+<translation id="3098826269712097986">Data sign-in akan disimpan di Brave setelah Anda keluar dari mode Pribadi. Ini akan memungkinkan Anda untuk menggunakan Touch ID dengan situs web ini lagi nanti.</translation>
+<translation id="5186185447130319458">Pribadi</translation>
+<translation id="2579188629646253712">Keluar dari Mode Pribadi</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Buka Semua di &amp;Jendela Samaran}=1{Buka di &amp;Jendela Samaran}other{Buka Semua (#) di &amp;Jendela Samaran}}</translation>
+<translation id="1985165269306590797">Buka di &amp;Jendela Penyamaran</translation>
+<translation id="642436385689435488">Buka semua di jendela samaran</translation>
+<translation id="5463021359602611602">Buka di jendela penyamaran</translation>
+<translation id="5070556616376997776">Sedang dalam mode penyamaran</translation>
+<translation id="5832813618714645810">Profil</translation>
+<translation id="6921634551681321094">Tambahkan pengguna</translation>
+<translation id="6315812488257290136">Profil</translation>
+<translation id="5840822070878669614">Buka Brave Webstore</translation>
+<translation id="8648684608605749476">Blokir cookie pihak ketiga dalam mode Samaran</translation>
+<translation id="1281501490173223206">Sesi penyamaran saat ini saja</translation>
+<translation id="9063160602596686558">Secara otomatis mengirimkan statistik penggunaan dan laporan kerusakan ke Brave Software</translation>
+<translation id="3860292630623580294">(Penyamaran)</translation>
+<translation id="4854477725773269949">Izinkan dalam mode penyamaran</translation>
+<translation id="6436164536244065364">Lihat di Toko Web</translation>
+<translation id="38046578254905003">Temukan ekstensi dan tema di <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Tab pribadi baru</translation>
+<translation id="6610147964972079463">Tutup tab pribadi</translation>
+</translationbundle>

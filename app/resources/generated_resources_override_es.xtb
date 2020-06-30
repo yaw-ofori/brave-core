@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="es">
+<translation id="658539216370629794">Abrir enlace en una ventana privada</translation>
+<translation id="1432267168815937878">Abrir enlace en una ventana privada</translation>
+<translation id="6516243500644829484">Nueva ventana privada</translation>
+<translation id="7973394300052703468">Nueva ventana privada</translation>
+<translation id="6395403722585816044">Descargado en Modo Privado</translation>
+<translation id="203837651858678035">¿Salir de todas formas del modo privado?</translation>
+<translation id="7376221878517288144">¿Salir de todas formas del modo privado?</translation>
+<translation id="871606814707918245">La mayoría de los usuarios bloquean las notificaciones de este sitio web</translation>
+<translation id="5053701565089446556">Extensión privada: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Aplicación Privada: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Pestaña privada: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Submarco Privado: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portal de incógnito: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Web Store</translation>
+<translation id="8261378640211443080">Esta extensión no aparece en <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> y se podría haber añadido sin tu conocimiento.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privado)</translation>
+<translation id="4369414322596874629">Puedes navegar de forma privada usando una ventana privada</translation>
+<translation id="3772947852642271642">Usa la web sin guardar el historial del navegador con una ventana privada</translation>
+<translation id="3871738366246972820">¿Estás usando un ordenador compartido? Prueba a abrir una ventana privada</translation>
+<translation id="5808622652939943719">Para navegar de forma privada, haz clic en el menú de icono de puntos para abrir una ventana privada</translation>
+<translation id="9079153198295609735">Enviar automáticamente estadísticas de uso e informes sobre fallos a Brave</translation>
+<translation id="8839398440242019256">No de la Web Store.</translation>
+<translation id="6945695820322143954">La extensión viola la política de la Web Store</translation>
+<translation id="1676595396635191120">Nueva ventana privada</translation>
+<translation id="5094764494104066239">Mostrar siempre la barra de Marcadores</translation>
+<translation id="4471385409549756595">Nueva ventana privada</translation>
+<translation id="4540437243849625078">Este sitio está a punto de compartir información con una aplicación fuera del modo privado.</translation>
+<translation id="1227836882233136433">¿Salir del modo privado?</translation>
+<translation id="7618452966706304788">¿Quieres usar Touch ID con <ph name="APP_NAME"/> en Modo Privado?</translation>
+<translation id="3098826269712097986">Los datos de inicio de sesión se almacenarán en Brave después de que salgas del modo privado. Esto te permitirá usar Touch ID con este sitio web otra vez después.</translation>
+<translation id="5186185447130319458">Modo Privado</translation>
+<translation id="2579188629646253712">Salir de Modo Privado</translation>
+<translation id="6744651634043798597">{COUNT, plural,
+          =0 {Abrir todas en una ventana privada}
+          =1 {Abrir en una ventana privada}
+          other {Abrir todas (#) en una ventana privada}}</translation>
+<translation id="2431625704210501303">Abrir en una ventana privada</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Abrir todas en una &amp;ventana de incógnito}=1{Abrir en una &amp;ventana de incógnito}other{Abrir (#) en una &amp;ventana de incógnito}}</translation>
+<translation id="1985165269306590797">Abrir en una ventana de &amp;incógnito</translation>
+<translation id="4680518314108745448">Mostrar Marcadores</translation>
+<translation id="642436385689435488">Abre todos los marcadores en una ventana de incógnito</translation>
+<translation id="5463021359602611602">Abrir en una ventana de incógnito</translation>
+<translation id="1850357845349976573">{0, plural,
+        =1 {Private}
+        other {# ventanas privadas}
+      }</translation>
+<translation id="37784332082579802">{0, plural,
+      =1 {Private}
+      other {Private (#)}
+    }</translation>
+<translation id="5070556616376997776">Estás en el modo de incógnito</translation>
+<translation id="5832813618714645810">Perfiles</translation>
+<translation id="7171000599584840888">Añadir perfil...</translation>
+<translation id="2005199804247617997">Otros perfiles</translation>
+<translation id="8966809848145604011">Otros perfiles</translation>
+<translation id="4536111748245793305">Perfil &lt;ph name="VALUE"&gt;$1&lt;ex&gt;1&lt;/ex&gt;&lt;/ph&gt;</translation>
+<translation id="5828545842856466741">Añadir perfil...</translation>
+<translation id="6921634551681321094">Añadir perfil</translation>
+<translation id="4904061654709986277">Añadir perfil</translation>
+<translation id="6114945161119872228">Eliminar este perfil</translation>
+<translation id="8006143138282906848">Eliminar este perfil</translation>
+<translation id="6315812488257290136">Perfiles</translation>
+<translation id="5840822070878669614">Abrir Brave Web Store</translation>
+<translation id="383007806262310953">Mostrar marcadores</translation>
+<translation id="8648684608605749476">Bloquear cookies de terceros en el modo de incógnito</translation>
+<translation id="1281501490173223206">Solo a la sesión de incógnito actual</translation>
+<translation id="6906406176003824042">Editar perfil</translation>
+<translation id="9063160602596686558">Envía automáticamente estadísticas de uso e informes sobre fallos a Brave</translation>
+<translation id="3860292630623580294">(Incógnito)</translation>
+<translation id="4854477725773269949">Permitir en modo de incógnito</translation>
+<translation id="6436164536244065364">Ver en Web Store</translation>
+<translation id="38046578254905003">Busca extensiones y temas en <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Nueva pestaña privada</translation>
+<translation id="6610147964972079463">Cerrar pestañas privadas</translation>
+</translationbundle>

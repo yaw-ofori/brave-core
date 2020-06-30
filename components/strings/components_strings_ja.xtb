@@ -1817,7 +1817,6 @@
 <translation id="8800988563907321413">周辺のおすすめの場所がここに表示されます</translation>
 <translation id="8805819170075074995">リスト項目「<ph name="LANGUAGE_ID"/>」: SpellcheckLanguage ポリシーにも含まれているため、この項目は無視されます。</translation>
 <translation id="8807160976559152894">トリミング（ページ単位）</translation>
-<translation id="8820817407110198400">ブックマーク</translation>
 <translation id="883848425547221593">その他のブックマーク</translation>
 <translation id="884264119367021077">配送先住所</translation>
 <translation id="884923133447025588">取り消し機構が見つかりません。</translation>
@@ -1937,4 +1936,5 @@
 <translation id="994346157028146140">JIS B1</translation>
 <translation id="6771143571626203666">Brave Pay から</translation>
 <translation id="3489858312836205593">新しい Brave のシークレット ウィンドウを開きます</translation>
+<translation id="8820817407110198400">ブックマーク</translation>
 </translationbundle>

@@ -13,10 +13,8 @@ Neke funkcije su možda nedostupne i promene podešavanja neće biti sačuvane.
 <translation id="7419046106786626209">Chrome OS ne može da sinhronizuje podatke jer Sinhronizacija nije dostupna za domen.</translation>
 <translation id="5147525139567260139">Delite Brave karticu</translation>
 <translation id="1530633922026945685">Brave traži dozvolu da pristupi kameri da bi napravio 3D mapu okruženja</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{Administrator zahteva da ponovo pokrenete Brave da biste primenili ažuriranje}=1{Administrator zahteva da ponovo pokrenete Brave da biste primenili ažuriranje. Prozor bez arhiviranja se neće ponovo otvoriti.}one{Administrator zahteva da ponovo pokrenete Brave da biste primenili ažuriranje. # prozor bez arhiviranja se neće ponovo otvoriti.}few{Administrator zahteva da ponovo pokrenete Brave da biste primenili ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}other{Administrator zahteva da ponovo pokrenete Brave da biste primenili ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}}</translation>
 <translation id="5616153642055197778">Dostupna je nova, bezbednija verzija Brave-a.</translation>
 <translation id="6797402139308059782">Neka Brave radi u pozadini</translation>
-<translation id="1448049584457347995">Da bismo učinili Brave bezbednijim, onemogućili smo neke dodatke koje ne navodi <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> i koji su možda dodati bez vašeg znanja.</translation>
 <translation id="5875673934455379806">Ponovo instaliraj Brave</translation>
 <translation id="650055380213106997">Prijavljujete se pomoću naloga kojim se upravlja i dajete njegovom administratoru kontrolu nad Brave profilom. Brave podaci, kao što su aplikacije, obeleživači, istorija, lozinke i druga podešavanja, biće trajno povezani sa nalogom <ph name="USER_NAME"/>. Moći ćete da izbrišete te podatke preko Kontrolne table Brave naloga, ali nećete moći da ih povežete sa nekim drugim nalogom. Možete opcionalno da napravite novi profil da bi postojeći Brave podaci ostali odvojeni. <ph name="LEARN_MORE"/></translation>
 <translation id="1649714546770135458">Kada to uključite, možete da se prijavljujete na Brave sajtove, kao što je Gmail, ali se ne prijavljujete u Brave</translation>
@@ -51,7 +49,6 @@ Neke funkcije su možda nedostupne i promene podešavanja neće biti sačuvane.
 <translation id="7365690458036015383">Program za instalaciju nije uspeo da dekomprimuje arhivu. Preuzmite Brave ponovo.</translation>
 <translation id="8919461291440820124">Brave koristi mikrofon.</translation>
 <translation id="4805806622840861220">Ponovo pokreni Brave</translation>
-<translation id="6554952862405000915">Otvori link u Brave prozoru bez arhi&amp;viranja</translation>
 <translation id="1477146545787277177">Opa! Brave je otkazao. Želite li da ga odmah ponovo pokrenete?</translation>
 <translation id="7503098128120083822">Brave želi da izveze lozinke.</translation>
 <translation id="2585240446624043880">Brave ne može da čita podatke iz direktorijuma sa podacima niti da ih upisuje u njega:
@@ -66,10 +63,7 @@ Neke funkcije su možda nedostupne i promene podešavanja neće biti sačuvane.
 <translation id="8703492925273919597">Zatvorite sve Brave prozore i pokušajte ponovo.</translation>
 <translation id="1384923383737428730">Na računaru postoji štetan softver. Brave može da ga ukloni, vrati podešavanja i onemogući dodatke da bi pregledač mogao ponovo da radi uobičajeno.</translation>
 <translation id="4847979153841887006">Brave logotip</translation>
-<translation id="669092380621816981">Podaci pregledanja ove osobe će biti izbrisani sa ovog uređaja. Da biste vratili podatke, prijavite se u Brave kao <ph name="USER_EMAIL"/>.</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{Novo ažuriranje za Brave je dostupno i primeniće se čim ga ponovo pokrenete.}=1{Novo ažuriranje za Brave je dostupno i primeniće se čim ga ponovo pokrenete. Prozor bez arhiviranja se neće ponovo otvoriti.}one{Novo ažuriranje za Brave je dostupno i primeniće se čim ga ponovo pokrenete. # prozor bez arhiviranja se neće ponovo otvoriti.}few{Novo ažuriranje za Brave je dostupno i primeniće se čim ga ponovo pokrenete. # prozora bez arhiviranja se neće ponovo otvoriti.}other{Novo ažuriranje za Brave je dostupno i primeniće se čim ga ponovo pokrenete. # prozora bez arhiviranja se neće ponovo otvoriti.}}</translation>
 <translation id="4304059894777924102">Brave ne može da vam proverava lozinke. Proverite internet vezu.</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{Administrator traži da ponovo pokrenete Brave da biste primenili ovo ažuriranje}=1{Administrator traži da ponovo pokrenete Brave da biste primenili ovo ažuriranje. Prozor bez arhiviranja se neće ponovo otvoriti.}one{Administrator traži da ponovo pokrenete Brave da biste primenili ovo ažuriranje. # prozor bez arhiviranja se neće ponovo otvoriti.}few{Administrator traži da ponovo pokrenete Brave da biste primenili ovo ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}other{Administrator traži da ponovo pokrenete Brave da biste primenili ovo ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}}</translation>
 <translation id="1807774211756215222">Otvori link u novoj Brave &amp;kartici</translation>
 <translation id="7453070689008684791">Brave će pristupati Disku da bi prikazivao predloge na traci za adresu</translation>
 <translation id="2106568569080763501">Brave vam omogućava da kliknete na broj telefona na vebu i da ga pozovete pomoću Skype-a!</translation>
@@ -165,7 +159,6 @@ Neke funkcije će možda biti nedostupne. Navedite drugi direktorijum profila i
 <translation id="7830723774663008396">Brave – <ph name="PAGE_TITLE"/></translation>
 <translation id="5253815230176279256">Brave Pay (kopirano u Brave)</translation>
 <translation id="2301993384336631869">Brave je ažuriran, ali ga niste koristili najmanje 30 dana.</translation>
-<translation id="4624945300945265642">Otvori link u Brave prozoru bez arhi&amp;viranja</translation>
 <translation id="3335606533094650083">Brave traži dozvolu da pristupi mikrofonu za ovaj sajt</translation>
 <translation id="1785833016412082453">Brave ne može da vam proverava dodatke. Probajte ponovo kasnije.</translation>
 <translation id="1705567146636171298">Ažuriraj Brave</translation>
@@ -200,7 +193,6 @@ Brave ne može da vrati podešavanja.</translation>
 <translation id="5419189641394808652">Brave ne može da sinhronizuje podatke jer Sinhronizacija nije dostupna za domen.</translation>
 <translation id="4784414698887946907">Ovim ćete izbrisati podatke pregledanja sa ovog uređaja. Da biste kasnije vratili podatke, prijavite se u Brave kao <ph name="USER_EMAIL"/>.</translation>
 <translation id="7747138024166251722">Program za instalaciju nije mogao da napravi privremeni direktorijum. Proverite da li imate slobodnog prostora na disku, kao i dozvolu da instalirate softver.</translation>
-<translation id="6134859571175647580">Upozorenje: Brave ne može da spreči dodatke da čuvaju istoriju pregledanja. Da biste onemogućili ovaj dodatak u režimu bez arhiviranja, opozovite izbor ove opcije.</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> – Brave Canary</translation>
 <translation id="38898988211673781">Obriši kolačiće i podatke o sajtovima kad izađem iz Brave-a</translation>
 <translation id="7963515534397191222">Brave nije uspeo da se ažurira na najnoviju verziju, pa propuštate nove funkcije i bezbednosne ispravke.</translation>
@@ -237,7 +229,6 @@ Brave ne može da vrati podešavanja.</translation>
 <translation id="8285294305439559616">Brave pokušava da prikaže lozinke. Unesite lozinku za Windows da biste to omogućili.</translation>
 <translation id="6389268239133412586">Ne možete da ažurirate Brave</translation>
 <translation id="6368958679917195344">Chrome OS omogućava dodatni <ph name="BEGIN_LINK_CROS_OSS"/>softver otvorenog koda<ph name="END_LINK_CROS_OSS"/>.</translation>
-<translation id="8848045066928358658">Da bismo učinili Brave bezbednijim, onemogućili smo sledeći dodatak koji <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ne navodi i koji je možda dodat bez vašeg znanja.</translation>
 <translation id="5173820533850252773">Brave je zastareo</translation>
 <translation id="310518206836658214">{0,plural, =1{Ponovo ćemo pokrenuti Brave za jedan sat}one{Ponovo ćemo pokrenuti Brave za # sat}few{Ponovo ćemo pokrenuti Brave za # sata}other{Ponovo ćemo pokrenuti Brave za # sati}}</translation>
 <translation id="7863882214613921971">Otvori link u novoj Brave &amp;kartici</translation>
@@ -247,4 +238,13 @@ Brave ne može da vrati podešavanja.</translation>
 <translation id="7977787072794666032">Brave možda neće ispravno funkcionisati zato što više nije podržan na Windows XP-u ili Windows Vista-i</translation>
 <translation id="2398566204186296120"><ph name="DOMAIN"/> zahteva da pročitate i prihvatite sledeće Uslove korišćenja usluge pre nego što počnete da koristite ovaj uređaj. Ovi uslovi ne predstavljaju proširenje, izmenu ili ograničenje Uslova za Chrome OS.</translation>
 <translation id="8992261409816268381">Brave Software Inc</translation>
+<translation id="6134859571175647580">Upozorenje: Brave ne može da spreči dodatke da čuvaju istoriju pregledanja. Da biste onemogućili ovaj dodatak u režimu bez arhiviranja, opozovite izbor ove opcije.</translation>
+<translation id="1448049584457347995">Da bismo učinili Brave bezbednijim, onemogućili smo neke dodatke koje ne navodi <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> i koji su možda dodati bez vašeg znanja.</translation>
+<translation id="8848045066928358658">Da bismo učinili Brave bezbednijim, onemogućili smo sledeći dodatak koji <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ne navodi i koji je možda dodat bez vašeg znanja.</translation>
+<translation id="669092380621816981">Podaci pregledanja ove osobe će biti izbrisani sa ovog uređaja. Da biste vratili podatke, prijavite se u Brave kao <ph name="USER_EMAIL"/>.</translation>
+<translation id="4624945300945265642">Otvori link u Brave prozoru bez arhi&amp;viranja</translation>
+<translation id="6554952862405000915">Otvori link u Brave prozoru bez arhi&amp;viranja</translation>
+<translation id="8274659559228306809">{COUNT,plural, =0{Novo ažuriranje za Brave je dostupno i primeniće se čim ga ponovo pokrenete.}=1{Novo ažuriranje za Brave je dostupno i primeniće se čim ga ponovo pokrenete. Prozor bez arhiviranja se neće ponovo otvoriti.}one{Novo ažuriranje za Brave je dostupno i primeniće se čim ga ponovo pokrenete. # prozor bez arhiviranja se neće ponovo otvoriti.}few{Novo ažuriranje za Brave je dostupno i primeniće se čim ga ponovo pokrenete. # prozora bez arhiviranja se neće ponovo otvoriti.}other{Novo ažuriranje za Brave je dostupno i primeniće se čim ga ponovo pokrenete. # prozora bez arhiviranja se neće ponovo otvoriti.}}</translation>
+<translation id="3829358914761176693">{COUNT,plural, =0{Administrator traži da ponovo pokrenete Brave da biste primenili ovo ažuriranje}=1{Administrator traži da ponovo pokrenete Brave da biste primenili ovo ažuriranje. Prozor bez arhiviranja se neće ponovo otvoriti.}one{Administrator traži da ponovo pokrenete Brave da biste primenili ovo ažuriranje. # prozor bez arhiviranja se neće ponovo otvoriti.}few{Administrator traži da ponovo pokrenete Brave da biste primenili ovo ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}other{Administrator traži da ponovo pokrenete Brave da biste primenili ovo ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}}</translation>
+<translation id="552349673358711446">{COUNT,plural, =0{Administrator zahteva da ponovo pokrenete Brave da biste primenili ažuriranje}=1{Administrator zahteva da ponovo pokrenete Brave da biste primenili ažuriranje. Prozor bez arhiviranja se neće ponovo otvoriti.}one{Administrator zahteva da ponovo pokrenete Brave da biste primenili ažuriranje. # prozor bez arhiviranja se neće ponovo otvoriti.}few{Administrator zahteva da ponovo pokrenete Brave da biste primenili ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}other{Administrator zahteva da ponovo pokrenete Brave da biste primenili ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}}</translation>
 </translationbundle>

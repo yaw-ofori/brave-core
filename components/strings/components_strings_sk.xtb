@@ -1812,7 +1812,6 @@ Ich používanie by bolo inak blokované vašimi nastaveniami ochrany súkromia.
 <translation id="8800988563907321413">Tu sa zobrazia návrhy funkcie Nablízku</translation>
 <translation id="8805819170075074995">Položka zoznamu <ph name="LANGUAGE_ID"/>: položka bola ignorovaná, pretože je tiež zahrnutá v pravidle SpellcheckLanguage.</translation>
 <translation id="8807160976559152894">Orezať po každej strane</translation>
-<translation id="8820817407110198400">Záložky</translation>
 <translation id="883848425547221593">Iné záložky</translation>
 <translation id="884264119367021077">Dodacia adresa</translation>
 <translation id="884923133447025588">Nenašiel sa žiadny mechanizmus rušenia certifikátov.</translation>
@@ -1932,4 +1931,5 @@ Ich používanie by bolo inak blokované vašimi nastaveniami ochrany súkromia.
 <translation id="994346157028146140">JIS B1</translation>
 <translation id="6771143571626203666">Zo služby Brave Pay</translation>
 <translation id="3489858312836205593">Otvoriť nové okno inkognito v Brave</translation>
+<translation id="8820817407110198400">Záložky</translation>
 </translationbundle>

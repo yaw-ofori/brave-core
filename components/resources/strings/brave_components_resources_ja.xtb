@@ -1,10 +1,13 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="ja">
-<translation id="5288293905681750318">トラッカー&amp;広告をブロックしました</translation>
+<translation id="5288293905681750318">ブロック済の
+広告・トラッカー数</translation>
 <translation id="2313532038420432247">HTTPSアップグレード</translation>
-<translation id="788493840831967104">時間を節約しました</translation>
-<translation id="2318592590318590295">帯域を節約しました</translation>
+<translation id="788493840831967104">節約できた
+読み込み時間</translation>
+<translation id="2318592590318590295">節約できた
+データ使用量</translation>
 <translation id="5206618227023752085">トップサイトが削除されました</translation>
 <translation id="2079545284768500474">取り消す</translation>
 <translation id="6040143037577758943">閉じる</translation>
@@ -27,7 +30,7 @@
 <translation id="7606029853066610626">ブックマークの表示と管理</translation>
 <translation id="5550994254534676787">あなたのサイト閲覧履歴を表示する</translation>
 <translation id="985862351129593673">ダッシュボードをカスタマイズする</translation>
-<translation id="7180865173735832675">カスタマイズ</translation>
+<translation id="7180865173735832675">設定</translation>
 <translation id="5783793537552649286">背景画像を表示</translation>
 <translation id="7275773481201277457">Braveのデータを表示</translation>
 <translation id="6836061097810262923">時計を表示</translation>
@@ -39,7 +42,7 @@
 <translation id="3870475560794762985">スポンサー画像を表示する</translation>
 <translation id="2875302873837723333">トップサイト</translation>
 <translation id="8173998484743827990">Brave統計データ</translation>
-<translation id="383680190590774040">クロック</translation>
+<translation id="383680190590774040">時刻表示</translation>
 <translation id="6165508094623778733">詳細情報</translation>
 <translation id="8730621377337864115">完了</translation>
 <translation id="6248988683584659830">設定の検索</translation>

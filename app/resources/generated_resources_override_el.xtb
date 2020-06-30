@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="el">
+<translation id="658539216370629794">Ανοίξτε τον σύνδεσμο σε &amp;ιδιωτικό παράθυρο</translation>
+<translation id="1432267168815937878">Ανοίξτε τον Σύνδεσμο σε &amp;Ιδιωτικό Παράθυρο</translation>
+<translation id="6516243500644829484">Νέο &amp;ιδιωτικό παράθυρο</translation>
+<translation id="7973394300052703468">Νέο &amp;Ιδιωτικό Παράθυρο</translation>
+<translation id="6395403722585816044">Κατέβηκε σε Ιδιωτικό</translation>
+<translation id="203837651858678035">Έξοδος από την ιδιωτική λειτουργία έτσι κι αλλιώς;</translation>
+<translation id="7376221878517288144">Θέλετε να φύγετε από την ιδιωτική λειτουργία έτσι κι αλλιώς;</translation>
+<translation id="871606814707918245">Οι περισσότεροι χρήστες αποκλείουν τις ειδοποιήσεις από αυτόν τον ιστότοπο.</translation>
+<translation id="5053701565089446556">Ιδιωτική Επέκταση: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Ιδιωτική Εφαρμογή: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Ιδιωτική Καρτέλα: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Ιδιωτικό Υποπλαίσιο: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Πύλη ανώνυμης περιήγησης: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Διαδικτυακό Κατάστημα</translation>
+<translation id="8261378640211443080">Αυτή η επέκταση δεν αναφέρεται στο <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> και ενδέχεται να έχει προστεθεί εν αγνοία σας.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Ιδιωτικό)</translation>
+<translation id="4369414322596874629">Μπορείτε να περιηγηθείτε ιδιωτικά χρησιμοποιώντας ένα ιδιωτικό παράθυρο</translation>
+<translation id="3772947852642271642">Χρησιμοποιήστε τον ιστό χωρίς να αποθηκεύσετε το ιστορικό της περιήγησής σας με ένα ιδιωτικό παράθυρο</translation>
+<translation id="3871738366246972820">Χρησιμοποιείτε έναν κοινόχρηστο υπολογιστή; Δοκιμάστε να ανοίξετε ένα ιδιωτικό παράθυρο.</translation>
+<translation id="5808622652939943719">Για να περιηγηθείτε ιδιωτικά, κάντε κλικ στο μενού εικονιδίων κουκκίδων για να ανοίξετε ένα ιδιωτικό παράθυρο</translation>
+<translation id="9079153198295609735">Αυτόματη αποστολή στατιστικών στοιχείων χρήσης και αναφορών σφαλμάτων στην Brave Software</translation>
+<translation id="8839398440242019256">Όχι από το Διαδικτυακό Κατάστημα.</translation>
+<translation id="6945695820322143954">Αυτή η επέκταση παραβιάζει την πολιτική του Διαδικτυακού Καταστήματος.</translation>
+<translation id="1676595396635191120">Νέο Ιδιωτικό Παράθυρο</translation>
+<translation id="5094764494104066239">Διαρκής εμφάνιση γραμμής σελιδοδεικτών</translation>
+<translation id="4471385409549756595">Νέο ιδιωτικό παράθυρο</translation>
+<translation id="4540437243849625078">Αυτός ο ιστότοπος πρόκειται να ανταλλάξει πληροφορίες με μια εφαρμογή εκτός ιδιωτικής λειτουργίας.</translation>
+<translation id="1227836882233136433">Φεύγετε από ιδιωτική λειτουργία;</translation>
+<translation id="7618452966706304788">Θέλετε να χρησιμοποιήσετε το Touch ID με <ph name="APP_NAME"/> σε Ιδιωτική λειτουργία;</translation>
+<translation id="3098826269712097986">Τα στοιχεία σύνδεσης θα αποθηκευτούν στο Brave μετά την έξοδο από την Ιδιωτική λειτουργία. Αυτό θα σας επιτρέψει να χρησιμοποιήσετε ξανά το Touch ID με αυτόν τον ιστότοπο αργότερα.</translation>
+<translation id="5186185447130319458">Ιδιωτικό</translation>
+<translation id="2579188629646253712">Έξοδος από Ιδιωτικό</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Άνοιγμα όλων σε παράθυρο για &amp;ανώνυμη περιήγηση}=1{Άνοιγμα σε παράθυρο για &amp;ανώνυμη περιήγηση}other{Άνοιγμα όλων (#) σε παράθυρο για &amp;ανώνυμη περιήγηση}}</translation>
+<translation id="1985165269306590797">Άνοιγμα σε παράθυρο ανώνυμης περιήγησης</translation>
+<translation id="642436385689435488">Άνοιγμα όλων σε παράθυρο για ανώνυμη περιήγηση</translation>
+<translation id="5463021359602611602">Άνοιγμα σε παράθυρο για ανώνυμη περιήγηση</translation>
+<translation id="5070556616376997776">Είστε σε ανώνυμη περιήγηση</translation>
+<translation id="5832813618714645810">Προφίλ</translation>
+<translation id="6921634551681321094">Προσθήκη χρήστη</translation>
+<translation id="6315812488257290136">Προφίλ</translation>
+<translation id="5840822070878669614">Άνοιγμα του Brave Web Store</translation>
+<translation id="8648684608605749476">Αποκλεισμός cookie τρίτων μερών στην Ανώνυμη περιήγηση</translation>
+<translation id="1281501490173223206">Μόνο για την τρέχουσα περίοδο λειτουργίας σε κατάσταση ανώνυμης περιήγησης</translation>
+<translation id="9063160602596686558">Αποστέλλει αυτόματα στατιστικά στοιχεία χρήσης και αναφορές σφαλμάτων στην Brave Software</translation>
+<translation id="3860292630623580294">(Ανώνυμη περιήγηση)</translation>
+<translation id="4854477725773269949">Να επιτρέπονται στην ανώνυμη περιήγηση</translation>
+<translation id="6436164536244065364">Προβολή στο Web Store</translation>
+<translation id="38046578254905003">Βρείτε επεκτάσεις και θέματα στο <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Νέα καρτέλα ανώνυμης περιήγησης</translation>
+<translation id="6610147964972079463">Κλείσιμο καρτελών ανώνυμης περιήγησης</translation>
+</translationbundle>

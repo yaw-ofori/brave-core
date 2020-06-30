@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ja">
+<translation id="658539216370629794">&amp;プライベートウィンドウでリンクを開く</translation>
+<translation id="1432267168815937878">&amp;プライベートウィンドウでリンクを開く</translation>
+<translation id="6516243500644829484">新しい&amp;プライベートウィンドウ</translation>
+<translation id="7973394300052703468">新しい&amp;プライベートウィンドウ</translation>
+<translation id="6395403722585816044">プライベートモードでダウンロード</translation>
+<translation id="203837651858678035">とにかくプライベートモードを終了しますか？</translation>
+<translation id="7376221878517288144">とにかくプライベートモードを終了しますか？</translation>
+<translation id="871606814707918245">ほとんどのユーザーがこのサイトの通知をブロックしています</translation>
+<translation id="5053701565089446556">プライベート拡張機能: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">プライベートアプリ: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">プライベートタブ: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">プライベートサブフレーム: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">シークレット ポータル: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">ウェブストア</translation>
+<translation id="8261378640211443080">この拡張機能は <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>で提供されていません。知らないうちに追加された可能性があります。</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (プライベート)</translation>
+<translation id="4369414322596874629">プライベートウィンドウを使用してプライベートに閲覧できます</translation>
+<translation id="3772947852642271642">プライベートウィンドウで、閲覧履歴を保存せずにウェブを使用</translation>
+<translation id="3871738366246972820">共有コンピューターを使用していますか？ プライベートウィンドウを開いてみてください。</translation>
+<translation id="5808622652939943719">プライベートに閲覧するには、ドットアイコンメニューをクリックしてプライベートウィンドウを開いてください</translation>
+<translation id="9079153198295609735">使用統計データと障害レポートを Brave Software に自動送信します</translation>
+<translation id="8839398440242019256">ウェブストアからではありません。</translation>
+<translation id="6945695820322143954">この拡張機能は、ウェブストアのポリシーに違反しています。</translation>
+<translation id="1676595396635191120">新しいプライベートウィンドウ</translation>
+<translation id="5094764494104066239">ブックマーク バーを常に表示</translation>
+<translation id="4471385409549756595">新しいプライベートウィンドウ</translation>
+<translation id="4540437243849625078">このサイトは、プライベートモードの外部のアプリと情報を共有しようとしています。</translation>
+<translation id="1227836882233136433">プライベートモードを離れますか？</translation>
+<translation id="7618452966706304788">プライベートモードで<ph name="APP_NAME"/>でTouch IDを使いますか？</translation>
+<translation id="3098826269712097986">プライベートモードを終了すると、サインインデータはBraveに保存されます。 これにより、後でこのウェブサイトでTouch IDを使用できるようになります。</translation>
+<translation id="5186185447130319458">プライベート</translation>
+<translation id="2579188629646253712">プライベートモードを離れる</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{すべてをシークレット ウィンドウで開く(&amp;I)}=1{シークレット ウィンドウで開く(&amp;I)}other{すべて（# 件）をシークレット ウィンドウで開く(&amp;I)}}</translation>
+<translation id="1985165269306590797">シークレット ウィンドウで開く(&amp;I)</translation>
+<translation id="642436385689435488">すべてをシークレット ウィンドウで開く</translation>
+<translation id="5463021359602611602">シークレット ウィンドウで開く</translation>
+<translation id="5070556616376997776">シークレット モード使用中</translation>
+<translation id="5832813618714645810">プロフィール</translation>
+<translation id="6921634551681321094">ユーザーを追加</translation>
+<translation id="6315812488257290136">プロフィール</translation>
+<translation id="5840822070878669614">Brave ウェブストアを開く</translation>
+<translation id="8648684608605749476">シークレット モードでサードパーティの Cookie をブロックします</translation>
+<translation id="1281501490173223206">現在のシークレット モード セッションのみ</translation>
+<translation id="9063160602596686558">使用統計情報や障害レポートを Brave Software に自動送信します</translation>
+<translation id="3860292630623580294">（シークレット モード）</translation>
+<translation id="4854477725773269949">シークレット モードでの実行を許可する</translation>
+<translation id="6436164536244065364">ウェブストアで見る</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Brave ウェブストア<ph name="END_LINK"/>で拡張機能やテーマを探すことができます</translation>
+<translation id="6336451774241870485">新しいプライベートタブ</translation>
+<translation id="6610147964972079463">プライベートタブを閉じます</translation>
+</translationbundle>

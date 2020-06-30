@@ -591,7 +591,6 @@
 <translation id="5862731021271217234">如要存取你在其他裝置上開啟的分頁，請開啟同步處理功能</translation>
 <translation id="5864174910718532887">詳細資料：依網站名稱排序</translation>
 <translation id="5864419784173784555">正在等待其他下載程序完成…</translation>
-<translation id="9063160602596686558">自動將使用統計資料和當機報告傳送給 Brave</translation>
 <translation id="5869522115854928033">已儲存的密碼</translation>
 <translation id="5876056640971328065">暫停影片</translation>
 <translation id="9037412730408024068">為協助你完成工作，系統會將你使用 Brave 助理時所在網站的網址與互動的內容，以及你透過 Brave 助理提交的資訊，一併傳送給 Brave。</translation>
@@ -769,7 +768,6 @@
 <translation id="7413229368719586778">開始日期：<ph name="DATE"/></translation>
 <translation id="7431991332293347422">控制 Brave 使用瀏覽記錄提供個人化搜尋服務和其他內容的方式</translation>
 <translation id="6234515504547364178">登出 Brave</translation>
-<translation id="1438581767753657407">開啟精簡模式後，Brave 會使用 Brave 伺服器來加快網頁載入速度。精簡模式會改寫載入速度特別慢的網頁，只載入基本內容。精簡模式不適用於無痕模式分頁。</translation>
 <translation id="7444811645081526538">更多類別</translation>
 <translation id="8218628800671693884">大多數網站都會將你登出，但系統並不會將你登出 Brave 帳戶。</translation>
 <translation id="7454641608352164238">空間不足</translation>
@@ -994,4 +992,23 @@
 <translation id="981121421437150478">離線</translation>
 <translation id="983192555821071799">關閉所有分頁</translation>
 <translation id="987264212798334818">一般</translation>
+<translation id="5186185447130319458">隱私</translation>
+<translation id="9063160602596686558">自動將使用統計資料和當機報告傳送給 Brave Software</translation>
+<translation id="1438581767753657407">啟用精簡模式後，Brave 會使用 Brave 伺服器來加快頁面載入速度。在精簡模式下，載入緩慢的頁面會被重寫，改為只載入基本內容。精簡模式不適用於隱私分頁。</translation>
+<translation id="2633278372998075009">隱私分頁</translation>
+<translation id="6099151465289169210">已切換至隱私分頁</translation>
+<translation id="4243710787042215766">用隱私分頁開啟</translation>
+<translation id="3110967157686007724">隱私分頁</translation>
+<translation id="4526803704855831732">隱私分頁</translation>
+<translation id="7465104139234185284">關閉所有隱私分頁</translation>
+<translation id="6336451774241870485">新隱私分頁</translation>
+<translation id="3234355010754616171">新隱私分頁</translation>
+<translation id="6610147964972079463">關閉隱私分頁</translation>
+<translation id="4968908871398201967">隱私模式</translation>
+<translation id="9080642952018487277">進入隱私模式</translation>
+<translation id="4883379392681899581">離開隱私模式</translation>
+<translation id="3377025655491224618">隱私分頁</translation>
+<translation id="584427517463557805">已選隱私分頁</translation>
+<translation id="2280910239864711607">在隱私模式下開啟新分頁</translation>
+<translation id="8628973420740315031">如要與附近的使用者分享，請讓對方掃描這個 QR 圖碼</translation>
 </translationbundle>

@@ -606,7 +606,6 @@
 <translation id="1757301747492736405">حذف نصب درانتظار انجام است</translation>
 <translation id="175772926354468439">فعال کردن طرح زمینه</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">‏مشاهده در «نت‌بازار Brave»</translation>
 <translation id="176193854664720708">حسگر اثر انگشت روی دکمه روشن/خاموش است. با یکی از انگشت‌هایتان آن را به‌آرامی لمس کنید.</translation>
 <translation id="1763046204212875858">ایجاد میان‌برهای برنامه</translation>
 <translation id="1763108912552529023">به کاوش ادامه دهید</translation>
@@ -1323,7 +1322,6 @@
 <translation id="2660779039299703961">رویداد</translation>
 <translation id="4052689580269971502">‏چاپگر متصل نشد. بررسی کنید چاپگر روشن و ازطریق Wi-Fi یا USB به Bravebook متصل باشد.</translation>
 <translation id="2661714428027871023">با «حالت ساده»، سریع‌تر مرور کنید و از داده کمتری استفاده کنید. برای اطلاعات بیشتر کلیک کنید.</translation>
-<translation id="8808478386290700967">‏«نت‌بازار Brave»</translation>
 <translation id="2663302507110284145">زبان</translation>
 <translation id="2665394472441560184">افزودن کلمه جدید</translation>
 <translation id="2665647207431876759">منقضی شد</translation>
@@ -2208,7 +2206,6 @@
 <translation id="3771294271822695279">فایل‌های ویدئویی</translation>
 <translation id="3775432569830822555">‏گواهی سرور SSL</translation>
 <translation id="3775705724665058594">ارسال به دستگاه‌هایتان</translation>
-<translation id="6945695820322143954">‏این افزونه حریم خصوصی «نت‌بازار Brave» را نقض می‌کند.</translation>
 <translation id="3777483481409781352">دستگاه تلفن همراه فعال نشد</translation>
 <translation id="3777806571986431400">برنامه افزودنی فعال شد</translation>
 <translation id="3778152852029592020">بارگیری لغو شد.</translation>
@@ -3023,7 +3020,6 @@
 <translation id="48704129375571883">افزودن قابلیت‌های بیشتر</translation>
 <translation id="4870758487381879312">برای دریافت اطلاعات پیکربندی، گذرواژه ارائه‌شده توسط سرپرست را وارد کنید</translation>
 <translation id="4870903493621965035">دستگاه مرتبطی وجود ندارد</translation>
-<translation id="8839398440242019256">‏از «نت‌بازار Brave» نیست.</translation>
 <translation id="4871322859485617074">پین حاوی نویسه‌های نامعتبر است</translation>
 <translation id="4871370605780490696">افزودن نشانک</translation>
 <translation id="4871568871368204250">خاموش کردن همگام‌سازی</translation>
@@ -3619,7 +3615,6 @@
 <translation id="563535393368633106">قبل از دسترسی سؤال شود (توصیه می‌شود)</translation>
 <translation id="5636996382092289526">برای استفاده از <ph name="NETWORK_ID"/> ابتدا باید به <ph name="LINK_START"/>صفحه ورود به سیستم شبکه بروید<ph name="LINK_END"/>، که تا چند ثانیه دیگر به‌طور خودکار باز می‌شود. اگر این اتفاق نیافتد، نمی‌توان از شبکه استفاده کرد.</translation>
 <translation id="5637476008227280525">فعال کردن داده تلفن همراه</translation>
-<translation id="38046578254905003">‏افزونه‌ها و طرح‌های زمینه را در <ph name="BEGIN_LINK"/>نت‌بازار Brave<ph name="END_LINK"/> پیدا کنید</translation>
 <translation id="5639549361331209298">تازه‌سازی این صفحه، آن را نگهدارید تا گزینه‌های بیشتری را ببینید</translation>
 <translation id="5640133431808313291">مدیریت کلیدهای امنیتی</translation>
 <translation id="5642508497713047">‏امضاکننده CRL</translation>
@@ -3791,7 +3786,6 @@
 <translation id="5864754048328252126">کنش راکد هنگام شارژ شدن</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> به‌زودی متوقف می‌شود</translation>
 <translation id="586567932979200359">شما <ph name="PRODUCT_NAME"/> را از تصویر دیسک آن اجرا می‌کنید. با نصب آن روی رایانه می‌توانید آن را بدون تصویر دیسک اجرا کنید، و مطمئن شوید که به روز نگه داشته خواهد شد.</translation>
-<translation id="9063160602596686558">‏به‌طور خودکار آمار کاربرد و گزارش‌های خرابی را به Brave ارسال می‌کند</translation>
 <translation id="5866557323934807206">پاک کردن این تنظیمات برای بازدیدهای بعدی</translation>
 <translation id="5866840822086176774">بسیار قوی</translation>
 <translation id="5867841422488265304">نشانی وب را جستجو یا تایپ کنید</translation>
@@ -4233,7 +4227,6 @@
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> به‌روزرسانی را به‌صورت خودکار برای تمام کاربران این رایانه راه‌اندازی می‌کند.</translation>
 <translation id="6434309073475700221">رد کردن</translation>
 <translation id="6434325376267409267">قبل از اینکه بتوانید از <ph name="APP_NAME"/> استفاده کنید باید دستگاه را به‌روزرسانی کنید.</translation>
-<translation id="6436164536244065364">نمایش در فروشگاه وب</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> - پخش خودکار</translation>
 <translation id="6442187272350399447">معرکه</translation>
 <translation id="6444070574980481588">تنظیم تاریخ و زمان</translation>
@@ -4949,7 +4942,6 @@
 <translation id="7375235221357833624">{0,plural, =1{دستگاه را تا یک ساعت دیگر به‌روزرسانی کنید}one{دستگاه را تا # ساعت دیگر به‌روزرسانی کنید}other{دستگاه را تا # ساعت دیگر به‌روزرسانی کنید}}</translation>
 <translation id="7376553024552204454">برجسته کردن نشانگر موشواره هنگامی که حرکت می‌کند</translation>
 <translation id="7377451353532943397">دسترسی به حسگر همچنان مسدود شود</translation>
-<translation id="5840822070878669614">‏باز کردن نت‌بازار Brave</translation>
 <translation id="7378812711085314936">دریافت اتصال داده</translation>
 <translation id="7378962964415201590">مرتبط‌سازی تلفن جدید</translation>
 <translation id="7380768571499464492"><ph name="PRINTER_NAME"/> به‌روزرسانی شد</translation>
@@ -5171,7 +5163,6 @@
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>، در <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">‏غیرفعال کردن همه درگاه‌های بازارسال‌شده در Linux</translation>
 <translation id="1800308196794859773">‏صدایتان را برای Brave ارسال کنید تا بتوانید هر فیلد نوشتاری را با دیکته کردن پر کنید.</translation>
-<translation id="3098826269712097986">‏داده‌های مربوط به ورود به سیستم، پس از خروج از حالت ناشناس، در Brave ذخیره می‌شود. بنابراین، بعداً دوباره می‌توانید در این وب‌سایت از «شناسه لمسی» استفاده کنید.</translation>
 <translation id="7681095912841365527">سایت می‌تواند از بلوتوث استفاده کند</translation>
 <translation id="7683373461016844951">برای ادامه، روی «تأیید» کلیک کنید و سپس برای ایجاد نمایه‌ای جدید برای نشانی ایمیل‌ <ph name="DOMAIN"/> خود، روی «افزودن شخص» کلیک کنید.</translation>
 <translation id="7684212569183643648">سرپرست سیستم شما نصب کرده است</translation>
@@ -5655,7 +5646,6 @@
 <translation id="8259239505248583312">بیایید شروع کنیم</translation>
 <translation id="8260126382462817229">دوباره سعی کنید به سیستم وارد شوید</translation>
 <translation id="8260864402787962391">ماوس</translation>
-<translation id="8261378640211443080">این برنامه‌افزودنی در <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> فهرست نشده است و ممکن است بدون اطلاع شما اضافه شده باشد.</translation>
 <translation id="8261506727792406068">حذف</translation>
 <translation id="8263336784344783289">نامی برای گروه وارد کنید</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> مکان‌نمای ماوس شما را غیرفعال کرد.</translation>
@@ -6076,7 +6066,6 @@
 <translation id="8805140816472474147">برای شروع همگام‌سازی، تنظیمات همگام‌سازی را تأیید کنید.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> می‌تواند برگه‌هایی را که به‌طور تصادفی بسته شده‌اند دوباره باز کند</translation>
 <translation id="8807632654848257479">پایدار</translation>
-<translation id="8808478386290700967">Web Store</translation>
 <translation id="8808686172382650546">گربه</translation>
 <translation id="1510515462062582289">‏در این صفحه می‌توانید همه افزونه‌های نصب‌شده در Brave را ببینید.</translation>
 <translation id="8809147117840417135">سبز دودی روشن</translation>
@@ -6228,7 +6217,6 @@
 <translation id="8983632908660087688"><ph name="ORIGIN"/> می‌تواند <ph name="FILENAME"/> را ویرایش کند</translation>
 <translation id="8985264973231822211">آخرین فعالیت: <ph name="DEVICE_LAST_ACTIVATED_TIME"/> روز قبل</translation>
 <translation id="8986362086234534611">فراموش شود</translation>
-<translation id="9079153198295609735">‏ارسال خودکار آمار کاربرد و گزارش‌های خرابی به Brave</translation>
 <translation id="8987927404178983737">ماه</translation>
 <translation id="8991520179165052608">سایت می‌تواند از میکروفن شما استفاده کند</translation>
 <translation id="899384117894244799">برداشتن کاربر محدودشده</translation>
@@ -6459,4 +6447,54 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">در حال برقراری اتصال ایمن...</translation>
 <translation id="998747458861718449">بازرسی</translation>
+<translation id="658539216370629794">باز کردن پیوند در پنجره &amp;خصوصی جدید</translation>
+<translation id="1432267168815937878">باز کردن پیوند در پنجره &amp;خصوصی جدید</translation>
+<translation id="6516243500644829484">پنجره &amp;خصوصی جدید</translation>
+<translation id="7973394300052703468">پنجره &amp;خصوصی جدید</translation>
+<translation id="6395403722585816044">دانلود‌شده در حالت «خصوصی»</translation>
+<translation id="203837651858678035">در هر صورت از حالت خصوصی خارج می‌شوید؟</translation>
+<translation id="7376221878517288144">درهرصورت از حالت خصوصی خارج می‌شوید؟</translation>
+<translation id="871606814707918245">افراد اکثراً اعلان‌های این سایت را مسدود می‌کنند</translation>
+<translation id="5053701565089446556">افزونه خصوصی: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">برنامه خصوصی: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">برگه خصوصی: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">قاب فرعی خصوصی: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">درگاه ناشناس: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">فروشگاه وب</translation>
+<translation id="8261378640211443080">این برنامه‌افزودنی در <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> فهرست نشده است و ممکن است بدون اطلاع شما اضافه شده باشد.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (خصوصی)</translation>
+<translation id="4369414322596874629">با پنجره خصوصی می‌توانید وب را خصوصی مرور کنید</translation>
+<translation id="3772947852642271642">با پنجره خصوصی، بدون ذخیره شدن سابقه مرورتان از وب استفاده کنید</translation>
+<translation id="3871738366246972820">از رایانه مشترکی استفاده می‌کنید؟ پنجره خصوصی را امتحان کنید.</translation>
+<translation id="5808622652939943719">برای مرور خصوصی، روی منوی نقطه‌ای کلیک کنید تا یک پنجره خصوصی باز شود</translation>
+<translation id="9079153198295609735">‏ارسال خودکار آمار کاربرد و گزارش‌های خرابی به Brave Software</translation>
+<translation id="8839398440242019256">از «فروشگاه وب» نیست.</translation>
+<translation id="6945695820322143954">این افزونه خط‌مشی «فروشگاه وب» را نقض می‌کند.</translation>
+<translation id="1676595396635191120">پنجره خصوصی جدید</translation>
+<translation id="5094764494104066239">همیشه نوار نشانک‌ها نمایش داده شود</translation>
+<translation id="4471385409549756595">پنجره خصوصی جدید</translation>
+<translation id="4540437243849625078">این سایت می‌خواهد اطلاعاتی را با برنامه‌ای خارج از حالت خصوصی به اشتراک بگذارد.</translation>
+<translation id="1227836882233136433">از حالت خصوصی خارج می‌شوید؟</translation>
+<translation id="7618452966706304788">آیا می‌خواهید از «شناسه لمسی» با <ph name="APP_NAME"/> در حالت «خصوصی» استفاده کنید؟</translation>
+<translation id="3098826269712097986">پس از خروج از حالت «خصوصی»، داده‌های ورود به سیستم در Brave ذخیره می‌شود. این قابلیت به شما امکان می‌دهد بعداً دوباره از «شناسه لمسی» در این وب‌سایت استفاده کنید.</translation>
+<translation id="5186185447130319458">خصوصی</translation>
+<translation id="2579188629646253712">خروج از حالت خصوصی</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{باز کردن همه در پنجره ناشناس}=1{باز کردن در پنجره ناشناس}one{باز کردن همه (#) در پنجره ناشناس}other{باز کردن همه (#) در پنجره ناشناس}}</translation>
+<translation id="1985165269306590797">باز کردن در پنجره &amp;ناشناس</translation>
+<translation id="642436385689435488">باز کردن همه در پنجره ناشناس</translation>
+<translation id="5463021359602611602">باز کردن در پنجره حالت ناشناس</translation>
+<translation id="5070556616376997776">در حالت ناشناس هستید</translation>
+<translation id="5832813618714645810">نمایه‌ها</translation>
+<translation id="6921634551681321094">افزودن شخص</translation>
+<translation id="6315812488257290136">نمایه‌ها</translation>
+<translation id="5840822070878669614">‏باز کردن نت‌بازار Brave</translation>
+<translation id="8648684608605749476">مسدود کردن کوکی‌های شخص ثالث در «حالت ناشناس»</translation>
+<translation id="1281501490173223206">فقط جلسه ناشناس کنونی</translation>
+<translation id="9063160602596686558">‏به‌طور خودکار آمار کاربرد و گزارش‌های خرابی را به Brave Software ارسال می‌کند</translation>
+<translation id="3860292630623580294">(ناشناس)</translation>
+<translation id="4854477725773269949">در ناشناس مجاز است</translation>
+<translation id="6436164536244065364">نمایش در فروشگاه وب</translation>
+<translation id="38046578254905003">‏افزونه‌ها و طرح‌های زمینه را در <ph name="BEGIN_LINK"/>نت‌بازار Brave<ph name="END_LINK"/> پیدا کنید</translation>
+<translation id="6336451774241870485">برگه خصوصی جدید</translation>
+<translation id="6610147964972079463">بستن برگه‌های خصوصی</translation>
 </translationbundle>

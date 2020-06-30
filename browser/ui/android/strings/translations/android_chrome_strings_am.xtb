@@ -591,7 +591,6 @@
 <translation id="5862731021271217234">ትሮችዎን ከሌሎች መሣሪያዎችዎ ስምረትን ማብራት ለማግኘት</translation>
 <translation id="5864174910718532887">ዝርዝሮች፦ በጣቢያ ስም የተለየ</translation>
 <translation id="5864419784173784555">ሌላ ውርድን በመጠበቅ ላይ…</translation>
-<translation id="9063160602596686558">የአጠቃቀም ስታስቲክስን እና የብልሽት ሪፖርቶችን በራስ-ሰር ወደ Brave ይልካል</translation>
 <translation id="5869522115854928033">የተቀመጡ የይለፍ ቃሎች</translation>
 <translation id="5876056640971328065">ቪዲዮ ባለበት አቁም</translation>
 <translation id="9037412730408024068">ተግባራትን እንዲያጠናቅቁ ለማገዝ Brave ረዳትን የሚጠቀሙባቸው የጣቢያዎች ዩአርኤሎች እና ይዘቶችና እንዲሁም በረዳት በኩል የሚያስገቡት መረጃን ይቀበላል</translation>
@@ -769,7 +768,6 @@
 <translation id="7413229368719586778">መጀመሪያ ቀን <ph name="DATE"/></translation>
 <translation id="7431991332293347422">ፍለጋን እና ተጨማሪ ነገሮችን ግላዊነት ለማላበስ የእርስዎ የአሰሳ ታሪክ እንዴት ጥቅም ላይ እንደሚውል ይቆጣጠሩ</translation>
 <translation id="6234515504547364178">ዘግተው ከBrave ይውጡ</translation>
-<translation id="1438581767753657407">ቀላል ሁነታ ሲበራ Brave ገጾች በበለጠ ፍጥነት እንዲጭኑ ለማድረግ የBrave አገልጋዮችን ይጠቀማል። ቀላል ሁነታ በጣም ቀርፋፋ የሆኑ ገጾች መሠረታዊ ይዘትን ብቻ እንዲጭኑ አድርጎ ዳግም ይጽፋቸዋል። ቀላል ሁነታ ማንነት በማያሳውቁ ትሮች ላይ አይተገበርም።</translation>
 <translation id="7444811645081526538">ተጨማሪ ምድቦች</translation>
 <translation id="8218628800671693884">ከአብዛኛዎቹ ጣቢያዎች ዘግተው ያስወጣዎታል። ከእርስዎ የBrave መለያ ዘግተው እንዲወጡ አይደረጉም።</translation>
 <translation id="7454641608352164238">በቂ ቦታ የለም</translation>
@@ -994,4 +992,23 @@
 <translation id="981121421437150478">ከመስመር ውጪ</translation>
 <translation id="983192555821071799">ሁሉንም ትሮች ይዝጉ</translation>
 <translation id="987264212798334818">አጠቃላይ</translation>
+<translation id="5186185447130319458">ማንነት የማያሳውቅ</translation>
+<translation id="9063160602596686558">የአጠቃቀም ስታስቲክስን እና የብልሽት ሪፖርቶችን በራስ-ሰር ወደ Brave Software ይልካል</translation>
+<translation id="1438581767753657407">ቀላል ሁነታ ሲበራ Brave ገጾች በበለጠ ፍጥነት እንዲጭኑ ለማድረግ የ Brave አገልጋዮችን ይጠቀማል። ቀላል ሁነታ በጣም ቀርፋፋ የሆኑ ገጾች መሠረታዊ ይዘትን ብቻ እንዲጭኑ አድርጎ ዳግም ይጽፋቸዋል። ቀላል ሁነታ በግል ትሮች ላይ አይተገበርም።</translation>
+<translation id="2633278372998075009">ማንነት የማያሳውቁ ትሮች</translation>
+<translation id="6099151465289169210">ወደ ማንነት የማያሳውቁ ትሮች ተቀይሯል</translation>
+<translation id="4243710787042215766">ማንነትን በማያሳውቅ ትር ክፈት</translation>
+<translation id="3110967157686007724">ማንነት የማያሳውቅ ትር</translation>
+<translation id="4526803704855831732">ማንነት የማያሳውቁ ትሮች</translation>
+<translation id="7465104139234185284">ሁሉንም ማንነት የማያሳውቁ ትሮችን ይዝጉ</translation>
+<translation id="6336451774241870485">አዲስ የግል ትር</translation>
+<translation id="3234355010754616171">አዲስ የግል ትር</translation>
+<translation id="6610147964972079463">የግል ትሮችን ዝጋ</translation>
+<translation id="4968908871398201967">ማንነት የማያሳውቅ ሁነታ</translation>
+<translation id="9080642952018487277">የግል ኩነት አስገባ</translation>
+<translation id="4883379392681899581">ማንነት ከማያሳውቅ ሁነታ ይውጡ</translation>
+<translation id="3377025655491224618">የግል ትር</translation>
+<translation id="584427517463557805">የተመረጠ የግል ትር</translation>
+<translation id="2280910239864711607">በግል ኩነት አዲስ ትር ክፈት</translation>
+<translation id="8628973420740315031">በአቅራቢያ ካሉ ሰዎች ጋር ለማጋራት፣ ይህን QR ኮድ እንዲቃኙ ይፍቀዱላቸው</translation>
 </translationbundle>

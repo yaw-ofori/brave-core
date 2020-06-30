@@ -1323,7 +1323,6 @@ Možete da upravljate podešavanjima ovog naloga ako instalirate aplikaciju Fami
 <translation id="2660779039299703961">Događaj</translation>
 <translation id="4052689580269971502">Povezivanje sa štampačem nije uspelo. Proverite da li je štampač uključen i povezan sa Bravebook-om pomoću Wi-Fi-ja ili USB-a.</translation>
 <translation id="2661714428027871023">Pregledajte brže i koristite manje podataka pomoću Lite režima. Kliknite da biste saznali više.</translation>
-<translation id="8808478386290700967">Brave Web Store</translation>
 <translation id="2663302507110284145">Jezik</translation>
 <translation id="2665394472441560184">Dodajte novu reč</translation>
 <translation id="2665647207431876759">Isteklo</translation>
@@ -2208,7 +2207,6 @@ Možete da upravljate podešavanjima ovog naloga ako instalirate aplikaciju Fami
 <translation id="3771294271822695279">Video datoteke</translation>
 <translation id="3775432569830822555">Sertifikat SSL servera</translation>
 <translation id="3775705724665058594">Pošaljite na svoje uređaje</translation>
-<translation id="6945695820322143954">Ovaj dodatak krši smernice Brave veb-prodavnice.</translation>
 <translation id="3777483481409781352">Aktiviranje mobilnog uređaja nije uspelo</translation>
 <translation id="3777806571986431400">Dodatak je omogućen</translation>
 <translation id="3778152852029592020">Preuzimanje je otkazano.</translation>
@@ -3023,7 +3021,6 @@ Možete da upravljate podešavanjima ovog naloga ako instalirate aplikaciju Fami
 <translation id="48704129375571883">Dodajte još funkcija</translation>
 <translation id="4870758487381879312">Unesite lozinku koju ste dobili od administratora da biste dobili informacije o konfiguraciji</translation>
 <translation id="4870903493621965035">Nema uparenih uređaja</translation>
-<translation id="8839398440242019256">Nije iz Brave veb-prodavnice.</translation>
 <translation id="4871322859485617074">PIN sadrži nevažeće znakove</translation>
 <translation id="4871370605780490696">Dodavanje obeleživača</translation>
 <translation id="4871568871368204250">Isključite sinhronizaciju</translation>
@@ -3792,7 +3789,6 @@ Vodite računa da ne otkrijete nikakve osetljive informacije.</translation>
 <translation id="5864754048328252126">Neaktivnost tokom punjenja</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> će se uskoro pauzirati</translation>
 <translation id="586567932979200359">Pokrećete <ph name="PRODUCT_NAME"/> sa diska. Instalacija na računar omogućava pokretanje bez diska i redovno ažuriranje.</translation>
-<translation id="9063160602596686558">Automatski šalje Brave-u statistiku korišćenja i izveštaje o otkazivanju</translation>
 <translation id="5866557323934807206">Obriši ova podešavanja za kasnije posete</translation>
 <translation id="5866840822086176774">Veoma jak</translation>
 <translation id="5867841422488265304">Pretražite ili unesite veb-adresu</translation>
@@ -5172,7 +5168,6 @@ Vodite računa da ne otkrijete nikakve osetljive informacije.</translation>
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, na stranici <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">Deaktiviraj sve portove koji se prosleđuju u Linux-u</translation>
 <translation id="1800308196794859773">Šaljite podatke o glasu Brave-u da bi se omogućilo diktiranje u svim poljima za tekst.</translation>
-<translation id="3098826269712097986">Podaci o prijavljivanju se čuvaju u Brave-u kada izađete iz režima bez arhiviranja. To će vam omogućiti da kasnije ponovo koristite Touch ID sa ovim veb-sajtom.</translation>
 <translation id="7681095912841365527">Sajt može da koristi Bluetooth</translation>
 <translation id="7683373461016844951">Da biste nastavili, kliknite na Potvrdi, pa na Dodaj osobu da biste otvorili novi profil za imejl adresu za <ph name="DOMAIN"/>.</translation>
 <translation id="7684212569183643648">Instalirao je administrator</translation>
@@ -5656,7 +5651,6 @@ Datoteka ključa: <ph name="KEY_FILE"/>
 <translation id="8259239505248583312">Idemo</translation>
 <translation id="8260126382462817229">Probajte ponovo da se prijavite</translation>
 <translation id="8260864402787962391">Miš</translation>
-<translation id="8261378640211443080"><ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ne navodi ovaj dodatak i on je možda dodat bez vašeg znanja.</translation>
 <translation id="8261506727792406068">Izbriši</translation>
 <translation id="8263336784344783289">Dajte naziv ovoj grupi</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> je onemogućio kursor.</translation>
@@ -6077,7 +6071,6 @@ Datoteka ključa: <ph name="KEY_FILE"/>
 <translation id="8805140816472474147">Potvrdite podešavanja sinhronizacije da biste započeli sinhronizaciju.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> može ponovo da otvori kartice koje ste slučajno zatvorili</translation>
 <translation id="8807632654848257479">Stabilno</translation>
-<translation id="8808478386290700967">Veb-prodavnica</translation>
 <translation id="8808686172382650546">Mačka</translation>
 <translation id="1510515462062582289">Na ovoj stranici možete da vidite sve dodatke instalirane u Brave-u.</translation>
 <translation id="8809147117840417135">Svetlotirkizna</translation>
@@ -6229,7 +6222,6 @@ Datoteka ključa: <ph name="KEY_FILE"/>
 <translation id="8983632908660087688"><ph name="ORIGIN"/> može da menja datoteku <ph name="FILENAME"/></translation>
 <translation id="8985264973231822211">Poslednja aktivnost: pre <ph name="DEVICE_LAST_ACTIVATED_TIME"/> dan/a</translation>
 <translation id="8986362086234534611">Zaboravi</translation>
-<translation id="9079153198295609735">Automatski šalji Brave-u statističke podatke o korišćenju i izveštaje o otkazivanju</translation>
 <translation id="8987927404178983737">Mesec</translation>
 <translation id="8991520179165052608">Sajt može da koristi mikrofon</translation>
 <translation id="899384117894244799">Uklonite korisnika sa ograničenim pristupom</translation>
@@ -6460,4 +6452,40 @@ Datoteka ključa: <ph name="KEY_FILE"/>
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Uspostavljanje bezbedne veze...</translation>
 <translation id="998747458861718449">P&amp;regledaj</translation>
+<translation id="658539216370629794">Otvori link u prozoru bez arhiviranja</translation>
+<translation id="1432267168815937878">Otvori link u prozoru za pre&amp;gledanje bez arhiviranja</translation>
+<translation id="6516243500644829484">Novi &amp;prozor „Bez arhiviranja“</translation>
+<translation id="7973394300052703468">Novi &amp;prozor bez arhiviranja</translation>
+<translation id="6395403722585816044">Preuzeto je u režimu bez arhiviranja</translation>
+<translation id="203837651858678035">Želite li da ipak izađete iz režima bez arhiviranja?</translation>
+<translation id="7376221878517288144">Želite li da ipak izađete iz režima bez arhiviranja?</translation>
+<translation id="871606814707918245">Većina ljudi blokira obaveštenja sa ovog sajta</translation>
+<translation id="5053701565089446556">Dodatak u režimu bez arhiviranja: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Apl. u režimu bez arhiviranja: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Kartica Bez arhiviranja: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Podokvir Bez arhiviranja: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portal u režimu bez arhiviranja: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Brave Web Store</translation>
+<translation id="8261378640211443080"><ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ne navodi ovaj dodatak i on je možda dodat bez vašeg znanja.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (bez arhiviranja)</translation>
+<translation id="4369414322596874629">Možete da pregledate privatno u prozoru bez arhiviranja</translation>
+<translation id="3772947852642271642">Pregledajte veb bez čuvanja istorije pregledanja u prozoru bez arhiviranja</translation>
+<translation id="3871738366246972820">Koristite deljeni računar? Otvorite prozor bez arhiviranja.</translation>
+<translation id="5808622652939943719">Da biste pregledali privatno, kliknite na ikonu menija sa tačkama da biste otvorili prozor bez arhiviranja</translation>
+<translation id="9079153198295609735">Automatski šalji Brave Software-u statističke podatke o korišćenju i izveštaje o otkazivanju</translation>
+<translation id="8839398440242019256">Nije iz Brave veb-prodavnice.</translation>
+<translation id="6945695820322143954">Ovaj dodatak krši smernice Brave veb-prodavnice.</translation>
+<translation id="1676595396635191120">Novi prozor bez arhiviranja</translation>
+<translation id="5094764494104066239">Uvek prikazuj traku sa obeleživačima</translation>
+<translation id="4471385409549756595">Novi prozor bez arhiviranja</translation>
+<translation id="4540437243849625078">Ovaj sajt će deliti informacije sa aplikacijom izvan režima bez arhiviranja.</translation>
+<translation id="1227836882233136433">Izlazite iz režima bez arhiviranja?</translation>
+<translation id="7618452966706304788">Da li želite da koristite Touch ID sa aplikacijom <ph name="APP_NAME"/> u režimu bez arhiviranja?</translation>
+<translation id="3098826269712097986">Podaci o prijavljivanju se čuvaju u Brave-u kada izađete iz režima bez arhiviranja. To će vam omogućiti da kasnije ponovo koristite Touch ID sa ovim veb-sajtom.</translation>
+<translation id="5186185447130319458">Bez arhiviranja</translation>
+<translation id="2579188629646253712">Zatvori režim bez arhiviranja</translation>
+<translation id="8648684608605749476">Blokira kolačiće trećih strana u režimu bez arhiviranja</translation>
+<translation id="9063160602596686558">Automatski šalje Brave Software-u statistiku korišćenja i izveštaje o otkazivanju</translation>
+<translation id="6336451774241870485">Nova kartica bez arhiviranja</translation>
+<translation id="6610147964972079463">Zatvori kartice bez arhiv.</translation>
 </translationbundle>

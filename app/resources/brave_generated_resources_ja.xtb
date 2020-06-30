@@ -36,9 +36,9 @@
 <translation id="6123134130710658846">Brave Rewardsボタンを非表示にする</translation>
 <translation id="7635711399568194460">Brave Rewardsが有効になっていない場合は、ロケーションバーのBrave Rewardsボタンを非表示にします</translation>
 <translation id="1520361618554057102">常に新しいタブページにブックマークを表示します</translation>
-<translation id="5802665280774361839">アドレスバーにオートコンプリートを表示</translation>
-<translation id="597020512043916976">トップサイトをオートコンプリート推奨で表示</translation>
-<translation id="264150068416846820">Braveの推奨サイトを、オートコンプリート機能で表示</translation>
+<translation id="5802665280774361839">アドレス入力時にオートコンプリートを表示</translation>
+<translation id="597020512043916976">トップサイトをオートコンプリートでリコメンド</translation>
+<translation id="264150068416846820">Braveの推奨サイトをオートコンプリートで表示</translation>
 <translation id="7781069478569868053">新しいタブページ</translation>
 <translation id="2467749191278759605">Braveダッシュボードをカスタマイズする</translation>
 <translation id="1717331825806276156">背景画像</translation>
@@ -47,7 +47,7 @@
 <translation id="5551238871320268996">ブレイブ・トゥギャザー</translation>
 <translation id="6966052266404721769">バイナンス</translation>
 <translation id="4643117005422448078">トップサイト</translation>
-<translation id="1776831331757823105">クロック</translation>
+<translation id="1776831331757823105">時刻表示</translation>
 <translation id="7965178729203412357">新しいTorのID</translation>
 <translation id="8511502469534942133">このサイトの新たなTor接続</translation>
 <translation id="8784924142044142231">Torからログアウト</translation>
@@ -62,7 +62,7 @@
 <translation id="3155170474926428993">Tor Launcher</translation>
 <translation id="2515126961943087659">BAT 広告サービス</translation>
 <translation id="7924918279836988121">BAT 台帳サービス</translation>
-<translation id="4472575034687746823">利用を開始</translation>
+<translation id="4472575034687746823">Get started</translation>
 <translation id="3400357268283240774">詳細設定</translation>
 <translation id="6303294677342628402">Shields</translation>
 <translation id="7133511168130368997">しつこく追跡してくるトラッカーや不快な広告をブロックできます。</translation>

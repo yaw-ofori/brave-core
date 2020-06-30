@@ -1326,7 +1326,6 @@
 <translation id="2660779039299703961">Падзея</translation>
 <translation id="4052689580269971502">Не ўдалося падключыцца да прынтара. Прынтар павінен быць уключаны і падключаны да прылады Bravebook праз Wi-Fi або USB.</translation>
 <translation id="2661714428027871023">Паскорце прагляд інтэрнэту і эканомце трафік з дапамогай лёгкага рэжыму. Націсніце, каб даведацца больш.</translation>
-<translation id="8808478386290700967">Вэб-крама Brave</translation>
 <translation id="2663302507110284145">Мова</translation>
 <translation id="2665394472441560184">Дадаць новае слова</translation>
 <translation id="2665647207431876759">Скончыўся тэрмін</translation>
@@ -2211,7 +2210,6 @@
 <translation id="3771294271822695279">Відэафайлы</translation>
 <translation id="3775432569830822555">Сертыфікат сервера SSL</translation>
 <translation id="3775705724665058594">Адпраўка на вашы прылады</translation>
-<translation id="6945695820322143954">Гэта пашырэнне парушае палітыку Вэб-крамы Brave.</translation>
 <translation id="3777483481409781352">Не ўдалося актываваць сотавую прыладу</translation>
 <translation id="3777806571986431400">Пашырэнне ўключана</translation>
 <translation id="3778152852029592020">Спампоўванне скасавана.</translation>
@@ -3026,7 +3024,6 @@
 <translation id="48704129375571883">Дадаць дадатковыя функцыі</translation>
 <translation id="4870758487381879312">Каб атрымаць звесткі пра канфігурацыю, увядзіце атрыманы ад адміністратара пароль</translation>
 <translation id="4870903493621965035">Няма спалучаных прылад</translation>
-<translation id="8839398440242019256">Не з Вэб-крамы Brave.</translation>
 <translation id="4871322859485617074">PIN-код змяшчае недапушчальныя сімвалы</translation>
 <translation id="4871370605780490696">Дадаць закладку</translation>
 <translation id="4871568871368204250">Выключыць сінхранізацыю</translation>
@@ -3794,7 +3791,6 @@
 <translation id="5864754048328252126">Пры бяздзейнасці падчас зарадкі</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> хутка прыпыніцца</translation>
 <translation id="586567932979200359"><ph name="PRODUCT_NAME"/> працуе з вобраза дыска. Калі ўсталяваць праграму на камп'ютар, вы зможаце запускаць яе без вобраза, і яна будзе рэгулярна абнаўляцца.</translation>
-<translation id="9063160602596686558">Аўтаматычна адпраўляе ў Brave статыстыку выкарыстання і справаздачы аб збоях</translation>
 <translation id="5866557323934807206">Ачысціць гэтыя налады для будучых наведванняў</translation>
 <translation id="5866840822086176774">Вельмі моцны</translation>
 <translation id="5867841422488265304">Увядзіце пошукавы запыт або вэб-адрас</translation>
@@ -5174,7 +5170,6 @@
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, старонка "<ph name="PAGE_TITLE"/>".</translation>
 <translation id="7674416868315480713">Выключыць усе парты, якія пераадрасоўваюцца ў сістэме Linux</translation>
 <translation id="1800308196794859773">Адпраўка запісаў вашага голасу сэрвісам Brave дазваляе вам набіраць тэкст дыктаваннем у тэкставых палях.</translation>
-<translation id="3098826269712097986">Даныя ўваходу будуць захаваны ў Brave пасля выхаду з рэжыму інкогніта. Гэта дазволіць пазней зноў выкарыстоўваць Touch ID на гэтым вэб-сайце.</translation>
 <translation id="7681095912841365527">Сайт можа выкарыстоўваць Bluetooth</translation>
 <translation id="7683373461016844951">Каб працягнуць, націсніце "OK", затым "Дадаць карыстальніка" – так вы створыце новы профіль для свайго адраса электроннай пошты ў дамене <ph name="DOMAIN"/>.</translation>
 <translation id="7684212569183643648">Усталявана адміністратарам</translation>
@@ -5657,7 +5652,6 @@
 <translation id="8259239505248583312">Пачаць</translation>
 <translation id="8260126382462817229">Увайдзіце яшчэ раз</translation>
 <translation id="8260864402787962391">Мыш</translation>
-<translation id="8261378640211443080">Гэта пашырэнне не значыцца ў спісе <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>, яно магло быць дададзена без вашага ведама.</translation>
 <translation id="8261506727792406068">Выдаліць</translation>
 <translation id="8263336784344783289">Дайце назву гэтай групе</translation>
 <translation id="8263744495942430914">Сайт <ph name="FULLSCREEN_ORIGIN"/> выключыў курсор мышы.</translation>
@@ -6078,7 +6072,6 @@
 <translation id="8805140816472474147">Каб пачаць сінхранізацыю, пацвердзіце яе налады.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> можа выпадкова паўторна адкрыць закрытыя ўкладкі</translation>
 <translation id="8807632654848257479">Стабільная</translation>
-<translation id="8808478386290700967">Вэб-крама</translation>
 <translation id="8808686172382650546">Кот</translation>
 <translation id="1510515462062582289">На гэтай старонцы можна бачыць усе ўсталяваныя ў Brave пашырэнні.</translation>
 <translation id="8809147117840417135">Светла-бірузовы</translation>
@@ -6230,7 +6223,6 @@
 <translation id="8983632908660087688">Сайт <ph name="ORIGIN"/> можа змяняць файл <ph name="FILENAME"/></translation>
 <translation id="8985264973231822211">Апошнія дзеянні: <ph name="DEVICE_LAST_ACTIVATED_TIME"/> сут таму</translation>
 <translation id="8986362086234534611">Забыць</translation>
-<translation id="9079153198295609735">Аўтаматычна адпраўляць у Brave статыстыку выкарыстання і справаздачы аб збоях</translation>
 <translation id="8987927404178983737">Месяц</translation>
 <translation id="8991520179165052608">Сайт можа выкарыстоўваць ваш мікрафон</translation>
 <translation id="899384117894244799">Выдаліць карыстальніка з абмежаваннямі</translation>
@@ -6461,4 +6453,40 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Устанаўленне бяспечнага падключэння...</translation>
 <translation id="998747458861718449">Пра&amp;верыць</translation>
+<translation id="658539216370629794">Адкрыць спасылку ў акне інко&amp;гніта</translation>
+<translation id="1432267168815937878">Адкрыць спасылку ў акне інко&amp;гніта</translation>
+<translation id="6516243500644829484">Новае &amp;акно ў рэжыме інкогніта</translation>
+<translation id="7973394300052703468">Новае &amp;акно ў рэжыме інкогніта</translation>
+<translation id="6395403722585816044">Спампавана ў рэжыме інкогніта</translation>
+<translation id="203837651858678035">Усё роўна выйсці з рэжыму інкогніта?</translation>
+<translation id="7376221878517288144">Усё роўна выйсці з рэжыму інкогніта?</translation>
+<translation id="871606814707918245">Большасць карыстальнікаў блакіруюць апавяшчэнні з гэтага сайта</translation>
+<translation id="5053701565089446556">Пашырэнне інкогніта: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Праграма інкогніта: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Укладка інкогніта: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Субфрэйм інкогніта: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Партал у рэжыме інкогніта: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Вэб-крама Brave</translation>
+<translation id="8261378640211443080">Гэта пашырэнне не значыцца ў спісе <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>, яно магло быць дададзена без вашага ведама.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (інкогніта)</translation>
+<translation id="4369414322596874629">Прыватны прагляд вэб-старонак магчымы ў акне ў рэжыме інкогніта</translation>
+<translation id="3772947852642271642">Акно ў рэжыме інкогніта дазваляе карыстацца інтэрнэтам без захавання гісторыі прагляду сайтаў</translation>
+<translation id="3871738366246972820">Выкарыстоўваеце даступны іншым камп'ютар? Паспрабуйце адкрыць акно ў рэжыме інкогніта.</translation>
+<translation id="5808622652939943719">Для прагляду вэб-старонак у прыватным рэжыме націсніце меню са значком-кропкамі і адкрыйце акно ў рэжыме інкогніта</translation>
+<translation id="9079153198295609735">Аўтаматычна адпраўляць у Brave Software статыстыку выкарыстання і справаздачы аб збоях</translation>
+<translation id="8839398440242019256">Не з Вэб-крамы Brave.</translation>
+<translation id="6945695820322143954">Гэта пашырэнне парушае палітыку Вэб-крамы Brave.</translation>
+<translation id="1676595396635191120">Новае акно ў рэжыме інкогніта</translation>
+<translation id="5094764494104066239">Заўсёды паказваць панэль закладак</translation>
+<translation id="4471385409549756595">Новае акно ў рэжыме інкогніта</translation>
+<translation id="4540437243849625078">Гэты сайт будзе абагульваць звесткі з праграмай па-за рэжымам інкогніта.</translation>
+<translation id="1227836882233136433">Выйсці з рэжыму інкогніта?</translation>
+<translation id="7618452966706304788">Выкарыстоўваць у рэжыме інкогніта Touch ID у праграме <ph name="APP_NAME"/>?</translation>
+<translation id="3098826269712097986">Даныя ўваходу будуць захаваны ў Brave пасля выхаду з рэжыму інкогніта. Гэта дазволіць пазней зноў выкарыстоўваць Touch ID на гэтым вэб-сайце.</translation>
+<translation id="5186185447130319458">Інкогніта</translation>
+<translation id="2579188629646253712">Выйсці з рэжыму інкогніта</translation>
+<translation id="8648684608605749476">Блакіраваць староннія файлы cookie у рэжыме інкогніта</translation>
+<translation id="9063160602596686558">Аўтаматычна адпраўляе ў Brave Software статыстыку выкарыстання і справаздачы аб збоях</translation>
+<translation id="6336451774241870485">Новая ўкладка інкогніта</translation>
+<translation id="6610147964972079463">Закрыць укладкі інкогніта</translation>
 </translationbundle>

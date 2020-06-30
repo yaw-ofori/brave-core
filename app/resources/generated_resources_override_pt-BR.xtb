@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="pt-BR">
+<translation id="658539216370629794">Abrir o link em uma &amp;janela privada</translation>
+<translation id="1432267168815937878">Abrir link em uma &amp;janela privada</translation>
+<translation id="6516243500644829484">Nova &amp;janela privada</translation>
+<translation id="7973394300052703468">Nova &amp;Janela Privada</translation>
+<translation id="6395403722585816044">Download feito no modo privado</translation>
+<translation id="203837651858678035">Sair do modo privado mesmo assim?</translation>
+<translation id="7376221878517288144">Sair do modo privado mesmo assim?</translation>
+<translation id="871606814707918245">A maior parte das pessoas bloqueia as notificações deste site</translation>
+<translation id="5053701565089446556">Extensão privada: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">App privado: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Aba privada: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Subestrutura privada: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portal de navegação anônima: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Web Store</translation>
+<translation id="8261378640211443080">Esta extensão não está listada na <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> e pode ter sido adicionada sem seu conhecimento.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privado)</translation>
+<translation id="4369414322596874629">Você pode navegar no modo privado usando uma janela privada</translation>
+<translation id="3772947852642271642">Navegue na web sem salvar seu histórico de navegação em uma janela privada</translation>
+<translation id="3871738366246972820">Usando um computador compartilhado? Experimente abrir uma janela privada</translation>
+<translation id="5808622652939943719">Para navegar no modo privado, clique no menu de pontos para abrir uma janela privada</translation>
+<translation id="9079153198295609735">Envia estatísticas de uso e relatórios de erros ao Brave Software automaticamente</translation>
+<translation id="8839398440242019256">Não é da Web Store.</translation>
+<translation id="6945695820322143954">Esta extensão viola a política da Web Store.</translation>
+<translation id="1676595396635191120">Nova janela privada</translation>
+<translation id="5094764494104066239">Sempre mostrar a barra de favoritos</translation>
+<translation id="4471385409549756595">Nova janela privada</translation>
+<translation id="4540437243849625078">Este site está prestes a compartilhar informações com um aplicativo fora do modo privado.</translation>
+<translation id="1227836882233136433">Sair do modo privado?</translation>
+<translation id="7618452966706304788">Você quer usar o Touch ID com <ph name="APP_NAME"/> no Modo privado?</translation>
+<translation id="3098826269712097986">Os dados de login serão armazenados no Brave depois que você sair do modo Privado. Isso vai permitir que você use o Touch ID com este site novamente mais tarde.</translation>
+<translation id="5186185447130319458">Privado</translation>
+<translation id="2579188629646253712">Sair do modo privado</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Abrir tudo em &amp;Janela anônima}=1{Abrir em &amp;Janela anônima}one{Abrir tudo (#) em &amp;Janela anônima}other{Abrir tudo (#) em &amp;Janela anônima}}</translation>
+<translation id="1985165269306590797">Abrir em &amp;janela anônima</translation>
+<translation id="642436385689435488">Abrir todos em uma janela anônima</translation>
+<translation id="5463021359602611602">Abrir em uma janela anônima</translation>
+<translation id="5070556616376997776">Você está no modo anônimo</translation>
+<translation id="5832813618714645810">Perfis</translation>
+<translation id="6921634551681321094">Adicionar pessoas</translation>
+<translation id="6315812488257290136">Perfis</translation>
+<translation id="5840822070878669614">Abrir a Brave Web Store</translation>
+<translation id="8648684608605749476">Bloquear cookies de terceiros na navegação anônima</translation>
+<translation id="1281501490173223206">Apenas a sessão anônima atual</translation>
+<translation id="9063160602596686558">Envia estatísticas de uso e relatórios de erros automaticamente para o Brave Software</translation>
+<translation id="3860292630623580294">(Modo anônimo)</translation>
+<translation id="4854477725773269949">Permitir em modo anônimo</translation>
+<translation id="6436164536244065364">Visualizar na Brave Web Store</translation>
+<translation id="38046578254905003">Encontre extensões e temas na <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Nova aba privada</translation>
+<translation id="6610147964972079463">Fechar abas privadas</translation>
+</translationbundle>

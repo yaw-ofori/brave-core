@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">Deïnstallering hangend</translation>
 <translation id="175772926354468439">Aktiveer tema</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Bekyk in Brave Webwinkel</translation>
 <translation id="176193854664720708">Die vingerafdruksensor is in die aan/af-skakelaar. Raak dit liggies met enige vinger.</translation>
 <translation id="1763046204212875858">Skep programkortpaaie</translation>
 <translation id="1763108912552529023">Hou aan verken</translation>
@@ -1326,7 +1325,6 @@ Jy kan hierdie rekening se instellings bestuur deur die Family Link-program op j
 <translation id="2660779039299703961">Geleentheid</translation>
 <translation id="4052689580269971502">Kan nie aan drukker koppel nie. Maak seker dat die drukker aangeskakel is en met Wi-Fi of USB aan jou Bravebook gekoppel is.</translation>
 <translation id="2661714428027871023">Blaai vinniger en gebruik minder data met Ligte Modus. Klik om meer te wete te kom.</translation>
-<translation id="8808478386290700967">Brave Webwinkel</translation>
 <translation id="2663302507110284145">Taal</translation>
 <translation id="2665394472441560184">Voeg 'n nuwe woord by</translation>
 <translation id="2665647207431876759">Verval</translation>
@@ -2211,7 +2209,6 @@ Jy kan hierdie rekening se instellings bestuur deur die Family Link-program op j
 <translation id="3771294271822695279">Videolêers</translation>
 <translation id="3775432569830822555">SSL-bedienersertifikaat</translation>
 <translation id="3775705724665058594">Stuur na jou toestelle toe</translation>
-<translation id="6945695820322143954">Hierdie uitbreiding oortree die Brave Webwinkelbeleid.</translation>
 <translation id="3777483481409781352">Kon nie sellulêre toestel aktiveer nie</translation>
 <translation id="3777806571986431400">Uitbreiding geaktiveer</translation>
 <translation id="3778152852029592020">Aflaai is gekanselleer.</translation>
@@ -3026,7 +3023,6 @@ Jy kan hierdie rekening se instellings bestuur deur die Family Link-program op j
 <translation id="48704129375571883">Voeg bykomende kenmerke by</translation>
 <translation id="4870758487381879312">Voer wagwoord wat deur admin goedgekeur is in om opstellinginligting te kry</translation>
 <translation id="4870903493621965035">Geen saamgebinde toestelle nie</translation>
-<translation id="8839398440242019256">Nie van Brave Webwinkel af nie.</translation>
 <translation id="4871322859485617074">PIN bevat ongeldige karakters</translation>
 <translation id="4871370605780490696">Voeg boekmerk by</translation>
 <translation id="4871568871368204250">Skakel sinkronisering af</translation>
@@ -3795,7 +3791,6 @@ Maak seker jy wys nie enige sensitiewe inligting nie.</translation>
 <translation id="5864754048328252126">Rushandeling terwyl dit laai</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> sal binnekort onderbreek word</translation>
 <translation id="586567932979200359">Jy laat loop <ph name="PRODUCT_NAME"/> tans van sy skyfafbeelding af. As jy dit op jou rekenaar installeer, kan jy dit sonder die skyfafbeelding laat loop, en verseker dat dit op datum gehou word.</translation>
-<translation id="9063160602596686558">Stuur gebruikstatistieke en omvalverslae outomaties na Brave</translation>
 <translation id="5866557323934807206">Vee hierdie instellings uit vir toekomstige besoeke</translation>
 <translation id="5866840822086176774">Baie sterk</translation>
 <translation id="5867841422488265304">Soek of tik webadres in</translation>
@@ -4237,7 +4232,6 @@ Maak seker jy wys nie enige sensitiewe inligting nie.</translation>
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> wil outomatiese opdaterings vir alle gebruikers van hierdie rekening opstel.</translation>
 <translation id="6434309073475700221">Gooi weg</translation>
 <translation id="6434325376267409267">Jou toestel moet opgedateer word voordat jy <ph name="APP_NAME"/> kan gebruik.</translation>
-<translation id="6436164536244065364">Bekyk in webwinkel</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> – Oudio speel tans</translation>
 <translation id="6442187272350399447">Fantasties</translation>
 <translation id="6444070574980481588">Stel datum en tyd</translation>
@@ -5175,7 +5169,6 @@ Maak seker jy wys nie enige sensitiewe inligting nie.</translation>
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, in <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">Deaktiveer alle poorte wat tans in Linux aangestuur word</translation>
 <translation id="1800308196794859773">Stuur jou stem na Brave om diktee in enige teksveld moontlik te maak.</translation>
-<translation id="3098826269712097986">Aanmelddata sal in Brave geberg word nadat jy Incognitomodus verlaat het. Dit sal jou in staat stel om Aanraak-ID weer later met hierdie webwerf te gebruik.</translation>
 <translation id="7681095912841365527">Werf kan Bluetooth gebruik</translation>
 <translation id="7683373461016844951">Om voort te gaan, klik OK en klik dan Voeg Persoon By om 'n nuwe profiel vir jou <ph name="DOMAIN"/>-e-posadres te skep.</translation>
 <translation id="7684212569183643648">Deur jou administrateur geïnstalleer</translation>
@@ -5658,7 +5651,6 @@ Hou jou sleutellêer op 'n veilige plek. Jy gaan dit nodig hê om nuwe weergawes
 <translation id="8259239505248583312">Kom ons begin</translation>
 <translation id="8260126382462817229">Probeer weer om aan te meld</translation>
 <translation id="8260864402787962391">Muis</translation>
-<translation id="8261378640211443080">Hierdie uitbreiding word nie in die <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> gelys nie en kon sonder jou medewete bygevoeg gewees het.</translation>
 <translation id="8261506727792406068">Vee uit</translation>
 <translation id="8263336784344783289">Gee hierdie groep 'n naam</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> het jou muismerker gedeaktiveer.</translation>
@@ -6079,7 +6071,6 @@ Hou jou sleutellêer op 'n veilige plek. Jy gaan dit nodig hê om nuwe weergawes
 <translation id="8805140816472474147">Bevestig sinkroniseringinstellings om sinkronisering te begin.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> kan oortjies wat per ongeluk toegemaak is, weer oopmaak</translation>
 <translation id="8807632654848257479">Stabiel</translation>
-<translation id="8808478386290700967">Webwinkel</translation>
 <translation id="8808686172382650546">Kat</translation>
 <translation id="1510515462062582289">Jy kan al die uitbreidings wat in Brave geïnstalleer is op hierdie bladsy sien.</translation>
 <translation id="8809147117840417135">Liggroenblou</translation>
@@ -6231,7 +6222,6 @@ Hou jou sleutellêer op 'n veilige plek. Jy gaan dit nodig hê om nuwe weergawes
 <translation id="8983632908660087688"><ph name="ORIGIN"/> kan <ph name="FILENAME"/> wysig</translation>
 <translation id="8985264973231822211"><ph name="DEVICE_LAST_ACTIVATED_TIME"/> dag gelede aktief</translation>
 <translation id="8986362086234534611">Vergeet</translation>
-<translation id="9079153198295609735">Stuur gebruikstatistiek en omvalverslae outomaties na Brave</translation>
 <translation id="8987927404178983737">Maand</translation>
 <translation id="8991520179165052608">Werf kan jou mikrofoon gebruik</translation>
 <translation id="899384117894244799">Verwyder gebruiker met beperkte gebruik</translation>
@@ -6462,4 +6452,52 @@ Hou jou sleutellêer op 'n veilige plek. Jy gaan dit nodig hê om nuwe weergawes
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Vestig tans beveiligde verbinding …</translation>
 <translation id="998747458861718449">Ondersoek</translation>
+<translation id="658539216370629794">Maak skakel in incognito-venster oop</translation>
+<translation id="1432267168815937878">Maak skakel in incognito-venster oop</translation>
+<translation id="6516243500644829484">Nuwe incognito-venster</translation>
+<translation id="7973394300052703468">Nuwe incognito-venster</translation>
+<translation id="6395403722585816044">Afgelaai in Incognito</translation>
+<translation id="203837651858678035">Verlaat incognitomodus in elk geval?</translation>
+<translation id="7376221878517288144">Verlaat incognitomodus in elk geval?</translation>
+<translation id="871606814707918245">Meeste mense blokkeer kennisgewings van hierdie werf af</translation>
+<translation id="5053701565089446556">Incognito-uitbreiding: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Incognito-program: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Incognito-oortjie: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Incognitosubraam: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Incognito-portaal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Brave Webwinkel</translation>
+<translation id="8261378640211443080">Hierdie uitbreiding word nie in die <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> gelys nie en kon sonder jou medewete bygevoeg gewees het.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Incognito)</translation>
+<translation id="4369414322596874629">Jy kan 'n incognitovenster gebruik om privaat te blaai</translation>
+<translation id="3772947852642271642">Gebruik 'n incognitovenster om die web te gebruik sonder om jou blaaigeskiedenis te stoor</translation>
+<translation id="3871738366246972820">Gebruik jy 'n gedeelde rekenaar? Probeer 'n incognitovenster oopmaak.</translation>
+<translation id="5808622652939943719">Klik die kolle-ikoonkieslys om 'n incognitovenster oop te maak as jy privaat wil blaai</translation>
+<translation id="9079153198295609735">Stuur gebruikstatistiek en omvalverslae outomaties na Brave Software</translation>
+<translation id="8839398440242019256">Nie van Brave Webwinkel af nie.</translation>
+<translation id="6945695820322143954">Hierdie uitbreiding oortree die Brave Webwinkelbeleid.</translation>
+<translation id="1676595396635191120">Nuwe incognito-venster</translation>
+<translation id="5094764494104066239">Wys altyd die boekmerkebalk</translation>
+<translation id="4471385409549756595">Nuwe incognito-venster</translation>
+<translation id="4540437243849625078">Hierdie werf is op die punt om inligting met 'n program buite incognitomodus te deel.</translation>
+<translation id="1227836882233136433">Verlaat incognitomodus?</translation>
+<translation id="7618452966706304788">Wil jy Aanraak-ID met <ph name="APP_NAME"/> in Incognitomodus gebruik?</translation>
+<translation id="3098826269712097986">Aanmelddata sal in Brave geberg word nadat jy Incognitomodus verlaat het. Dit sal jou in staat stel om Aanraak-ID weer later met hierdie webwerf te gebruik.</translation>
+<translation id="5186185447130319458">Incognito</translation>
+<translation id="2579188629646253712">Verlaat Incognito</translation>
+<translation id="2633634757060186848">{COUNT, plural,
+          =0 {Open Alle in &amp;amp;Nuwe Venster}
+          =1 {Open in &amp;amp;Nuwe Venster}
+          other {Open Alle (#) in &amp;amp;Nuwe Venster}}</translation>
+<translation id="1985165269306590797">Open in &amp;amp;Nuwe Venster</translation>
+<translation id="642436385689435488">Open alles in nuwe venster</translation>
+<translation id="5463021359602611602">Open in nuwe venster</translation>
+<translation id="5070556616376997776">Dit is ’n Privaat Venster</translation>
+<translation id="8648684608605749476">Blokkeer derdepartywebkoekies in Incognito</translation>
+<translation id="1281501490173223206">Slegs huidige privaat sessies</translation>
+<translation id="9063160602596686558">Stuur gebruikstatistieke en omvalverslae outomaties na Brave Software</translation>
+<translation id="3860292630623580294">(Privaat)</translation>
+<translation id="4854477725773269949">Staan toe in privaat</translation>
+<translation id="6436164536244065364">Bekyk in Webwinkel</translation>
+<translation id="6336451774241870485">Nuwe incognito-oortjie</translation>
+<translation id="6610147964972079463">Sluit privaat oortjies af</translation>
 </translationbundle>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sk">
+<translation id="658539216370629794">Otvoriť odkaz v &amp; súkromnom okne</translation>
+<translation id="1432267168815937878">Otvoriť odkaz v &amp; súkromnom okne</translation>
+<translation id="6516243500644829484">Nové &amp;súkromné okno</translation>
+<translation id="7973394300052703468">Nové &amp; Súkromné okno</translation>
+<translation id="6395403722585816044">Stiahnuté v súkromí</translation>
+<translation id="203837651858678035">Napriek tomu opustiť súkromný režim?</translation>
+<translation id="7376221878517288144">Napriek tomu ukončiť súkromný režim?</translation>
+<translation id="871606814707918245">Väčšina ľudí blokuje upozornenia z tohto webu</translation>
+<translation id="5053701565089446556">Súkromné rozšírenie: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Súkromná aplikácia: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Súkromná karta: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Súkromný pomocný rámec: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Anonymný portál: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Internetový obchod</translation>
+<translation id="8261378640211443080">Toto rozšírenie nedodáva <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> a mohlo byť pridané bez vášho vedomia.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Súkromný)</translation>
+<translation id="4369414322596874629">Môžete si prezerať súkromne pomocou súkromného okna</translation>
+<translation id="3772947852642271642">Používajte web bez ukladania histórie prehliadania v súkromnom okne</translation>
+<translation id="3871738366246972820">Používate zdieľaný počítač? Skúste otvoriť súkromné okno.</translation>
+<translation id="5808622652939943719">Ak chcete prehliadať súkromne, kliknutím na ikonu s bodkami otvorte súkromné okno</translation>
+<translation id="9079153198295609735">Automaticky odosielať Googlu štatistiky používania a správy o zlyhaní</translation>
+<translation id="8839398440242019256">Nie z internetového obchodu.</translation>
+<translation id="6945695820322143954">Toto rozšírenie porušuje pravidlá internetového obchodu.</translation>
+<translation id="1676595396635191120">Nové súkromné okno</translation>
+<translation id="5094764494104066239">Vždy zobrazovať panel so záložkami</translation>
+<translation id="4471385409549756595">Nové súkromné okno</translation>
+<translation id="4540437243849625078">Táto stránka sa chystá zdieľať informácie s aplikáciou mimo súkromného režimu.</translation>
+<translation id="1227836882233136433">Opustiť súkromný režim?</translation>
+<translation id="7618452966706304788">Chcete použiť Touch ID s <ph name="APP_NAME"/> v Súkromnom režime?</translation>
+<translation id="3098826269712097986">Po ukončení súkromného režimu sa prihlasovacie údaje uložia na Brave. Umožní vám to znova použiť Touch ID s touto webovou stránkou neskôr.</translation>
+<translation id="5186185447130319458">Súkromný</translation>
+<translation id="2579188629646253712">Ukončiť súkromné</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Otvoriť všetky v okne inkognito}=1{Otvoriť v okne inkognito}few{Otvoriť všetky (#) v okne inkognito}many{Otvoriť všetky (#) v okne inkognito}other{Otvoriť všetky (#) v okne inkognito}}</translation>
+<translation id="1985165269306590797">Otvoriť v &amp;okne inkognito</translation>
+<translation id="642436385689435488">Otvoriť všetky v okne inkognito</translation>
+<translation id="5463021359602611602">Otvoriť v okne inkognito</translation>
+<translation id="5070556616376997776">Ste v režime inkognito</translation>
+<translation id="5832813618714645810">Profily</translation>
+<translation id="6921634551681321094">Pridať osobu</translation>
+<translation id="6315812488257290136">Profily</translation>
+<translation id="5840822070878669614">Otvoriť Internetový obchod Brave</translation>
+<translation id="8648684608605749476">Blokovať súbory cookie tretích strán v anonymnom režime</translation>
+<translation id="1281501490173223206">Iba aktuálna relácia inkognito</translation>
+<translation id="9063160602596686558">Automaticky odosiela štatistiky o používaní a správy o zlyhaní Googlu</translation>
+<translation id="3860292630623580294">(Inkognito)</translation>
+<translation id="4854477725773269949">Povoliť v režime inkognito</translation>
+<translation id="6436164536244065364">Zobraziť v Internetovom obchode</translation>
+<translation id="38046578254905003">Nájdite rozšírenia a motívy v <ph name="BEGIN_LINK"/>Internetovom obchode Brave<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Nová súkromná karta</translation>
+<translation id="6610147964972079463">Zatvoriť súkromné karty</translation>
+</translationbundle>

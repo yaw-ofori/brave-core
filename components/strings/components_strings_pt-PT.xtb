@@ -1827,7 +1827,6 @@ Detalhes adicionais:
 <translation id="8800988563907321413">As sugestões próximas aparecem aqui</translation>
 <translation id="8805819170075074995">Entrada da lista "<ph name="LANGUAGE_ID"/>": a entrada foi ignorada porque também está incluída na política SpellcheckLanguage.</translation>
 <translation id="8807160976559152894">Cortar no fim de cada página</translation>
-<translation id="8820817407110198400">Marcadores</translation>
 <translation id="883848425547221593">Outros marcadores</translation>
 <translation id="884264119367021077">Endereço para envio</translation>
 <translation id="884923133447025588">Não foi encontrado qualquer mecanismo de revogação.</translation>
@@ -1946,5 +1945,14 @@ Detalhes adicionais:
     &lt;/ul&gt;</translation>
 <translation id="994346157028146140">JIS B1</translation>
 <translation id="6771143571626203666">Do Brave Pay</translation>
-<translation id="3489858312836205593">Abrir nova janela de navegação anónima do Brave</translation>
+<translation id="8820817407110198400">Marcadores</translation>
+<translation id="8362995731815961365">O perfil que configurou neste computador optou por bloquear este ''site''.</translation>
+<translation id="4075123085690634698">Abrir a página numa nova janela «Privada» (⇧⌘N)</translation>
+<translation id="2388886110302389394">Abrir a página numa nova janela «Privada» (Ctrl-Shift-N)</translation>
+<translation id="6957624206566198865">Abrir a página num novo separador «Privado»</translation>
+<translation id="2378238891085281592">Você está privado</translation>
+<translation id="2227116904818538760">Você está privado</translation>
+<translation id="2007417459975034427">Agora pode navegar em privado, e outros perfis que utilizam este dispositivo não verão a sua atividade. No entanto, as transferências e os marcadores serão guardados.</translation>
+<translation id="2586968635953373425">Abrir Janela Privada</translation>
+<translation id="3489858312836205593">Abrir nova janela privada do Brave</translation>
 </translationbundle>

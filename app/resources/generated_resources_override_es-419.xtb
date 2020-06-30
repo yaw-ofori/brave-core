@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="es-419">
+<translation id="658539216370629794">Abrir vínculo en una ventana de incógnito</translation>
+<translation id="1432267168815937878">Abrir vínculo en una ventana de incógnito</translation>
+<translation id="6516243500644829484">Nueva ventana de incógnito</translation>
+<translation id="7973394300052703468">Nueva ventana de incógnito</translation>
+<translation id="6395403722585816044">Descargado en el modo incógnito</translation>
+<translation id="203837651858678035">¿Quieres salir del modo incógnito?</translation>
+<translation id="7376221878517288144">¿Quieres salir del modo incógnito?</translation>
+<translation id="871606814707918245">La mayoría de las personas bloquean las notificaciones de este sitio</translation>
+<translation id="5053701565089446556">Extensión de incógnito: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Aplicación de incógnito: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Pestaña de incógnito: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Submarco de incógnito: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portal en modo incógnito: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Web Store</translation>
+<translation id="8261378640211443080">Esta extensión no figura en <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> y es posible que se haya agregado sin tu conocimiento.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (incógnito)</translation>
+<translation id="4369414322596874629">Puedes navegar de forma privada con una ventana de incógnito</translation>
+<translation id="3772947852642271642">Con una ventana de incógnito, podrás usar la Web sin que se guarde tu historial de navegación</translation>
+<translation id="3871738366246972820">¿Usas una computadora compartida? Intenta abrir una ventana de incógnito.</translation>
+<translation id="5808622652939943719">Haz clic en el menú con el ícono de puntos para abrir una ventana de incógnito y navegar de forma privada</translation>
+<translation id="9079153198295609735">Enviar automáticamente estadísticas de uso e informes sobre fallos a Brave Software</translation>
+<translation id="8839398440242019256">No pertenece a Web Store.</translation>
+<translation id="6945695820322143954">Esta extensión infringe la política de Web Store.</translation>
+<translation id="1676595396635191120">Nueva ventana de incógnito</translation>
+<translation id="5094764494104066239">Mostrar siempre la barra de favoritos</translation>
+<translation id="4471385409549756595">Nueva ventana de incógnito</translation>
+<translation id="4540437243849625078">Este sitio está a punto de compartir información con una aplicación fuera del modo incógnito.</translation>
+<translation id="1227836882233136433">¿Salir del modo incógnito?</translation>
+<translation id="7618452966706304788">¿Quieres usar Touch ID con <ph name="APP_NAME"/> en modo incógnito?</translation>
+<translation id="3098826269712097986">Los datos de inicio de sesión se guardarán en Brave cuando salgas del modo incógnito. Esto te permitirá usar Touch ID con este sitio web otra vez más adelante.</translation>
+<translation id="5186185447130319458">Incógnito</translation>
+<translation id="2579188629646253712">Salir del modo incógnito</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Abrir todo en una ventana de &amp;incógnito}=1{Abrir en una ventana de &amp;incógnito}other{Abrir todo (#) en una ventana de &amp;incógnito}}</translation>
+<translation id="1985165269306590797">Abrir en una ventana de &amp;incógnito</translation>
+<translation id="642436385689435488">Abrir todo en una ventana de incógnito</translation>
+<translation id="5463021359602611602">Abrir en una ventana de incógnito</translation>
+<translation id="5070556616376997776">Estás en modo de navegación incógnito</translation>
+<translation id="5832813618714645810">Perfiles</translation>
+<translation id="6921634551681321094">Agregar a una persona</translation>
+<translation id="6315812488257290136">Perfiles</translation>
+<translation id="5840822070878669614">Abrir Brave Web Store</translation>
+<translation id="8648684608605749476">Bloquear cookies de terceros en modo Incógnito</translation>
+<translation id="1281501490173223206">Solo para la sesión en modo incógnito actual</translation>
+<translation id="9063160602596686558">Envía automáticamente informes de fallos y estadísticas de uso a Brave Software</translation>
+<translation id="3860292630623580294">(Incógnito)</translation>
+<translation id="4854477725773269949">Permitir modo incógnito</translation>
+<translation id="6436164536244065364">Ver en Web Store</translation>
+<translation id="38046578254905003">Encuentra extensiones y temas en <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Nueva pestaña de incógnito</translation>
+<translation id="6610147964972079463">Cerrar pestañas de incógnito</translation>
+</translationbundle>

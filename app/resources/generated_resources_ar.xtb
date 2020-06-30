@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">إلغاء التثبيت معلَّق</translation>
 <translation id="175772926354468439">تفعيل المظهر</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">‏العرض في سوق Brave الإلكتروني</translation>
 <translation id="176193854664720708">يتوفَّر مستشعر بصمات الإصبع في زر التشغيل. يمكنك لمسه برفقٍ بأي إصبع.</translation>
 <translation id="1763046204212875858">إنشاء اختصارات للتطبيق</translation>
 <translation id="1763108912552529023">متابعة الاستكشاف</translation>
@@ -1326,7 +1325,6 @@
 <translation id="2660779039299703961">حدث</translation>
 <translation id="4052689580269971502">‏يتعذّر الاتصال بالطابعة. تحقق مما إذا كانت الطابعة مُفعّلة ومتصلة بجهاز Bravebook عن طريق Wi-Fi أو USB.</translation>
 <translation id="2661714428027871023">يمكنك التصفُّح بشكلٍ أسرع واستخدام بيانات أقل باستخدام الوضع البسيط. يمكنك النقر للتعرُّف على مزيد من المعلومات.</translation>
-<translation id="8808478386290700967">Brave Web Store</translation>
 <translation id="2663302507110284145">اللغة</translation>
 <translation id="2665394472441560184">إضافة كلمة جديدة</translation>
 <translation id="2665647207431876759">منتهي الصلاحية</translation>
@@ -2211,7 +2209,6 @@
 <translation id="3771294271822695279">ملفات فيديو</translation>
 <translation id="3775432569830822555">‏شهادة خادم بروتوكول SSL (طبقة المقابس الآمنة)</translation>
 <translation id="3775705724665058594">إرسال إلى أجهزتك</translation>
-<translation id="6945695820322143954">‏هذه الإضافة تنتهك سياسة سوق Brave الإلكتروني.</translation>
 <translation id="3777483481409781352">تعذّر تفعيل الجهاز الخلوي.</translation>
 <translation id="3777806571986431400">تم تفعيل الإضافة</translation>
 <translation id="3778152852029592020">تم إلغاء التنزيل.</translation>
@@ -3023,7 +3020,6 @@
 <translation id="48704129375571883">إضافة ميزات إضافية</translation>
 <translation id="4870758487381879312">إدخال كلمة المرور التي قدمها المشرف للحصول على معلومات الضبط</translation>
 <translation id="4870903493621965035">ليست هناك أجهزة مقترنة</translation>
-<translation id="8839398440242019256">‏لم يتم التثبيت من سوق Brave الإلكتروني</translation>
 <translation id="4871322859485617074">يحتوي رقم التعريف الشخصي على أحرف غير صالحة</translation>
 <translation id="4871370605780490696">إضافة إشارة مرجعية</translation>
 <translation id="4871568871368204250">إيقاف المزامنة</translation>
@@ -3620,7 +3616,6 @@
 <translation id="563535393368633106">اسأل قبل الدخول (موصى به)</translation>
 <translation id="5636996382092289526">لاستخدام <ph name="NETWORK_ID"/> ربما تحتاج أولاً إلى <ph name="LINK_START"/>الانتقال إلى صفحة تسجيل الدخول إلى الشبكة<ph name="LINK_END"/>، والتي سيتم فتحها تلقائيًا خلال بضع ثوانٍ. إذا لم يحدث ذلك، فلن يمكن استخدام الشبكة.</translation>
 <translation id="5637476008227280525">تفعيل بيانات الجوّال</translation>
-<translation id="38046578254905003">‏يمكنك العثور على الإضافات والمظاهر في <ph name="BEGIN_LINK"/>سوق Brave الإلكتروني<ph name="END_LINK"/>.</translation>
 <translation id="5639549361331209298">إعادة تحميل هذه الصفحة، انتظر لمشاهدة المزيد من الخيارات</translation>
 <translation id="5640133431808313291">إدارة مفاتيح الأمان</translation>
 <translation id="5642508497713047">‏التوقيع على قوائم إبطال الشهادات (CRL)</translation>
@@ -3792,7 +3787,6 @@
 <translation id="5864754048328252126">حالة الخمول أثناء الشحن</translation>
 <translation id="5865508026715185451">سيتم إيقاف تطبيق <ph name="APP_NAME"/> مؤقتًا بعد قليل.</translation>
 <translation id="586567932979200359">أنت تشغّل <ph name="PRODUCT_NAME"/> من صورته على القرص. ويسمح لك تثبيته على الكمبيوتر بتشغيله بدون الحاجة إلى صورة القرص، كما يضمن ذلك الحفاظ على تحديثه بشكل مستمر.</translation>
-<translation id="9063160602596686558">‏يُرسِل إحصاءات الاستخدام وتقارير الأعطال إلى Brave تلقائيًا.</translation>
 <translation id="5866557323934807206">محو هذه الإعدادات في الزيارات المستقبلية</translation>
 <translation id="5866840822086176774">قوية جدًا</translation>
 <translation id="5867841422488265304">البحث عن عنوان الويب أو إدخاله</translation>
@@ -4235,7 +4229,6 @@
 <translation id="6431347207794742960">سيعمل <ph name="PRODUCT_NAME"/> على إعداد التحديثات التلقائية لجميع مستخدمي هذا الكمبيوتر.</translation>
 <translation id="6434309073475700221">إلغاء</translation>
 <translation id="6434325376267409267">يجب تحديث الجهاز للتمكّن من استخدام <ph name="APP_NAME"/>.</translation>
-<translation id="6436164536244065364">عرض في السوق الإلكتروني</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> - تشغيل الصوت</translation>
 <translation id="6442187272350399447">الروعة</translation>
 <translation id="6444070574980481588">تعيين التاريخ والوقت</translation>
@@ -4951,7 +4944,6 @@
 <translation id="7375235221357833624">{0,plural, =1{تحديث الجهاز خلال ساعة}zero{تحديث الجهاز خلال # ساعة}two{تحديث الجهاز خلال ساعتَين}few{تحديث الجهاز خلال # ساعات}many{تحديث الجهاز خلال # ساعة}other{تحديث الجهاز خلال # ساعة}}</translation>
 <translation id="7376553024552204454">تمييز مؤشر الماوس عندما يتحرك</translation>
 <translation id="7377451353532943397">مواصلة حظر إمكانية الوصول إلى أجهزة الاستشعار</translation>
-<translation id="5840822070878669614">‏فتح سوق Brave الإلكتروني</translation>
 <translation id="7378812711085314936">الحصول على اتصال البيانات</translation>
 <translation id="7378962964415201590">إقران هاتف جديد</translation>
 <translation id="7380768571499464492">آخر تحديث: <ph name="PRINTER_NAME"/></translation>
@@ -5173,7 +5165,6 @@
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>، في <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">‏إيقاف جميع المنافذ التي يتم إعادة توجيهها في نظام التشغيل Linux</translation>
 <translation id="1800308196794859773">‏يمكنك إرسال صوتك إلى Brave للسماح بالإملاء في أي حقل نصي.</translation>
-<translation id="3098826269712097986">‏سيتم تخزين بيانات تسجيل الدخول في Brave بعد الخروج من "وضع التصفّح المتخفي". سيسمح لك ذلك باستخدام رقم التعريف باللمس على هذا الموقع الإلكتروني في المرة المقبلة.</translation>
 <translation id="7681095912841365527">يمكن لموقع الويب استخدام البلوتوث.</translation>
 <translation id="7683373461016844951">للمتابعة، انقر على "موافقة" ثم انقر على "إضافة شخص" لإنشاء ملف شخصي جديد لعنوان بريدك الإلكتروني على النطاق <ph name="DOMAIN"/>.</translation>
 <translation id="7684212569183643648">تم التثبيت من قبل مشرفك</translation>
@@ -5657,7 +5648,6 @@
 <translation id="8259239505248583312">بدء الاستخدام</translation>
 <translation id="8260126382462817229">محاولة تسجيل الدخول مرة أخرى</translation>
 <translation id="8260864402787962391">الماوس</translation>
-<translation id="8261378640211443080">هذه الإضافة غير مدرجة في <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> وربما تمت إضافتها بدون علمك.</translation>
 <translation id="8261506727792406068">حذف</translation>
 <translation id="8263336784344783289">تسمية هذه المجموعة</translation>
 <translation id="8263744495942430914">أوقف <ph name="FULLSCREEN_ORIGIN"/> مؤشر الماوس.</translation>
@@ -6078,7 +6068,6 @@
 <translation id="8805140816472474147">يُرجى تأكيد إعدادات المزامنة لبدء المزامنة.</translation>
 <translation id="8806680466228877631">يعيد <ph name="SHORTCUT"/> فتح علامات التبويب المغلقة عن طريق الخطأ.</translation>
 <translation id="8807632654848257479">ثابت</translation>
-<translation id="8808478386290700967">السوق الإلكتروني</translation>
 <translation id="8808686172382650546">قط</translation>
 <translation id="1510515462062582289">‏يمكنك الاطّلاع في هذه الصفحة على جميع الإضافات المثبّتة في Brave.</translation>
 <translation id="8809147117840417135">أزرق مخضر فاتح</translation>
@@ -6230,7 +6219,6 @@
 <translation id="8983632908660087688">بإمكان <ph name="ORIGIN"/> تعديل <ph name="FILENAME"/>.</translation>
 <translation id="8985264973231822211">نشط قبل <ph name="DEVICE_LAST_ACTIVATED_TIME"/> يوم</translation>
 <translation id="8986362086234534611">حذف</translation>
-<translation id="9079153198295609735">‏إرسال إحصاءات الاستخدام وتقارير الأعطال إلى Brave تلقائيًا</translation>
 <translation id="8987927404178983737">شهر</translation>
 <translation id="8991520179165052608">يمكن لموقع الويب استخدام الميكروفون.</translation>
 <translation id="899384117894244799">إزالة مستخدم محظور</translation>
@@ -6461,4 +6449,54 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">إنشاء اتصال آمن...</translation>
 <translation id="998747458861718449">ف&amp;حص</translation>
+<translation id="658539216370629794">فتح الرابط في &amp; نافذة خاصة</translation>
+<translation id="1432267168815937878">فتح الرابط في &amp; نافذة خاصة</translation>
+<translation id="6516243500644829484">نافذة خاصة &amp; جديدة</translation>
+<translation id="7973394300052703468">نافذة خاصة &amp; جديدة</translation>
+<translation id="6395403722585816044">تم التنزيل في الوضع الخاص</translation>
+<translation id="203837651858678035">هل ترغب في الخروج من الوضع الخاص على أية حال؟</translation>
+<translation id="7376221878517288144">هل ترغب في الخروج من الوضع الخاص على أية حال؟</translation>
+<translation id="871606814707918245">يحظر معظم المستخدمين الإشعارات من هذا الموقع الإلكتروني.</translation>
+<translation id="5053701565089446556">امتداد خاص <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">تطبيق خاص: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">علامة تبويب خاصة: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">إطار فرعي خاص: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">بوابة التصفّح المتخفي: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">متجر الويب</translation>
+<translation id="8261378640211443080">هذه الإضافة غير مدرجة في <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> وربما تمت إضافتها بدون علمك.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (خاص)</translation>
+<translation id="4369414322596874629">يمكنك التصفح بشكل خاص باستخدام نافذة خاصة</translation>
+<translation id="3772947852642271642">استخدم الويب دون حفظ سجل التصفح الخاص بك من خلال نافذة خاصة</translation>
+<translation id="3871738366246972820">هل تستخدم كمبيوتر مشترك؟ جرّب فتح نافذة خاصة.</translation>
+<translation id="5808622652939943719">للتصفح بشكل خاص، انقر على قائمة أيقونات النقاط لفتح نافذة خاصة</translation>
+<translation id="9079153198295609735">‏إرسال إحصاءات الاستخدام وتقارير الأعطال إلى Brave Software تلقائيًا</translation>
+<translation id="8839398440242019256">ليس من متجر الويب.</translation>
+<translation id="6945695820322143954">ينتهك هذا الامتداد سياسة متجر الويب.</translation>
+<translation id="1676595396635191120">نافذة خاصة جديدة</translation>
+<translation id="5094764494104066239">عرض شريط الإشارات المرجعية دائمًا</translation>
+<translation id="4471385409549756595">نافذة خاصة جديدة</translation>
+<translation id="4540437243849625078">هذا الموقع على وشك مشاركة المعلومات مع تطبيق ما خارج الوضع الخاص.</translation>
+<translation id="1227836882233136433">هل ترغب في مغادرة الوضع الخاص؟</translation>
+<translation id="7618452966706304788">هل تريد استخدام معرّف اللمس مع <ph name="APP_NAME"/> في الوضع الخاص؟</translation>
+<translation id="3098826269712097986">سيتم تخزين بيانات تسجيل الدخول في Brave بعد الخروج من الوضع الخاص. سيتيح لك ذلك استخدام معرّف اللمس مع هذا الموقع مرة أخرى لاحقاً.</translation>
+<translation id="5186185447130319458">خاص</translation>
+<translation id="2579188629646253712">الخروج من الوضع الخاص</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{فتح الكل في &amp;نافذة التصفح المتخفي}=1{فتح في &amp;نافذة التصفح المتخفي}two{فتح كلا العنوانين (#) في &amp;نافذة التصفح المتخفي}few{فتح كل الـ (#) عناوين في &amp;نافذة التصفح المتخفي}many{فتح كل الـ (#) عنوانًا في &amp;نافذة التصفح المتخفي}other{فتح كل الـ (#) عنوان في &amp;نافذة التصفح المتخفي}}</translation>
+<translation id="1985165269306590797">فتح في &amp;نافذة التصفح المتخفي</translation>
+<translation id="642436385689435488">فتح الكل في نافذة التصفح المتخفي</translation>
+<translation id="5463021359602611602">فتح في نافذة للتصفح المتخفي</translation>
+<translation id="5070556616376997776">أنت تستخدم وضع التصفُّح المُتخفِّي</translation>
+<translation id="5832813618714645810">ملفات التعريف</translation>
+<translation id="6921634551681321094">إضافة شخص</translation>
+<translation id="6315812488257290136">ملفات التعريف</translation>
+<translation id="5840822070878669614">‏فتح سوق Brave الإلكتروني</translation>
+<translation id="8648684608605749476">حظر ملفات تعريف الارتباط التابعة لجهات خارجية في وضع التصفّح المتخفي</translation>
+<translation id="1281501490173223206">جلسة التصفح المتخفي الحالية فقط</translation>
+<translation id="9063160602596686558">‏إرسال إحصاءات الاستخدام وتقارير الأعطال إلى Brave Software تلقائيًا</translation>
+<translation id="3860292630623580294">(التصفح المتخفي)</translation>
+<translation id="4854477725773269949">السماح بالتشغيل في وضع التصفح المتخفي</translation>
+<translation id="6436164536244065364">عرض في السوق الإلكتروني</translation>
+<translation id="38046578254905003">‏يمكنك العثور على الإضافات والمظاهر في <ph name="BEGIN_LINK"/>سوق Brave الإلكتروني<ph name="END_LINK"/>.</translation>
+<translation id="6336451774241870485">علامة تبويب خاصة جديدة</translation>
+<translation id="6610147964972079463">غلق علامات التبويب الخاصة</translation>
 </translationbundle>

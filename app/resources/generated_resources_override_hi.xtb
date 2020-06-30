@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="hi">
+<translation id="658539216370629794">प्राइवेट &amp;विंडो में लिंक खोलें</translation>
+<translation id="1432267168815937878">प्राइवेट &amp;विंडो में खोलें</translation>
+<translation id="6516243500644829484">नई प्राइवेट &amp;विंडो</translation>
+<translation id="7973394300052703468">नई प्राइवेट &amp;विंडो</translation>
+<translation id="6395403722585816044">प्राइवेट में डाउनलोड किया</translation>
+<translation id="203837651858678035">किसी भी तरह प्राइवेट मोड से बाहर निकलें?</translation>
+<translation id="7376221878517288144">किसी भी तरह प्राइवेट मोड से बाहर निकलें?</translation>
+<translation id="871606814707918245">ज़्यादातर लोग इस साइट को सूचनाएं दिखाने से रोकते हैं</translation>
+<translation id="5053701565089446556">प्राइवेट एक्सटेंशन: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">प्राइवेट ऐप: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">प्राइवेट टैब: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">प्राइवेट सबफ़्रेम: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">गुप्त पोर्टल: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">वेब स्टोर</translation>
+<translation id="8261378640211443080">यह एक्सटेंशन <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> में सूचीबद्ध नहीं है और यह आपकी जानकारी के बिना जोड़ा गया हो सकता है.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (प्राइवेट)</translation>
+<translation id="4369414322596874629">आप प्राइवेट विंडो का उपयोग करके प्राइवेट तौर पर ब्राउज़ कर सकते हैं</translation>
+<translation id="3772947852642271642">प्राइवेट विंडो के साथ अपने ब्राउज़िंग इतिहास को सहेजे बिना वेब का उपयोग करें</translation>
+<translation id="3871738366246972820">एक साझा कंप्यूटर का उपयोग करना? एक प्राइवेट विंडो खोलने का प्रयास करें।</translation>
+<translation id="5808622652939943719">प्राइवेट तरह से ब्राउज़ करने के लिए, प्राइवेट विंडो खोलने के लिए डॉट्स आइकन मेनू पर क्लिक करें</translation>
+<translation id="9079153198295609735">इस्तेमाल के आंकड़े और खराबी रिपोर्ट अपने आप Brave Software को भेजें</translation>
+<translation id="8839398440242019256">वेब स्टोर से नहीं।</translation>
+<translation id="6945695820322143954">यह एक्सटेंशन वेब स्टोर नीति का उल्लंघन करता है।</translation>
+<translation id="1676595396635191120">नई  प्राइवेट विंडो</translation>
+<translation id="5094764494104066239">बुकमार्क बार हमेशा दिखाएं</translation>
+<translation id="4471385409549756595">नई  प्राइवेट विंडो</translation>
+<translation id="4540437243849625078">यह साइट प्राइवेट मोड से बाहर किसी एप्लिकेशन के साथ जानकारी साझा करने वाली है।</translation>
+<translation id="1227836882233136433">प्राइवेट मोड छोड़ें?</translation>
+<translation id="7618452966706304788">क्या आप प्राइवेट मोड में टच आईडी का उपयोग <ph name="APP_NAME"/> करना चाहते हैं?</translation>
+<translation id="3098826269712097986">निजी मोड से बाहर निकलने के बाद साइन-इन डेटा बहादुर में संग्रहीत किया जाएगा। यह आपको बाद में फिर से इस वेबसाइट के साथ टच आईडी का उपयोग करने देगा।</translation>
+<translation id="5186185447130319458">प्राइवेट</translation>
+<translation id="2579188629646253712">प्राइवेट से बाहर निकलें</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{सभी को &amp;गुप्त विंडो में खोलें}=1{&amp;गुप्त विंडों में खोलें}one{सभी (#) को &amp;गुप्त विंडो में खोलें}other{सभी (#) को &amp;गुप्त विंडो में खोलें}}</translation>
+<translation id="1985165269306590797">&amp;गुप्त विंडों में खोलें</translation>
+<translation id="642436385689435488">सभी को गुप्त विंडो में खोलें</translation>
+<translation id="5463021359602611602">गुप्त विंडो में खोलें</translation>
+<translation id="5070556616376997776">आप गुप्त मोड में हैं</translation>
+<translation id="5832813618714645810">प्रोफाइल</translation>
+<translation id="6921634551681321094">व्‍यक्ति जोड़ें</translation>
+<translation id="6315812488257290136">प्रोफाइल</translation>
+<translation id="5840822070878669614">Brave वेब स्टोर खोलें</translation>
+<translation id="8648684608605749476">गुप्त मोड के दौरान तीसरे पक्ष की कुकी को ब्लॉक करें</translation>
+<translation id="1281501490173223206">केवल वर्तमान गुप्त सत्र</translation>
+<translation id="9063160602596686558">Brave Software को इस्तेमाल के आंकड़े और खराबी रिपोर्ट अपने आप भेजती है</translation>
+<translation id="3860292630623580294">(गुप्त)</translation>
+<translation id="4854477725773269949">गुप्त विंडो में अनुमति दें</translation>
+<translation id="6436164536244065364">वेब स्टोर में देखें</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Brave वेब स्टोर<ph name="END_LINK"/> में एक्सटेंशन और थीम ढूंढें</translation>
+<translation id="6336451774241870485">नया निजी टैब</translation>
+<translation id="6610147964972079463">निजी टैब बंद करें</translation>
+</translationbundle>

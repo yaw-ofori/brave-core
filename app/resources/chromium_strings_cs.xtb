@@ -13,10 +13,8 @@ Některé funkce možná nebudou k dispozici a změny nastavení se neuloží.</
 <translation id="7419046106786626209">Chrome OS nemůže synchronizovat data, protože Synchronizace ve vaší doméně není k dispozici.</translation>
 <translation id="5147525139567260139">Sdílet kartu prohlížeče Brave</translation>
 <translation id="1530633922026945685">Prohlížeč Brave potřebuje oprávnění k přístupu k fotoaparátu, aby mohl vytvořit 3D mapu vašeho okolí</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Brave restartovali}=1{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Brave restartovali. Anonymní okno se neotevře znovu.}few{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Brave restartovali. # anonymní okna se neotevřou znovu.}many{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Brave restartovali. # anonymního okna se neotevře znovu.}other{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Brave restartovali. # anonymních oken se neotevře znovu.}}</translation>
 <translation id="5616153642055197778">K dispozici je nová, bezpečnější verze prohlížeče Brave.</translation>
 <translation id="6797402139308059782">Nechat prohlížeč Brave spuštěný na pozadí</translation>
-<translation id="1448049584457347995">Aby bylo Brave bezpečnější, deaktivovali jsme některá rozšíření, která nejsou uvedena na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> a mohla být přidána bez vašeho vědomí.</translation>
 <translation id="5875673934455379806">Přeinstalovat Brave</translation>
 <translation id="650055380213106997">Přihlašujete se pomocí spravovaného účtu a poskytujete jeho správci kontrolu nad vaším profilem prohlížeče Brave. Vaše údaje prohlížeče Brave, například aplikace, záložky, historie, hesla a jiná nastavení, budou trvale přidružena k účtu <ph name="USER_NAME"/>. Tyto údaje budete moci smazat pomocí stránky Dashboard služby Účty Brave, ale nebudete je moci přidružit k jinému účtu. Pokud chcete uchovat existující údaje prohlížeče Brave odděleně, můžete vytvořit nový profil. <ph name="LEARN_MORE"/></translation>
 <translation id="1649714546770135458">Pokud tuto možnost vypnete, budete se moci přihlásit k většině webů Brave, jako je Gmail, aniž byste se přihlásili do prohlížeče Brave</translation>
@@ -51,7 +49,6 @@ Některé funkce možná nebudou k dispozici a změny nastavení se neuloží.</
 <translation id="7365690458036015383">Instalačnímu programu se nepodařilo rozbalit archiv. Stáhněte prosím Brave znovu.</translation>
 <translation id="8919461291440820124">Brave používá váš mikrofon.</translation>
 <translation id="4805806622840861220">Restartovat Brave</translation>
-<translation id="6554952862405000915">Otevřít odkaz v &amp;anonymním okně prohlížeče Brave</translation>
 <translation id="1477146545787277177">Ouha! Prohlížeč Brave spadl. Chcete jej znovu spustit?</translation>
 <translation id="7503098128120083822">Brave chce exportovat vaše hesla.</translation>
 <translation id="2585240446624043880">Brave nemůže číst ani zapisovat do svého datového adresáře:
@@ -66,10 +63,7 @@ Některé funkce možná nebudou k dispozici a změny nastavení se neuloží.</
 <translation id="8703492925273919597">Zavřete prosím všechna okna prohlížeče Brave a zkuste to znovu.</translation>
 <translation id="1384923383737428730">Máte v počítači škodlivý software. Brave ho může odstranit, obnovit vaše nastavení a zakázat rozšíření, aby prohlížeč opět fungoval jako obvykle.</translation>
 <translation id="4847979153841887006">Logo Brave</translation>
-<translation id="669092380621816981">Ze zařízení budou smazány údaje této osoby o prohlížení. Budete-li je chtít znovu získat, přihlaste se do prohlížeče Brave jako <ph name="USER_EMAIL"/>.</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{Je k dispozici nová aktualizace prohlížeče Brave, která bude použita po restartování.}=1{Je k dispozici nová aktualizace prohlížeče Brave, která bude použita po restartování. Anonymní okno se neotevře znovu.}few{Je k dispozici nová aktualizace prohlížeče Brave, která bude použita po restartování. # anonymní okna se neotevřou znovu.}many{Je k dispozici nová aktualizace prohlížeče Brave, která bude použita po restartování. # anonymního okna se neotevře znovu.}other{Je k dispozici nová aktualizace prohlížeče Brave, která bude použita po restartování. # anonymních oken se neotevře znovu.}}</translation>
 <translation id="4304059894777924102">Brave nemůže zkontrolovat hesla. Zkuste zkontrolovat připojení k internetu.</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Brave restartovali}=1{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Brave restartovali. Anonymní okno se neotevře znovu.}few{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Brave restartovali. # anonymní okna se neotevřou znovu.}many{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Brave restartovali. # anonymního okna se neotevře znovu.}other{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Brave restartovali. # anonymních oken se neotevře znovu.}}</translation>
 <translation id="1807774211756215222">Otevřít odkaz na nové kar&amp;tě prohlížeče Brave</translation>
 <translation id="7453070689008684791">Brave bude za účelem zobrazování návrhů v adresním řádku číst váš obsah na Disku</translation>
 <translation id="2106568569080763501">Brave umožňuje kliknout na telefonní číslo na webu a volat na něj prostřednictvím aplikace Skype.</translation>
@@ -165,7 +159,6 @@ Některé funkce mohou být nedostupné. Zadejte prosím jiný adresář profilu
 <translation id="7830723774663008396">Brave – <ph name="PAGE_TITLE"/></translation>
 <translation id="5253815230176279256">Brave Pay (zkopírováno do prohlížeče Brave)</translation>
 <translation id="2301993384336631869">Prohlížeč Brave byl aktualizován, ale minimálně po 30 dnů jste jej nepoužili.</translation>
-<translation id="4624945300945265642">Otevřít odkaz v &amp;anonymním okně prohlížeče Brave</translation>
 <translation id="3335606533094650083">Brave pro tento web potřebuje oprávnění k přístupu k mikrofonu</translation>
 <translation id="1785833016412082453">Brave nemůže zkontrolovat vaše rozšíření. Zkuste to později.</translation>
 <translation id="1705567146636171298">Aktualizovat Brave</translation>
@@ -199,7 +192,6 @@ Brave nemůže vaše nastavení obnovit.</translation>
 <translation id="5419189641394808652">Prohlížeč Brave nemůže synchronizovat data, protože ve vaší doméně není k dispozici Synchronizace.</translation>
 <translation id="4784414698887946907">Ze zařízení budou smazány vaše údaje o prohlížení. Budete-li chtít své údaje později načíst, přihlaste se do prohlížeče Brave jako <ph name="USER_EMAIL"/>.</translation>
 <translation id="7747138024166251722">Instalační soubor nemohl vytvořit dočasný adresář. Zkontrolujte prosím volné místo na disku a povolení instalovat software.</translation>
-<translation id="6134859571175647580">Upozornění: Brave nemůže rozšířením zabránit v zaznamenávání vaší historie procházení. Chcete-li toto rozšíření v anonymním režimu deaktivovat, zrušte výběr této možnosti.</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> – Brave Canary</translation>
 <translation id="38898988211673781">Při ukončení prohlížeče Brave vymazat soubory cookie a data webů</translation>
 <translation id="7963515534397191222">Brave nebylo možné aktualizovat na nejnovější verzi. Nemáte proto k dispozici nové funkce a opravy zabezpečení.</translation>
@@ -235,7 +227,6 @@ Brave nemůže vaše nastavení obnovit.</translation>
 <translation id="8285294305439559616">Aplikace Brave se pokouší zobrazit hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
 <translation id="6389268239133412586">Brave nelze aktualizovat</translation>
 <translation id="8974095189086268230">Chrome OS by nemohl existovat bez dalšího <ph name="BEGIN_LINK_CROS_OSS"/>softwaru s otevřeným zdrojovým kódem<ph name="END_LINK_CROS_OSS"/>.</translation>
-<translation id="8848045066928358658">Aby byl prohlížeč Brave bezpečnější, deaktivovali jsme následující rozšíření, které není uvedeno na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> a pravděpodobně bylo přidáno bez vašeho vědomí.</translation>
 <translation id="5173820533850252773">Prohlížeč Brave je zastaralý</translation>
 <translation id="310518206836658214">{0,plural, =1{Brave se za hodinu restartuje}few{Brave se za # hodiny restartuje}many{Brave se za # hodiny restartuje}other{Brave se za # hodin restartuje}}</translation>
 <translation id="7863882214613921971">Otevřít odkaz na nové kar&amp;tě prohlížeče Brave</translation>
@@ -245,4 +236,13 @@ Brave nemůže vaše nastavení obnovit.</translation>
 <translation id="7977787072794666032">Prohlížeč Brave nemusí fungovat správně, protože v systémech Windows XP a Windows Vista již není podporován</translation>
 <translation id="2398566204186296120">Doména <ph name="DOMAIN"/> vyžaduje, abyste si před použitím tohoto zařízení přečetli následující smluvní podmínky a odsouhlasili je. Tyto smluvní podmínky nerozšiřují, neupravují ani neomezují smluvní podmínky systému Chrome OS.</translation>
 <translation id="8992261409816268381">Autoři prohlížeče Brave</translation>
+<translation id="6134859571175647580">Upozornění: Brave nemůže rozšířením zabránit v zaznamenávání vaší historie procházení. Chcete-li toto rozšíření v anonymním režimu deaktivovat, zrušte výběr této možnosti.</translation>
+<translation id="1448049584457347995">Aby bylo Brave bezpečnější, deaktivovali jsme některá rozšíření, která nejsou uvedena na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> a mohla být přidána bez vašeho vědomí.</translation>
+<translation id="8848045066928358658">Aby byl prohlížeč Brave bezpečnější, deaktivovali jsme následující rozšíření, které není uvedeno na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> a pravděpodobně bylo přidáno bez vašeho vědomí.</translation>
+<translation id="669092380621816981">Ze zařízení budou smazány údaje této osoby o prohlížení. Budete-li je chtít znovu získat, přihlaste se do prohlížeče Brave jako <ph name="USER_EMAIL"/>.</translation>
+<translation id="4624945300945265642">Otevřít odkaz v &amp;anonymním okně prohlížeče Brave</translation>
+<translation id="6554952862405000915">Otevřít odkaz v &amp;anonymním okně prohlížeče Brave</translation>
+<translation id="8274659559228306809">{COUNT,plural, =0{Je k dispozici nová aktualizace prohlížeče Brave, která bude použita po restartování.}=1{Je k dispozici nová aktualizace prohlížeče Brave, která bude použita po restartování. Anonymní okno se neotevře znovu.}few{Je k dispozici nová aktualizace prohlížeče Brave, která bude použita po restartování. # anonymní okna se neotevřou znovu.}many{Je k dispozici nová aktualizace prohlížeče Brave, která bude použita po restartování. # anonymního okna se neotevře znovu.}other{Je k dispozici nová aktualizace prohlížeče Brave, která bude použita po restartování. # anonymních oken se neotevře znovu.}}</translation>
+<translation id="3829358914761176693">{COUNT,plural, =0{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Brave restartovali}=1{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Brave restartovali. Anonymní okno se neotevře znovu.}few{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Brave restartovali. # anonymní okna se neotevřou znovu.}many{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Brave restartovali. # anonymního okna se neotevře znovu.}other{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Brave restartovali. # anonymních oken se neotevře znovu.}}</translation>
+<translation id="552349673358711446">{COUNT,plural, =0{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Brave restartovali}=1{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Brave restartovali. Anonymní okno se neotevře znovu.}few{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Brave restartovali. # anonymní okna se neotevřou znovu.}many{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Brave restartovali. # anonymního okna se neotevře znovu.}other{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Brave restartovali. # anonymních oken se neotevře znovu.}}</translation>
 </translationbundle>

@@ -606,7 +606,6 @@
 <translation id="1757301747492736405">Avinstalleringen er på vent</translation>
 <translation id="175772926354468439">Aktiver temaet</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Se i Brave Nettmarked</translation>
 <translation id="176193854664720708">Fingeravtrykkssensoren er i av/på-knappen. Trykk på den forsiktig.</translation>
 <translation id="1763046204212875858">Opprett snarveier</translation>
 <translation id="1763108912552529023">Fortsett å utforske</translation>
@@ -1323,7 +1322,6 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="2660779039299703961">Aktivitet</translation>
 <translation id="4052689580269971502">Kan ikke koble til skriveren. Kontrollér at skriveren er slått på og koblet til Bravebooken din via Wi-Fi eller USB.</translation>
 <translation id="2661714428027871023">Surf raskere og bruk mindre data med forenklet modus. Klikk for å finne ut mer.</translation>
-<translation id="8808478386290700967">Brave Nettmarked</translation>
 <translation id="2663302507110284145">Språk</translation>
 <translation id="2665394472441560184">Legg til et nytt ord</translation>
 <translation id="2665647207431876759">Utløpt</translation>
@@ -2208,7 +2206,6 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="3771294271822695279">Videofiler</translation>
 <translation id="3775432569830822555">SSL-tjenersertifikat</translation>
 <translation id="3775705724665058594">Send til enhetene dine</translation>
-<translation id="6945695820322143954">Denne utvidelsen strider med retningslinjene for Brave Nettmarked.</translation>
 <translation id="3777483481409781352">Kunne ikke aktivere mobilenheten</translation>
 <translation id="3777806571986431400">Utvidelsen er aktivert</translation>
 <translation id="3778152852029592020">Nedlastingen ble avbrutt.</translation>
@@ -3021,7 +3018,6 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="48704129375571883">Legg til flere funksjoner</translation>
 <translation id="4870758487381879312">Skriv inn passordet du fikk fra administratoren, for å få informasjon om oppsett</translation>
 <translation id="4870903493621965035">Ingen sammenkoblede enheter</translation>
-<translation id="8839398440242019256">Ikke fra Brave Nettmarked.</translation>
 <translation id="4871322859485617074">PIN-koden inneholder ugyldige tegn.</translation>
 <translation id="4871370605780490696">Legg til bokmerke</translation>
 <translation id="4871568871368204250">Slå av synkronisering</translation>
@@ -3617,7 +3613,6 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="563535393368633106">Spør før noe brukes (anbefales)</translation>
 <translation id="5636996382092289526">Hvis du vil bruke <ph name="NETWORK_ID"/>, er det mulig du må <ph name="LINK_START"/>gå til nettverkets påloggingsside<ph name="LINK_END"/>, som åpnes automatisk om få sekunder. Hvis det ikke skjer, kan ikke nettverket brukes.</translation>
 <translation id="5637476008227280525">Slå på mobildata</translation>
-<translation id="38046578254905003">Finn utvidelser og temaer i <ph name="BEGIN_LINK"/>Brave Nettmarked<ph name="END_LINK"/></translation>
 <translation id="5639549361331209298">Last inn denne siden på nytt – hold inne for flere alternativer</translation>
 <translation id="5640133431808313291">Administrer sikkerhetsnøkler</translation>
 <translation id="5642508497713047">Signatar for sertifikatopphevelsesliste</translation>
@@ -3789,7 +3784,6 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="5864754048328252126">Inaktivitetshandling når enheten lades</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> settes snart på pause</translation>
 <translation id="586567932979200359">Du kjører <ph name="PRODUCT_NAME"/> fra diskavbildningen. Hvis du installer produktet på datamaskinen, kan du kjøre det uten diskavbildningen og sikre at det holdes oppdatert.</translation>
-<translation id="9063160602596686558">Sender automatisk brukerstatistikk og programstopprapporter til Brave</translation>
 <translation id="5866557323934807206">Fjern disse innstillingene for fremtidige besøk</translation>
 <translation id="5866840822086176774">Veldig sterk</translation>
 <translation id="5867841422488265304">Skriv inn søkeord eller en nettadresse</translation>
@@ -4231,7 +4225,6 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> velger automatiske oppdateringer for alle brukerne på datamaskinen.</translation>
 <translation id="6434309073475700221">Forkast</translation>
 <translation id="6434325376267409267">Enheten må oppdateres før du kan bruke <ph name="APP_NAME"/>.</translation>
-<translation id="6436164536244065364">Se i Nettmarked</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> – lyd spilles av</translation>
 <translation id="6442187272350399447">Mega</translation>
 <translation id="6444070574980481588">Angi dato og klokkeslett</translation>
@@ -4947,7 +4940,6 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="7375235221357833624">{0,plural, =1{Oppdater enheten innen en time}other{Oppdater enheten innen # timer}}</translation>
 <translation id="7376553024552204454">Fremhev musepekeren når den beveger seg</translation>
 <translation id="7377451353532943397">Fortsett blokkering av sensortilgang</translation>
-<translation id="5840822070878669614">Åpne Brave Nettmarked</translation>
 <translation id="7378812711085314936">Få datatilkobling</translation>
 <translation id="7378962964415201590">Sammenkoble en ny telefon</translation>
 <translation id="7380768571499464492"><ph name="PRINTER_NAME"/> er oppdatert</translation>
@@ -5169,7 +5161,6 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/> på <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">Deaktiver alle porter som viderekobles i Linux</translation>
 <translation id="1800308196794859773">Send stemmen din til Brave for å tillate diktat til hvilket som helst tekstfelt.</translation>
-<translation id="3098826269712097986">Påloggingsdata lagres i Brave når du går ut av inkognitomodus. Det betyr at du kan bruke Touch ID på dette nettstedet igjen senere.</translation>
 <translation id="7681095912841365527">Nettstedet kan bruke Bluetooth</translation>
 <translation id="7683373461016844951">For å fortsette, klikk på OK. Klikk deretter på Legg til person for å opprette en ny profil for <ph name="DOMAIN"/>-e-postadressen din.</translation>
 <translation id="7684212569183643648">Installert av administratoren din</translation>
@@ -5653,7 +5644,6 @@ Jeg tror ikke det er nødvendig å blokkere dette nettstedet.</translation>
 <translation id="8259239505248583312">Sett i gang</translation>
 <translation id="8260126382462817229">Prøv å logge på igjen</translation>
 <translation id="8260864402787962391">Mus</translation>
-<translation id="8261378640211443080">Denne utvidelsen er ikke oppført i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>, og kan ha blitt lagt uten at du har vært klar over det.</translation>
 <translation id="8261506727792406068">Slett</translation>
 <translation id="8263336784344783289">Gi denne gruppen navn</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> har deaktivert markøren din.</translation>
@@ -6074,7 +6064,6 @@ Jeg tror ikke det er nødvendig å blokkere dette nettstedet.</translation>
 <translation id="8805140816472474147">Bekreft synkroniseringsinnstillingene for å starte synkroniseringen.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> kan gjenåpne faner som er lukket ved et uhell</translation>
 <translation id="8807632654848257479">Stabil</translation>
-<translation id="8808478386290700967">Nettmarked</translation>
 <translation id="8808686172382650546">Katt</translation>
 <translation id="1510515462062582289">På denne siden kan du se alle utvidelsene som er installert i Brave.</translation>
 <translation id="8809147117840417135">Lys blågrønn</translation>
@@ -6226,7 +6215,6 @@ Jeg tror ikke det er nødvendig å blokkere dette nettstedet.</translation>
 <translation id="8983632908660087688"><ph name="ORIGIN"/> kan redigere <ph name="FILENAME"/></translation>
 <translation id="8985264973231822211">Aktiv for <ph name="DEVICE_LAST_ACTIVATED_TIME"/> dag siden</translation>
 <translation id="8986362086234534611">Glem</translation>
-<translation id="9079153198295609735">Send bruksstatistikk og programstopprapporter automatisk til Brave</translation>
 <translation id="8987927404178983737">Måned</translation>
 <translation id="8991520179165052608">Nettstedet kan bruke mikrofonen din</translation>
 <translation id="899384117894244799">Fjern begrenset bruker</translation>
@@ -6457,4 +6445,100 @@ Jeg tror ikke det er nødvendig å blokkere dette nettstedet.</translation>
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Etablerer sikker tilkobling ...</translation>
 <translation id="998747458861718449">I&amp;nspiser</translation>
+<translation id="658539216370629794">Åpne lenke i &amp;privat vindu</translation>
+<translation id="1432267168815937878">Åpne lenke i &amp;Privat vindu</translation>
+<translation id="6516243500644829484">Nytt &amp;privat vindu</translation>
+<translation id="7973394300052703468">Nytt &amp;privat vindu</translation>
+<translation id="6395403722585816044">Lastet ned i privat modus</translation>
+<translation id="203837651858678035">Avslutte privat modus allikevel?</translation>
+<translation id="7376221878517288144">Avslutte privat modus allikevel?</translation>
+<translation id="871606814707918245">De fleste blokkerer varsler fra dette nettstedet</translation>
+<translation id="5053701565089446556">Privat utvidelse: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Privat app: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Privat fane: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Privat underramme: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Nettmarked</translation>
+<translation id="8261378640211443080">Denne utvidelsen er ikke oppført i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>, og kan ha blitt lagt uten at du har vært klar over det.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
+<translation id="4369414322596874629">Du kan surfe privat i et privat vindu</translation>
+<translation id="3772947852642271642">Bruk nettet uten å lagre surfehistorikken din med et privat vindu</translation>
+<translation id="3871738366246972820">Bruker du en delt datamaskin? Prøv å åpne et privat vindu.</translation>
+<translation id="5808622652939943719">For å surfe privat, klikk på ikonmenyen for å åpne et privat vindu</translation>
+<translation id="9079153198295609735">Send bruksstatistikk og programstopprapporter automatisk til Brave Software</translation>
+<translation id="8839398440242019256">Ikke fra nettmarked</translation>
+<translation id="6945695820322143954">Denne utvidelsen bryter med nettbutikkens retningslinjer.</translation>
+<translation id="1676595396635191120">Nytt privat vindu</translation>
+<translation id="5094764494104066239">Vis alltid bokmerkerad</translation>
+<translation id="4471385409549756595">Nytt privat vindu</translation>
+<translation id="4540437243849625078">Denne siden er i ferd med å dele informasjon med en app utenfor privat modus.</translation>
+<translation id="1227836882233136433">Forlate privat modus?</translation>
+<translation id="7618452966706304788">Ønsker du å bruke berørings-ID med <ph name="APP_NAME"/> i privat modus?</translation>
+<translation id="3098826269712097986">Innloggingsdata blir lagret i Brave etter at du avslutter privat modus. Dette gjør at du kan bruke berørings-ID på denne nettsiden senere.</translation>
+<translation id="5186185447130319458">Privat</translation>
+<translation id="2579188629646253712">Avslutt privat modus</translation>
+<translation id="6744651634043798597">{ANTALL, flertall,
+          =0 {Åpne alle i &amp;privat vindu}
+          =1 {Åpne i &amp;privat vindu}
+          andre {Åpne alle (#) i &amp;privat vindu}}</translation>
+<translation id="2431625704210501303">Åpne i &amp;privat vindu</translation>
+<translation id="4620367155626060530">&amp;Vis bokmerkerad</translation>
+<translation id="2633634757060186848">{ANTALL, flertall,
+          =0 {Åpne alle i &amp;Privat vindu}
+          =1 {Åpne i &amp;Privat vindu}
+          andre {Åpne alle (#) i &amp;Privat vindu}}</translation>
+<translation id="1985165269306590797">Åpne i &amp;privat vindu</translation>
+<translation id="4680518314108745448">&amp;Vis bokmerkerad</translation>
+<translation id="642436385689435488">Åpne alle i privat vindu</translation>
+<translation id="5463021359602611602">Åpne i privat vindu</translation>
+<translation id="1850357845349976573">{0, flertall,
+        =1 {Privat}
+        andre {# åpne private vinduer}
+      }</translation>
+<translation id="37784332082579802">{0, flertall,
+      =1 {Privat}
+      andre {Private (#)}
+    }</translation>
+<translation id="5070556616376997776">Dette er et privat vindu</translation>
+<translation id="5832813618714645810">Personer</translation>
+<translation id="7171000599584840888">Legg til profil...</translation>
+<translation id="2005199804247617997">Andre personer</translation>
+<translation id="2935225303485967257">Administrer profiler</translation>
+<translation id="8966809848145604011">Andre personer</translation>
+<translation id="688280436658139163">Administrer profiler</translation>
+<translation id="4133080584509825342">Rediger profil, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Endre profil <ph name="PROFILE_NAME"/> (<ph name="USERNAME"/>)</translation>
+<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="5828545842856466741">Legg til person …</translation>
+<translation id="2254158488150713536">For å fortsette, klikk på OK. Klikk deretter på Legg til person for å opprette en ny profil for e-postadressen din.</translation>
+<translation id="1725743343613175327">For å fortsette, klikk på OK. Klikk deretter på Legg til person for å opprette en ny profil for <ph name="DOMAIN"/>-e-postadressen din.</translation>
+<translation id="6921634551681321094">Legg til profil</translation>
+<translation id="4904061654709986277">Legg til profil</translation>
+<translation id="6114945161119872228">Fjern denne profilen</translation>
+<translation id="769308100792069196">Legg til overvåket profil</translation>
+<translation id="8006143138282906848">Fjern denne profilen</translation>
+<translation id="6912187023601892621">Legg til overvåket profil</translation>
+<translation id="8086119151297127544">Vennligst lås opp profilen din før du fjerner en profil.</translation>
+<translation id="7805701378418968629">Vennligst lås opp profilen din før du legger til en profil.</translation>
+<translation id="6315812488257290136">Personer</translation>
+<translation id="3707212204259470604">Administrer andre profiler</translation>
+<translation id="5840822070878669614">Åpne nettmarked</translation>
+<translation id="383007806262310953">Vis bokmerkeraden</translation>
+<translation id="2890280714162339872">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> og flere</translation>
+<translation id="8648684608605749476">Blokkér informasjonskapsler fra tredjepart i inkognitomodus</translation>
+<translation id="6105125042109106861">Informasjonskapsler fra tredjeparter er blokkert i inkognitomodus</translation>
+<translation id="1281501490173223206">Kun for gjeldende private økt</translation>
+<translation id="5566692924079383101">Dette unntaket blir automatisk fjernet når du avslutter den gjeldende inkognitoøkten</translation>
+<translation id="6906406176003824042">Rediger profil</translation>
+<translation id="9063160602596686558">Sender automatisk brukerstatistikk og programstopprapporter til Brave Software</translation>
+<translation id="3860292630623580294">(Privat)</translation>
+<translation id="4854477725773269949">Tillat i privat modus</translation>
+<translation id="6436164536244065364">Se i Nettmarked</translation>
+<translation id="38046578254905003">Finn utvidelser og temaer i <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Nettmarked<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6336451774241870485">Ny privat fane</translation>
+<translation id="6610147964972079463">Lukk private faner</translation>
+<translation id="4933782374919065856">Har du spørsmål? Kontakt personen som administrer profilen din.</translation>
 </translationbundle>

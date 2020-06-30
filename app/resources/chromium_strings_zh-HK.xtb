@@ -13,10 +13,8 @@
 <translation id="7419046106786626209">您的網域無法使用「同步功能」，因此 Brave 作業系統無法同步處理您的數據。</translation>
 <translation id="5147525139567260139">分享 Brave 分頁</translation>
 <translation id="1530633922026945685">Brave 需要取得權限，才能存取相機以建立您身處環境的 3D 地圖</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{管理員要求您重新啟動 Brave，以套用更新}=1{管理員要求您重新啟動 Brave，以套用更新。您的無痕式視窗不會重新開啟。}other{管理員要求您重新啟動 Brave，以套用更新。您的 # 個無痕式視窗不會重新開啟。}}</translation>
 <translation id="5616153642055197778">更新、更安全的 Brave 版本現已推出。</translation>
 <translation id="6797402139308059782">讓 Brave 在背景執行</translation>
-<translation id="1448049584457347995">為了讓 Brave 的安全性更有保障，我們已將部分未列在 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> 中的擴充功能停用，它們可能在您不知情的情況下加入瀏覽器。</translation>
 <translation id="5875673934455379806">重新安裝 Brave</translation>
 <translation id="650055380213106997">您已登入受管理的帳戶，並將管理控制權授予您的 Brave 設定檔。您的 Brave 數據 (例如應用程式、書籤、記錄、密碼和其他設定) 均將永久與 <ph name="USER_NAME"/> 建立關聯。您可以透過 Brave 帳戶資訊主頁刪除這些數據，但您無法將這些數據與其他帳戶建立關聯。如要另行保留現有的 Brave 數據，您可以選建立新的設定檔。<ph name="LEARN_MORE"/></translation>
 <translation id="1649714546770135458">關閉此功能後，您無需登入 Brave，即可登入 Gmail 等 Brave 網站</translation>
@@ -51,7 +49,6 @@
 <translation id="7365690458036015383">安裝程式無法解壓縮封存檔案，請重新下載 Brave。</translation>
 <translation id="8919461291440820124">Brave 正在使用您的麥克風。</translation>
 <translation id="4805806622840861220">重新啟動 Brave</translation>
-<translation id="6554952862405000915">在 Brave 無痕式視窗中開啟連結(&amp;G)</translation>
 <translation id="1477146545787277177">Brave 當機了，要立即重新啟動嗎？</translation>
 <translation id="7503098128120083822">Brave 想匯出您的密碼。</translation>
 <translation id="2585240446624043880">Brave 無法讀取及寫入數據目錄：
@@ -66,10 +63,7 @@
 <translation id="8703492925273919597">請關閉所有 Brave 視窗，然後再試一次。</translation>
 <translation id="1384923383737428730">在您的電腦上發現有害軟件。Brave 可移除該軟件、復原設定及停用擴充程式，讓瀏覽器恢復正常運作。</translation>
 <translation id="4847979153841887006">Brave 標誌</translation>
-<translation id="669092380621816981">此使用者的瀏覽資料將從裝置上刪除。如要復原資料，請以「<ph name="USER_EMAIL"/>」身分登入 Brave。</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{Brave 有可用的更新，重新啟動後即可套用。}=1{Brave 有可用的更新，重新啟動後即可套用。您的無痕式視窗不會重新開啟。}other{Brave 有可用的更新，重新啟動後即可套用。您的 # 個無痕式視窗不會重新開啟。}}</translation>
 <translation id="4304059894777924102">Brave 無法檢查密碼，請檢查互聯網連線。</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{管理員要求您重新啟動 Brave，以套用此更新}=1{管理員要求您重新啟動 Brave，以套用此更新。您的無痕式視窗不會重新開啟。}other{管理員要求您重新啟動 Brave，以套用此更新。您的 # 個無痕式視窗不會重新開啟。}}</translation>
 <translation id="1807774211756215222">在 Brave 的新分頁中開啟連結(&amp;T)</translation>
 <translation id="7453070689008684791">Brave 會存取您的「雲端硬碟」，然後在網址列提出建議</translation>
 <translation id="2106568569080763501">Brave 可讓您按一下網頁上的電話號碼，隨即透過 Skype 撥打電話！</translation>
@@ -165,7 +159,6 @@
 <translation id="7830723774663008396">Brave - <ph name="PAGE_TITLE"/></translation>
 <translation id="5253815230176279256">Brave Pay (已複製至 Brave)</translation>
 <translation id="2301993384336631869">Brave 已更新，但您已至少超過 30 天沒有使用 Brave。</translation>
-<translation id="4624945300945265642">在 Brave 無痕式視窗中開啟連結(&amp;G)</translation>
 <translation id="3335606533094650083">Brave 需要取得權限，才能讓這個網站存取您的麥克風</translation>
 <translation id="1785833016412082453">Brave 無法檢查擴充程式，請稍後再試。</translation>
 <translation id="1705567146636171298">更新 Brave</translation>
@@ -199,7 +192,6 @@ Brave 無法復原您的設定。</translation>
 <translation id="5419189641394808652">您的網域無法使用「同步功能」，因此 Brave 無法同步處理您的數據。</translation>
 <translation id="4784414698887946907">這會刪除此裝置上的瀏覽資料。如果日後想擷取資料，請以 <ph name="USER_EMAIL"/> 的身分登入 Brave。</translation>
 <translation id="7747138024166251722">安裝程式無法建立暫時目錄，請檢查可用磁碟空間與權限，以順利安裝軟件。</translation>
-<translation id="6134859571175647580">警告：Brave 無法阻止擴充程式記錄您的瀏覽活動。如要在無痕模式中停用這個擴充程式，請取消選取這個選項。</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> - Brave Canary</translation>
 <translation id="38898988211673781">在您離開 Brave 時清除 Cookie 和網站資料</translation>
 <translation id="7963515534397191222">由於 Brave 無法更新至最新版本，因此您無法使用最新功能和安全性修正。</translation>
@@ -235,7 +227,6 @@ Brave 無法復原您的設定。</translation>
 <translation id="8285294305439559616">Brave 現在會嘗試顯示密碼。如果您同意的話，請輸入您的 Windows 密碼。</translation>
 <translation id="6389268239133412586">無法更新 Brave</translation>
 <translation id="6368958679917195344">Brave 作業系統的開發有賴其他<ph name="BEGIN_LINK_CROS_OSS"/>開放原始碼軟件<ph name="END_LINK_CROS_OSS"/>。</translation>
-<translation id="8848045066928358658">為鞏固 Brave 的安全性，我們已將未列在 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> 中的擴充功能停用，因為它們可能在您不知情的情況下加入瀏覽器。</translation>
 <translation id="5173820533850252773">Brave 版本過舊</translation>
 <translation id="310518206836658214">{0,plural, =1{Brave 將於 1 小時後重新啟動}other{Brave 將於 # 小時後重新啟動}}</translation>
 <translation id="7863882214613921971">在 Brave 的新分頁中開啟連結(&amp;T)</translation>
@@ -245,4 +236,13 @@ Brave 無法復原您的設定。</translation>
 <translation id="7977787072794666032">由於 Brave 將不再支援 Windows XP 或 Windows Vista，因此可能無法正常運作</translation>
 <translation id="2398566204186296120">在使用這部裝置前，<ph name="DOMAIN"/> 要求您仔細閱讀並接受下列《服務條款》。這些條款不會擴展、修改或限制《Brave 作業系統條款》。</translation>
 <translation id="8992261409816268381">Brave Software Inc</translation>
+<translation id="6134859571175647580">警告：Brave 無法阻止擴充程式記錄您的瀏覽活動。如要在無痕模式中停用這個擴充程式，請取消選取這個選項。</translation>
+<translation id="1448049584457347995">為了讓 Brave 的安全性更有保障，我們已將部分未列在 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> 中的擴充功能停用，它們可能在您不知情的情況下加入瀏覽器。</translation>
+<translation id="8848045066928358658">為鞏固 Brave 的安全性，我們已將未列在 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> 中的擴充功能停用，因為它們可能在您不知情的情況下加入瀏覽器。</translation>
+<translation id="669092380621816981">此使用者的瀏覽資料將從裝置上刪除。如要復原資料，請以「<ph name="USER_EMAIL"/>」身分登入 Brave。</translation>
+<translation id="4624945300945265642">在 Brave 無痕式視窗中開啟連結(&amp;G)</translation>
+<translation id="6554952862405000915">在 Brave 無痕式視窗中開啟連結(&amp;G)</translation>
+<translation id="8274659559228306809">{COUNT,plural, =0{Brave 有可用的更新，重新啟動後即可套用。}=1{Brave 有可用的更新，重新啟動後即可套用。您的無痕式視窗不會重新開啟。}other{Brave 有可用的更新，重新啟動後即可套用。您的 # 個無痕式視窗不會重新開啟。}}</translation>
+<translation id="3829358914761176693">{COUNT,plural, =0{管理員要求您重新啟動 Brave，以套用此更新}=1{管理員要求您重新啟動 Brave，以套用此更新。您的無痕式視窗不會重新開啟。}other{管理員要求您重新啟動 Brave，以套用此更新。您的 # 個無痕式視窗不會重新開啟。}}</translation>
+<translation id="552349673358711446">{COUNT,plural, =0{管理員要求您重新啟動 Brave，以套用更新}=1{管理員要求您重新啟動 Brave，以套用更新。您的無痕式視窗不會重新開啟。}other{管理員要求您重新啟動 Brave，以套用更新。您的 # 個無痕式視窗不會重新開啟。}}</translation>
 </translationbundle>

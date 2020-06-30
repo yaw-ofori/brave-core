@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">Penyahpasangan belum selesai</translation>
 <translation id="175772926354468439">Dayakan tema</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Lihat di Gedung Web Brave</translation>
 <translation id="176193854664720708">Penderia cap jari terletak di dalam butang kuasa. Sentuh dengan lembut menggunakan mana-mana jari.</translation>
 <translation id="1763046204212875858">Cipta pintasan aplikasi</translation>
 <translation id="1763108912552529023">Teruskan meneroka</translation>
@@ -1326,7 +1325,6 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="2660779039299703961">Acara</translation>
 <translation id="4052689580269971502">Tidak dapat menyambungkan pencetak. Pastikan pencetak dihidupkan dan disambungkan kepada Bravebook anda melalui Wi-Fi atau USB.</translation>
 <translation id="2661714428027871023">Semak imbas lebih pantas dan kurangkan penggunaan data dengan mod Ringkas. Klik untuk mengetahui lebih lanjut.</translation>
-<translation id="8808478386290700967">Kedai Web Brave</translation>
 <translation id="2663302507110284145">Bahasa</translation>
 <translation id="2665394472441560184">Tambah perkataan baharu</translation>
 <translation id="2665647207431876759">Tamat tempoh</translation>
@@ -2211,7 +2209,6 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="3771294271822695279">Fail Video</translation>
 <translation id="3775432569830822555">Sijil Pelayan SSL</translation>
 <translation id="3775705724665058594">Hantar ke peranti anda</translation>
-<translation id="6945695820322143954">Sambungan ini melanggar dasar Kedai Web Brave.</translation>
 <translation id="3777483481409781352">Tidak dapat mengaktifkan peranti selular</translation>
 <translation id="3777806571986431400">Sambungan Didayakan</translation>
 <translation id="3778152852029592020">Muat turun telah dibatalkan.</translation>
@@ -3026,7 +3023,6 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="48704129375571883">Tambah ciri tambahan</translation>
 <translation id="4870758487381879312">Masukkan kata laluan yang disediakan oleh pentadbir untuk mendapatkan maklumat konfigurasi</translation>
 <translation id="4870903493621965035">Tiada peranti digandingkan</translation>
-<translation id="8839398440242019256">Bukan dari Kedai Web Brave.</translation>
 <translation id="4871322859485617074">PIN mengandungi aksara tidak sah</translation>
 <translation id="4871370605780490696">Tambah penanda halaman</translation>
 <translation id="4871568871368204250">Matikan penyegerakan</translation>
@@ -3622,7 +3618,6 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="563535393368633106">Tanya sebelum mengakses (disyorkan)</translation>
 <translation id="5636996382092289526">Untuk menggunakan <ph name="NETWORK_ID"/> anda mungkin perlu <ph name="LINK_START"/>melawat halaman log masuk rangkaian<ph name="LINK_END"/> terlebih dahulu, yang akan terbuka secara automatik dalam beberapa saat. Jika ini tidak berlaku, rangkaian tersebut tidak boleh digunakan.</translation>
 <translation id="5637476008227280525">Data mudah alih didayakan</translation>
-<translation id="38046578254905003">Cari sambungan dan tema di <ph name="BEGIN_LINK"/>Gedung Web Brave<ph name="END_LINK"/></translation>
 <translation id="5639549361331209298">Muat semula halaman ini, tahan untuk melihat lagi pilihan</translation>
 <translation id="5640133431808313291">Urus kunci keselamatan</translation>
 <translation id="5642508497713047">Penandatangan CRL</translation>
@@ -3794,7 +3789,6 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="5864754048328252126">Tindakan melahu semasa mengecas</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> akan dijeda tidak lama lagi</translation>
 <translation id="586567932979200359">Anda menjalankan <ph name="PRODUCT_NAME"/> daripada imej cakeranya. Pemasangannya pada komputer anda membolehkan anda menjalankannya tanpa imej cakera, dan memastikannya adalah yang terkini.</translation>
-<translation id="9063160602596686558">Menghantar perangkaan penggunaan dan laporan ranap sistem secara automatik kepada Brave</translation>
 <translation id="5866557323934807206">Kosongkan tetapan ini untuk lawatan masa hadapan</translation>
 <translation id="5866840822086176774">Sangat kuat</translation>
 <translation id="5867841422488265304">Cari atau taip alamat web</translation>
@@ -4236,7 +4230,6 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> akan menyediakan kemas kini automatik untuk semua penguna komputer ini.</translation>
 <translation id="6434309073475700221">Buang</translation>
 <translation id="6434325376267409267">Peranti anda perlu dikemas kini sebelum anda boleh menggunakan <ph name="APP_NAME"/>.</translation>
-<translation id="6436164536244065364">Lihat di Kedai Web</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> - Audio sedang dimainkan</translation>
 <translation id="6442187272350399447">Hebat</translation>
 <translation id="6444070574980481588">Tetapkan tarikh dan masa</translation>
@@ -4952,7 +4945,6 @@ Jika anak anda tidak menggunakan Bravebook di sekolah atau jika anda lebih suka 
 <translation id="7375235221357833624">{0,plural, =1{Kemas kini peranti dalam masa sejam}other{Kemas kini peranti dalam masa # jam}}</translation>
 <translation id="7376553024552204454">Serlahkan kursor tetikus semasa kursor bergerak</translation>
 <translation id="7377451353532943397">Teruskan menyekat akses penderia</translation>
-<translation id="5840822070878669614">Buka Gedung Web Brave</translation>
 <translation id="7378812711085314936">Dapatkan sambungan data</translation>
 <translation id="7378962964415201590">Gandingkan telefon baharu</translation>
 <translation id="7380768571499464492">Dikemas kini <ph name="PRINTER_NAME"/></translation>
@@ -5174,7 +5166,6 @@ Jika anak anda tidak menggunakan Bravebook di sekolah atau jika anda lebih suka 
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, dalam <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">Nyahaktifkan semua port yang dikirim semula dalam Linux</translation>
 <translation id="1800308196794859773">Hantar suara anda kepada Brave untuk membolehkan pengimlakan dalam mana-mana medan teks.</translation>
-<translation id="3098826269712097986">Data log masuk akan disimpan dalam Brave selepas anda keluar daripada mod Inkognito. Ini akan membolehkan anda menggunakan Touch ID pada tapak web ini lagi nanti.</translation>
 <translation id="7681095912841365527">Tapak boleh menggunakan bluetooth</translation>
 <translation id="7683373461016844951">Klik OK untuk meneruskan, kemudian klik Tambah Orang untuk membuat profil baharu untuk alamat e-mel <ph name="DOMAIN"/> anda.</translation>
 <translation id="7684212569183643648">Dipasang oleh Pentadbir Anda</translation>
@@ -5658,7 +5649,6 @@ Simpan fail kunci anda di tempat selamat. Anda akan memerlukannya untuk mencipta
 <translation id="8259239505248583312">Mari mulakan</translation>
 <translation id="8260126382462817229">Cuba log masuk semula</translation>
 <translation id="8260864402787962391">Tetikus</translation>
-<translation id="8261378640211443080">Sambungan ini tidak disenaraikan dalam <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dan mungkin telah ditambahkan tanpa pengetahuan anda.</translation>
 <translation id="8261506727792406068">Padam</translation>
 <translation id="8263336784344783289">Namakan Kumpulan Ini</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> telah melumpuhkan kursor tetikus anda.</translation>
@@ -6080,7 +6070,6 @@ perubahan ini berlaku, anda mungkin tidak mahukannya.</translation>
 <translation id="8805140816472474147">Sahkan tetapan penyegerakan untuk memulakan penyegerakan.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> boleh membuka semula tab yang tidak sengaja ditutup</translation>
 <translation id="8807632654848257479">Stabil</translation>
-<translation id="8808478386290700967">Kedai Web</translation>
 <translation id="8808686172382650546">Kucing</translation>
 <translation id="1510515462062582289">Pada halaman ini, anda dapat melihat semua sambungan yang dipasang pada Brave.</translation>
 <translation id="8809147117840417135">Hijau kebiruan cerah</translation>
@@ -6232,7 +6221,6 @@ perubahan ini berlaku, anda mungkin tidak mahukannya.</translation>
 <translation id="8983632908660087688"><ph name="ORIGIN"/> boleh mengedit <ph name="FILENAME"/></translation>
 <translation id="8985264973231822211">Aktif <ph name="DEVICE_LAST_ACTIVATED_TIME"/> hari yang lalu</translation>
 <translation id="8986362086234534611">Lupa</translation>
-<translation id="9079153198295609735">Hantar statistik penggunaan dan laporan nahas kepada Brave secara automatik</translation>
 <translation id="8987927404178983737">Bulan</translation>
 <translation id="8991520179165052608">Tapak boleh menggunakan mikrofon anda</translation>
 <translation id="899384117894244799">Alih keluar pengguna yang disekat</translation>
@@ -6463,4 +6451,54 @@ perubahan ini berlaku, anda mungkin tidak mahukannya.</translation>
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Mengukuhkan sambungan selamat...</translation>
 <translation id="998747458861718449">S&amp;emak</translation>
+<translation id="658539216370629794">Buka pautan di dalam &amp;tetingkap sulit</translation>
+<translation id="1432267168815937878">Buka Pautan di dalam &amp;Tetingkap Sulit</translation>
+<translation id="6516243500644829484">Tetingkap &amp;sulit baru</translation>
+<translation id="7973394300052703468">Tetingkap &amp;Sulit Baru</translation>
+<translation id="6395403722585816044">Dimuat Turun secara Sulit</translation>
+<translation id="203837651858678035">Tetap keluar daripada mod sulit?</translation>
+<translation id="7376221878517288144">Tetap berhenti menggunakan mod sulit?</translation>
+<translation id="871606814707918245">Kebanyakan orang menyekat pemberitahuan daripada tapak ini</translation>
+<translation id="5053701565089446556">Sambungan Sulit: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Aplikasi Sulit: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Tab Sulit: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Subkerangka Sulit: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portal Inkognito: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Gedung Web</translation>
+<translation id="8261378640211443080">Sambungan ini tidak disenaraikan dalam <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dan mungkin telah ditambahkan tanpa pengetahuan anda.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Sulit)</translation>
+<translation id="4369414322596874629">Anda boleh melayari web secara sulit menggunakan tetingkap sulit</translation>
+<translation id="3772947852642271642">Layari web tanpa menyimpan sejarah pelayaran anda menggunakan tetingkap sulit</translation>
+<translation id="3871738366246972820">Menggunakan komputer kongsi? Cuba buka tetingkap sulit.</translation>
+<translation id="5808622652939943719">Untuk melayari web secara sulit, klik pada menu ikon titik untuk membuka tetingkap sulit</translation>
+<translation id="9079153198295609735">Hantar statistik penggunaan dan laporan nahas kepada Brave Software secara automatik</translation>
+<translation id="8839398440242019256">Bukan daripada Gedung Web.</translation>
+<translation id="6945695820322143954">Sambungan ini melanggar dasar Gedung Web.</translation>
+<translation id="1676595396635191120">Tetingkap Sulit Baru</translation>
+<translation id="5094764494104066239">Sentiasa Paparkan Bar Penanda Halaman</translation>
+<translation id="4471385409549756595">Tetingkap sulit baru</translation>
+<translation id="4540437243849625078">Laman web ini akan berkongsi maklumat dengan aplikasi di luar mod sulit.</translation>
+<translation id="1227836882233136433">Tinggalkan mod sulit?</translation>
+<translation id="7618452966706304788">Adakah anda mahu menggunakan ID Sentuh dengan <ph name="APP_NAME"/> dalam mod Sulit?</translation>
+<translation id="3098826269712097986">Data daftar masuk akan disimpan di dalam Brave selepas anda keluar daripada mod Sulit. Ini akan membolehkan anda menggunakan ID Sentuh dengan laman web ini lagi nanti.</translation>
+<translation id="5186185447130319458">Sulit</translation>
+<translation id="2579188629646253712">Keluar Daripada Sulit</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Buka Semua dalam Tetingkap &amp;Inkognito}=1{Buka dalam Tetingkap &amp;Inkognito}other{Buka Semua (#) dalam Tetingkap &amp;Inkognito}}</translation>
+<translation id="1985165269306590797">Buka dalam Tetingkap &amp;Inkognito</translation>
+<translation id="642436385689435488">Buka semua dalam tetingkap inkognito</translation>
+<translation id="5463021359602611602">Buka dalam tetingkap inkognito</translation>
+<translation id="5070556616376997776">Anda dalam mod inkognito</translation>
+<translation id="5832813618714645810">Profil</translation>
+<translation id="6921634551681321094">Tambah orang</translation>
+<translation id="6315812488257290136">Profil</translation>
+<translation id="5840822070878669614">Buka Gedung Web Brave</translation>
+<translation id="8648684608605749476">Sekat kuki pihak ketiga dalam Inkognito</translation>
+<translation id="1281501490173223206">Sesi inkognito semasa sahaja</translation>
+<translation id="9063160602596686558">Menghantar perangkaan penggunaan dan laporan ranap sistem secara automatik kepada Brave Software</translation>
+<translation id="3860292630623580294">(Inkognito)</translation>
+<translation id="4854477725773269949">Benarkan dalam inkognito</translation>
+<translation id="6436164536244065364">Lihat di Kedai Web</translation>
+<translation id="38046578254905003">Cari sambungan dan tema di <ph name="BEGIN_LINK"/>Gedung Web Brave<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Tab sulit baru</translation>
+<translation id="6610147964972079463">Tutup tab sulit</translation>
 </translationbundle>

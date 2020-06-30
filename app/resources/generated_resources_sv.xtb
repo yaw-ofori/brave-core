@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">Avinstallation väntar</translation>
 <translation id="175772926354468439">Aktivera tema</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Visa i Brave Web Store</translation>
 <translation id="176193854664720708">Fingeravtryckssensorn sitter på strömbrytaren. Tryck lätt på den med ett finger.</translation>
 <translation id="1763046204212875858">Skapa programgenvägar</translation>
 <translation id="1763108912552529023">Fortsätt att utforska</translation>
@@ -1326,7 +1325,6 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="2660779039299703961">Event</translation>
 <translation id="4052689580269971502">Det gick inte att ansluta till skrivaren. Kontrollera att skrivaren är påslagen och ansluten till Bravebook via Wi-Fi eller USB.</translation>
 <translation id="2661714428027871023">Surfa snabbare och minska dataförbrukningen med begränsat läge. Klicka för att läsa mer.</translation>
-<translation id="8808478386290700967">Brave webbshop</translation>
 <translation id="2663302507110284145">Språk</translation>
 <translation id="2665394472441560184">Lägg till ett nytt ord</translation>
 <translation id="2665647207431876759">Upphört att gälla</translation>
@@ -2211,7 +2209,6 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="3771294271822695279">Videofiler</translation>
 <translation id="3775432569830822555">SSL-servercertifikat</translation>
 <translation id="3775705724665058594">Skicka till dina enheter</translation>
-<translation id="6945695820322143954">Det här tillägget bryter mot policyn för Brave Web Store.</translation>
 <translation id="3777483481409781352">Det gick inte att aktivera enheten med mobildata</translation>
 <translation id="3777806571986431400">Tillägget har aktiverats</translation>
 <translation id="3778152852029592020">Nedladdnningen avbröts.</translation>
@@ -3026,7 +3023,6 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="48704129375571883">Lägg till ytterligare funktioner</translation>
 <translation id="4870758487381879312">Ange lösenordet du fick från administratören för att visa konfigurationsinformationen</translation>
 <translation id="4870903493621965035">Inga kopplade enheter</translation>
-<translation id="8839398440242019256">Inte från Brave Web Store.</translation>
 <translation id="4871322859485617074">Pinkoden innehåller ogiltiga tecken</translation>
 <translation id="4871370605780490696">Lägg till bokmärke</translation>
 <translation id="4871568871368204250">Inaktivera synkronisering</translation>
@@ -3622,7 +3618,6 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="563535393368633106">Fråga innan informationen används (rekommenderas)</translation>
 <translation id="5636996382092289526">Om du vill använda <ph name="NETWORK_ID"/> kanske du först måste <ph name="LINK_START"/>besöka nätverkets inloggningssida<ph name="LINK_END"/>, som öppnas automatiskt om några sekunder. Om den inte öppnas går det inte att använda nätverket.</translation>
 <translation id="5637476008227280525">Aktivera mobildata</translation>
-<translation id="38046578254905003">Hitta tillägg och teman i <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/></translation>
 <translation id="5639549361331209298">Uppdatera sidan och vänta om du vill se fler alternativ</translation>
 <translation id="5640133431808313291">Hantera säkerhetsnycklar</translation>
 <translation id="5642508497713047">CRL-signerare</translation>
@@ -3794,7 +3789,6 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="5864754048328252126">Inaktivitetsåtgärd vid laddning</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME"/> pausas snart</translation>
 <translation id="586567932979200359">Du kör <ph name="PRODUCT_NAME"/> från diskavbildningen. Om du installerar programmet på din dator kan du köra det utan diskavbildningen och du kan vara säker på att det alltid är uppdaterat.</translation>
-<translation id="9063160602596686558">Skickar användningsstatistik och felrapporter till Brave automatiskt</translation>
 <translation id="5866557323934807206">Rensa inställningarna för framtida besök</translation>
 <translation id="5866840822086176774">Mycket stark</translation>
 <translation id="5867841422488265304">Skriv en sökning eller en webbadress</translation>
@@ -4236,7 +4230,6 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> konfigurerar automatiska uppdateringar för alla användare på den här datorn.</translation>
 <translation id="6434309073475700221">Kasta</translation>
 <translation id="6434325376267409267">Enheten måste uppdateras innan du kan använda <ph name="APP_NAME"/>.</translation>
-<translation id="6436164536244065364">Visa i Web Store</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> – spelar upp ljud</translation>
 <translation id="6442187272350399447">Fenomenal</translation>
 <translation id="6444070574980481588">Ange datum och tid</translation>
@@ -4952,7 +4945,6 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="7375235221357833624">{0,plural, =1{Uppdatera enheten inom en timme}other{Uppdatera enheten inom # timmar}}</translation>
 <translation id="7376553024552204454">Markera muspekaren när den är i rörelse</translation>
 <translation id="7377451353532943397">Fortsätt att blockera sensoråtkomst</translation>
-<translation id="5840822070878669614">Öppna Brave Web Store</translation>
 <translation id="7378812711085314936">Dela dataanslutning</translation>
 <translation id="7378962964415201590">Parkoppla en ny telefon</translation>
 <translation id="7380768571499464492"><ph name="PRINTER_NAME"/> uppdaterades</translation>
@@ -5174,7 +5166,6 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/> på <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">Inaktivera all portvidarebefordran i Linux</translation>
 <translation id="1800308196794859773">Skicka det du säger till Brave så att du kan tala in text i vilket textfält som helst.</translation>
-<translation id="3098826269712097986">Inloggningsuppgifter sparas i Brave när du har avslutat inkognitoläget. Då kan du använda Touch ID på den här webbplatsen igen senare.</translation>
 <translation id="7681095912841365527">Webbplatsen har åtkomst till Bluetooth</translation>
 <translation id="7683373461016844951">Fortsätt genom att klicka på OK. Skapa sedan en ny profil för e-postadressen på <ph name="DOMAIN"/> genom att klicka på Lägg till person.</translation>
 <translation id="7684212569183643648">Har installerats av administratören</translation>
@@ -5658,7 +5649,6 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="8259239505248583312">Då kör vi</translation>
 <translation id="8260126382462817229">Försök att logga in igen</translation>
 <translation id="8260864402787962391">Mus</translation>
-<translation id="8261378640211443080">Det här tillägget finns inte i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> och kan ha lagts till utan att du vet om det.</translation>
 <translation id="8261506727792406068">Radera</translation>
 <translation id="8263336784344783289">Namnge den här gruppen</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> har inaktiverat muspekaren.</translation>
@@ -6079,7 +6069,6 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="8805140816472474147">Bekräfta synkroniseringsinställningarna för att börja synkronisera.</translation>
 <translation id="8806680466228877631">Flikar som stängts av misstag kan öppnas på nytt med <ph name="SHORTCUT"/></translation>
 <translation id="8807632654848257479">Stabil</translation>
-<translation id="8808478386290700967">Web Store</translation>
 <translation id="8808686172382650546">Katt</translation>
 <translation id="1510515462062582289">På den här sidan visas alla tillägg som har installerats i Brave.</translation>
 <translation id="8809147117840417135">Ljust blågrön</translation>
@@ -6231,7 +6220,6 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="8983632908660087688"><ph name="ORIGIN"/> har redigeringsbehörighet till <ph name="FILENAME"/></translation>
 <translation id="8985264973231822211">Aktiv för <ph name="DEVICE_LAST_ACTIVATED_TIME"/> dag sedan</translation>
 <translation id="8986362086234534611">Glöm</translation>
-<translation id="9079153198295609735">Skicka användningsstatistik och kraschrapporter till Brave automatiskt</translation>
 <translation id="8987927404178983737">Månad</translation>
 <translation id="8991520179165052608">Webbplatsen har åtkomst till din mikrofon</translation>
 <translation id="899384117894244799">Ta bort begränsad användare</translation>
@@ -6462,4 +6450,54 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Upprättar en säker anslutning...</translation>
 <translation id="998747458861718449">I&amp;nspektera</translation>
+<translation id="658539216370629794">Öppna länk i &amp;privat fönster</translation>
+<translation id="1432267168815937878">Öppna länk i &amp;privat fönster</translation>
+<translation id="6516243500644829484">Nytt &amp;privat fönster</translation>
+<translation id="7973394300052703468">Nytt &amp;privat fönster</translation>
+<translation id="6395403722585816044">Nedladdat i privat läge</translation>
+<translation id="203837651858678035">Avsluta privat läge ändå?</translation>
+<translation id="7376221878517288144">Avsluta privat läge ändå?</translation>
+<translation id="871606814707918245">De flesta användarna blockerar aviseringar från den här webbplatsen</translation>
+<translation id="5053701565089446556">Privat tillägg: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Privat app: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Privat flik: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Privat underram: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Web Store</translation>
+<translation id="8261378640211443080">Det här tillägget finns inte i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> och kan ha lagts till utan att du vet om det.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
+<translation id="4369414322596874629">Du kan surfa privat med ett privat fönster</translation>
+<translation id="3772947852642271642">Använd webben utan att spara din surfhistorik med ett privat fönster</translation>
+<translation id="3871738366246972820">Använder du en delad dator? Prova att öppna ett privat fönster.</translation>
+<translation id="5808622652939943719">För att bläddra privat, klicka på menyikonen med prickar för att öppna ett privat fönster</translation>
+<translation id="9079153198295609735">Skicka användningsstatistik och kraschrapporter till Brave Software automatiskt</translation>
+<translation id="8839398440242019256">Inte från Web Store.</translation>
+<translation id="6945695820322143954">Detta tillägg bryter mot Web Stores policy.</translation>
+<translation id="1676595396635191120">Nytt privat fönster</translation>
+<translation id="5094764494104066239">Visa alltid bokmärkesfältet</translation>
+<translation id="4471385409549756595">Nytt privat fönster</translation>
+<translation id="4540437243849625078">Denna webbplats är på väg att dela information med en app utanför privat läge.</translation>
+<translation id="1227836882233136433">Lämna privat läge?</translation>
+<translation id="7618452966706304788">Vill du använda Touch ID med <ph name="APP_NAME"/> i privat läge?</translation>
+<translation id="3098826269712097986">Inloggningsdata kommer att lagras i Brave efter att du lämnar privat läge. Detta låter dig använda Touch ID på den här webbplatsen igen senare.</translation>
+<translation id="5186185447130319458">Privat</translation>
+<translation id="2579188629646253712">Avsluta privat</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Öppna alla i ett &amp;inkognitofönster}=1{Öppna i ett &amp;inkognitofönster}other{Öppna alla (#) i ett &amp;inkognitofönster}}</translation>
+<translation id="1985165269306590797">Öppna i &amp;inkognitofönster</translation>
+<translation id="642436385689435488">Öppna alla i ett inkognitofönster</translation>
+<translation id="5463021359602611602">Öppna i inkognitofönster</translation>
+<translation id="5070556616376997776">Du använder inkognitoläget</translation>
+<translation id="5832813618714645810">Profiler</translation>
+<translation id="6921634551681321094">Lägg till person</translation>
+<translation id="6315812488257290136">Profiler</translation>
+<translation id="5840822070878669614">Öppna Brave Web Store</translation>
+<translation id="8648684608605749476">Blockera cookies från tredje part med inkognitoläget</translation>
+<translation id="1281501490173223206">Endast nuvarande inkognitosession</translation>
+<translation id="9063160602596686558">Skickar användningsstatistik och felrapporter till Brave Software automatiskt</translation>
+<translation id="3860292630623580294">(Inkognito)</translation>
+<translation id="4854477725773269949">Tillåt i inkognito</translation>
+<translation id="6436164536244065364">Visa i Web Store</translation>
+<translation id="38046578254905003">Hitta tillägg och teman i <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Ny privat flik</translation>
+<translation id="6610147964972079463">Stäng privata flikar</translation>
 </translationbundle>

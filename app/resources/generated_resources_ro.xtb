@@ -609,7 +609,6 @@
 <translation id="1757301747492736405">Dezinstalarea este în așteptare</translation>
 <translation id="175772926354468439">Activați tema</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="6436164536244065364">Vezi în Magazinul web Brave</translation>
 <translation id="176193854664720708">Senzorul de amprentă digitală se află în butonul de pornire. Atinge-l ușor cu oricare deget.</translation>
 <translation id="1763046204212875858">Creează comenzi rapide pentru aplicație</translation>
 <translation id="1763108912552529023">Explorați în continuare</translation>
@@ -1326,7 +1325,6 @@ Poți gestiona setările contului dacă instalezi aplicația Family Link pe disp
 <translation id="2660779039299703961">Eveniment</translation>
 <translation id="4052689580269971502">Nu se poate conecta imprimanta. Asigură-te că este pornită și conectată la Bravebook prin Wi-Fi sau USB.</translation>
 <translation id="2661714428027871023">Navighează mai rapid și folosește mai puține date cu modul Lite. Clic pentru a afla mai multe.</translation>
-<translation id="8808478386290700967">Magazinul web Brave</translation>
 <translation id="2663302507110284145">Limbă</translation>
 <translation id="2665394472441560184">Adăugați un cuvânt</translation>
 <translation id="2665647207431876759">Expirat</translation>
@@ -2211,7 +2209,6 @@ Mesaj de la server: <ph name="SERVER_MSG"/></translation>
 <translation id="3771294271822695279">Fișiere video</translation>
 <translation id="3775432569830822555">Certificat de server SSL</translation>
 <translation id="3775705724665058594">Trimite pe dispozitivele tale</translation>
-<translation id="6945695820322143954">Această extensie încalcă politica Magazinului web Brave.</translation>
 <translation id="3777483481409781352">Dispozitivul celular nu a putut fi activat</translation>
 <translation id="3777806571986431400">Extensie activată</translation>
 <translation id="3778152852029592020">Descărcarea a fost anulată.</translation>
@@ -3026,7 +3023,6 @@ Mesaj de la server: <ph name="SERVER_MSG"/></translation>
 <translation id="48704129375571883">Adaugă funcții suplimentare</translation>
 <translation id="4870758487381879312">Introdu parola oferită de administrator pentru a primi informațiile despre configurare</translation>
 <translation id="4870903493621965035">Nu există dispozitive asociate</translation>
-<translation id="8839398440242019256">Nu este din Magazinul web Brave.</translation>
 <translation id="4871322859485617074">Codul PIN conține caractere nevalide</translation>
 <translation id="4871370605780490696">Adaugă un marcaj</translation>
 <translation id="4871568871368204250">Dezactivează sincronizarea</translation>
@@ -3622,7 +3618,6 @@ Mesaj de la server: <ph name="SERVER_MSG"/></translation>
 <translation id="563535393368633106">Solicită permisiunea înainte de accesare (recomandat)</translation>
 <translation id="5636996382092289526">Pentru a utiliza <ph name="NETWORK_ID"/> ar putea fi necesar să <ph name="LINK_START"/>accesați mai întâi pagina de conectare a rețelei<ph name="LINK_END"/>, care se va deschide automat în câteva secunde. Dacă acest lucru nu se întâmplă, rețeaua nu poate fi utilizată.</translation>
 <translation id="5637476008227280525">Activează datele mobile</translation>
-<translation id="38046578254905003">Găsește extensii și teme în <ph name="BEGIN_LINK"/>Magazinul web Brave<ph name="END_LINK"/></translation>
 <translation id="5639549361331209298">Reîncărcați această pagină. Țineți apăsat pentru a vedea mai multe opțiuni</translation>
 <translation id="5640133431808313291">Gestionează cheile de securitate</translation>
 <translation id="5642508497713047">Semnatar CRL</translation>
@@ -3794,7 +3789,6 @@ Mesaj de la server: <ph name="SERVER_MSG"/></translation>
 <translation id="5864754048328252126">Măsura pentru inactivitate în timpul încărcării</translation>
 <translation id="5865508026715185451">Aplicația <ph name="APP_NAME"/> se va întrerupe în curând</translation>
 <translation id="586567932979200359">Rulează <ph name="PRODUCT_NAME"/> din imaginea sa de pe disc. Instalarea sa pe computer îți permite să îl rulezi fără imaginea de pe disc și asigură actualizarea acestuia.</translation>
-<translation id="9063160602596686558">Trimite automat statistici de utilizare și rapoarte de blocare la Brave</translation>
 <translation id="5866557323934807206">Șterge aceste setări pentru vizite viitoare</translation>
 <translation id="5866840822086176774">Foarte puternic</translation>
 <translation id="5867841422488265304">Caută sau introdu adresa web</translation>
@@ -4236,7 +4230,6 @@ Mesaj de la server: <ph name="SERVER_MSG"/></translation>
 <translation id="6431347207794742960"><ph name="PRODUCT_NAME"/> va configura actualizările automate pentru toți utilizatorii acestui computer.</translation>
 <translation id="6434309073475700221">Renunță</translation>
 <translation id="6434325376267409267">Ca să poți folosi <ph name="APP_NAME"/>, trebuie să actualizezi dispozitivul.</translation>
-<translation id="6436164536244065364">Vizualizați în Magazinul web Brave</translation>
 <translation id="6438992844451964465"><ph name="WINDOW_TITLE"/> – se redă sunet</translation>
 <translation id="6442187272350399447">Extraordinar</translation>
 <translation id="6444070574980481588">Setați data și ora</translation>
@@ -4952,7 +4945,6 @@ Mesaj de la server: <ph name="SERVER_MSG"/></translation>
 <translation id="7375235221357833624">{0,plural, =1{Actualizează dispozitivul într-o oră}few{Actualizează dispozitivul în # ore}other{Actualizează dispozitivul în # de ore}}</translation>
 <translation id="7376553024552204454">Evidențiază cursorul mouse-ului când se mișcă</translation>
 <translation id="7377451353532943397">Blochează în continuare accesul la senzori</translation>
-<translation id="5840822070878669614">Deschide Magazinul web Brave</translation>
 <translation id="7378812711085314936">Obține o conexiune de date</translation>
 <translation id="7378962964415201590">Asociază un telefon nou</translation>
 <translation id="7380768571499464492">Imprimanta <ph name="PRINTER_NAME"/> a fost actualizată</translation>
@@ -5174,7 +5166,6 @@ Mesaj de la server: <ph name="SERVER_MSG"/></translation>
 <translation id="7672520070349703697"><ph name="HUNG_IFRAME_URL"/>, în <ph name="PAGE_TITLE"/>.</translation>
 <translation id="7674416868315480713">Dezactivează toate porturile care se redirecționează în Linux</translation>
 <translation id="1800308196794859773">Trimite-ți vocea la Brave pentru a permite dictarea în orice câmp de text.</translation>
-<translation id="3098826269712097986">Datele de conectare sunt stocate în Brave după ce ieși din modul incognito. Vei putea să folosești din nou Touch ID cu acest site mai târziu.</translation>
 <translation id="7681095912841365527">Site-ul poate folosi Bluetooth</translation>
 <translation id="7683373461016844951">Pentru a continua, dă clic pe OK, apoi pe Adaugă o persoană pentru a crea un profil nou pentru adresa de e-mail <ph name="DOMAIN"/>.</translation>
 <translation id="7684212569183643648">Instalată de administrator</translation>
@@ -5658,7 +5649,6 @@ Păstrează fișierul cu cheia într-un loc sigur. Acesta va fi necesar la crear
 <translation id="8259239505248583312">Să începem</translation>
 <translation id="8260126382462817229">Încearcă să te conectezi din nou</translation>
 <translation id="8260864402787962391">Mouse</translation>
-<translation id="8261378640211443080">Această extensie nu este inclusă în <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> și este posibil să fi fost adăugată fără știrea dvs.</translation>
 <translation id="8261506727792406068">Șterge</translation>
 <translation id="8263336784344783289">Denumește acest grup</translation>
 <translation id="8263744495942430914"><ph name="FULLSCREEN_ORIGIN"/> a dezactivat cursorul mouse-ului.</translation>
@@ -6079,7 +6069,6 @@ Păstrează fișierul cu cheia într-un loc sigur. Acesta va fi necesar la crear
 <translation id="8805140816472474147">Pentru a începe sincronizarea, confirmă setările de sincronizare.</translation>
 <translation id="8806680466228877631"><ph name="SHORTCUT"/> poate să redeschidă accidental filele închise</translation>
 <translation id="8807632654848257479">Stabil</translation>
-<translation id="8808478386290700967">Magazin web</translation>
 <translation id="8808686172382650546">Pisică</translation>
 <translation id="1510515462062582289">În această pagină poți vedea toate extensiile instalate în Brave.</translation>
 <translation id="8809147117840417135">Turcoaz deschis</translation>
@@ -6231,7 +6220,6 @@ Păstrează fișierul cu cheia într-un loc sigur. Acesta va fi necesar la crear
 <translation id="8983632908660087688"><ph name="ORIGIN"/> poate edita <ph name="FILENAME"/></translation>
 <translation id="8985264973231822211">Activ acum <ph name="DEVICE_LAST_ACTIVATED_TIME"/> zi</translation>
 <translation id="8986362086234534611">Șterge</translation>
-<translation id="9079153198295609735">Trimite automat la Brave statistici de utilizare și rapoarte de blocare</translation>
 <translation id="8987927404178983737">Lună</translation>
 <translation id="8991520179165052608">Site-ul poate folosi microfonul</translation>
 <translation id="899384117894244799">Exclude un utilizator cu permisiuni limitate</translation>
@@ -6462,4 +6450,100 @@ Păstrează fișierul cu cheia într-un loc sigur. Acesta va fi necesar la crear
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Se stabilește conexiunea securizată...</translation>
 <translation id="998747458861718449">I&amp;nspectează</translation>
+<translation id="658539216370629794">Deschide link în fereastră &amp;privată</translation>
+<translation id="1432267168815937878">Deschide Link în Fereastră &amp;Privată</translation>
+<translation id="6516243500644829484">Fereastră &amp;privată nouă</translation>
+<translation id="7973394300052703468">Fereastră &amp;Privată Nouă</translation>
+<translation id="6395403722585816044">Descărcat în Privat</translation>
+<translation id="203837651858678035">Ieși oricum din modul privat?</translation>
+<translation id="7376221878517288144">Ieși oricum din modul privat?</translation>
+<translation id="871606814707918245">Majoritatea utilizatorilor blochează notificările de la acest site</translation>
+<translation id="5053701565089446556">Extensie Privată: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Aplicație Privată: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Tab Privat: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Subcadru privat: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portal incognito: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Magazin Web</translation>
+<translation id="8261378640211443080">Această extensie nu este inclusă în <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> și este posibil să fi fost adăugată fără știrea dvs.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
+<translation id="4369414322596874629">Poți să navighezi în privat folosind o fereastră privată</translation>
+<translation id="3772947852642271642">Folosește webul fără să salvezi istoricul de navigare cu o fereastră privată</translation>
+<translation id="3871738366246972820">Folosești un calculator împreună cu altcineva? Încearcă să deschizi o fereastră privată.</translation>
+<translation id="5808622652939943719">Pentru a naviga în privat, clic pe iconița de meniu cu puncte pentru a deschide o fereastră privată</translation>
+<translation id="9079153198295609735">Trimite automat la Brave Software statistici de utilizare și rapoarte de blocare</translation>
+<translation id="8839398440242019256">Nu este din Magazinul Web.</translation>
+<translation id="6945695820322143954">Această extensie încalcă politica Magazinului Web.</translation>
+<translation id="1676595396635191120">Fereastră Privată Nouă</translation>
+<translation id="5094764494104066239">Afișează mereu bara de marcaje</translation>
+<translation id="4471385409549756595">Fereastră privată nouă</translation>
+<translation id="4540437243849625078">Acest site este despre partajarea informațiilor cu o aplicație în afara modului privat.</translation>
+<translation id="1227836882233136433">Ieși din modul privat?</translation>
+<translation id="7618452966706304788">Vrei să folosești ID Atingere cu <ph name="APP_NAME"/> în modul Privat?</translation>
+<translation id="3098826269712097986">Datele de înregistrare vor fi stocate în Brave după ce ieși din modul Privat. Aceasta îți va permite să folosești ID Atingere cu acest site din nou mai târziu.</translation>
+<translation id="5186185447130319458">Privat</translation>
+<translation id="2579188629646253712">Ieși din Privat</translation>
+<translation id="6744651634043798597">{COUNT, plural,
+          =0 {Open all in &amp;private window}
+          =1 {Open in &amp;private window}
+          other {Open all (#) in &amp;private window}}</translation>
+<translation id="2431625704210501303">Deschide în fereastră &amp;privată</translation>
+<translation id="4620367155626060530">&amp;Afișați bara de marcaje</translation>
+<translation id="2633634757060186848">{COUNT, plural,
+          =0 {Open All in &amp;Private Window}
+          =1 {Open in &amp;Private Window}
+          other {Open All (#) in &amp;Private Window}}</translation>
+<translation id="1985165269306590797">Deschide în Fereastră &amp;Privată</translation>
+<translation id="4680518314108745448">&amp;Afișați bara de marcaje</translation>
+<translation id="642436385689435488">Deschide to în fereastră privată</translation>
+<translation id="5463021359602611602">Deschide în fereastră privată</translation>
+<translation id="1850357845349976573">{0, plural,
+        =1 {Private}
+        other {# open private windows}
+      }</translation>
+<translation id="37784332082579802">{0, plural,
+      =1 {Private}
+      other {Private (#)}
+    }</translation>
+<translation id="5070556616376997776">Aceasta este o fereastră privată</translation>
+<translation id="5832813618714645810">Persoane</translation>
+<translation id="7171000599584840888">Adaugă Profil...</translation>
+<translation id="2005199804247617997">Alte persoane</translation>
+<translation id="2935225303485967257">Administrează profiluri</translation>
+<translation id="8966809848145604011">Alte persoane</translation>
+<translation id="688280436658139163">Administrează Profiluri</translation>
+<translation id="4133080584509825342">Editează profil, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Editează profil, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="5828545842856466741">Adaugă o persoană...</translation>
+<translation id="2254158488150713536">Pentru a continua, dă clic pe OK, apoi pe Adaugă o persoană pentru a crea un profil nou pentru adresa de e-mail.</translation>
+<translation id="1725743343613175327">Pentru a continua, dă clic pe OK, apoi pe Adaugă o persoană pentru a crea un profil nou pentru adresa de e-mail <ph name="DOMAIN"/>.</translation>
+<translation id="6921634551681321094">Adaugă profil</translation>
+<translation id="4904061654709986277">Adaugă Profil</translation>
+<translation id="6114945161119872228">Șterge Acest Profil</translation>
+<translation id="769308100792069196">Adaugă Profil Supervizat</translation>
+<translation id="8006143138282906848">Șterge acest profil</translation>
+<translation id="6912187023601892621">Adaugă profil supervizat</translation>
+<translation id="8086119151297127544">Te rugăm deblochează-ți profilul înainte să ștergi un profil.</translation>
+<translation id="7805701378418968629">Te rugăm deblochează-ți profilul înainte să adaugi un profil.</translation>
+<translation id="6315812488257290136">Persoane</translation>
+<translation id="3707212204259470604">Administrează alte profiluri</translation>
+<translation id="5840822070878669614">Deschide Magazinul Web</translation>
+<translation id="383007806262310953">Afișează bara de marcaje</translation>
+<translation id="2890280714162339872">Sesiunea incognito actuală: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Sesiunea incognito actuală: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Sesiunea incognito actuală: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Sesiunea incognito actuală: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> și altele</translation>
+<translation id="8648684608605749476">Blochează cookie-urile terță parte în modul incognito</translation>
+<translation id="6105125042109106861">Cookie-urile terță parte sunt blocate în modul Incognito</translation>
+<translation id="1281501490173223206">Doar sesiunea privată actuală</translation>
+<translation id="5566692924079383101">Această excepție va fi eliminată automat când închizi sesiunea incognito actuală</translation>
+<translation id="6906406176003824042">Editează profil</translation>
+<translation id="9063160602596686558">Trimite automat statistici de utilizare și rapoarte de blocare la Brave Software</translation>
+<translation id="3860292630623580294">(Privat)</translation>
+<translation id="4854477725773269949">Permite în privat</translation>
+<translation id="6436164536244065364">Vizualizați în Magazinul web Brave</translation>
+<translation id="38046578254905003">Găsește extensii și teme în <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Magazinul Web<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6336451774241870485">Pagină nouă privată</translation>
+<translation id="6610147964972079463">Închideți paginile private</translation>
+<translation id="4933782374919065856">Întrebări? Contactează persoana care îți monitorizează profilul.</translation>
 </translationbundle>

@@ -591,7 +591,6 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 <translation id="5862731021271217234">Kveiktu á samstillingu til að fá aðgang að flipunum þínum í öðrum tækjum</translation>
 <translation id="5864174910718532887">Upplýsingar: Raðað eftir heiti vefsvæðis</translation>
 <translation id="5864419784173784555">Bíður eftir öðru niðurhali…</translation>
-<translation id="9063160602596686558">Sendir sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Brave</translation>
 <translation id="5869522115854928033">Vistuð aðgangsorð</translation>
 <translation id="5876056640971328065">Gera hlé á spilun</translation>
 <translation id="9037412730408024068">Brave fær vefslóðir og innihald vefsvæða þar sem þú notar hjálparann, auk upplýsinga sem þú sendir með hjálparanum, til að hjálpa þér að ljúka við verkefni</translation>
@@ -769,7 +768,6 @@ Sum vefsvæði kunna til dæmis að bregðast við beiðninni með því að bir
 <translation id="7413229368719586778">Upphafsdagur er <ph name="DATE"/></translation>
 <translation id="7431991332293347422">Stjórnaðu því hvernig vefskoðunarferillinn þinn er notaður til að sérsníða leit og fleira</translation>
 <translation id="6234515504547364178">Skrá út af Brave</translation>
-<translation id="1438581767753657407">Þegar kveikt er á léttútgáfu notar Brave þjóna Brave til að hlaða síðum hraðar. Léttútgáfa endurskrifar mjög hægar síður og hleður aðeins nauðsynlegu efni. Léttútgáfa er ekki notuð á huliðsflipum.</translation>
 <translation id="7444811645081526538">Fleiri flokkar</translation>
 <translation id="8218628800671693884">Skráir þig út af flestum vefsvæðum. Þú verður ekki skráð(ur) út af Brave reikningnum þínum.</translation>
 <translation id="7454641608352164238">Ekki nægt pláss</translation>
@@ -994,4 +992,23 @@ Sum vefsvæði kunna til dæmis að bregðast við beiðninni með því að bir
 <translation id="981121421437150478">Ónettengt</translation>
 <translation id="983192555821071799">Loka öllum flipum</translation>
 <translation id="987264212798334818">Almennt</translation>
+<translation id="5186185447130319458">Fara huldu höfðu</translation>
+<translation id="9063160602596686558">Sendir sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Brave Software</translation>
+<translation id="1438581767753657407">Þegar kveikt er á léttútgáfu notar Brave þjóna Brave Software til að hlaða síðum hraðar. Léttútgáfa endurskrifar mjög hægar síður og hleður aðeins nauðsynlegu efni. Léttútgáfa er ekki notuð á huliðsflipum.</translation>
+<translation id="2633278372998075009">Huliðsflipar</translation>
+<translation id="6099151465289169210">Skipt yfir í huliðsflipa</translation>
+<translation id="4243710787042215766">Opna í huliðsflipa</translation>
+<translation id="3110967157686007724">Huliðsflipi</translation>
+<translation id="4526803704855831732">Huliðsflipar</translation>
+<translation id="7465104139234185284">Loka öllum huliðsflipum</translation>
+<translation id="6336451774241870485">Nýr huliðsflipi</translation>
+<translation id="3234355010754616171">Nýr huliðsflipi</translation>
+<translation id="6610147964972079463">Loka huliðsflipum</translation>
+<translation id="4968908871398201967">Huliðsstilling</translation>
+<translation id="9080642952018487277">Fara huldu höfði</translation>
+<translation id="4883379392681899581">Slökkva á huliðsstillingu</translation>
+<translation id="3377025655491224618">Huliðsflipi</translation>
+<translation id="584427517463557805">Valinn huliðsflipi</translation>
+<translation id="2280910239864711607">Opna nýjan flipa í huliðsstillingu</translation>
+<translation id="8628973420740315031">Ef þú vilt deila með fólki í nágrenninu skaltu láta það skanna þennan QR-kóða</translation>
 </translationbundle>

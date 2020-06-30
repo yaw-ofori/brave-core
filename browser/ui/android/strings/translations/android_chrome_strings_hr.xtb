@@ -591,7 +591,6 @@ Da biste promijenili tu postavku, <ph name="BEGIN_LINK"/>poništite sinkronizaci
 <translation id="5862731021271217234">Da bi se prikazale kartice s vaših ostalih uređaja, uključite sinkronizaciju</translation>
 <translation id="5864174910718532887">Pojedinosti: poredano po nazivu web-lokacije</translation>
 <translation id="5864419784173784555">Čekanje na još jedno preuzimanje…</translation>
-<translation id="9063160602596686558">Automatski šalje Braveu statistiku upotrebe i izvješća o rušenju</translation>
 <translation id="5869522115854928033">Spremljene zaporke</translation>
 <translation id="5876056640971328065">Pauziraj videozapis</translation>
 <translation id="9037412730408024068">Da bi vam pomogao sa zadacima, Brave će primati URL-ove i sadržaje web-lokacija na kojima upotrebljavate Asistenta, kao i informacije koje šaljete putem Asistenta</translation>
@@ -769,7 +768,6 @@ Na primjer, neke web-lokacije na taj zahtjev mogu odgovoriti tako da vam prikaž
 <translation id="7413229368719586778">Datum početka: <ph name="DATE"/></translation>
 <translation id="7431991332293347422">Odredite na koji će se način vaša povijest pregledavanja upotrebljavati za prilagodbu Pretraživanja i drugih značajki</translation>
 <translation id="6234515504547364178">Odjava s Bravea</translation>
-<translation id="1438581767753657407">Kad je omogućen Jednostavni način, Brave upotrebljava Braveove poslužitelje kako bi se stranice brže učitale. Jednostavni način ponovo ispisuje vrlo spore stranice kako bi se učitao samo neophodan sadržaj. Jednostavni se način ne primjenjuje na anonimne stranice.</translation>
 <translation id="7444811645081526538">Više kategorija</translation>
 <translation id="8218628800671693884">Odjavit ćete se s većine web-lokacija, ali se nećete odjaviti s Brave računa.</translation>
 <translation id="7454641608352164238">Nema dovoljno prostora</translation>
@@ -994,4 +992,23 @@ Na primjer, neke web-lokacije na taj zahtjev mogu odgovoriti tako da vam prikaž
 <translation id="981121421437150478">Izvanmrežno</translation>
 <translation id="983192555821071799">Zatvori sve kartice</translation>
 <translation id="987264212798334818">Općenito</translation>
+<translation id="5186185447130319458">Privatno</translation>
+<translation id="9063160602596686558">Automatski šalje Brave Softwareu statistiku upotrebe i izvješća o rušenju</translation>
+<translation id="1438581767753657407">Kada se primjenjuje način Lite, preglednik Brave upotrebljava poslužitelje Brave za brže učitavanje stranica. Načinom se Lite iznimno sporo ponovno zapisuju stranice radi učitavanja samo osnovnog sadržaja. Način Lite ne odnosi se na kartice Privatno.</translation>
+<translation id="2633278372998075009">Kartice Privatno</translation>
+<translation id="6099151465289169210">Prebačeno na privatne kartice</translation>
+<translation id="4243710787042215766">Otvori u privatnoj kartici</translation>
+<translation id="3110967157686007724">Kartica Privatno</translation>
+<translation id="4526803704855831732">Kartice Privatno</translation>
+<translation id="7465104139234185284">Zatvori sve privatne kartice</translation>
+<translation id="6336451774241870485">Nova privatna kartica</translation>
+<translation id="3234355010754616171">Nova privatna kartica</translation>
+<translation id="6610147964972079463">Zatvori privatne kartice</translation>
+<translation id="4968908871398201967">Privatni način</translation>
+<translation id="9080642952018487277">Pristupi privatnom načinu</translation>
+<translation id="4883379392681899581">Napusti privatni način</translation>
+<translation id="3377025655491224618">Kartica Privatno</translation>
+<translation id="584427517463557805">Odabrane kartice Privatno</translation>
+<translation id="2280910239864711607">Otvori novu karticu u privatnom načinu</translation>
+<translation id="8628973420740315031">Za dijeljenje s osobama u blizini dopustite im da skeniraju ovaj QR kod</translation>
 </translationbundle>

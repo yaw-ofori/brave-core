@@ -13,10 +13,8 @@ Some features may be unavailable and changes to preferences won't be saved.</tra
 <translation id="7419046106786626209">Chrome OS could not sync your data because Sync is not available for your domain.</translation>
 <translation id="5147525139567260139">Share a Brave tab</translation>
 <translation id="1530633922026945685">Brave needs permission to access your camera to create a 3D map of your surroundings</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{Your administrator requires that you relaunch Brave to apply an update}=1{Your administrator requires that you relaunch Brave to apply an update. Your Incognito window won't reopen.}other{Your administrator requires that you relaunch Brave to apply an update. Your # Incognito windows won't reopen.}}</translation>
 <translation id="5616153642055197778">There's a new, safer version of Brave available.</translation>
 <translation id="6797402139308059782">Let Brave run in the background</translation>
-<translation id="1448049584457347995">To make Brave safer, we disabled some extensions that aren't listed in the <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> and may have been added without your knowledge.</translation>
 <translation id="5875673934455379806">Reinstall Brave</translation>
 <translation id="650055380213106997">You are signing in with a managed account and giving its administrator control over your Brave profile. Your Brave data, such as your apps, bookmarks, history, passwords and other settings will become permanently tied to <ph name="USER_NAME"/>. You will be able to delete this data via the Brave Accounts Dashboard, but you will not be able to associate this data with another account. You can optionally create a new profile to keep your existing Brave data separate. <ph name="LEARN_MORE"/></translation>
 <translation id="1649714546770135458">By turning this off, you can sign in to Brave sites such as Gmail, without signing in to Brave</translation>
@@ -51,7 +49,6 @@ Some features may be unavailable and changes to preferences won't be saved.</tra
 <translation id="7365690458036015383">The installer failed to uncompress archive. Please download Brave again.</translation>
 <translation id="8919461291440820124">Brave is using your microphone.</translation>
 <translation id="4805806622840861220">Relaunch Brave</translation>
-<translation id="6554952862405000915">Open Link in Brave Inco&amp;gnito Window</translation>
 <translation id="1477146545787277177">Whoa! Brave has crashed. Relaunch now?</translation>
 <translation id="7503098128120083822">Brave wants to export your passwords.</translation>
 <translation id="2585240446624043880">Brave cannot read and write to its data directory:
@@ -66,10 +63,7 @@ Some features may be unavailable and changes to preferences won't be saved.</tra
 <translation id="8703492925273919597">Please close all Brave windows and try again.</translation>
 <translation id="1384923383737428730">There's harmful software on your computer. Brave can remove it, restore your settings and disable extensions to make your browser work normally again.</translation>
 <translation id="4847979153841887006">Brave logo</translation>
-<translation id="669092380621816981">This person's browsing data will be deleted from this device. To recover the data, sign in to Brave as <ph name="USER_EMAIL"/>.</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{A new update for Brave is available and will be applied as soon as you relaunch.}=1{A new update for Brave is available and will be applied as soon as you relaunch. Your Incognito window won't reopen.}other{A new update for Brave is available and will be applied as soon as you relaunch. Your # Incognito windows won't reopen.}}</translation>
 <translation id="4304059894777924102">Brave can't check your passwords. Try checking your Internet connection.</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{Your administrator asks that you relaunch Brave to apply this update}=1{Your administrator asks that you relaunch Brave to apply this update. Your Incognito window won't reopen.}other{Your administrator asks that you relaunch Brave to apply this update. Your # Incognito windows won't reopen.}}</translation>
 <translation id="1807774211756215222">Open link in new Brave &amp;tab</translation>
 <translation id="7453070689008684791">Brave will access your Drive to make suggestions in the address bar</translation>
 <translation id="2106568569080763501">Brave lets you click a phone number on the web and call it with Skype!</translation>
@@ -165,7 +159,6 @@ Some features may be unavailable. Please specify a different profile directory o
 <translation id="7830723774663008396">Brave - <ph name="PAGE_TITLE"/></translation>
 <translation id="5253815230176279256">Brave Pay (copied to Brave)</translation>
 <translation id="2301993384336631869">Brave has been updated, but you haven't used it for 30 days or more.</translation>
-<translation id="4624945300945265642">Open link in Brave inco&amp;gnito window</translation>
 <translation id="3335606533094650083">Brave needs permission to access your microphone for this site</translation>
 <translation id="1785833016412082453">Brave can't check your extensions. Try again later.</translation>
 <translation id="1705567146636171298">Update Brave</translation>
@@ -200,7 +193,6 @@ Brave is unable to recover your settings.</translation>
 <translation id="5419189641394808652">Brave could not sync your data because Sync is not available for your domain.</translation>
 <translation id="4784414698887946907">This will delete your browsing data from this device. To retrieve your data later, sign in to Brave as <ph name="USER_EMAIL"/>.</translation>
 <translation id="7747138024166251722">The installer couldn't create a temporary directory. Please check for free disk space and permission to install software.</translation>
-<translation id="6134859571175647580">Warning: Brave cannot prevent extensions from recording your browsing history. To disable this extension in incognito mode, unselect this option.</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> – Brave Canary</translation>
 <translation id="38898988211673781">Clear cookies and site data when you quit Brave</translation>
 <translation id="7963515534397191222">Brave couldn't update to the latest version, so you're missing out on new features and security fixes.</translation>
@@ -237,7 +229,6 @@ Brave is unable to recover your settings.</translation>
 <translation id="8285294305439559616">Brave is trying to show passwords. Type your Windows password to allow this.</translation>
 <translation id="6389268239133412586">Can't update Brave</translation>
 <translation id="6368958679917195344">Chrome OS is made possible by additional <ph name="BEGIN_LINK_CROS_OSS"/>open source software<ph name="END_LINK_CROS_OSS"/>.</translation>
-<translation id="8848045066928358658">To make Brave safer, we disabled the following extension that isn't listed in the <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> and may have been added without your knowledge.</translation>
 <translation id="5173820533850252773">Brave is out of date</translation>
 <translation id="310518206836658214">{0,plural, =1{Brave will relaunch in an hour}other{Brave will relaunch in # hours}}</translation>
 <translation id="7863882214613921971">Open Link in New Brave &amp;tab</translation>
@@ -247,4 +238,13 @@ Brave is unable to recover your settings.</translation>
 <translation id="7977787072794666032">Brave may not function correctly because it is no longer supported on Windows XP or Windows Vista</translation>
 <translation id="2398566204186296120"><ph name="DOMAIN"/> requires that you read and accept the following Terms of Service before using this device. These terms do not expand, modify or limit the Chrome OS Terms.</translation>
 <translation id="8992261409816268381">Brave Software Inc</translation>
+<translation id="6134859571175647580">Warning: Brave cannot prevent extensions from recording your browsing history. To disable this extension in incognito mode, unselect this option.</translation>
+<translation id="1448049584457347995">To make Brave safer, we disabled some extensions that aren't listed in the <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> and may have been added without your knowledge.</translation>
+<translation id="8848045066928358658">To make Brave safer, we disabled the following extension that isn't listed in the <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> and may have been added without your knowledge.</translation>
+<translation id="669092380621816981">This person's browsing data will be deleted from this device. To recover the data, sign in to Brave as <ph name="USER_EMAIL"/>.</translation>
+<translation id="4624945300945265642">Open link in Brave inco&amp;gnito window</translation>
+<translation id="6554952862405000915">Open Link in Brave Inco&amp;gnito Window</translation>
+<translation id="8274659559228306809">{COUNT,plural, =0{A new update for Brave is available and will be applied as soon as you relaunch.}=1{A new update for Brave is available and will be applied as soon as you relaunch. Your Incognito window won't reopen.}other{A new update for Brave is available and will be applied as soon as you relaunch. Your # Incognito windows won't reopen.}}</translation>
+<translation id="3829358914761176693">{COUNT,plural, =0{Your administrator asks that you relaunch Brave to apply this update}=1{Your administrator asks that you relaunch Brave to apply this update. Your Incognito window won't reopen.}other{Your administrator asks that you relaunch Brave to apply this update. Your # Incognito windows won't reopen.}}</translation>
+<translation id="552349673358711446">{COUNT,plural, =0{Your administrator requires that you relaunch Brave to apply an update}=1{Your administrator requires that you relaunch Brave to apply an update. Your Incognito window won't reopen.}other{Your administrator requires that you relaunch Brave to apply an update. Your # Incognito windows won't reopen.}}</translation>
 </translationbundle>

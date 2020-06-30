@@ -1827,7 +1827,6 @@ Dodatni detalji:
 <translation id="8800988563907321413">Vaši prijedlozi web stranica u blizini će se pojaviti ovdje</translation>
 <translation id="8805819170075074995">Unos na listi "<ph name="LANGUAGE_ID"/>": Unos je zanemaren jer je uključen i u pravilo SpellcheckLanguage.</translation>
 <translation id="8807160976559152894">Skraćivanje nakon svake stranice</translation>
-<translation id="8820817407110198400">Oznake</translation>
 <translation id="883848425547221593">Ostale oznake</translation>
 <translation id="884264119367021077">Adresa za isporuku</translation>
 <translation id="884923133447025588">Nije pronađen nijedan mehanizam za opoziv.</translation>
@@ -1947,4 +1946,5 @@ Dodatni detalji:
 <translation id="994346157028146140">JIS B1</translation>
 <translation id="6771143571626203666">Iz Brave Paya</translation>
 <translation id="3489858312836205593">Otvorite novi anonimni prozor u Braveu</translation>
+<translation id="8820817407110198400">Oznake</translation>
 </translationbundle>

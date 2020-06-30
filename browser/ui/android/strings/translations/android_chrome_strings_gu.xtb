@@ -591,7 +591,6 @@
 <translation id="5862731021271217234">તમારા અન્ય ઉપકરણો પરથી તમારા ટૅબ મેળવવા માટે, સિંક કરવાનું ચાલુ કરો</translation>
 <translation id="5864174910718532887">વિગતો: સાઇટના નામ દ્વારા સૉર્ટ કરાયેલ</translation>
 <translation id="5864419784173784555">બીજા ડાઉનલોડ માટે રાહ જોઈ રહ્યાં છે…</translation>
-<translation id="9063160602596686558">Braveને વપરાશના આંકડા અને ક્રૅશ રિપોર્ટ ઑટોમૅટિક રીતે મોકલે છે</translation>
 <translation id="5869522115854928033">સાચવેલા પાસવર્ડ્સ</translation>
 <translation id="5876056640971328065">વીડિયો થોભાવો</translation>
 <translation id="9037412730408024068">કામને પૂર્ણ કરવામાં તમારી સહાય માટે, Braveને તમે જેના પર આસિસ્ટંટનો ઉપયોગ કરો છો તે URLs અને સાઇટના કન્ટેન્ટ તેમજ તમે આસિસ્ટંટ મારફતે સબમિટ કરો છો તે માહિતી મળશે</translation>
@@ -769,7 +768,6 @@
 <translation id="7413229368719586778">પ્રારંભ તારીખ <ph name="DATE"/></translation>
 <translation id="7431991332293347422">શોધ અને અન્ય બાબતોને તમને મનગમતી બનાવવા માટે તમારા બ્રાઉઝિંગ ઇતિહાસનો ઉપયોગ કરવાની રીત નિયંત્રિત કરો</translation>
 <translation id="6234515504547364178">Braveમાંથી સાઇન આઉટ કરો</translation>
-<translation id="1438581767753657407">જ્યારે લાઇટ મોડ ચાલુ હોય છે, ત્યારે Brave પેજ લોડ થવાની ક્રિયાને વધુ ઝડપી બનાવવા માટે Brave સર્વરનો ઉપયોગ કરે છે. લાઇટ મોડ ફક્ત જરૂરી કન્ટેન્ટને લોડ કરવા માટે ખૂબ ધીમા પેજને ફરીથી લખે છે. લાઇટ મોડ, છૂપા મોડમાં લાગુ થતું નથી.</translation>
 <translation id="7444811645081526538">વધુ કૅટેગરી</translation>
 <translation id="8218628800671693884">તમને મોટાભાગની સાઇટોમાંથી સાઇન આઉટ કરે છે. તમે તમારા Brave એકાઉન્ટમાંથી સાઇન આઉટ નહિ થાઓ.</translation>
 <translation id="7454641608352164238">પર્યાપ્ત જગ્યા નથી</translation>
@@ -994,4 +992,23 @@
 <translation id="981121421437150478">ઑફલાઇન</translation>
 <translation id="983192555821071799">બધા ટેબ્સ બંધ કરો</translation>
 <translation id="987264212798334818">સામાન્ય</translation>
+<translation id="5186185447130319458">ખાનગી</translation>
+<translation id="9063160602596686558">Brave Softwareને વપરાશના આંકડા અને ક્રૅશ રિપોર્ટ ઑટોમૅટિક રીતે મોકલે છે</translation>
+<translation id="1438581767753657407">જ્યારે Lite મોડ ચાલુ હોય ત્યારે, પૃષ્ઠોને વધુ ઝડપથી લોડ કરવા માટે Brave Brave સર્વરોનો ઉપયોગ કરે છે. Lite મોડ ફક્ત આવશ્યક સામગ્રીને લોડ કરવા માટે ખૂબ ધીમું પૃષ્ઠો ફરીથી લખે છે. Lite મોડ ખાનગી ટૅબ્સ પર લાગુ પડતું નથી.</translation>
+<translation id="2633278372998075009">ખાનગી ટૅબ્સ</translation>
+<translation id="6099151465289169210">ખાનગી ટૅબ્સ પર સ્વિચ કરો</translation>
+<translation id="4243710787042215766">ખાનગી ટૅબમાં ખોલો</translation>
+<translation id="3110967157686007724">ખાનગી ટૅબ</translation>
+<translation id="4526803704855831732">ખાનગી ટૅબ્સ</translation>
+<translation id="7465104139234185284">તમામ ખાનગી ટૅબ્સ બંધ કરો</translation>
+<translation id="6336451774241870485">નવું ખાનગી ટૅબ</translation>
+<translation id="3234355010754616171">નવું ખાનગી ટૅબ</translation>
+<translation id="6610147964972079463">ખાનગી ટૅબ્સ બંધ કરો</translation>
+<translation id="4968908871398201967">ખાનગી મોડ</translation>
+<translation id="9080642952018487277">ખાનગી મોડ દાખલ કરો</translation>
+<translation id="4883379392681899581">ખાનગી મોડ છોડો</translation>
+<translation id="3377025655491224618">ખાનગી મોડ</translation>
+<translation id="584427517463557805">ખાનગી મોડ પસંદ થઈ ગયું</translation>
+<translation id="2280910239864711607">ખાનગી મોડમાં નવી મોડ ખોલો</translation>
+<translation id="8628973420740315031">નજીકના લોકો સાથે શેર કરવા માટે, તેમને આ QR કોડ તપાસવા દો</translation>
 </translationbundle>

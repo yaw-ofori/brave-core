@@ -13,10 +13,8 @@ Es posible que algunas funciones no estén disponibles y que no se guarden los c
 <translation id="7419046106786626209">Chrome OS no ha podido sincronizar los datos porque la función de sincronización no está disponible para tu dominio.</translation>
 <translation id="5147525139567260139">Compartir una pestaña de Brave</translation>
 <translation id="1530633922026945685">Para crear un mapa 3D de tu entorno, Brave necesita permiso para acceder a tu cámara</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{Tu administrador pide que reinicies Brave para aplicar una actualización}=1{Tu administrador pide que reinicies Brave para aplicar una actualización. La ventana de incógnito no se volverá a abrir.}other{Tu administrador pide que reinicies Brave para aplicar una actualización. Las # ventanas de incógnito no se volverán a abrir.}}</translation>
 <translation id="5616153642055197778">Hay disponible una nueva versión más segura de Brave.</translation>
 <translation id="6797402139308059782">Permitir que Brave se ejecute en segundo plano</translation>
-<translation id="1448049584457347995">Para aumentar la seguridad de Brave, hemos inhabilitado algunas extensiones que no figuran en <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> y que se podrían haber añadido sin tu conocimiento.</translation>
 <translation id="5875673934455379806">Reinstalar Brave</translation>
 <translation id="650055380213106997">Vas a iniciar sesión con una cuenta gestionada, lo que significa que proporcionarás a su administrador control sobre tu perfil de Brave. Tus datos de Brave como, por ejemplo, tus aplicaciones, tus marcadores, tu historial, tus contraseñas y otras opciones se vincularán de forma permanente a la cuenta <ph name="USER_NAME"/>. Podrás eliminar estos datos a través del Panel de control de cuentas de Brave, pero no podrás asociarlos a otra cuenta. De forma opcional, puedes crear un nuevo perfil para mantener separados tus datos de Brave. <ph name="LEARN_MORE"/></translation>
 <translation id="1649714546770135458">Si esta opción está desactivada, puedes iniciar sesión en sitios de Brave, como Gmail, sin hacerlo en Brave</translation>
@@ -51,7 +49,6 @@ Es posible que algunas funciones no estén disponibles y que no se guarden los c
 <translation id="7365690458036015383">El programa de instalación no ha podido descomprimir el archivo. Vuelve a descargar Brave.</translation>
 <translation id="8919461291440820124">Brave está utilizando el micrófono.</translation>
 <translation id="4805806622840861220">Reiniciar Brave</translation>
-<translation id="6554952862405000915">Abrir enlace en una ventana de incó&amp;gnito de Brave</translation>
 <translation id="1477146545787277177">¡Vaya! Se ha producido un fallo en Brave. ¿Quieres reiniciar el navegador ahora?</translation>
 <translation id="7503098128120083822">Brave quiere exportar tus contraseñas.</translation>
 <translation id="2585240446624043880">Brave no puede leer el directorio de datos ni escribir en él:
@@ -66,10 +63,7 @@ Es posible que algunas funciones no estén disponibles y que no se guarden los c
 <translation id="8703492925273919597">Cierra todas las ventanas de Brave e inténtalo de nuevo.</translation>
 <translation id="1384923383737428730">Se ha detectado software dañino en tu ordenador. Brave puede eliminarlo, restaurar tu configuración y desactivar las extensiones para que el navegador vuelva a funcionar con normalidad.</translation>
 <translation id="4847979153841887006">Logotipo de Brave</translation>
-<translation id="669092380621816981">Los datos de navegación de este usuario se eliminarán del dispositivo. Para recuperar tus datos, inicia sesión en Brave como <ph name="USER_EMAIL"/>.</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{Hay una nueva actualización de Brave disponible que se aplicará cuando reinicies el dispositivo.}=1{Hay una nueva actualización de Brave disponible que se aplicará cuando reinicies el dispositivo. La ventana de incógnito no se volverá a abrir.}other{Hay una nueva actualización de Brave disponible que se aplicará cuando reinicies el dispositivo. Las # ventanas de incógnito no se volverán a abrir.}}</translation>
 <translation id="4304059894777924102">Brave no puede comprobar tus contraseñas. Revisa tu conexión a Internet.</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{Tu administrador pide que reinicies Brave para aplicar esta actualización}=1{Tu administrador pide que reinicies Brave para aplicar esta actualización La ventana de incógnito no se volverá a abrir.}other{Tu administrador pide que reinicies Brave para aplicar esta actualización Las # ventanas de incógnito no se volverán a abrir.}}</translation>
 <translation id="1807774211756215222">Abrir enlace en una pes&amp;taña nueva de Brave</translation>
 <translation id="7453070689008684791">Brave accederá a tu Drive para mostrarte sugerencias en la barra de direcciones</translation>
 <translation id="2106568569080763501">Brave te permite hacer clic en un número de teléfono en la Web y llamar mediante Skype.</translation>
@@ -165,7 +159,6 @@ Es posible que algunas funciones no estén disponibles. Especifica un directorio
 <translation id="7830723774663008396">Brave - <ph name="PAGE_TITLE"/></translation>
 <translation id="5253815230176279256">Brave Pay (copiada en Brave)</translation>
 <translation id="2301993384336631869">Brave se ha actualizado, pero llevas al menos 30 días sin utilizarlo.</translation>
-<translation id="4624945300945265642">Abrir enlace en una ventana de incó&amp;gnito de Brave</translation>
 <translation id="3335606533094650083">Brave necesita permiso para acceder al micrófono en este sitio web</translation>
 <translation id="1785833016412082453">Brave no puede comprobar tus extensiones. Vuelve a intentarlo más tarde.</translation>
 <translation id="1705567146636171298">Actualizar Brave</translation>
@@ -200,7 +193,6 @@ Brave no puede recuperar tu configuración.</translation>
 <translation id="5419189641394808652">Brave no ha podido sincronizar los datos porque la función de sincronización no está disponible para tu dominio.</translation>
 <translation id="4784414698887946907">Se eliminarán tus datos de navegación de este dispositivo. Para recuperar tus datos en otro momento, inicia sesión en Brave como <ph name="USER_EMAIL"/>.</translation>
 <translation id="7747138024166251722">El programa de instalación no ha podido crear un directorio temporal. Comprueba si hay espacio libre en el disco y si tienes autorización para instalar el software.</translation>
-<translation id="6134859571175647580">Advertencia: Brave no puede evitar que las extensiones registren el historial de navegación. Para inhabilitar esta extensión en modo de incógnito, desactiva esta opción.</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> ‑ Brave Canary</translation>
 <translation id="38898988211673781">Borrar las cookies y los datos de sitios web al salir de Brave</translation>
 <translation id="7963515534397191222">No se ha podido actualizar Brave a la versión más reciente, por lo que no disfrutas de las últimas funciones y correcciones de seguridad.</translation>
@@ -237,7 +229,6 @@ Brave no puede recuperar tu configuración.</translation>
 <translation id="8285294305439559616">Brave está intentando mostrar contraseñas. Para permitirlo, escribe tu contraseña de Windows.</translation>
 <translation id="6389268239133412586">No se puede actualizar Brave</translation>
 <translation id="6368958679917195344">Chrome OS se ha creado gracias a <ph name="BEGIN_LINK_CROS_OSS"/>software libre<ph name="END_LINK_CROS_OSS"/> adicional.</translation>
-<translation id="8848045066928358658">Para aumentar la seguridad de Brave, hemos inhabilitado la siguiente extensión que no figura en <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> y que puede haberse añadido sin tu conocimiento.</translation>
 <translation id="5173820533850252773">Brave no está actualizado</translation>
 <translation id="310518206836658214">{0,plural, =1{Brave se reiniciará dentro de 1 hora}other{Brave se reiniciará dentro de # horas}}</translation>
 <translation id="7863882214613921971">Abrir enlace en una pes&amp;taña nueva de Brave</translation>
@@ -247,4 +238,22 @@ Brave no puede recuperar tu configuración.</translation>
 <translation id="7977787072794666032">Es posible que Brave no funcione correctamente porque ya no es compatible con Windows XP ni Windows Vista</translation>
 <translation id="2398566204186296120"><ph name="DOMAIN"/> requiere que leas y aceptes las siguientes Condiciones de Servicio para poder utilizar este dispositivo. Estas condiciones no amplían, modifican ni limitan los términos de Chrome OS.</translation>
 <translation id="8992261409816268381">Los creadores de Brave</translation>
+<translation id="6134859571175647580">Advertencia: Brave no puede evitar que las extensiones registren el historial de navegación. Para inhabilitar esta extensión en Modo Privado, desactiva esta opción.</translation>
+<translation id="1448049584457347995">Para aumentar la seguridad de Brave, hemos inhabilitado algunas extensiones que no figuran en <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> y que se podrían haber añadido sin tu conocimiento.</translation>
+<translation id="8848045066928358658">Para aumentar la seguridad de Brave, hemos inhabilitado la siguiente extensión que no figura en <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> y que puede haberse añadido sin tu conocimiento.</translation>
+<translation id="669092380621816981">Los datos de navegación de este usuario se eliminarán del dispositivo. Para recuperar tus datos, inicia sesión en Brave como <ph name="USER_EMAIL"/>.</translation>
+<translation id="4624945300945265642">Abrir enlace en una ventana privada de Brave</translation>
+<translation id="6554952862405000915">Abrir Enlace en una Ventana privada de Brave</translation>
+<translation id="8274659559228306809">{COUNT, plural,
+          =0 {Hay una nueva actualización disponible para Brave y será aplicada cuando reinicies el dispositivo.}
+          =1 {Hay una nueva actualización disponible para Brave y será aplicada cuando reinicies el dispositivo. Tu ventana privada no volverá a abrirse.}
+          other {Hay una nueva actualización disponible para Brave y será aplicada cuando reinicies el dispositivo. Tus # ventanas privadas no volverán a abrirsen.}}</translation>
+<translation id="3829358914761176693">{COUNT, plural,
+              =0 {Tu administrador pide que reinicies Brave para aplicar esta actualización}
+              =1 {Tu administrador pide que reinicies Brave para aplicar esta actualización. Tu ventana privada no volverá a abrirse.}
+              other {Tu administrador pide que reinicies Brave para aplicar esta actualización. Tus # ventanas privadas no volverán a abrirse.}}</translation>
+<translation id="552349673358711446">{COUNT, plural,
+              =0 {Tu administrador requiere que reinicies Brave para aplicar una actualización}
+              =1 {Tu administrador requiere que reinicies Brave para aplicar una actualización. Tu ventana privada no volverá a abrirse.}
+              other {Tu administrador requiere que reinicies Brave para aplicar una actualización. Tus # ventanas privadas no volverán a abrirse.}}</translation>
 </translationbundle>

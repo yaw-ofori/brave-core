@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ru">
+<translation id="658539216370629794">Открыть ссылку в &amp;приватном окне</translation>
+<translation id="1432267168815937878">Открыть ссылку в &amp;приватном окне</translation>
+<translation id="6516243500644829484">Новое &amp;приватное окно</translation>
+<translation id="7973394300052703468">Новое &amp;приватное окно</translation>
+<translation id="6395403722585816044">Скачано в приватном режиме</translation>
+<translation id="203837651858678035">Все равно выйти из приватного режима?</translation>
+<translation id="7376221878517288144">Все равно выйти из приватного режима?</translation>
+<translation id="871606814707918245">Большинство пользователей блокируют уведомления с этого сайта.</translation>
+<translation id="5053701565089446556">Приватное расширение: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Приватное приложение: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Приватная вкладка: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Приватный субфрейм: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Портал в режиме инкогнито: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8808478386290700967">Интернет-магазин</translation>
+<translation id="8261378640211443080"><ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> не содержит сведений об этом расширении, то есть оно могло быть установлено без вашего ведома.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Приватное)</translation>
+<translation id="4369414322596874629">Вы можете пользоваться браузером конфиденциально, используя приватное окно</translation>
+<translation id="3772947852642271642">Пользуйтесь интернетом в приватного окне без сохранения истории в браузере</translation>
+<translation id="3871738366246972820">Пользуетесь общим компьютером? Попробуйте открыть приватное окно.</translation>
+<translation id="5808622652939943719">Для частного просмотра нажмите на значок меню с точками, чтобы открыть приватное окно.</translation>
+<translation id="9079153198295609735">Автоматически отправлять в Brave Software статистику использования и отчеты о сбоях</translation>
+<translation id="8839398440242019256">Не из интернет-магазина.</translation>
+<translation id="6945695820322143954">Это расширение нарушает политику интернет-магазина.</translation>
+<translation id="1676595396635191120">Новое приватное окно</translation>
+<translation id="5094764494104066239">Всегда показывать панель закладок</translation>
+<translation id="4471385409549756595">Новое приватное окно</translation>
+<translation id="4540437243849625078">Этот сайт собирается делиться информацией с приложением без соблюдения приватного режима.</translation>
+<translation id="1227836882233136433">Выйти из приватного режима?</translation>
+<translation id="7618452966706304788">Хотите использовать Touch ID с <ph name="APP_NAME"/> в Приватном режиме?</translation>
+<translation id="3098826269712097986">Данные для входа будут сохранены в Brave после того, как вы выйдете из Приватного режима. Это позволит вам использовать Touch ID с этим сайтом позже.</translation>
+<translation id="5186185447130319458">Приватное</translation>
+<translation id="2579188629646253712">Выйти из Приватного режима</translation>
+<translation id="2633634757060186848">{COUNT,plural, =0{Открыть все в &amp;режиме инкогнито}=1{Открыть в &amp;режиме инкогнито}one{Открыть все (#) в &amp;режиме инкогнито}few{Открыть все (#) в &amp;режиме инкогнито}many{Открыть все (#) в &amp;режиме инкогнито}other{Открыть все (#) в &amp;режиме инкогнито}}</translation>
+<translation id="1985165269306590797">Открыть в режиме &amp;инкогнито</translation>
+<translation id="642436385689435488">Открыть все в режиме инкогнито</translation>
+<translation id="5463021359602611602">Открыть в режиме инкогнито</translation>
+<translation id="5070556616376997776">Режим инкогнито</translation>
+<translation id="5832813618714645810">Профили</translation>
+<translation id="6921634551681321094">Добавить пользователя</translation>
+<translation id="6315812488257290136">Профили</translation>
+<translation id="5840822070878669614">Открыть Интернет-магазин Brave</translation>
+<translation id="8648684608605749476">Блокировать файлы cookie сторонних сайтов в режиме инкогнито</translation>
+<translation id="1281501490173223206">Только на время текущего сеанса в режиме инкогнито</translation>
+<translation id="9063160602596686558">Автоматически отправлять в Brave Software статистику использования и отчеты о сбоях</translation>
+<translation id="3860292630623580294">(инкогнито)</translation>
+<translation id="4854477725773269949">Разрешить использование в режиме инкогнито</translation>
+<translation id="6436164536244065364">Просмотреть в Интернет-магазине</translation>
+<translation id="38046578254905003">Найдите полезные расширения и приложения в <ph name="BEGIN_LINK"/>Интернет-магазине Brave<ph name="END_LINK"/></translation>
+<translation id="6336451774241870485">Новая личная вкладка</translation>
+<translation id="6610147964972079463">Закрыть личные вкладки</translation>
+</translationbundle>

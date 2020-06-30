@@ -591,7 +591,6 @@ A beállítás módosításához <ph name="BEGIN_LINK"/>állítsa vissza a szink
 <translation id="5862731021271217234">Ha a többi eszközén lévő lapjait is szeretné elérni, kapcsolja be a szinkronizálást</translation>
 <translation id="5864174910718532887">Részletek: Webhelynév szerinti rendezés</translation>
 <translation id="5864419784173784555">Várakozás a másik letöltésre…</translation>
-<translation id="9063160602596686558">Automatikusan elküldi a használati statisztikákat és hibajelentéseket a Brave-nak</translation>
 <translation id="5869522115854928033">Mentett jelszavak</translation>
 <translation id="5876056640971328065">Videó szüneteltetése</translation>
 <translation id="9037412730408024068">Annak érdekében, hogy segíteni tudjon a feladatok elvégzésében, a Brave megkapja azoknak a webhelyeknek az URL-jeit és tartalmait, amelyeken Ön használta Segédjét, valamint megkapja a Segéden keresztül elküldött információkat</translation>
@@ -769,7 +768,6 @@ Egyes webhelyek például válaszolhatnak rá úgy, hogy olyan hirdetéseket jel
 <translation id="7413229368719586778">Kezdés dátuma: <ph name="DATE"/></translation>
 <translation id="7431991332293347422">Beállíthatja, hogy a rendszer hogyan szabja személyre a Keresést és egyebeket a böngészési előzmények alapján</translation>
 <translation id="6234515504547364178">Kijelentkezés a Brave-ból</translation>
-<translation id="1438581767753657407">Amikor be van kapcsolva az Egyszerűsített mód, a Brave a Brave szervereit használja az oldalak felgyorsítására. Az Egyszerűsített mód átírja a nagyon lassú oldalakat, hogy csak a fontos tartalmakat töltsék be. Az Egyszerűsített mód nem használható inkognitólapokon.</translation>
 <translation id="7444811645081526538">További kategóriák</translation>
 <translation id="8218628800671693884">A rendszer a legtöbb webhelyről kijelentkezteti Önt, de Brave-fiókjából nem.</translation>
 <translation id="7454641608352164238">Nincs elég tárhely</translation>
@@ -994,4 +992,23 @@ Egyes webhelyek például válaszolhatnak rá úgy, hogy olyan hirdetéseket jel
 <translation id="981121421437150478">Offline</translation>
 <translation id="983192555821071799">Az összes lap bezárása</translation>
 <translation id="987264212798334818">Általános</translation>
+<translation id="5186185447130319458">Privát</translation>
+<translation id="9063160602596686558">Automatikusan elküldi a használati statisztikákat és hibajelentéseket a Brave Software-nak</translation>
+<translation id="1438581767753657407">Lite módban a Brave saját szervereit használja, hogy az oldalak betöltése gyorsabb legyen. A Lite mód átírja a nagyon lassú oldalakat, hogy csak a lényeges tartalmakat töltse be. A Lite mód nem vonatkozik privát fülekre.</translation>
+<translation id="2633278372998075009">Privát fülek</translation>
+<translation id="6099151465289169210">Átváltva privát fülekre</translation>
+<translation id="4243710787042215766">Megnyitás privát fülben</translation>
+<translation id="3110967157686007724">Privát fül</translation>
+<translation id="4526803704855831732">Privát fülek</translation>
+<translation id="7465104139234185284">Összes privát fül lezárása</translation>
+<translation id="6336451774241870485">Új privát ablak</translation>
+<translation id="3234355010754616171">Új privát ablak</translation>
+<translation id="6610147964972079463">Privát fülek bezárása</translation>
+<translation id="4968908871398201967">Privát mód</translation>
+<translation id="9080642952018487277">Belépés privát módba</translation>
+<translation id="4883379392681899581">Kilépés privát módból</translation>
+<translation id="3377025655491224618">Privát fül</translation>
+<translation id="584427517463557805">Kiválasztott privát fül</translation>
+<translation id="2280910239864711607">Új fül megnyitása privát módban</translation>
+<translation id="8628973420740315031">Ha szeretné engedélyezni a megosztást a közelben lévő személyekkel, olvastassa be velük ezt a QR-kódot</translation>
 </translationbundle>
