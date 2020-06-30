@@ -15,6 +15,7 @@ public class BraveClassAdapter {
         chain = new BraveExternalNavigationHandlerClassAdapter(chain);
         chain = new BraveHomepageManagerClassAdapter(chain);
         chain = new BraveManageSyncSettingsClassAdapter(chain);
+        chain = new BraveEditUrlSuggestionProcessorClassAdapter(chain);
         return chain;
     }
 }

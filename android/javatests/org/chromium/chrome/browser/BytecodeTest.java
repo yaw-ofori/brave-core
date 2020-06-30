@@ -31,6 +31,8 @@ public class BytecodeTest {
         Assert.assertTrue(classExists("org/chromium/chrome/browser/bookmarks/BookmarkBridge"));
         Assert.assertTrue(classExists("org/chromium/components/external_intents/ExternalNavigationHandler"));
         Assert.assertTrue(classExists("org/chromium/chrome/browser/LaunchIntentDispatcher"));
+        Assert.assertTrue(classExists(
+                "org/chromium/chrome/browser/omnibox/suggestions/editurl/EditUrlSuggestionProcessor"));
     }
 
     @Test
@@ -56,6 +58,9 @@ public class BytecodeTest {
         Assert.assertTrue(fieldExists("org/chromium/components/sync/AndroidSyncSettings", "mIsSyncable"));
         Assert.assertTrue(fieldExists("org/chromium/components/sync/AndroidSyncSettings", "mChromeSyncEnabled"));
         Assert.assertTrue(fieldExists("org/chromium/components/sync/AndroidSyncSettings", "mMasterSyncEnabled"));
+        Assert.assertTrue(fieldExists(
+                "org/chromium/chrome/browser/omnibox/suggestions/editurl/EditUrlSuggestionProcessor",
+                "mHasClearedOmniboxForFocus"));
     }
 
     private boolean classExists(String className) {

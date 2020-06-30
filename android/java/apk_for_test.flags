@@ -34,3 +34,7 @@
 -keep class org.chromium.chrome.browser.homepage.HomepageManager {
     *** shouldCloseAppWithZeroTabs(...);
 }
+
+-keep class org.chromium.chrome.browser.omnibox.suggestions.editurl.EditUrlSuggestionProcessor {
+    *** mHasClearedOmniboxForFocus;
+}
