@@ -38,6 +38,8 @@ import {
 import { reloadTab } from '../api/tabsAPI'
 import {
   injectClassIdStylesheet,
+  getAdblockCosmeticFiltersKey,
+  applyAdblockCosmeticFiltersWithResources,
   applyAdblockCosmeticFilters,
   applyCSSCosmeticFilters
 } from '../api/cosmeticFilterAPI'
@@ -406,10 +408,58 @@ export default function shieldsPanelReducer (
         console.error('Active tab not found')
         break
       }
+
+      const key = getAdblockCosmeticFiltersKey(action.tabId, action.frameId)
+      chrome.storage.local.get(key, (data = {}) => {
+        // This can happen if this background script didn't get before navigation event.
+        // This would be very very rare case. I only saw this at launching a few times.
+        if (!data[key]) {
+          Promise.all([chrome.braveShields.shouldDoCosmeticFilteringAsync(action.url), chrome.braveShields.isFirstPartyCosmeticFilteringEnabledAsync(action.url)])
+            .then(([doCosmeticBlocking, hide1pContent]: [boolean, boolean]) => {
+              if (doCosmeticBlocking) {
+                applyAdblockCosmeticFilters(action.tabId, action.frameId, action.url, hide1pContent)
+              }
+            })
+            .catch(() => {
+              console.error('Could not apply cosmetic blocking')
+            })
+        } else if (data[key] === 'resource-requested') {
+          // If data is not yet cached, that data will be delivered when we receive it.
+          chrome.storage.local.set({[key]: 'content-script-loaded'})
+        } else if (data[key]) {
+          // Apply and remove cached data after use.
+          applyAdblockCosmeticFiltersWithResources(action.tabId, action.frameId, data[key].hide1pContent, data[key].resources)
+          chrome.storage.local.set({[key]: {}})
+        } else {
+          console.error('Abnormal status - data should be undefined, arrived and requested state')
+        }
+      })
+      break
+    }
+    case webNavigationTypes.ON_BEFORE_NAVIGATION: {
+      const key = getAdblockCosmeticFiltersKey(action.tabId, action.frameId)
+      chrome.storage.local.set({[key]: 'resource-requested'})
+
       Promise.all([chrome.braveShields.shouldDoCosmeticFilteringAsync(action.url), chrome.braveShields.isFirstPartyCosmeticFilteringEnabledAsync(action.url)])
         .then(([doCosmeticBlocking, hide1pContent]: [boolean, boolean]) => {
           if (doCosmeticBlocking) {
-            applyAdblockCosmeticFilters(action.tabId, action.frameId, action.url, hide1pContent)
+            chrome.braveShields.urlCosmeticResources(action.url, async (resources) => {
+              if (chrome.runtime.lastError) {
+                console.warn('Unable to get cosmetic filter data for the current host', chrome.runtime.lastError)
+                return
+              }
+
+              chrome.storage.local.get(key, (data = {}) => {
+                if (data[key] === 'resource-requested') {
+                  // Cache data and this will be used immediately when contetnt script asks data.
+                  chrome.storage.local.set({[key]: { resources, hide1pContent }})
+                } else if (data[key] === 'content-script-loaded') {
+                  // If content scripts is loaded before background scripts gets data from browser process,
+                  // Apply data right now. I didn't see this case at all. Just prepared.
+                  applyAdblockCosmeticFiltersWithResources(action.tabId, action.frameId, hide1pContent, resources)
+                }
+              })
+            })
           }
         })
         .catch(() => {
