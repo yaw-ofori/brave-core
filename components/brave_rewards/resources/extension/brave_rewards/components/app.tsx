@@ -231,7 +231,7 @@ export class RewardsPanel extends React.Component<Props, State> {
   }
 
   openRewardsAddFunds = () => {
-    const { externalWallet } = this.props.rewardsPanelData
+    const { externalWallet, balance } = this.props.rewardsPanelData
 
     if (!externalWallet) {
       return
@@ -244,10 +244,7 @@ export class RewardsPanel extends React.Component<Props, State> {
       return
     }
 
-    if (externalWallet.verifyUrl) {
-      utils.handleUpholdLink(externalWallet.verifyUrl, externalWallet)
-      return
-    }
+    utils.handleUpholdLink(balance, externalWallet)
   }
 
   openTOS () {
@@ -321,7 +318,7 @@ export class RewardsPanel extends React.Component<Props, State> {
     let onVerifyClick = undefined
     if (!this.state.onlyAnonWallet) {
       walletStatus = utils.getWalletStatus(externalWallet)
-      onVerifyClick = utils.onVerifyClick.bind(this, this.actions)
+      onVerifyClick = utils.handleUpholdLink.bind(this, balance, externalWallet)
     }
 
     return (

@@ -288,6 +288,7 @@ declare namespace Rewards {
     withdrawUrl: string
     userName?: string
     accountUrl: string
+    loginUrl: string
   }
 
   export interface ProcessRewardsPageUrl {

@@ -598,5 +598,13 @@
         "example": "John"
       }
     }
+  },
+  "cancel":  {
+    "message": "Cancel",
+    "description": "Text for cancel button"
+  },
+  "login":  {
+    "message": "Login",
+    "description": "Text for login button"
   }
 }

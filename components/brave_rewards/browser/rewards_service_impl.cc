@@ -3247,6 +3247,7 @@ void RewardsServiceImpl::OnGetExternalWallet(
     external->withdraw_url = wallet->withdraw_url;
     external->user_name = wallet->user_name;
     external->account_url = wallet->account_url;
+    external->login_url = wallet->login_url;
   }
 
   std::move(callback).Run(static_cast<int>(result), std::move(external));

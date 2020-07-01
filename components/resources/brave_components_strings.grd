@@ -527,6 +527,7 @@
       <message name="IDS_BRAVE_UI_IMPORT" desc="">import</message>
       <message name="IDS_BRAVE_UI_INCLUDE_IN_AUTO" desc="">Include in Auto-Contribute</message>
       <message name="IDS_BRAVE_UI_LEARN_MORE" desc="">Learn More</message>
+      <message name="IDS_BRAVE_UI_LOGIN" desc="">Login</message>
       <message name="IDS_BRAVE_UI_MAKE_MONTHLY" desc="">Make this monthly</message>
       <message name="IDS_BRAVE_UI_MANAGE_WALLET" desc="">Manage Your Wallet</message>
       <message name="IDS_BRAVE_UI_MONTH_APR" desc="">Apr</message>
