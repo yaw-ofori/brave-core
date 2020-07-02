@@ -515,9 +515,9 @@ BATClassAdsBridge(BOOL, isDebug, setDebug, _is_debug)
 
 #pragma mark - File IO
 
-- (void)load:(const std::string &)name callback:(ads::LoadCallback)callback
+- (void)load:(const std::string &)path callback:(ads::LoadCallback)callback
 {
-  const auto contents = [self.commonOps loadContentsFromFileWithName:name];
+  const auto contents = [self.commonOps loadContentsFromPath:path];
   if (contents.empty()) {
     callback(ads::Result::FAILED, "");
   } else {
@@ -560,18 +560,35 @@ BATClassAdsBridge(BOOL, isDebug, setDebug, _is_debug)
   callback(ads::Result::SUCCESS, std::string(contents.UTF8String));
 }
 
-- (void)reset:(const std::string &)name callback:(ads::ResultCallback)callback
+- (std::string)getUserModelPath:(const std::string &)model_id
 {
-  if ([self.commonOps removeFileWithName:name]) {
+  // TODO(tmancey): Implement component updater and return user model path
+  return std::string("");
+}
+
+- (std::string)getPath
+{
+  const auto bundle = [NSBundle bundleForClass:[BATBraveAds class]];
+  const auto path = [bundle resourcePath];
+  if (!path || path.length == 0) {
+    return std::string("");
+  }
+
+  return std::string(path.UTF8String);
+}
+
+- (void)reset:(const std::string &)path callback:(ads::ResultCallback)callback
+{
+  if ([self.commonOps removeFileAtPath:path]) {
     callback(ads::Result::SUCCESS);
   } else {
     callback(ads::Result::FAILED);
   }
 }
 
-- (void)save:(const std::string &)name value:(const std::string &)value callback:(ads::ResultCallback)callback
+- (void)save:(const std::string &)path value:(const std::string &)value callback:(ads::ResultCallback)callback
 {
-  if ([self.commonOps saveContents:value name:name]) {
+  if ([self.commonOps saveContents:value path:path]) {
     callback(ads::Result::SUCCESS);
   } else {
     callback(ads::Result::FAILED);

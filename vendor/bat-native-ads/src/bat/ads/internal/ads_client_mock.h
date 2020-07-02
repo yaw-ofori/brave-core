@@ -63,6 +63,9 @@ class AdsClientMock : public AdsClient {
       const std::string& language,
       LoadCallback callback));
 
+  MOCK_METHOD1(GetUserModelPath, std::string(
+      const std::string& model_id));
+
   MOCK_CONST_METHOD0(IsForeground, bool());
 
   MOCK_CONST_METHOD0(CanShowBackgroundNotifications, bool());
@@ -96,13 +99,15 @@ class AdsClientMock : public AdsClient {
       URLRequestCallback callback));
 
   MOCK_METHOD3(Save, void(
-      const std::string& name,
+      const std::string& path,
       const std::string& value,
       ResultCallback callback));
 
   MOCK_METHOD2(Load, void(
-      const std::string& name,
+      const std::string& path,
       LoadCallback callback));
+
+  MOCK_METHOD0(GetPath, std::string());
 
   MOCK_METHOD1(LoadJsonSchema, std::string(
       const std::string& name));

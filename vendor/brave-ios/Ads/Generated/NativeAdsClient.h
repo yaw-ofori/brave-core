@@ -28,6 +28,7 @@ class NativeAdsClient : public ads::AdsClient {
   bool CanShowBackgroundNotifications() const override;
   std::vector<std::string> GetUserModelLanguages() const override;
   void LoadUserModelForLanguage(const std::string & language, ads::LoadCallback callback) const override;
+  std::string GetUserModelPath(const std::string & model_id) override;
   void ShowNotification(std::unique_ptr<ads::AdNotificationInfo> info) override;
   bool ShouldShowNotifications() override;
   void CloseNotification(const std::string & uuid) override;
@@ -35,9 +36,10 @@ class NativeAdsClient : public ads::AdsClient {
   void ConfirmAd(const ads::AdInfo& info, const ads::ConfirmationType confirmation_type) override;
   void ConfirmAction(const std::string& creative_instance_id, const std::string& creative_set_id, const ads::ConfirmationType confirmation_type) override;
   void URLRequest(const std::string & url, const std::vector<std::string> & headers, const std::string & content, const std::string & content_type, const ads::URLRequestMethod method, ads::URLRequestCallback callback) override;
-  void Save(const std::string & name, const std::string & value, ads::ResultCallback callback) override;
-  void Load(const std::string & name, ads::LoadCallback callback) override;
-  void Reset(const std::string & name, ads::ResultCallback callback) override;
+  std::string GetPath() override;
+  void Save(const std::string & path, const std::string & value, ads::ResultCallback callback) override;
+  void Load(const std::string & path, ads::LoadCallback callback) override;
+  void Reset(const std::string & path, ads::ResultCallback callback) override;
   std::string LoadJsonSchema(const std::string & name) override;
   void Log(const char * file, const int line, const int verbose_level, const std::string & message) override;
   bool ShouldAllowAdsSubdivisionTargeting() const override;

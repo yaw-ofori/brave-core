@@ -48,10 +48,16 @@ typedef void (^BATNetworkCompletionBlock)(int statusCode,
 
 #pragma mark - File Managment
 
+/// Save the contents to a file at the given path
+- (bool)saveContents:(const std::string &)contents path:(const std::string &)path;
 /// Save the contents to a file with the given name
 - (bool)saveContents:(const std::string&)contents name:(const std::string&)name;
+/// Load the contents of a saved file from the given path
+- (std::string)loadContentsFromPath:(const std::string &)path;
 /// Load the contents of a saved file with the given name
 - (std::string)loadContentsFromFileWithName:(const std::string&)name;
+/// Remove the saved file at the given path
+- (bool)removeFileAtPath:(const std::string &)path;
 /// Remove the saved file with the given name
 - (bool)removeFileWithName:(const std::string&)name;
 

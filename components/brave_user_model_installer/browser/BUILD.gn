@@ -1,0 +1,15 @@
+source_set("browser") {
+  sources = [
+    "region_info.cc",
+    "region_info.h",
+    "regions.cc",
+    "regions.h",
+    "user_model_file_service.cc",
+    "user_model_file_service.h",
+  ]
+
+  deps = [
+    "//base",
+    "//brave/components/brave_component_updater/browser",
+  ]
+}

@@ -112,6 +112,10 @@ class ADS_EXPORT AdsClient {
       const std::string& language,
       LoadCallback callback) const = 0;
 
+  // Should return path to user model file for given model id
+  virtual std::string GetUserModelPath(
+      const std::string& model_id) = 0;
+
   // Should return |true| if the browser is active in the foreground; otherwise,
   // should return |false|
   virtual bool IsForeground() const = 0;
@@ -162,11 +166,14 @@ class ADS_EXPORT AdsClient {
       const URLRequestMethod method,
       URLRequestCallback callback) = 0;
 
+  // Should return a path for storing files and subdirectories
+  virtual std::string GetPath() = 0;
+
   // Should save a value to persistent storage. The callback takes one argument
   // — |Result| should be set to |SUCCESS| if successful; otherwise, should be
   // set to |FAILED|
   virtual void Save(
-      const std::string& name,
+      const std::string& path,
       const std::string& value,
       ResultCallback callback) = 0;
 
@@ -174,7 +181,8 @@ class ADS_EXPORT AdsClient {
   // — |Result| should be set to |SUCCESS| if successful; otherwise, should be
   // set to |FAILED|. |value| should contain the persisted value
   virtual void Load(
-      const std::string& name, LoadCallback callback) = 0;
+      const std::string& path,
+      LoadCallback callback) = 0;
 
   // Should load a JSON schema from persistent storage, schemas are a dependency
   // of the application and should be bundled accordingly, the following file
@@ -194,7 +202,7 @@ class ADS_EXPORT AdsClient {
   // — |Result| should be set to |SUCCESS| if successful; otherwise, should be
   // set to |FAILED|
   virtual void Reset(
-      const std::string& name, ResultCallback callback) = 0;
+      const std::string& path, ResultCallback callback) = 0;
 
   virtual void RunDBTransaction(
       DBTransactionPtr transaction,

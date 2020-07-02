@@ -156,44 +156,62 @@
   return [self.storagePath stringByAppendingPathComponent:filename];
 }
 
+- (bool)saveContents:(const std::string &)contents path:(const std::string &)path
+{
+  const auto nspath = [NSString stringWithUTF8String:path.c_str()];
+  const auto nscontents = [NSString stringWithUTF8String:contents.c_str()];
+  NSError *error = nil;
+  const auto result = [nscontents writeToFile:nspath atomically:YES encoding:NSUTF8StringEncoding error:&error];
+  if (error) {
+    BLOG(0, @"Failed to save data for %@: %@", nspath, error.debugDescription);
+  }
+  return result;
+}
+
 - (bool)saveContents:(const std::string &)contents name:(const std::string &)name
 {
   const auto filename = [NSString stringWithUTF8String:name.c_str()];
-  const auto nscontents = [NSString stringWithUTF8String:contents.c_str()];
-  NSError *error = nil;
   const auto path = [self dataPathForFilename:filename];
-  const auto result = [nscontents writeToFile:path atomically:YES encoding:NSUTF8StringEncoding error:&error];
+  return [self saveContents:contents path:path.UTF8String];
+}
+
+- (std::string)loadContentsFromPath:(const std::string &)path
+{
+  const auto nspath = [NSString stringWithUTF8String:path.c_str()];
+  NSError *error = nil;
+  BLOG(2, @"Loading contents from file: %@", nspath);
+  const auto nscontents = [NSString stringWithContentsOfFile:nspath encoding:NSUTF8StringEncoding error:&error];
   if (error) {
-    BLOG(0, @"Failed to save data for %@: %@", filename, error.debugDescription);
+    BLOG(0, @"Failed to load data from %@: %@", nspath, error.debugDescription);
+    return "";
   }
-  return result;
+  return std::string(nscontents.UTF8String);
 }
 
 - (std::string)loadContentsFromFileWithName:(const std::string &)name
 {
   const auto filename = [NSString stringWithUTF8String:name.c_str()];
-  NSError *error = nil;
   const auto path = [self dataPathForFilename:filename];
-  BLOG(2, @"Loading contents from file: %@", path);
-  const auto contents = [NSString stringWithContentsOfFile:path encoding:NSUTF8StringEncoding error:&error];
+  return [self loadContentsFromPath:path.UTF8String];
+}
+
+- (bool)removeFileAtPath:(const std::string &)path
+{
+  const auto nspath = [NSString stringWithUTF8String:path.c_str()];
+  NSError *error = nil;
+  const auto result = [NSFileManager.defaultManager removeItemAtPath:nspath error:&error];
   if (error) {
-    BLOG(0, @"Failed to load data for %@: %@", filename, error.debugDescription);
-    return "";
+    BLOG(0, @"Failed to remove file at path: %@", nspath);
+    return false;
   }
-  return std::string(contents.UTF8String);
+  return result;
 }
 
 - (bool)removeFileWithName:(const std::string &)name
 {
   const auto filename = [NSString stringWithUTF8String:name.c_str()];
-  NSError *error = nil;
   const auto path = [self dataPathForFilename:filename];
-  const auto result = [NSFileManager.defaultManager removeItemAtPath:path error:&error];
-  if (error) {
-    BLOG(0, @"Failed to remove data for filename: %@", filename);
-    return false;
-  }
-  return result;
+  return [self removeFileAtPath:path.UTF8String];
 }
 
 @end

@@ -25,7 +25,9 @@
 - (void)load:(const std::string &)name callback:(ads::LoadCallback)callback;
 - (std::string)loadJsonSchema:(const std::string &)name;
 - (void)loadUserModelForLanguage:(const std::string &)language callback:(ads::LoadCallback)callback;
+- (std::string)getUserModelPath:(const std::string &)model_id;
 - (void)log:(const char *)file line:(const int)line verboseLevel:(const int)verbose_level message:(const std::string &) message;
+- (std::string)getPath;
 - (void)reset:(const std::string &)name callback:(ads::ResultCallback)callback;
 - (void)save:(const std::string &)name value:(const std::string &)value callback:(ads::ResultCallback)callback;
 - (void)setCatalogIssuers:(std::unique_ptr<ads::IssuersInfo>)info;
