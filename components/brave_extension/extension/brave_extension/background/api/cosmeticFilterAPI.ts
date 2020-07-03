@@ -3,7 +3,7 @@
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 import shieldsPanelActions from '../actions/shieldsPanelActions'
-import { AdblockCosmeticResourceType } from '../../types/adblock/adblockTypes'
+import { UrlCosmeticResourcesType } from '../../types/adblock/adblockTypes'
 
 const informTabOfCosmeticRulesToConsider = (tabId: number, selectors: string[]) => {
   if (selectors.length !== 0) {
@@ -43,7 +43,19 @@ export const getAdblockCosmeticFiltersKey = (tabId: number, frameId: number) => 
   return `adblockCosmeticFilter-${tabId}-${frameId}`
 }
 
-export const applyAdblockCosmeticFiltersWithResources = (tabId: number, frameId: number, hide1pContent: boolean, resources: AdblockCosmeticResourceType) => {
+export const fetchAdblockCosmeticFilters = (url: string, tabId: number, frameId: number, hide1pContent: boolean) => {
+  chrome.braveShields.urlCosmeticResources(url, async (resources) => {
+    if (chrome.runtime.lastError) {
+      shieldsPanelActions.cosmeticFilterResourcesReady(tabId, frameId, hide1pContent, undefined)
+      console.warn('Unable to get cosmetic filter data for the current host', chrome.runtime.lastError)
+      return
+    }
+
+    shieldsPanelActions.cosmeticFilterResourcesReady(tabId, frameId, hide1pContent, resources)
+  })
+}
+
+export const applyAdblockCosmeticFiltersWithResources = (tabId: number, frameId: number, tabDataFirstPartyCosmeticFiltering: boolean, hide1pContent: boolean, resources: UrlCosmeticResourcesType) => {
   if (frameId === 0) {
     if (hide1pContent) {
       resources.force_hide_selectors.push(...resources.hide_selectors)
@@ -65,17 +77,33 @@ export const applyAdblockCosmeticFiltersWithResources = (tabId: number, frameId:
     })
   }
 
-  shieldsPanelActions.cosmeticFilterRuleExceptions(tabId, frameId, resources.exceptions, resources.injected_script || '', resources.generichide)
+  let message: { type: string, scriptlet: string, hideOptions?: { hide1pContent: boolean, generichide: boolean } } = {
+    type: 'cosmeticFilteringBackgroundReady',
+    scriptlet: resources.injected_script || '',
+    hideOptions: undefined
+  }
+  if (frameId === 0) {
+    // Non-scriptlet cosmetic filters are only applied on the top-level frame
+    message.hideOptions = {
+      hide1pContent: tabDataFirstPartyCosmeticFiltering,
+      generichide: resources.generichide
+    }
+  }
+  chrome.tabs.sendMessage(tabId, message, {
+    frameId: frameId
+  })
+
+  setTimeout(() => shieldsPanelActions.cosmeticFilterRuleExceptions(tabId, frameId, resources.exceptions, resources.injected_script || '', resources.generichide), 0)
 }
 
 // Fires on content-script loaded
-export const applyAdblockCosmeticFilters = (tabId: number, frameId: number, url: string, hide1pContent: boolean) => {
+export const applyAdblockCosmeticFilters = (tabId: number, frameId: number, url: string, tabDataFirstPartyCosmeticFiltering: boolean, hide1pContent: boolean) => {
   chrome.braveShields.urlCosmeticResources(url, async (resources) => {
     if (chrome.runtime.lastError) {
       console.warn('Unable to get cosmetic filter data for the current host', chrome.runtime.lastError)
       return
     }
-    applyAdblockCosmeticFiltersWithResources(tabId, frameId, hide1pContent, resources)
+    applyAdblockCosmeticFiltersWithResources(tabId, frameId, tabDataFirstPartyCosmeticFiltering, hide1pContent, resources)
   })
 }
 

@@ -7,7 +7,8 @@ export type BlockOptions = 'allow' | 'block'
 export type BlockFPOptions = 'allow' | 'block' | 'block_third_party'
 export type BlockCookiesOptions = 'allow' | 'block' | 'block_third_party'
 
-export interface AdblockCosmeticResourceType {
+// TODO(simonhong): Use more accurate name
+export interface UrlCosmeticResourcesType {
   exceptions: string[],
   style_selectors: { selector: Array<string> },
   hide_selectors: Array<string>,

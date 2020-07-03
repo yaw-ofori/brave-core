@@ -3,7 +3,7 @@
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 import { BlockOptions, BlockTypes, BlockFPOptions, BlockCookiesOptions } from '../other/blockTypes'
-import { CosmeticFilteringState } from '../adblock/adblockTypes'
+import { CosmeticFilteringState, UrlCosmeticResourcesType } from '../adblock/adblockTypes'
 import { NoScriptInfo } from '../other/noScriptInfo'
 import { SettingsData } from '../other/settingsTypes'
 
@@ -47,12 +47,33 @@ export interface PersistentData {
   isFirstAccess: boolean
 }
 
+// TODO(simonhong): Use more accurate name
+export interface AdblockCosmeticFilterResource {
+  status: string
+  hide1pContent?: boolean
+  urlResources?: UrlCosmeticResourcesType
+}
+
+// TODO(simonhong): Use more accurate name
+export interface AdblockCosmeticFilterResources {
+  [key: string]: AdblockCosmeticFilterResource
+}
+
 export interface State {
   persistentData: PersistentData
   settingsData: SettingsData
   currentWindowId: number
   tabs: Tabs
   windows: Windows
+  adblockCosmeticFilterResources: AdblockCosmeticFilterResources
+}
+
+export interface UpdateAdblockCosmeticFilterResource {
+  (state: State, key: string, resource: AdblockCosmeticFilterResource): State
+}
+
+export interface ResetAdblockCosmeticFilterResource {
+  (state: State, key: string): State
 }
 
 export interface GetActiveTabId {
