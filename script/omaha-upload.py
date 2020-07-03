@@ -196,19 +196,15 @@ def parse_args():
            " in the parent dir)"
     parser = argparse.ArgumentParser(
         description=desc, formatter_class=RawTextHelpFormatter)
-    parser.add_argument('-d', '--debug', help='Print debug statements', action='store_true')
-    parser.add_argument('-f', '--file', help='Windows or Mac install file to upload to'
-                        ' omaha/sparkle (cannot be combined with --github)')
-    parser.add_argument('-p', '--preview', help='Preview channels for testing'
-                        ' omaha/sparkle uploads by QA before production release', action='store_true')
-    parser.add_argument('--full', help='Upload to "-full" channels', action='store_true')
-    parser.add_argument('--platform', help='Platform(s) to upload to Omaha (separated by spaces)',
-                        nargs='*', choices=['win32', 'win64', 'darwin'])
-    parser.add_argument('--uploaded', help='Upload all the platform(s) that are already in the GitHub release',
-                        action='store_true')
-    parser.add_argument('-g', '--github', help='Download Win and Mac install files'
-                        ' from Github before uploading to Omaha (cannot be combined with --file)', action='store_true')
-    parser.add_argument('-t', '--tag', help='Version tag to download from Github')
+    parser.add_argument('--tag', help='version tag to upload')
+    parser.add_argument('--platform', help='platforms (spaced)', nargs='*', choices=['win32', 'win64', 'darwin'])
+    parser.add_argument('--internal', help='upload to internal test channels', action='store_true')
+    parser.add_argument('--full', help='upload to "-full" channels', action='store_true')
+    parser.add_argument('--delta', help='delta installer file to upload (cannot be combined with --github)')
+    parser.add_argument('--file', help='installer file to upload (cannot be combined with --github)')
+    parser.add_argument('--github', help='download from GitHub (cannot be combined with --file)', action='store_true')
+    parser.add_argument('--uploaded', help='upload all the platforms from the GitHub release', action='store_true')
+    parser.add_argument('--debug', help='debug', action='store_true')
     return parser.parse_args()
 
 
