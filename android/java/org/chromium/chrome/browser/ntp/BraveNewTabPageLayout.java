@@ -163,16 +163,19 @@ public class BraveNewTabPageLayout extends NewTabPageLayout {
             mainLayout.addView(mSiteSectionView, insertionPoint);
     }
 
-    protected int getMaxRowsForMostVisitedTiles() {
+    protected boolean getIsMoreTabs() {
         boolean isMoreTabs = false;
         ChromeTabbedActivity chromeTabbedActivity = BraveRewardsHelper.getChromeTabbedActivity();
         if (chromeTabbedActivity != null) {
             TabModel tabModel = chromeTabbedActivity.getCurrentTabModel();
             isMoreTabs = tabModel.getCount() >= SponsoredImageUtil.MAX_TABS ? true : false;
         }
+        return isMoreTabs;
+    }
 
+    protected int getMaxRowsForMostVisitedTiles() {
         if (BravePrefServiceBridge.getInstance().getBoolean(BravePref.NTP_SHOW_BACKGROUND_IMAGE)
-                && NTPUtil.shouldEnableNTPFeature(isMoreTabs)) {
+                && NTPUtil.shouldEnableNTPFeature(getIsMoreTabs())) {
             return 1;
         } else {
             return 2;
@@ -211,7 +214,7 @@ public class BraveNewTabPageLayout extends NewTabPageLayout {
 
     @Override
     public void onConfigurationChanged(Configuration newConfig) {
-        if (sponsoredTab != null && NTPUtil.shouldEnableNTPFeature()) {
+        if (sponsoredTab != null && NTPUtil.shouldEnableNTPFeature(getIsMoreTabs())) {
             if (bgImageView != null) {
                 // We need to redraw image to fit parent properly
                 bgImageView.setImageResource(android.R.color.transparent);
@@ -273,7 +276,7 @@ public class BraveNewTabPageLayout extends NewTabPageLayout {
         if ((BravePrefServiceBridge.getInstance().getBoolean(BravePref.NTP_SHOW_BACKGROUND_IMAGE)
                     || NTPUtil.isReferralEnabled())
                 && sponsoredTab != null
-                && NTPUtil.shouldEnableNTPFeature()) {
+                && NTPUtil.shouldEnableNTPFeature(getIsMoreTabs())) {
             mAdsBlockedTextView.setTextColor(
                     getResources().getColor(android.R.color.white));
             mDataSavedTextView.setTextColor(
@@ -368,7 +371,7 @@ public class BraveNewTabPageLayout extends NewTabPageLayout {
         } else if (BravePrefServiceBridge.getInstance().getBoolean(
                            BravePref.NTP_SHOW_BACKGROUND_IMAGE)
                 && sponsoredTab != null
-                && NTPUtil.shouldEnableNTPFeature()) {
+                && NTPUtil.shouldEnableNTPFeature(getIsMoreTabs())) {
             setBackgroundImage(ntpImage);
             if (ntpImage instanceof BackgroundImage) {
                 BackgroundImage backgroundImage = (BackgroundImage) ntpImage;
